@@ -1,0 +1,373 @@
+{
+  "country_code": "IN",
+  "language_code": "GU",
+  "total_domains": 46,
+  "total_feeds": 273,
+  "feeds": {
+    "abtakmedia.com": [
+      "https://www.abtakmedia.com/feed/",
+      "https://www.abtakmedia.com/web-stories/feed/"
+    ],
+    "bbc.co.uk": [
+      "https://www.bbc.co.uk/blogs/theeditors/rss.xml"
+    ],
+    "bbc.com": [
+      "http://www.bbc.com/culture/feed.rss",
+      "http://www.bbc.com/future/feed.rss",
+      "http://www.bbc.com/travel/feed.rss",
+      "https://www.bbc.com/culture/feed.rss",
+      "https://www.bbc.com/future/feed.rss",
+      "https://www.bbc.com/travel/feed.rss",
+      "https://www.bbc.com/worklife/feed.rss"
+    ],
+    "bombaysamachar.com": [
+      "https://bombaysamachar.com/feed/",
+      "https://bombaysamachar.com/web-stories/feed/"
+    ],
+    "chinimandi.com": [
+      "https://www.chinimandi.com/feed/"
+    ],
+    "divyabhaskar.co.in": [
+      "https://www.divyabhaskar.co.in/rss-feed/1035/",
+      "https://www.divyabhaskar.co.in/rss-v1--category-1035.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-1037.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-1038.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-10695.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-11256.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-11879.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-12042.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-14936.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-14980.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-5029.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-7453.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-969.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-970.xml"
+    ],
+    "divyabhaskar.co.in:443": [
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-1035.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-1037.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-1038.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-10695.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-11256.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-11879.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-12042.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-14936.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-14980.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-5029.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-7453.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-969.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-970.xml"
+    ],
+    "faxinfo.fr": [
+      "http://www.faxinfo.fr/feed/",
+      "https://www.faxinfo.fr/?feed=comments-rss2",
+      "https://www.faxinfo.fr/?feed=rss2",
+      "https://www.faxinfo.fr/feed/"
+    ],
+    "feeds.bbci.co.uk": [
+      "http://feeds.bbci.co.uk/russian/rss.xml",
+      "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "https://feeds.bbci.co.uk/news/education/rss.xml",
+      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+      "https://feeds.bbci.co.uk/news/england/rss.xml",
+      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+      "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+      "https://feeds.bbci.co.uk/news/politics/rss.xml",
+      "https://feeds.bbci.co.uk/news/rss.xml",
+      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+      "https://feeds.bbci.co.uk/news/stories/rss.xml",
+      "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "https://feeds.bbci.co.uk/news/wales/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "https://feeds.bbci.co.uk/russian/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+      "https://feeds.bbci.co.uk/sport/rss.xml"
+    ],
+    "feeds.feedburner.com": [
+      "https://feeds.feedburner.com/thenewsmill"
+    ],
+    "feeds.sbs.com.au": [
+      "https://feeds.sbs.com.au/sbs-albanian",
+      "https://feeds.sbs.com.au/sbs-gujarati",
+      "https://feeds.sbs.com.au/sbs-hebrew",
+      "https://feeds.sbs.com.au/sbs-hindi"
+    ],
+    "gstv.in": [
+      "https://www.gstv.in/feed/"
+    ],
+    "gujaratfirst.com": [
+      "https://www.gujaratfirst.com/feed/",
+      "https://www.gujaratfirst.com/feed/atom/"
+    ],
+    "gujarati.connectgujarat.com": [
+      "https://gujarati.connectgujarat.com/rss",
+      "https://gujarati.connectgujarat.com/rss/categories/blog",
+      "https://gujarati.connectgujarat.com/rss/tags/blog",
+      "https://gujarati.connectgujarat.com/rss/tags/blog-baaya-rssi-dve",
+      "https://gujarati.connectgujarat.com/rss/tags/blog-by-rishi-dave",
+      "https://gujarati.connectgujarat.com/rss/tags/blog-by-rushi-dave",
+      "https://gujarati.connectgujarat.com/rss/tags/rushi-dave-blog"
+    ],
+    "gujarati.indianexpress.com": [
+      "https://gujarati.indianexpress.com/business/feed/rssfeed/",
+      "https://gujarati.indianexpress.com/career/feed/rssfeed/",
+      "https://gujarati.indianexpress.com/dharma/feed/rssfeed/",
+      "https://gujarati.indianexpress.com/entertainment/feed/rssfeed/",
+      "https://gujarati.indianexpress.com/gujarat/feed/rssfeed/",
+      "https://gujarati.indianexpress.com/latest-news/feed/rssfeed/",
+      "https://gujarati.indianexpress.com/lifestyle/feed/rssfeed/",
+      "https://gujarati.indianexpress.com/national-news/feed/rssfeed/",
+      "https://gujarati.indianexpress.com/sports/feed/rssfeed/"
+    ],
+    "gujaratsamachar.com": [
+      "https://www.gujaratsamachar.com/rss/top-stories"
+    ],
+    "jk24x7news.tv": [
+      "https://jk24x7news.tv/feed/"
+    ],
+    "khabarchhe.com": [
+      "https://www.khabarchhe.com/rss"
+    ],
+    "khabargujarat.com": [
+      "https://khabargujarat.com/feed/",
+      "https://khabargujarat.com/web-stories/feed/"
+    ],
+    "kosovapress.com": [
+      "https://kosovapress.com/feed/"
+    ],
+    "lokpatrika.in": [
+      "https://lokpatrika.in/feed/"
+    ],
+    "newschecker.in": [
+      "https://newschecker.in/feed/",
+      "https://newschecker.in/web-stories/feed/"
+    ],
+    "newscontinuous.com": [
+      "https://www.newscontinuous.com/feed/",
+      "https://www.newscontinuous.com/feed/atom/",
+      "https://www.newscontinuous.com/web-stories/feed/"
+    ],
+    "newsonair.gov.in": [
+      "https://newsonair.gov.in/International_rss.aspx",
+      "https://newsonair.gov.in/National_rss.aspx",
+      "https://newsonair.gov.in/State_rss.aspx",
+      "https://newsonair.gov.in/Top_rss.aspx",
+      "https://newsonair.gov.in/business_rss.aspx"
+    ],
+    "rajkotmirrornews.com": [
+      "https://rajkotmirrornews.com/feed/",
+      "https://rajkotmirrornews.com/web_stories/feed/"
+    ],
+    "rakhewaldaily.com": [
+      "https://rakhewaldaily.com/feed/",
+      "https://www.rakhewaldaily.com/feed/"
+    ],
+    "rsshub.app": [
+      "https://rsshub.app/bbc/chinese"
+    ],
+    "sbs-ondemand.streamguys1.com": [
+      "https://sbs-ondemand.streamguys1.com/sbs-albanian/",
+      "https://sbs-ondemand.streamguys1.com/sbs-gujarati/",
+      "https://sbs-ondemand.streamguys1.com/sbs-hebrew/",
+      "https://sbs-ondemand.streamguys1.com/sbs-hindi/"
+    ],
+    "sbs.com.au": [
+      "https://www.sbs.com.au/cyclingcentral/rss/news",
+      "https://www.sbs.com.au/feed/food/content-collection-rss/just-in",
+      "https://www.sbs.com.au/feed/news/content-collection-rss/top-stories",
+      "https://www.sbs.com.au/food/rss/recipes",
+      "https://www.sbs.com.au/news/feed",
+      "https://www.sbs.com.au/news/topic/australia/feed",
+      "https://www.sbs.com.au/news/topic/latest/feed",
+      "https://www.sbs.com.au/news/topic/world/feed",
+      "https://www.sbs.com.au/news/videos/feed"
+    ],
+    "thenewsmill.com": [
+      "https://feeds.feedburner.com/thenewsmill",
+      "https://thenewsmill.com/blog/feed/",
+      "https://thenewsmill.com/feed/",
+      "https://thenewsmill.com/web-stories/feed/"
+    ],
+    "trishulnews.com": [
+      "https://trishulnews.com/feed/",
+      "https://trishulnews.com/web-stories/feed/"
+    ],
+    "tv9gujarati.com": [
+      "https://tv9gujarati.com/feed",
+      "https://www.tv9hindi.com/feed/gn",
+      "https://www.tv9hindi.com/knowledge/feed/gn"
+    ],
+    "tv9hindi.com": [
+      "https://www.tv9hindi.com/feed/gn"
+    ],
+    "www.abtakmedia.com": [
+      "https://www.abtakmedia.com/feed/",
+      "https://www.abtakmedia.com/web-stories/feed/"
+    ],
+    "www.bbc.com": [
+      "http://feeds.bbci.co.uk/russian/rss.xml",
+      "http://www.bbc.com/culture/feed.rss",
+      "http://www.bbc.com/future/feed.rss",
+      "http://www.bbc.com/travel/feed.rss",
+      "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "https://feeds.bbci.co.uk/news/education/rss.xml",
+      "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+      "https://feeds.bbci.co.uk/news/england/rss.xml",
+      "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+      "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+      "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+      "https://feeds.bbci.co.uk/news/politics/rss.xml",
+      "https://feeds.bbci.co.uk/news/rss.xml",
+      "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+      "https://feeds.bbci.co.uk/news/stories/rss.xml",
+      "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "https://feeds.bbci.co.uk/news/wales/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "https://feeds.bbci.co.uk/russian/rss.xml",
+      "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+      "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+      "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+      "https://feeds.bbci.co.uk/sport/rss.xml",
+      "https://rsshub.app/bbc/chinese",
+      "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+      "https://www.bbc.com/culture/feed.rss",
+      "https://www.bbc.com/future/feed.rss",
+      "https://www.bbc.com/travel/feed.rss",
+      "https://www.bbc.com/worklife/feed.rss"
+    ],
+    "www.chinimandi.com": [
+      "https://www.chinimandi.com/feed/"
+    ],
+    "www.divyabhaskar.co.in": [
+      "https://www.divyabhaskar.co.in/rss-feed/1035/",
+      "https://www.divyabhaskar.co.in/rss-v1--category-1035.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-1037.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-1038.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-10695.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-11256.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-11879.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-12042.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-14936.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-14980.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-5029.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-7453.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-969.xml",
+      "https://www.divyabhaskar.co.in/rss-v1--category-970.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-1035.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-1037.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-1038.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-10695.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-11256.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-11879.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-12042.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-14936.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-14980.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-5029.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-7453.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-969.xml",
+      "https://www.divyabhaskar.co.in:443/rss-v1--category-970.xml"
+    ],
+    "www.gstv.in": [
+      "https://www.gstv.in/feed/"
+    ],
+    "www.gujaratfirst.com": [
+      "https://www.gujaratfirst.com/feed/",
+      "https://www.gujaratfirst.com/feed/atom/"
+    ],
+    "www.gujaratsamachar.com": [
+      "https://www.gujaratsamachar.com/rss/top-stories"
+    ],
+    "www.khabarchhe.com": [
+      "https://www.khabarchhe.com/rss"
+    ],
+    "www.newscontinuous.com": [
+      "https://www.newscontinuous.com/feed/",
+      "https://www.newscontinuous.com/feed/atom/",
+      "https://www.newscontinuous.com/web-stories/feed/"
+    ],
+    "www.newsonair.gov.in": [
+      "https://newsonair.gov.in/International_rss.aspx",
+      "https://newsonair.gov.in/National_rss.aspx",
+      "https://newsonair.gov.in/State_rss.aspx",
+      "https://newsonair.gov.in/Top_rss.aspx",
+      "https://newsonair.gov.in/business_rss.aspx"
+    ],
+    "www.sbs.com.au": [
+      "https://feeds.sbs.com.au/sbs-albanian",
+      "https://feeds.sbs.com.au/sbs-gujarati",
+      "https://feeds.sbs.com.au/sbs-hebrew",
+      "https://feeds.sbs.com.au/sbs-hindi",
+      "https://sbs-ondemand.streamguys1.com/sbs-albanian/",
+      "https://sbs-ondemand.streamguys1.com/sbs-gujarati/",
+      "https://sbs-ondemand.streamguys1.com/sbs-hebrew/",
+      "https://sbs-ondemand.streamguys1.com/sbs-hindi/",
+      "https://www.sbs.com.au/cyclingcentral/rss/news",
+      "https://www.sbs.com.au/feed/food/content-collection-rss/just-in",
+      "https://www.sbs.com.au/feed/news/content-collection-rss/top-stories",
+      "https://www.sbs.com.au/food/rss/recipes",
+      "https://www.sbs.com.au/news/feed",
+      "https://www.sbs.com.au/news/topic/australia/feed",
+      "https://www.sbs.com.au/news/topic/latest/feed",
+      "https://www.sbs.com.au/news/topic/world/feed",
+      "https://www.sbs.com.au/news/videos/feed"
+    ],
+    "zeenews.india.com": [
+      "https://zeenews.india.com/bengali/rssfeed/kolkata.xml",
+      "https://zeenews.india.com/hindi/india.xml",
+      "https://zeenews.india.com/hindi/rss.xml",
+      "https://zeenews.india.com/rss/asia-news.xml",
+      "https://zeenews.india.com/rss/blog-news.xml",
+      "https://zeenews.india.com/rss/business.xml",
+      "https://zeenews.india.com/rss/entertainment-news.xml",
+      "https://zeenews.india.com/rss/health-news.xml",
+      "https://zeenews.india.com/rss/india-national-news.xml",
+      "https://zeenews.india.com/rss/india-news.xml",
+      "https://zeenews.india.com/rss/science-environment-news.xml",
+      "https://zeenews.india.com/rss/sports-news.xml",
+      "https://zeenews.india.com/rss/technology-news.xml",
+      "https://zeenews.india.com/rss/world-news.xml",
+      "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+      "https://zeenews.india.com:443/rss/business.xml",
+      "https://zeenews.india.com:443/rss/science-environment-news.xml",
+      "https://zeenews.india.com:443/rss/world-news.xml"
+    ],
+    "zeenews.india.com:443": [
+      "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+      "https://zeenews.india.com:443/rss/business.xml",
+      "https://zeenews.india.com:443/rss/science-environment-news.xml",
+      "https://zeenews.india.com:443/rss/world-news.xml"
+    ]
+  }
+}

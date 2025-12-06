@@ -1,0 +1,431 @@
+{
+  "country_code": "IN",
+  "language_code": "ML",
+  "total_domains": 73,
+  "total_feeds": 277,
+  "feeds": {
+    "anweshanam.com": [
+      "https://anweshanam.com/feed/",
+      "https://anweshanam.com/web-stories/feed/"
+    ],
+    "bengaluruvartha.in": [
+      "https://bengaluruvartha.in/feed/"
+    ],
+    "blogger.com": [
+      "https://www.blogger.com/feeds/7133727913369598967/posts/default"
+    ],
+    "blogs.malayalam.samayam.com": [
+      "http://blogs.malayalam.samayam.com/tag/%E0%B4%9C%E0%B5%8B%E0%B4%B2%E0%B4%BF-%E0%B4%B8%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%BC%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%82/feed/",
+      "http://blogs.malayalam.samayam.com/tag/congress-on-sabarimala/feed/",
+      "http://blogs.malayalam.samayam.com/tag/kerala-udf-sabarimala-temple/feed/",
+      "http://blogs.malayalam.samayam.com/tag/maya-cafe/feed/",
+      "http://blogs.malayalam.samayam.com/tag/sabarimala-verdict-opinion/feed/",
+      "http://blogs.malayalam.samayam.com/tag/summer-getaway/feed/",
+      "http://blogs.malayalam.samayam.com/tag/weekend-getaways/feed/"
+    ],
+    "chandrikadaily.com": [
+      "https://www.chandrikadaily.com/feed"
+    ],
+    "deshabhimani.com": [
+      "https://www.deshabhimani.com/rss/agriculture",
+      "https://www.deshabhimani.com/rss/art-stage",
+      "https://www.deshabhimani.com/rss/articles",
+      "https://www.deshabhimani.com/rss/books",
+      "https://www.deshabhimani.com/rss/business",
+      "https://www.deshabhimani.com/rss/career",
+      "https://www.deshabhimani.com/rss/cinema",
+      "https://www.deshabhimani.com/rss/columns",
+      "https://www.deshabhimani.com/rss/editorial",
+      "https://www.deshabhimani.com/rss/editorspick",
+      "https://www.deshabhimani.com/rss/education",
+      "https://www.deshabhimani.com/rss/from-the-net",
+      "https://www.deshabhimani.com/rss/health",
+      "https://www.deshabhimani.com/rss/kerala",
+      "https://www.deshabhimani.com/rss/life-style",
+      "https://www.deshabhimani.com/rss/mainnews",
+      "https://www.deshabhimani.com/rss/music",
+      "https://www.deshabhimani.com/rss/national",
+      "https://www.deshabhimani.com/rss/news-videos",
+      "https://www.deshabhimani.com/rss/pravasi",
+      "https://www.deshabhimani.com/rss/sports",
+      "https://www.deshabhimani.com/rss/technology",
+      "https://www.deshabhimani.com/rss/travel",
+      "https://www.deshabhimani.com/rss/vehicle",
+      "https://www.deshabhimani.com/rss/women",
+      "https://www.deshabhimani.com/rss/world"
+    ],
+    "dhanamonline.com": [
+      "https://prod-qt-images.s3.amazonaws.com/production/dhanamonline-malayalam/feed.xml"
+    ],
+    "doolnews.com": [
+      "https://www.doolnews.com/feed"
+    ],
+    "eastcoastdaily.com": [
+      "https://www.eastcoastdaily.com/feed"
+    ],
+    "expresskerala.com": [
+      "https://www.expresskerala.com/feed"
+    ],
+    "fanport.in": [
+      "https://fanport.in/feed/"
+    ],
+    "faxinfo.fr": [
+      "http://www.faxinfo.fr/feed/",
+      "https://www.faxinfo.fr/?feed=comments-rss2",
+      "https://www.faxinfo.fr/?feed=rss2",
+      "https://www.faxinfo.fr/feed/"
+    ],
+    "feeds.feedburner.com": [
+      "https://feeds.feedburner.com/kasargodvartha",
+      "https://feeds.feedburner.com/kvartha"
+    ],
+    "futurekerala.in": [
+      "https://futurekerala.in/feed/"
+    ],
+    "grihalakshmi.mathrubhumi.com": [
+      "https://grihalakshmi.mathrubhumi.com/sitemaps/grihalakshmi/rss",
+      "https://sitemap.mpp.atexcloud.io/sitemaps/grihalakshmi/rss"
+    ],
+    "jaihindtv.in": [
+      "https://jaihindtv.in/feed/"
+    ],
+    "janamtv.com": [
+      "https://janamtv.com/feed/"
+    ],
+    "janayugomonline.com": [
+      "https://janayugomonline.com/feed/"
+    ],
+    "janmabhumi.in": [
+      "https://janmabhumi.in/feed/",
+      "https://janmabhumi.in/tag/rashtriya-swayamsevak-sangh-rss/feed/",
+      "https://janmabhumi.in/tag/rss-kerala/feed/"
+    ],
+    "kairalinewsonline.com": [
+      "https://www.kairalinewsonline.com/feed"
+    ],
+    "keralakaumudi.com": [
+      "https://keralakaumudi.com/rss/topstories"
+    ],
+    "luca.co.in": [
+      "https://luca.co.in/category/luca-podcast/feed/",
+      "https://luca.co.in/feed/",
+      "https://luca.co.in/gene-therapy-podcast-video/feed/",
+      "https://luca.co.in/web-stories/feed/"
+    ],
+    "madhyamam.com": [
+      "https://www.madhyamam.com/category/gulf-home/google_feeds.xml",
+      "https://www.madhyamam.com/category/kerala/google_feeds.xml",
+      "https://www.madhyamam.com/category/multimedia-podcast-editorial/feeds.xml",
+      "https://www.madhyamam.com/category/top-news/google_feeds.xml",
+      "https://www.madhyamam.com/feeds.xml"
+    ],
+    "malabarinews.com": [
+      "http://malabarinews.com/feed/",
+      "https://malabarinews.com/feed/"
+    ],
+    "malayalam.indianexpress.com": [
+      "https://malayalam.indianexpress.com/rss"
+    ],
+    "malayalam.news18.com": [
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/alappuzha.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/buzz.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/career.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/coronavirus-latest-news.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/crime.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/explained.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/film.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/film/movies.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/gulf.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/india-china.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/india.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/ipl.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala-bypolls.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala/kannur.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala/kasargod.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala/kochi.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala/kollam.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala/kottayam.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala/kozhikkod.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala/malappuram.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kerala/thiruvananthapuram.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/kozhikode.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/law.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/life.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/life/astro.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/life/health.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/life/ramayanam.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/life/relationship.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/life/religion.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/life/women.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/money-matters.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/money.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/money/auto.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/money/tech.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/nattu-varthamanam.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/opinion.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/photos.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/ram-mandir.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/sports.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/tv-shows.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/tv-shows/annu-njan.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/tv-shows/big-5-at-8.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/tv-shows/lallu-speak.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/tv-shows/special-correspondent.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/tv-shows/varikalkidayil.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/uncategorized.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/videos.xml",
+      "https://malayalam.news18.com/commonfeeds/v1/mal/rss/world.xml"
+    ],
+    "malayalam.samayam.com": [
+      "http://blogs.malayalam.samayam.com/tag/%E0%B4%95%E0%B4%BF%E0%B4%A8%E0%B4%BE%E0%B4%B6%E0%B5%8D%E0%B4%B6%E0%B5%87%E0%B4%B0%E0%B4%BF/feed/",
+      "http://blogs.malayalam.samayam.com/tag/%E0%B4%9C%E0%B5%80%E0%B4%B5%E0%B4%BF%E0%B4%A4%E0%B4%B5%E0%B5%81%E0%B4%82-%E0%B4%9C%E0%B5%8B%E0%B4%B2%E0%B4%BF%E0%B4%AF%E0%B5%81%E0%B4%82/feed/",
+      "http://blogs.malayalam.samayam.com/tag/%E0%B4%9C%E0%B5%8B%E0%B4%B2%E0%B4%BF-%E0%B4%B8%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B5%BC%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%82/feed/",
+      "http://blogs.malayalam.samayam.com/tag/%E0%B4%B6%E0%B4%AC%E0%B4%B0%E0%B4%BF%E0%B4%AE%E0%B4%B2-%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B5%80-%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%B5%E0%B5%87%E0%B4%B6%E0%B4%A8%E0%B4%82/feed/",
+      "http://blogs.malayalam.samayam.com/tag/abin-jospeh-interview/feed/",
+      "http://blogs.malayalam.samayam.com/tag/chalal/feed/",
+      "http://blogs.malayalam.samayam.com/tag/congress-on-sabarimala/feed/",
+      "http://blogs.malayalam.samayam.com/tag/congress-soft-hindu/feed/",
+      "http://blogs.malayalam.samayam.com/tag/featured/feed/",
+      "http://blogs.malayalam.samayam.com/tag/friendship/feed/",
+      "http://blogs.malayalam.samayam.com/tag/himalayan-trekking/feed/",
+      "http://blogs.malayalam.samayam.com/tag/images-of-kasol/feed/",
+      "http://blogs.malayalam.samayam.com/tag/kasol-market/feed/",
+      "http://blogs.malayalam.samayam.com/tag/kerala-udf-sabarimala-temple/feed/",
+      "http://blogs.malayalam.samayam.com/tag/maya-cafe/feed/",
+      "http://blogs.malayalam.samayam.com/tag/parvati-valley/feed/",
+      "http://blogs.malayalam.samayam.com/tag/sabarimala-verdict-opinion/feed/",
+      "http://blogs.malayalam.samayam.com/tag/sabarimala-verdict/feed/",
+      "http://blogs.malayalam.samayam.com/tag/summer-getaway/feed/",
+      "http://blogs.malayalam.samayam.com/tag/weekend-getaways/feed/",
+      "https://blogs.malayalam.samayam.com/tag/%E0%B4%95%E0%B4%BF%E0%B4%A8%E0%B4%BE%E0%B4%B6%E0%B5%8D%E0%B4%B6%E0%B5%87%E0%B4%B0%E0%B4%BF/feed/",
+      "https://blogs.malayalam.samayam.com/tag/congress-soft-hindu/feed/",
+      "https://blogs.malayalam.samayam.com/tag/friendship/feed/",
+      "https://blogs.malayalam.samayam.com/tag/himalayan-trekking/feed/",
+      "https://blogs.malayalam.samayam.com/tag/images-of-kasol/feed/",
+      "https://blogs.malayalam.samayam.com/tag/kasol/feed/",
+      "https://blogs.malayalam.samayam.com/tag/kinassery/feed/",
+      "https://blogs.malayalam.samayam.com/tag/maya-cafe/feed/",
+      "https://blogs.malayalam.samayam.com/tag/summer-getaway/feed/",
+      "https://blogs.malayalam.samayam.com/tag/weekend-getaways/feed/",
+      "https://malayalam.samayam.com/langapi/sitemap/gstandvideorssfeed/121882902.xml"
+    ],
+    "malayalam.webdunia.com": [
+      "https://malayalam.webdunia.com/rss/kerala-news-in-malayalam-1010102.rss"
+    ],
+    "manoramaonline.com": [
+      "https://www.manoramaonline.com/travel/travel-blogs.feeds.rss.xml"
+    ],
+    "marunadanmalayalee.com": [
+      "https://marunadanmalayalee.com/feed"
+    ],
+    "mathrubhumi.com": [
+      "https://www.mathrubhumi.com/cmlink/books-app-feed-1.1184606",
+      "https://www.mathrubhumi.com/cmlink/books-feed-1.1184605",
+      "https://www.mathrubhumi.com/cmlink/careers-rss-feed-1.1184573",
+      "https://www.mathrubhumi.com/cmlink/mathrubhumi-latestnews-appsfeed-1.1184482",
+      "https://www.mathrubhumi.com/cmlink/mathrubhumi-latestnews-rssfeed-1.1184486",
+      "https://www.mathrubhumi.com/cmlink/rss-feed-1.7275970",
+      "https://www.mathrubhumi.com/cmlink/spirituality-1.7280487",
+      "https://www.mathrubhumi.com/cmlink/test-feed-for-daily-hunt-1.10015004",
+      "https://www.mathrubhumi.com/sitemaps/mathrubhumi/rss"
+    ],
+    "mediaoneonline.com": [
+      "https://www.mediaoneonline.com/google_feeds.xml"
+    ],
+    "metbeatnews.com": [
+      "https://metbeatnews.com/category/blogs/feed/",
+      "https://metbeatnews.com/feed/"
+    ],
+    "metrovaartha.com": [
+      "https://www.metrovaartha.com/feed.xml"
+    ],
+    "myfinpoint.com": [
+      "https://www.myfinpoint.com/feed"
+    ],
+    "newsatnet.com": [
+      "https://www.newsatnet.com/feed/"
+    ],
+    "newsmeter.in": [
+      "https://newsmeter.in/feed",
+      "https://newsmeter.in/feed/",
+      "https://newsmeter.in/google_feeds.xml"
+    ],
+    "newspaper.mathrubhumi.com": [
+      "https://newspaper.mathrubhumi.com/cmlink/rss-feed-1.7307860"
+    ],
+    "prod-qt-images.s3.amazonaws.com": [
+      "https://prod-qt-images.s3.amazonaws.com/production/dhanamonline-malayalam/feed.xml"
+    ],
+    "sathyamonline.com": [
+      "https://www.sathyamonline.com/rss"
+    ],
+    "sirajlive.com": [
+      "https://www.sirajlive.com/feed"
+    ],
+    "southlive.in": [
+      "https://www.southlive.in/feed"
+    ],
+    "thecue.in": [
+      "https://www.thecue.in/stories.rss?time-period=last-24-hours"
+    ],
+    "thekarmanews.com": [
+      "https://thekarmanews.com/feed/"
+    ],
+    "thelocaleconomy.in": [
+      "https://www.thelocaleconomy.in/feed.xml"
+    ],
+    "truevisionnews.com": [
+      "https://truevisionnews.com/rss"
+    ],
+    "twentyfournews.com": [
+      "https://www.twentyfournews.com/feed"
+    ],
+    "vskkerala.com": [
+      "https://vskkerala.com/feed/",
+      "https://vskkerala.com/news/rss-in-news/feed/",
+      "https://vskkerala.com/tag/rss-resolutions/feed/"
+    ],
+    "www.asianetnews.com": [
+      "https://www.asianetnews.com/rss",
+      "https://www.asianetnews.com/rss/auto-blog",
+      "https://www.asianetnews.com/rss/local-news",
+      "https://www.asianetnews.com:443/rss"
+    ],
+    "www.chandrikadaily.com": [
+      "https://www.chandrikadaily.com/feed",
+      "https://www.chandrikadaily.com/tag/rss-leader/feed"
+    ],
+    "www.deshabhimani.com": [
+      "https://www.deshabhimani.com/rss/agriculture",
+      "https://www.deshabhimani.com/rss/art-stage",
+      "https://www.deshabhimani.com/rss/articles",
+      "https://www.deshabhimani.com/rss/books",
+      "https://www.deshabhimani.com/rss/business",
+      "https://www.deshabhimani.com/rss/career",
+      "https://www.deshabhimani.com/rss/cinema",
+      "https://www.deshabhimani.com/rss/columns",
+      "https://www.deshabhimani.com/rss/editorial",
+      "https://www.deshabhimani.com/rss/editorspick",
+      "https://www.deshabhimani.com/rss/education",
+      "https://www.deshabhimani.com/rss/from-the-net",
+      "https://www.deshabhimani.com/rss/health",
+      "https://www.deshabhimani.com/rss/kerala",
+      "https://www.deshabhimani.com/rss/life-style",
+      "https://www.deshabhimani.com/rss/mainnews",
+      "https://www.deshabhimani.com/rss/music",
+      "https://www.deshabhimani.com/rss/national",
+      "https://www.deshabhimani.com/rss/news-videos",
+      "https://www.deshabhimani.com/rss/pravasi",
+      "https://www.deshabhimani.com/rss/sports",
+      "https://www.deshabhimani.com/rss/technology",
+      "https://www.deshabhimani.com/rss/travel",
+      "https://www.deshabhimani.com/rss/vehicle",
+      "https://www.deshabhimani.com/rss/women",
+      "https://www.deshabhimani.com/rss/world"
+    ],
+    "www.doolnews.com": [
+      "https://www.doolnews.com/feed"
+    ],
+    "www.eastcoastdaily.com": [
+      "https://www.eastcoastdaily.com/feed"
+    ],
+    "www.expresskerala.com": [
+      "https://www.expresskerala.com/feed",
+      "https://www.expresskerala.com/news/feed"
+    ],
+    "www.faxinfo.fr": [
+      "http://www.faxinfo.fr/feed/",
+      "https://www.faxinfo.fr/?feed=comments-rss2",
+      "https://www.faxinfo.fr/?feed=rss2",
+      "https://www.faxinfo.fr/feed/"
+    ],
+    "www.kairalinewsonline.com": [
+      "https://www.kairalinewsonline.com/feed"
+    ],
+    "www.kasargodvartha.com": [
+      "https://feeds.feedburner.com/kasargodvartha"
+    ],
+    "www.keralakaumudi.com": [
+      "https://keralakaumudi.com/rss/topstories"
+    ],
+    "www.kvartha.com": [
+      "https://feeds.feedburner.com/kvartha",
+      "https://www.blogger.com/feeds/7133727913369598967/posts/default"
+    ],
+    "www.manoramaonline.com": [
+      "https://www.manoramaonline.com/news.feeds.rss.xml",
+      "https://www.manoramaonline.com/news/latest-news.feeds.rss.xml",
+      "https://www.manoramaonline.com/premium/sports.feeds.rss.xml",
+      "https://www.manoramaonline.com/travel/travel-blogs.feeds.rss.xml"
+    ],
+    "www.mathrubhumi.com": [
+      "https://www.mathrubhumi.com/cmlink/books-app-feed-1.1184606",
+      "https://www.mathrubhumi.com/cmlink/books-feed-1.1184605",
+      "https://www.mathrubhumi.com/cmlink/careers-rss-feed-1.1184573",
+      "https://www.mathrubhumi.com/cmlink/mathrubhumi-latestnews-appsfeed-1.1184482",
+      "https://www.mathrubhumi.com/cmlink/mathrubhumi-latestnews-rssfeed-1.1184486",
+      "https://www.mathrubhumi.com/cmlink/rss-feed-1.7275970",
+      "https://www.mathrubhumi.com/cmlink/spirituality-1.7280487",
+      "https://www.mathrubhumi.com/cmlink/test-feed-for-daily-hunt-1.10015004",
+      "https://www.mathrubhumi.com/sitemaps/mathrubhumi/rss"
+    ],
+    "www.mediaoneonline.com": [
+      "https://www.mediaoneonline.com/google_feeds.xml"
+    ],
+    "www.metrovaartha.com": [
+      "https://www.metrovaartha.com/feed.xml"
+    ],
+    "www.myfinpoint.com": [
+      "https://www.myfinpoint.com/feed",
+      "https://www.myfinpoint.com/google_feeds.xml"
+    ],
+    "www.newsatnet.com": [
+      "https://www.newsatnet.com/feed/"
+    ],
+    "www.sathyamonline.com": [
+      "https://www.sathyamonline.com/rss"
+    ],
+    "www.sirajlive.com": [
+      "https://www.sirajlive.com/feed"
+    ],
+    "www.southlive.in": [
+      "https://www.southlive.in/feed"
+    ],
+    "www.thecue.in": [
+      "https://www.thecue.in/stories.rss?time-period=last-24-hours"
+    ],
+    "www.thelocaleconomy.in": [
+      "https://www.thelocaleconomy.in/feed.xml"
+    ],
+    "www.twentyfournews.com": [
+      "https://www.twentyfournews.com/feed"
+    ],
+    "zeenews.india.com": [
+      "https://zeenews.india.com/bengali/rssfeed/kolkata.xml",
+      "https://zeenews.india.com/hindi/india.xml",
+      "https://zeenews.india.com/hindi/rss.xml",
+      "https://zeenews.india.com/rss/asia-news.xml",
+      "https://zeenews.india.com/rss/blog-news.xml",
+      "https://zeenews.india.com/rss/business.xml",
+      "https://zeenews.india.com/rss/entertainment-news.xml",
+      "https://zeenews.india.com/rss/health-news.xml",
+      "https://zeenews.india.com/rss/india-national-news.xml",
+      "https://zeenews.india.com/rss/india-news.xml",
+      "https://zeenews.india.com/rss/science-environment-news.xml",
+      "https://zeenews.india.com/rss/sports-news.xml",
+      "https://zeenews.india.com/rss/technology-news.xml",
+      "https://zeenews.india.com/rss/world-news.xml",
+      "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+      "https://zeenews.india.com:443/rss/business.xml",
+      "https://zeenews.india.com:443/rss/science-environment-news.xml",
+      "https://zeenews.india.com:443/rss/world-news.xml"
+    ],
+    "zeenews.india.com:443": [
+      "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+      "https://zeenews.india.com:443/rss/business.xml",
+      "https://zeenews.india.com:443/rss/science-environment-news.xml",
+      "https://zeenews.india.com:443/rss/world-news.xml"
+    ]
+  }
+}
