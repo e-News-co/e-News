@@ -1,0 +1,132 @@
+# e-News Ad Configuration
+# Format: country|language|adPosition|logoUrl|headline|description|cta|linkUrl
+# Lines starting with # are comments
+# You can add multiple ads per country/language using adPosition (1, 2, 3, 4, etc.)
+# Ads rotate based on position in the article list
+
+# ============================================
+# GLOBAL ADS (used when no specific country/language ads found)
+# ============================================
+
+global|global|1|https://via.placeholder.com/48?text=AD|Sponsor Your Brand Here|Reach millions of readers worldwide|Contact Us|https://example.com/advertise
+global|global|2|https://via.placeholder.com/48?text=AD|Advertise With Us|Premium ad placement for your business|Get Started|https://example.com/advertise
+global|global|3|https://via.placeholder.com/48?text=AD|Grow Your Business|Targeted advertising for news readers|Learn More|https://example.com/advertise
+global|global|4|https://via.placeholder.com/48?text=AD|Premium Sponsor Spot|High visibility ad placement|Contact Sales|https://example.com/advertise
+
+# ============================================
+# UNITED STATES - ENGLISH
+# ============================================
+
+US|en|1|https://via.placeholder.com/48?text=US|Shop Electronics Sale|Up to 50% off on top brands|Shop Now|https://amazon.com
+US|en|2|https://via.placeholder.com/48?text=US|Cloud Hosting Deals|Start your website for $2.99/mo|Get Started|https://example.com/hosting
+US|en|3|https://via.placeholder.com/48?text=US|Online Courses|Learn new skills from experts|Enroll Free|https://example.com/courses
+US|en|4|https://via.placeholder.com/48?text=US|VPN Protection|Secure your browsing today|Try Free|https://example.com/vpn
+
+# ============================================
+# INDIA - ENGLISH
+# ============================================
+
+IN|en|1|https://via.placeholder.com/48?text=IN|Flipkart Big Sale|Huge discounts on electronics|Shop Now|https://flipkart.com
+IN|en|2|https://via.placeholder.com/48?text=IN|Mutual Fund Investment|Start SIP with ₹500/month|Invest Now|https://example.com/invest
+IN|en|3|https://via.placeholder.com/48?text=IN|Online Learning|Prepare for competitive exams|Start Free|https://example.com/learn
+IN|en|4|https://via.placeholder.com/48?text=IN|Health Insurance|Protect your family today|Get Quote|https://example.com/insurance
+
+# ============================================
+# INDIA - HINDI
+# ============================================
+
+IN|hi|1|https://via.placeholder.com/48?text=IN|फ्लिपकार्ट सेल|इलेक्ट्रॉनिक्स पर भारी छूट|अभी खरीदें|https://flipkart.com
+IN|hi|2|https://via.placeholder.com/48?text=IN|म्यूचुअल फंड निवेश|₹500/महीने से SIP शुरू करें|निवेश करें|https://example.com/invest
+IN|hi|3|https://via.placeholder.com/48?text=IN|ऑनलाइन लर्निंग|प्रतियोगी परीक्षाओं की तैयारी|मुफ्त शुरू करें|https://example.com/learn
+IN|hi|4|https://via.placeholder.com/48?text=IN|स्वास्थ्य बीमा|आज ही परिवार की सुरक्षा करें|कोट पाएं|https://example.com/insurance
+
+# ============================================
+# SPAIN - SPANISH
+# ============================================
+
+ES|es|1|https://via.placeholder.com/48?text=ES|Gran Venta Amazon|Hasta 60% descuento|Comprar Ahora|https://amazon.es
+ES|es|2|https://via.placeholder.com/48?text=ES|Hosting Web Barato|Desde €2.99/mes|Comenzar|https://example.com/hosting
+ES|es|3|https://via.placeholder.com/48?text=ES|Cursos Online|Aprende de los expertos|Inscríbete|https://example.com/cursos
+ES|es|4|https://via.placeholder.com/48?text=ES|VPN Seguro|Protege tu navegación|Prueba Gratis|https://example.com/vpn
+
+# ============================================
+# FRANCE - FRENCH
+# ============================================
+
+FR|fr|1|https://via.placeholder.com/48?text=FR|Soldes Amazon|Jusqu'à 60% de réduction|Acheter|https://amazon.fr
+FR|fr|2|https://via.placeholder.com/48?text=FR|Hébergement Web|À partir de €2.99/mois|Commencer|https://example.com/hosting
+FR|fr|3|https://via.placeholder.com/48?text=FR|Cours en Ligne|Apprenez des experts|S'inscrire|https://example.com/cours
+FR|fr|4|https://via.placeholder.com/48?text=FR|VPN Sécurisé|Protégez votre navigation|Essai Gratuit|https://example.com/vpn
+
+# ============================================
+# GERMANY - GERMAN
+# ============================================
+
+DE|de|1|https://via.placeholder.com/48?text=DE|Amazon Angebote|Bis zu 60% Rabatt|Jetzt Kaufen|https://amazon.de
+DE|de|2|https://via.placeholder.com/48?text=DE|Webhosting Günstig|Ab €2.99/Monat|Starten|https://example.com/hosting
+DE|de|3|https://via.placeholder.com/48?text=DE|Online Kurse|Lernen Sie von Experten|Anmelden|https://example.com/kurse
+DE|de|4|https://via.placeholder.com/48?text=DE|VPN Schutz|Sicheres Surfen|Kostenlos Testen|https://example.com/vpn
+
+# ============================================
+# JAPAN - JAPANESE
+# ============================================
+
+JP|ja|1|https://via.placeholder.com/48?text=JP|アマゾンセール|最大60%オフ|今すぐ購入|https://amazon.co.jp
+JP|ja|2|https://via.placeholder.com/48?text=JP|ウェブホスティング|月額¥299から|始める|https://example.com/hosting
+JP|ja|3|https://via.placeholder.com/48?text=JP|オンラインコース|専門家から学ぶ|登録する|https://example.com/courses
+JP|ja|4|https://via.placeholder.com/48?text=JP|VPN保護|安全なブラウジング|無料で試す|https://example.com/vpn
+
+# ============================================
+# BRAZIL - PORTUGUESE
+# ============================================
+
+BR|pt|1|https://via.placeholder.com/48?text=BR|Amazon Ofertas|Até 60% de desconto|Comprar Agora|https://amazon.com.br
+BR|pt|2|https://via.placeholder.com/48?text=BR|Hospedagem Web|A partir de R$9.99/mês|Começar|https://example.com/hosting
+BR|pt|3|https://via.placeholder.com/48?text=BR|Cursos Online|Aprenda com especialistas|Inscreva-se|https://example.com/cursos
+BR|pt|4|https://via.placeholder.com/48?text=BR|VPN Proteção|Navegação segura|Teste Grátis|https://example.com/vpn
+
+# ============================================
+# RUSSIA - RUSSIAN
+# ============================================
+
+RU|ru|1|https://via.placeholder.com/48?text=RU|Распродажа|Скидки до 60%|Купить сейчас|https://example.com/shop
+RU|ru|2|https://via.placeholder.com/48?text=RU|Веб Хостинг|От ₽199/месяц|Начать|https://example.com/hosting
+RU|ru|3|https://via.placeholder.com/48?text=RU|Онлайн Курсы|Учитесь у экспертов|Записаться|https://example.com/courses
+RU|ru|4|https://via.placeholder.com/48?text=RU|VPN Защита|Безопасный браузинг|Попробовать|https://example.com/vpn
+
+# ============================================
+# ARAB COUNTRIES - ARABIC
+# ============================================
+
+SA|ar|1|https://via.placeholder.com/48?text=AR|تسوق الآن|خصومات تصل إلى 60٪|اشتري الآن|https://example.com/shop
+SA|ar|2|https://via.placeholder.com/48?text=AR|استضافة الويب|من 10 ريال/شهر|ابدأ الآن|https://example.com/hosting
+SA|ar|3|https://via.placeholder.com/48?text=AR|دورات أونلاين|تعلم من الخبراء|سجل الآن|https://example.com/courses
+SA|ar|4|https://via.placeholder.com/48?text=AR|حماية VPN|تصفح آمن|جرب مجاناً|https://example.com/vpn
+
+# ============================================
+# CHINA - CHINESE
+# ============================================
+
+CN|zh|1|https://via.placeholder.com/48?text=CN|促销活动|最高60%折扣|立即购买|https://example.com/shop
+CN|zh|2|https://via.placeholder.com/48?text=CN|网站托管|每月¥19起|开始|https://example.com/hosting
+CN|zh|3|https://via.placeholder.com/48?text=CN|在线课程|向专家学习|注册|https://example.com/courses
+CN|zh|4|https://via.placeholder.com/48?text=CN|VPN保护|安全浏览|免费试用|https://example.com/vpn
+
+# ============================================
+# KOREA - KOREAN
+# ============================================
+
+KR|ko|1|https://via.placeholder.com/48?text=KR|세일 이벤트|최대 60% 할인|지금 구매|https://example.com/shop
+KR|ko|2|https://via.placeholder.com/48?text=KR|웹 호스팅|월 ₩2,900부터|시작하기|https://example.com/hosting
+KR|ko|3|https://via.placeholder.com/48?text=KR|온라인 강좌|전문가에게 배우기|등록하기|https://example.com/courses
+KR|ko|4|https://via.placeholder.com/48?text=KR|VPN 보호|안전한 브라우징|무료 체험|https://example.com/vpn
+
+# ============================================
+# BANNER AD (Bottom of screen)
+# Format: banner|country|language|logoUrl|headline|description|cta|linkUrl
+# ============================================
+
+banner|global|global|https://via.placeholder.com/40?text=AD|Advertise Your Brand|Reach millions of news readers|Contact Us|https://example.com/advertise
+banner|US|en|https://via.placeholder.com/40?text=US|Shop Electronics|Best deals on Amazon|Shop Now|https://amazon.com
+banner|IN|en|https://via.placeholder.com/40?text=IN|Flipkart Sale|Huge discounts today|Shop Now|https://flipkart.com
+banner|IN|hi|https://via.placeholder.com/40?text=IN|फ्लिपकार्ट सेल|आज भारी छूट|अभी खरीदें|https://flipkart.com
