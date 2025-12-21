@@ -3,6 +3,16 @@
 # Lines starting with # are comments
 
 # ============================================
+# ADS ENABLE/DISABLE SETTINGS
+# ============================================
+# Master switch for all ads (set to false to disable all ads)
+ads_enabled=true
+# Enable/disable AdMob ads (for Android/iOS apps)
+admob_enabled=true
+# Enable/disable custom card ads (shown at 4th, 8th, 12th positions)
+custom_ads_enabled=true
+
+# ============================================
 # ADMOB CONFIGURATION (for Android app)
 # ============================================
 # E-news App ID: ca-app-pub-3714401773375720~3437419142
@@ -59,11 +69,78 @@ IN|hi|3|https://via.placeholder.com/48?text=IN|ऑनलाइन कोचि�
 IN|hi|4|https://via.placeholder.com/48?text=IN|स्वास्थ्य बीमा|परिवार की सुरक्षा करें|कोट पाएं|https://example.com/insurance
 
 # ============================================
+# UNITED KINGDOM - ENGLISH
+# ============================================
+
+UK|en|1|https://via.placeholder.com/48?text=UK|Shop Black Friday|Massive savings on tech|Shop Now|https://amazon.co.uk
+UK|en|2|https://via.placeholder.com/48?text=UK|Mobile Deals|Latest smartphones from £299|View Deals|https://example.com/mobile
+UK|en|3|https://via.placeholder.com/48?text=UK|Business Loans|Fast approval, low rates|Apply Now|https://example.com/loans
+UK|en|4|https://via.placeholder.com/48?text=UK|Streaming Services|3 months free trial|Start Now|https://example.com/stream
+
+# ============================================
+# AUSTRALIA - ENGLISH
+# ============================================
+
+AU|en|1|https://via.placeholder.com/48?text=AU|eBay Sale|Shop electronics & more|Browse Now|https://ebay.com.au
+AU|en|2|https://via.placeholder.com/48?text=AU|Mobile Plans|Unlimited data from $30/mo|Compare Plans|https://example.com/mobile
+AU|en|3|https://via.placeholder.com/48?text=AU|Home Loans|Compare rates today|Get Quote|https://example.com/homeloan
+AU|en|4|https://via.placeholder.com/48?text=AU|Travel Insurance|Protect your trip|Get Covered|https://example.com/travel
+
+# ============================================
+# CANADA - ENGLISH
+# ============================================
+
+CA|en|1|https://via.placeholder.com/48?text=CA|Amazon Canada|Holiday deals are here|Shop Now|https://amazon.ca
+CA|en|2|https://via.placeholder.com/48?text=CA|Mobile Phones|iPhone & Samsung deals|Buy Now|https://example.com/mobile
+CA|en|3|https://via.placeholder.com/48?text=CA|Invest Online|Start with $1|Open Account|https://example.com/invest
+CA|en|4|https://via.placeholder.com/48?text=CA|Insurance Quotes|Compare & save 30%|Get Quote|https://example.com/insurance
+
+# ============================================
+# SPAIN - SPANISH
+# ============================================
+
+ES|es|1|https://via.placeholder.com/48?text=ES|Gran Venta|Descuentos increíbles hoy|Comprar|https://example.com/es
+ES|es|2|https://via.placeholder.com/48?text=ES|Móviles Baratos|iPhone desde 299€|Ver Ofertas|https://example.com/moviles
+ES|es|3|https://via.placeholder.com/48?text=ES|Préstamos Rápidos|Aprobación en minutos|Solicitar|https://example.com/prestamos
+ES|es|4|https://via.placeholder.com/48?text=ES|Seguros Online|Ahorra hasta 40%|Cotizar|https://example.com/seguros
+
+# ============================================
+# MEXICO - SPANISH
+# ============================================
+
+MX|es|1|https://via.placeholder.com/48?text=MX|Amazon México|Ofertas del día|Comprar Ahora|https://amazon.com.mx
+MX|es|2|https://via.placeholder.com/48?text=MX|Celulares Nuevos|Hasta 50% descuento|Ver Más|https://example.com/celulares
+MX|es|3|https://via.placeholder.com/48?text=MX|Créditos Express|Aprobación inmediata|Solicitar|https://example.com/creditos
+MX|es|4|https://via.placeholder.com/48?text=MX|Seguros Baratos|Cotiza en línea gratis|Cotizar|https://example.com/seguros
+
+# ============================================
 # ADD YOUR OWN COUNTRIES/LANGUAGES HERE
 # ============================================
 # Format: COUNTRY_CODE|LANGUAGE_CODE|POSITION|LOGO_URL|HEADLINE|DESCRIPTION|CTA|LINK_URL
-# Example:
-# ES|es|1|https://example.com/logo.png|Gran Venta|Descuentos increíbles|Comprar|https://example.com
+# 
+# Position cycles 1-4:
+# Position 1 = shown at 4th card
+# Position 2 = shown at 8th card
+# Position 3 = shown at 12th card
+# Position 4 = shown at 16th card
+# Then repeats: Position 1 = 20th card, etc.
+#
+# Examples for different ad types:
+# Mobile/Phone Ads:
+# US|en|1|https://example.com/phone.png|Latest iPhone 15|Save $200 on new orders|Buy Now|https://example.com/iphone
+# IN|en|1|https://example.com/phone.png|OnePlus 12|Flagship killer at ₹54,999|Shop Now|https://example.com/oneplus
+#
+# E-commerce/Shopping:
+# US|en|2|https://example.com/shop.png|Walmart Deals|Free shipping on $35+|Shop Now|https://walmart.com
+# UK|en|2|https://example.com/tesco.png|Tesco Clubcard|Extra points this week|Shop Now|https://tesco.com
+#
+# Meta/Facebook/Social Media Ads:
+# global|global|3|https://example.com/meta.png|Advertise on Meta|Reach 3 billion users|Start Campaign|https://business.facebook.com
+# US|en|3|https://example.com/fb.png|Facebook Ads|Grow your business online|Get Started|https://facebook.com/business
+#
+# Other Platforms:
+# global|global|4|https://example.com/google.png|Google Ads|Get more customers now|Start Free|https://ads.google.com
+# US|en|4|https://example.com/tiktok.png|TikTok Ads|Go viral with your brand|Create Ad|https://ads.tiktok.com
 
 # ============================================
 # BANNER ADS (Bottom sticky banner)
