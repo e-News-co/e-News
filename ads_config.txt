@@ -36,7 +36,7 @@ adsense_publisher_id=ca-pub-3714401773375720
 # GLOBAL ADS (used when no specific country/language ads found)
 # ============================================
 
-global|global|1|https://via.placeholder.com/48?text=AD|Your Ad Here|Promote your business to millions|Contact Us|https://example.com/advertise
+global|global|1|https://via.placeholder.com/48?text=AD|Your Ad Here|Promote your business to millions|Contact Us Shaji John|https://example.com/advertise
 global|global|2|https://via.placeholder.com/48?text=AD|Advertise With Us|Premium ad placement|Get Started|https://example.com/advertise
 global|global|3|https://via.placeholder.com/48?text=AD|Sponsor This App|Reach engaged readers|Learn More|https://example.com/advertise
 global|global|4|https://via.placeholder.com/48?text=AD|Your Brand Here|High visibility placement|Contact Sales|https://example.com/advertise
@@ -151,3 +151,4 @@ banner|global|global|https://via.placeholder.com/40?text=AD|Advertise Your Brand
 banner|US|en|https://via.placeholder.com/40?text=US|Shop Now|Best deals on Amazon|Shop|https://amazon.com
 banner|IN|en|https://via.placeholder.com/40?text=IN|Flipkart Sale|Limited time offers|Shop Now|https://flipkart.com
 banner|IN|hi|https://via.placeholder.com/40?text=IN|फ्लिपकार्ट सेल|सीमित समय के लिए|अभी खरीदें|https://flipkart.com
+
