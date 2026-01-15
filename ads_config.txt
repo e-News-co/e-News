@@ -1,156 +1,38 @@
-# Your Custom Ad Configuration
-# Format: country|language|adPosition|logoUrl|headline|description|cta|linkUrl
-# Lines starting with # are comments
+# Ads Configuration
+# Enable/Disable specific providers
+ENABLED=true
+ADMOB_ENABLED=true
+META_ENABLED=false
+ADSENSE_ENABLED=true
+CUSTOM_ADS_ENABLED=true
 
-# ============================================
-# ADS ENABLE/DISABLE SETTINGS
-# ============================================
-# Master switch for all ads (set to false to disable all ads)
-ads_enabled=true
-# Enable/disable AdMob ads (for Android/iOS apps)
-admob_enabled=true
-# Enable/disable custom card ads (shown at 4th, 8th, 12th positions)
-custom_ads_enabled=true
+# Provider priority
+PRIMARY_PROVIDER=admob
+SECONDARY_PROVIDER=custom
+REFRESH_RATE=60
 
-# ============================================
-# ADMOB CONFIGURATION (for Android app)
-# ============================================
-# E-news App ID: ca-app-pub-3714401773375720~3437419142
-admob_app_id=ca-app-pub-3714401773375720~3437419142
-admob_banner_id=ca-app-pub-3714401773375720/6655443571
-admob_native_id=ca-app-pub-3714401773375720/2078560858
-# admob_interstitial_id=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
-# admob_rewarded_id=ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX
+[admob]
+APP_ID=ca-app-pub-3714401773375720~3437419142
+BANNER_ID=ca-app-pub-3714401773375720/6655443571
+NATIVE_ID=ca-app-pub-3714401773375720/2078560858
+TEST_MODE=false
 
-# ============================================
-# ADSENSE CONFIGURATION (for web)
-# ============================================
-# Publisher ID: pub-3714401773375720
-# Customer ID: 8573465169
-adsense_publisher_id=ca-pub-3714401773375720
-# Add your ad unit slot IDs below (create ad units in AdSense dashboard)
-# adsense_banner_slot=XXXXXXXXXX
-# adsense_inarticle_slot=XXXXXXXXXX
+# Targeted AdMob IDs (optional)
+# Format: ADMOB_AD=COUNTRY|LANGUAGE|BANNER_ID|NATIVE_ID
+# ADMOB_AD=US|ALL|ca-app-pub-XXXXX/BANNER_US|ca-app-pub-XXXXX/NATIVE_US
+# ADMOB_AD=GB|EN|ca-app-pub-XXXXX/BANNER_GB|ca-app-pub-XXXXX/NATIVE_GB
 
-# ============================================
-# GLOBAL ADS (used when no specific country/language ads found)
-# ============================================
+[meta]
+PLACEMENT_ID=YOUR_META_PLACEMENT_ID
+IS_TESTING=true
 
-global|global|1|https://via.placeholder.com/48?text=AD|Your Ad Here|Promote your business to millions|Contact Us Shaji John|https://example.com/advertise
-global|global|2|https://via.placeholder.com/48?text=AD|Advertise With Us|Premium ad placement|Get Started|https://example.com/advertise
-global|global|3|https://via.placeholder.com/48?text=AD|Sponsor This App|Reach engaged readers|Learn More|https://example.com/advertise
-global|global|4|https://via.placeholder.com/48?text=AD|Your Brand Here|High visibility placement|Contact Sales|https://example.com/advertise
+[adsense]
+PUBLISHER_ID=ca-pub-3714401773375720
+SLOT_ID=XXXXXXXXXX
 
-# ============================================
-# UNITED STATES - ENGLISH
-# ============================================
+[custom_targeting]
+# Format: CUSTOM_AD=COUNTRY|LANGUAGE|AD_TYPE|IMAGE_URL|LINK_URL|HEADLINE|DESCRIPTION|CTA
+# AD_TYPE: BANNER or CARD
 
-US|en|1|https://via.placeholder.com/48?text=US|Shop Amazon Sale|Up to 50% off electronics|Shop Now|https://amazon.com
-US|en|2|https://via.placeholder.com/48?text=US|Web Hosting $2.99/mo|Fast & reliable hosting|Start Now|https://example.com/hosting
-US|en|3|https://via.placeholder.com/48?text=US|Learn Online|Thousands of courses available|Enroll Free|https://example.com/courses
-US|en|4|https://via.placeholder.com/48?text=US|VPN Protection|Browse securely & privately|Try Free|https://example.com/vpn
-
-# ============================================
-# INDIA - ENGLISH
-# ============================================
-
-IN|en|1|https://via.placeholder.com/48?text=IN|Flipkart Big Sale|Huge discounts today|Shop Now|https://flipkart.com
-IN|en|2|https://via.placeholder.com/48?text=IN|Invest in Mutual Funds|Start SIP with ₹500/month|Invest Now|https://example.com/invest
-IN|en|3|https://via.placeholder.com/48?text=IN|Online Exam Prep|Ace competitive exams|Start Free|https://example.com/learn
-IN|en|4|https://via.placeholder.com/48?text=IN|Health Insurance|Protect your family|Get Quote|https://example.com/insurance
-
-# ============================================
-# INDIA - HINDI
-# ============================================
-
-IN|hi|1|https://via.placeholder.com/48?text=IN|फ्लिपकार्ट सेल|इलेक्ट्रॉनिक्स पर भारी छूट|अभी खरीदें|https://flipkart.com
-IN|hi|2|https://via.placeholder.com/48?text=IN|म्यूचुअल फंड|₹500/महीने से शुरू करें|निवेश करें|https://example.com/invest
-IN|hi|3|https://via.placeholder.com/48?text=IN|ऑनलाइन कोचिंग|परीक्षा की तैयारी|मुफ्त शुरू करें|https://example.com/learn
-IN|hi|4|https://via.placeholder.com/48?text=IN|स्वास्थ्य बीमा|परिवार की सुरक्षा करें|कोट पाएं|https://example.com/insurance
-
-# ============================================
-# UNITED KINGDOM - ENGLISH
-# ============================================
-
-UK|en|1|https://via.placeholder.com/48?text=UK|Shop Black Friday|Massive savings on tech|Shop Now|https://amazon.co.uk
-UK|en|2|https://via.placeholder.com/48?text=UK|Mobile Deals|Latest smartphones from £299|View Deals|https://example.com/mobile
-UK|en|3|https://via.placeholder.com/48?text=UK|Business Loans|Fast approval, low rates|Apply Now|https://example.com/loans
-UK|en|4|https://via.placeholder.com/48?text=UK|Streaming Services|3 months free trial|Start Now|https://example.com/stream
-
-# ============================================
-# AUSTRALIA - ENGLISH
-# ============================================
-
-AU|en|1|https://via.placeholder.com/48?text=AU|eBay Sale|Shop electronics & more|Browse Now|https://ebay.com.au
-AU|en|2|https://via.placeholder.com/48?text=AU|Mobile Plans|Unlimited data from $30/mo|Compare Plans|https://example.com/mobile
-AU|en|3|https://via.placeholder.com/48?text=AU|Home Loans|Compare rates today|Get Quote|https://example.com/homeloan
-AU|en|4|https://via.placeholder.com/48?text=AU|Travel Insurance|Protect your trip|Get Covered|https://example.com/travel
-
-# ============================================
-# CANADA - ENGLISH
-# ============================================
-
-CA|en|1|https://via.placeholder.com/48?text=CA|Amazon Canada|Holiday deals are here|Shop Now|https://amazon.ca
-CA|en|2|https://via.placeholder.com/48?text=CA|Mobile Phones|iPhone & Samsung deals|Buy Now|https://example.com/mobile
-CA|en|3|https://via.placeholder.com/48?text=CA|Invest Online|Start with $1|Open Account|https://example.com/invest
-CA|en|4|https://via.placeholder.com/48?text=CA|Insurance Quotes|Compare & save 30%|Get Quote|https://example.com/insurance
-
-# ============================================
-# SPAIN - SPANISH
-# ============================================
-
-ES|es|1|https://via.placeholder.com/48?text=ES|Gran Venta|Descuentos increíbles hoy|Comprar|https://example.com/es
-ES|es|2|https://via.placeholder.com/48?text=ES|Móviles Baratos|iPhone desde 299€|Ver Ofertas|https://example.com/moviles
-ES|es|3|https://via.placeholder.com/48?text=ES|Préstamos Rápidos|Aprobación en minutos|Solicitar|https://example.com/prestamos
-ES|es|4|https://via.placeholder.com/48?text=ES|Seguros Online|Ahorra hasta 40%|Cotizar|https://example.com/seguros
-
-# ============================================
-# MEXICO - SPANISH
-# ============================================
-
-MX|es|1|https://via.placeholder.com/48?text=MX|Amazon México|Ofertas del día|Comprar Ahora|https://amazon.com.mx
-MX|es|2|https://via.placeholder.com/48?text=MX|Celulares Nuevos|Hasta 50% descuento|Ver Más|https://example.com/celulares
-MX|es|3|https://via.placeholder.com/48?text=MX|Créditos Express|Aprobación inmediata|Solicitar|https://example.com/creditos
-MX|es|4|https://via.placeholder.com/48?text=MX|Seguros Baratos|Cotiza en línea gratis|Cotizar|https://example.com/seguros
-
-# ============================================
-# ADD YOUR OWN COUNTRIES/LANGUAGES HERE
-# ============================================
-# Format: COUNTRY_CODE|LANGUAGE_CODE|POSITION|LOGO_URL|HEADLINE|DESCRIPTION|CTA|LINK_URL
-# 
-# Position cycles 1-4:
-# Position 1 = shown at 4th card
-# Position 2 = shown at 8th card
-# Position 3 = shown at 12th card
-# Position 4 = shown at 16th card
-# Then repeats: Position 1 = 20th card, etc.
-#
-# Examples for different ad types:
-# Mobile/Phone Ads:
-# US|en|1|https://example.com/phone.png|Latest iPhone 15|Save $200 on new orders|Buy Now|https://example.com/iphone
-# IN|en|1|https://example.com/phone.png|OnePlus 12|Flagship killer at ₹54,999|Shop Now|https://example.com/oneplus
-#
-# E-commerce/Shopping:
-# US|en|2|https://example.com/shop.png|Walmart Deals|Free shipping on $35+|Shop Now|https://walmart.com
-# UK|en|2|https://example.com/tesco.png|Tesco Clubcard|Extra points this week|Shop Now|https://tesco.com
-#
-# Meta/Facebook/Social Media Ads:
-# global|global|3|https://example.com/meta.png|Advertise on Meta|Reach 3 billion users|Start Campaign|https://business.facebook.com
-# US|en|3|https://example.com/fb.png|Facebook Ads|Grow your business online|Get Started|https://facebook.com/business
-#
-# Other Platforms:
-# global|global|4|https://example.com/google.png|Google Ads|Get more customers now|Start Free|https://ads.google.com
-# US|en|4|https://example.com/tiktok.png|TikTok Ads|Go viral with your brand|Create Ad|https://ads.tiktok.com
-
-# ============================================
-# BANNER ADS (Bottom sticky banner)
-# Format: banner|country|language|logoUrl|headline|description|cta|linkUrl
-# ============================================
-
-banner|global|global|https://via.placeholder.com/40?text=AD|Advertise Your Brand|Reach millions daily|Contact Us|https://example.com/advertise
-banner|US|en|https://via.placeholder.com/40?text=US|Shop Now|Best deals on Amazon|Shop|https://amazon.com
-banner|IN|en|https://via.placeholder.com/40?text=IN|Flipkart Sale|Limited time offers|Shop Now|https://flipkart.com
-banner|IN|hi|https://via.placeholder.com/40?text=IN|फ्लिपकार्ट सेल|सीमित समय के लिए|अभी खरीदें|https://flipkart.com
-
-
-
+CUSTOM_AD=GLOBAL|ALL|CARD|https://via.placeholder.com/600x400.png?text=Custom+Card+Ad|https://github.com|Global News|Stay updated with world news|View Now
+CUSTOM_AD=GLOBAL|ALL|BANNER|https://via.placeholder.com/320x50.png?text=Custom+Banner+Ad|https://github.com|Global Ad|Click to see more|Open
