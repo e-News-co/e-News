@@ -10,7 +10,7 @@ ads_enabled=true
 # Enable/disable AdMob ads (for Android/iOS apps)
 admob_enabled=true
 # Enable/disable custom card ads (shown at 4th, 8th, 12th positions)
-custom_ads_enabled=true
+custom_ads_enabled=false
 
 # ============================================
 # ADMOB CONFIGURATION (for Android app)
@@ -151,4 +151,5 @@ banner|global|global|https://via.placeholder.com/40?text=AD|Advertise Your Brand
 banner|US|en|https://via.placeholder.com/40?text=US|Shop Now|Best deals on Amazon|Shop|https://amazon.com
 banner|IN|en|https://via.placeholder.com/40?text=IN|Flipkart Sale|Limited time offers|Shop Now|https://flipkart.com
 banner|IN|hi|https://via.placeholder.com/40?text=IN|फ्लिपकार्ट सेल|सीमित समय के लिए|अभी खरीदें|https://flipkart.com
+
 
