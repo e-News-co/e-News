@@ -1,0 +1,489 @@
+{
+  "country_code": "ER",
+  "language_code": "EN",
+  "total_domains": 17,
+  "total_feeds": 243,
+  "feeds": {
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.392Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "allafrica.com": {
+      "urls": [
+        "https://allafrica.com/tools/headlines/rdf/nigeria/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/liberia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/kenya/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/uganda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ethiopia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/education/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ghana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/malawi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/namibia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/somalia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/rwanda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zimbabwe/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sudan/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tanzania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gambia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mozambique/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/morocco/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/senegal/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/botswana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/egypt/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tunisia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/angola/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/benin/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burundi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/capeverde/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/centralafricanrepublic/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/chad/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/commodities/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/comoros/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cotedivoire/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/djibouti/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/equatorialguinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eritrea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eswatini/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gabon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guineabissau/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/lesotho/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/libya/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/madagascar/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritius/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sierraleone/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/togo/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westernsahara/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zambia/headlines.rdf"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.350Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "farajat.net": {
+      "urls": [
+        "https://www.farajat.net/ar/feed/atom/",
+        "https://www.farajat.net/ar/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%D9%8A%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/feed/",
+        "https://www.farajat.net/ar/category/%D8%AD%D9%88%D8%A7%D8%B1%D8%A7%D8%AA/feed/",
+        "https://www.farajat.net/ar/category/%D8%B3%D8%AC%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/feed/",
+        "https://www.farajat.net/ar/category/%D8%BA%D9%8A%D8%B1-%D9%85%D8%B5%D9%86%D9%81/feed/",
+        "https://www.farajat.net/ar/category/%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D9%88%D8%AB%D8%A7%D8%A6%D9%82/feed/",
+        "https://www.farajat.net/ar/category/elbushra/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D9%89/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%85%D8%B5%D9%88%D8%B1/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AE%D8%A8%D8%B1-%D9%88%D8%AA%D8%B9%D9%84%D9%8A%D9%82/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%AA%D8%A3%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%AA%D8%A3%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9/%D8%A7%D9%84%D8%B4%D8%B9%D8%B1/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9/%D8%A7%D9%84%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D9%82%D8%B5%D9%8A%D8%B1%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9/%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D9%84%D9%8A%D9%85/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9/%D8%AE%D9%88%D8%A7%D8%B7%D8%B1/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/%D8%A3%D8%B9%D9%85%D8%AF%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/%D8%B5%D9%88%D8%B1%D8%A9-%D9%88%D8%AA%D8%B9%D9%84%D9%8A%D9%82/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A7%D8%AA/feed/",
+        "https://www.farajat.net/ar/category/%D8%B3%D8%AC%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D8%AC%D9%86%D8%A7%D8%A1/feed/",
+        "https://www.farajat.net/ar/category/%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9/%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/%D8%A3%D8%B9%D9%85%D8%AF%D8%A9/%D8%A2%D8%A8%D8%B3%D9%84%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AA%D8%B1%D9%8A%D8%A7/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/%D8%A3%D8%B9%D9%85%D8%AF%D8%A9/%D8%A8%D8%B1%D9%87%D8%A7%D9%86/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/%D8%A3%D8%B9%D9%85%D8%AF%D8%A9/%D8%AE%D8%B1%D8%A8%D8%B4%D8%A7%D8%AA/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/%D8%A3%D8%B9%D9%85%D8%AF%D8%A9/%D9%85%D8%B1%D9%81%D8%A3-%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9/feed/",
+        "https://www.farajat.net/ar/category/%D8%A7%D9%84%D9%85%D9%86%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1/%D8%A3%D8%B9%D9%85%D8%AF%D8%A9/%D9%85%D8%B2%D8%A8%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%A3%D8%B1%D9%8A%D8%AE/feed/",
+        "https://www.farajat.net/ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.374Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jeuneafrique.com": {
+      "urls": [
+        "https://www.jeuneafrique.com/feed/",
+        "https://www.jeuneafrique.com/pays/afrique/feed/",
+        "https://www.jeuneafrique.com/rubriques/politique/feed/",
+        "https://www.jeuneafrique.com/pays/cote-divoire/feed/",
+        "https://www.jeuneafrique.com/personnalites/felix-tshisekedi/feed/",
+        "https://www.jeuneafrique.com/pays/afrique-du-sud/feed/",
+        "https://www.jeuneafrique.com/pays/algerie/feed/",
+        "https://www.jeuneafrique.com/pays/botswana/feed/",
+        "https://www.jeuneafrique.com/pays/burundi/feed/",
+        "https://www.jeuneafrique.com/pays/cap-vert/feed/",
+        "https://www.jeuneafrique.com/pays/comores/feed/",
+        "https://www.jeuneafrique.com/pays/espagne/feed/",
+        "https://www.jeuneafrique.com/pays/eswatini/feed/",
+        "https://www.jeuneafrique.com/pays/guinee-bissau/feed/",
+        "https://www.jeuneafrique.com/pays/guinee/feed/",
+        "https://www.jeuneafrique.com/pays/lesotho/feed/",
+        "https://www.jeuneafrique.com/pays/malawi/feed/",
+        "https://www.jeuneafrique.com/pays/mali/feed/",
+        "https://www.jeuneafrique.com/pays/nigeria/feed/",
+        "https://www.jeuneafrique.com/pays/somalie/feed/",
+        "https://www.jeuneafrique.com/pays/zambie/feed/",
+        "https://www.jeuneafrique.com/personnalites/alpha-conde/feed/",
+        "https://www.jeuneafrique.com/personnalites/bachar-al-assad/feed/",
+        "https://www.jeuneafrique.com/rubriques/societe/feed/",
+        "https://www.jeuneafrique.com/tags/islam/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.398Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "en.wikipedia.org": {
+      "urls": [
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=1&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Blog&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=RSS&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Category:Blogs&action=feedrecentchanges&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.395Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "asmarino.com": {
+      "urls": [
+        "https://asmarino.com/?format=feed&type=atom",
+        "https://asmarino.com/?page_id=1177%22%3E?%20?%20?%20?%20?%20?%20?start=4494&format=feed&type=atom",
+        "https://www.asmarino.com/?format=feed&type=atom",
+        "https://www.asmarino.com/?page_id=1177%22%3E?%20?%20?%20?%20?%20?%20?start=4494&format=feed&type=atom",
+        "https://asmarino.com/?format=feed&type=rss",
+        "https://asmarino.com/?page_id=1177%22%3E?%20?%20?%20?%20?%20?%20?start=4494&format=feed&type=rss",
+        "https://www.asmarino.com/?format=feed&type=rss",
+        "https://www.asmarino.com/?page_id=1177%22%3E?%20?%20?%20?%20?%20?%20?start=4494&format=feed&type=rss",
+        "http://asmarino.com/?a=loginnvOpzp&c=index&dosubmit=1&m=admin&format=feed&type=rss",
+        "http://asmarino.com/?a=loginnvOpzp&c=index&dosubmit=1&m=admin&format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.388Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.360Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "madote.com": {
+      "urls": [
+        "http://www.madote.com/feeds/posts/default",
+        "https://draft.blogger.com/feeds/774364245587719244/posts/default",
+        "https://www.blogger.com/feeds/774364245587719244/posts/default",
+        "http://feeds.feedburner.com/madote/oFqt",
+        "http://www.madote.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.377Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "awate.com": {
+      "urls": [
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+        "https://awate.com/feed/",
+        "http://awate.com/feed/",
+        "https://awate.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.353Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "jeberti.com": {
+      "urls": [
+        "http://jeberti.com/index.php?format=feed&type=atom",
+        "http://www.jeberti.com/index.php?format=feed&type=atom",
+        "http://jeberti.com/index.php?format=feed&type=rss",
+        "http://www.jeberti.com/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.355Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "shabait.com": {
+      "urls": [
+        "http://www.shabait.com/index.php?format=feed&type=atom",
+        "http://www.shabait.com/index.php?format=feed&type=rss",
+        "https://shabait.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.362Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "meskerem.net": {
+      "urls": [
+        "http://meskerem.net/feed/",
+        "http://meskerem.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.357Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tesfanews.com": {
+      "urls": [
+        "https://tesfanews.com/feed/",
+        "https://tesfanews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.365Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "zenazajel.net": {
+      "urls": [
+        "https://zenazajel.net/feed/",
+        "https://zenazajel.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.368Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "asenatv.com": {
+      "urls": [
+        "https://asenatv.com/feed/",
+        "https://asenatv.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.381Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "raimoq.com": {
+      "urls": [
+        "http://raimoq.com/feed/",
+        "http://raimoq.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.382Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "adoulis.net": {
+      "urls": [
+        "https://adoulis.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.384Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "country_code": "GY",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 44,
+  "feeds": {
+    "newsroom.gy": {
+      "urls": [
+        "https://newsroom.gy/feed/",
+        "http://newsroom.gy/feed/",
+        "https://newsroom.gy/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 568,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:25.836Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "demerarawaves.com": {
+      "urls": [
+        "https://demerarawaves.com/feed/",
+        "https://demerarawaves.com/category/podcast/feed/",
+        "http://demerarawaves.com/feed/",
+        "http://demerarawaves.com/category/podcast/feed/",
+        "https://demerarawaves.com/comments/feed/",
+        "http://demerarawaves.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1434,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:25.253Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kaieteurnewsonline.com": {
+      "urls": [
+        "https://www.kaieteurnewsonline.com/feed/",
+        "https://kaieteurnewsonline.com/feed/",
+        "https://kaieteurnewsonline.com/comments/feed/",
+        "https://www.kaieteurnewsonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 307,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:22.185Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "inewsguyana.com": {
+      "urls": [
+        "https://www.inewsguyana.com/feed/",
+        "https://inewsguyana.com/feed/",
+        "https://inewsguyana.com/comments/feed/",
+        "https://www.inewsguyana.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 333,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:26.320Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hgptv.com": {
+      "urls": [
+        "https://hgptv.com/feed/",
+        "https://www.hgptv.com/feed/",
+        "https://hgptv.com/comments/feed/",
+        "https://www.hgptv.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1881,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:33.342Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guyanatimesgy.com": {
+      "urls": [
+        "https://guyanatimesgy.com/feed/",
+        "https://guyanatimesgy.com/comments/feed/",
+        "https://guyanatimesgy.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 75,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:23.815Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mtvgy.com": {
+      "urls": [
+        "https://www.mtvgy.com/blog-feed.xml",
+        "https://www.mtvgy.com/es/blog-feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 402,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:33.957Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newssourcegy.com": {
+      "urls": [
+        "https://newssourcegy.com/feed/",
+        "https://newssourcegy.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1301,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:27.639Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guyanachronicle.com": {
+      "urls": [
+        "https://guyanachronicle.com/feed/",
+        "https://guyanachronicle.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1329,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:23.732Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "exploreguyana.org": {
+      "urls": [
+        "https://exploreguyana.org/feed/",
+        "https://exploreguyana.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1602,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:35.561Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "guyanainquirer.com": {
+      "urls": [
+        "http://guyanainquirer.com/feed/",
+        "https://guyanainquirer.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1708,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:29.348Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guyanagraphic.com": {
+      "urls": [
+        "http://www.guyanagraphic.com/rss.xml",
+        "https://guyanagraphic.com/feed/",
+        "https://www.guyanagraphic.com/feed/",
+        "https://guyanagraphic.com/comments/feed/",
+        "https://www.guyanagraphic.com/comments/feed/",
+        "https://www.guyanagraphic.com/columns-blogs/john-gimlettes-voyages/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:19.002Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "stabroeknews.com": {
+      "urls": [
+        "https://www.stabroeknews.com/feed/",
+        "http://www.stabroeknews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:21.752Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "guyanapress.com": {
+      "urls": [
+        "https://guyanapress.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:19.742Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ncnguyana.com": {
+      "urls": [
+        "https://ncnguyana.com/2023/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:31.308Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "country_code": "JM",
+  "language_code": "EN",
+  "total_domains": 13,
+  "total_feeds": 125,
+  "feeds": {
+    "jis.gov.jm": {
+      "urls": [
+        "https://jis.gov.jm/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1328,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:14.259Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "go-jamaica.com": {
+      "urls": [
+        "http://www.go-jamaica.com/news/feed/news.xml",
+        "https://jamaica-gleaner.com/feed/news.xml",
+        "https://jamaica-gleaner.com/feed/rss.xml",
+        "https://jamaica-gleaner.com/feed/sports.xml",
+        "http://jamaica-gleaner.com/feed/news.xml",
+        "https://jamaica-gleaner.com/feed/int.xml",
+        "https://jamaica-gleaner.com/feed/ent.xml",
+        "http://jamaica-star.com/feed/news.xml",
+        "http://www.sportsjamaica.com/feed/sj2.rss",
+        "https://jamaica-gleaner.com/feed/business.xml",
+        "https://jamaica-gleaner.com/feed/letters.xml",
+        "https://jamaica-gleaner.com/feed/social.xml",
+        "https://jamaica-gleaner.com/feed/arts.xml",
+        "https://jamaica-gleaner.com/feed/carib.xml",
+        "https://jamaica-gleaner.com/feed/flair.xml",
+        "https://jamaica-gleaner.com/feed/focus.xml",
+        "http://jamaica-gleaner.com/feed/business.xml",
+        "http://jamaica-star.com/feed/sports.xml",
+        "http://jamaica-gleaner.com/feed/int.xml",
+        "http://jamaica-gleaner.com/feed/letters.xml",
+        "http://jamaica-gleaner.com/feed/sports.xml",
+        "http://jamaica-gleaner.com/feed/ent.xml",
+        "http://jamaica-star.com/feed/ent.xml",
+        "http://jamaica-gleaner.com/feed/carib.xml",
+        "http://jamaica-gleaner.com/feed/social.xml",
+        "http://jamaica-star.com/feed/pastor.xml",
+        "http://jamaica-gleaner.com/feed/arts.xml",
+        "http://jamaica-gleaner.com/feed/flair.xml",
+        "http://jamaica-gleaner.com/feed/focus.xml",
+        "http://jamaica-star.com/feed/cleisure.xml",
+        "http://jamaica-star.com/feed/features.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1207,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:07.121Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jamaica-gleaner.com": {
+      "urls": [
+        "https://jamaica-gleaner.com/feed/news.xml",
+        "https://jamaica-gleaner.com/feed/rss.xml",
+        "http://jamaica-gleaner.com/feed/rss.xml",
+        "https://jamaica-gleaner.com/feed/sports.xml",
+        "http://jamaica-gleaner.com/feed/news.xml",
+        "https://jamaica-gleaner.com/feed/int.xml",
+        "https://jamaica-gleaner.com/feed/ent.xml",
+        "https://jamaica-gleaner.com/feed/business.xml",
+        "https://jamaica-gleaner.com/feed/letters.xml",
+        "https://jamaica-gleaner.com/feed/social.xml",
+        "https://jamaica-gleaner.com/feed/arts.xml",
+        "https://jamaica-gleaner.com/feed/carib.xml",
+        "https://jamaica-gleaner.com/feed/flair.xml",
+        "https://jamaica-gleaner.com/feed/focus.xml",
+        "http://jamaica-gleaner.com/feed/business.xml",
+        "http://jamaica-gleaner.com/feed/int.xml",
+        "http://jamaica-gleaner.com/feed/letters.xml",
+        "http://jamaica-gleaner.com/feed/sports.xml",
+        "http://jamaica-gleaner.com/feed/ent.xml",
+        "http://jamaica-gleaner.com/feed/carib.xml",
+        "http://jamaica-gleaner.com/feed/social.xml",
+        "http://jamaica-gleaner.com/feed/arts.xml",
+        "http://jamaica-gleaner.com/feed/flair.xml",
+        "http://jamaica-gleaner.com/feed/focus.xml",
+        "http://jamaica-star.com/feed/news.xml",
+        "http://www.sportsjamaica.com/feed/sj2.rss",
+        "http://jamaica-star.com/feed/sports.xml",
+        "http://jamaica-star.com/feed/ent.xml",
+        "http://jamaica-star.com/feed/pastor.xml",
+        "http://jamaica-star.com/feed/cleisure.xml",
+        "http://jamaica-star.com/feed/features.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2633,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:00.332Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jamaica-star.com": {
+      "urls": [
+        "http://jamaica-star.com/feed/news.xml",
+        "http://jamaica-star.com/feed/sports.xml",
+        "http://jamaica-star.com/feed/ent.xml",
+        "http://jamaica-star.com/feed/pastor.xml",
+        "http://jamaica-star.com/feed/cleisure.xml",
+        "http://jamaica-star.com/feed/features.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 894,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:03.010Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jamaicans.com": {
+      "urls": [
+        "https://jamaicans.com/videos/feed/",
+        "https://jamaicans.com/feed/",
+        "https://jamaicans.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 983,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:05.593Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jamaicainquirer.com": {
+      "urls": [
+        "https://jamaicainquirer.com/feed/",
+        "http://www.jamaicainquirer.com/feed/",
+        "http://www.jamaicainquirer.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1562,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:11.085Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mckoysnews.com": {
+      "urls": [
+        "https://mckoysnews.com/feed/",
+        "https://mckoysnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1027,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:09.036Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kaboommag.com": {
+      "urls": [
+        "https://www.kaboommag.com/blog-feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 441,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:29.234Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jamaicaobserver.com": {
+      "urls": [
+        "https://www.jamaicaobserver.com/rssfeed/business/",
+        "https://www.jamaicaobserver.com/rssfeed/news/",
+        "https://www.jamaicaobserver.com/rss/latest/",
+        "https://www.jamaicaobserver.com/rss/news/",
+        "https://www.jamaicaobserver.com/rssfeed/environment/",
+        "http://www.jamaicaobserver.com/rss/career/",
+        "http://www.jamaicaobserver.com/rss/sport/",
+        "https://www.jamaicaobserver.com/rss/business/",
+        "https://www.jamaicaobserver.com/rss/columns/",
+        "https://www.jamaicaobserver.com/rss/editorial/",
+        "https://www.jamaicaobserver.com/rss/entertainment/",
+        "https://www.jamaicaobserver.com/rss/sport/",
+        "https://www.jamaicaobserver.com/rss/allwoman/",
+        "https://www.jamaicaobserver.com/rss/auto/",
+        "https://www.jamaicaobserver.com/rss/career/",
+        "https://www.jamaicaobserver.com/rss/environment/",
+        "https://www.jamaicaobserver.com/rss/food/",
+        "https://www.jamaicaobserver.com/rss/letters/",
+        "https://www.jamaicaobserver.com/rss/lifestyle/",
+        "https://www.jamaicaobserver.com/rss/westernnews/",
+        "http://www.jamaicaobserver.com/rss/business/",
+        "http://www.jamaicaobserver.com/rss/lifestyle/",
+        "http://www.jamaicaobserver.com/rss/news/",
+        "https://www.jamaicaobserver.com/rss/",
+        "http://www.jamaicaobserver.com/rss/columns/",
+        "http://www.jamaicaobserver.com/rss/editorial/",
+        "http://www.jamaicaobserver.com/rss/entertainment/",
+        "http://www.jamaicaobserver.com/rss/letters/",
+        "http://www.jamaicaobserver.com/rss/allwoman/",
+        "http://www.jamaicaobserver.com/rss/auto/",
+        "http://www.jamaicaobserver.com/rss/westernnews/",
+        "https://www.jamaicaobserver.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-02-01T01:29:02.114Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "westernmirror.com": {
+      "urls": [
+        "https://www.westernmirror.com/index.php/feed/",
+        "https://www.westernmirror.com/index.php/home/feed/",
+        "http://www.westernmirror.com/index.php/feed/",
+        "http://www.westernmirror.com/index.php/home/feed/",
+        "https://www.westernmirror.com/index.php/comments/feed/",
+        "http://www.westernmirror.com/index.php/comments/feed/",
+        "http://westernmirror.com/?feed=rss2",
+        "http://westernmirror.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:04.590Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "radiojamaicanewsonline.com": {
+      "urls": [
+        "https://radiojamaicanewsonline.com/feed/business",
+        "https://radiojamaicanewsonline.com/feed/sports",
+        "https://radiojamaicanewsonline.com/feed/all",
+        "https://radiojamaicanewsonline.com/feed/news"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-02-01T01:29:24.305Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "northcoasttimesja.com": {
+      "urls": [
+        "https://northcoasttimesja.com/feed/",
+        "https://northcoasttimesja.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:12.931Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dancehallmag.com": {
+      "urls": [
+        "https://www.dancehallmag.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:29:28.793Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

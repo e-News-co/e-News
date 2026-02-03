@@ -1,0 +1,432 @@
+{
+  "country_code": "IN",
+  "language_code": "OR",
+  "total_domains": 27,
+  "total_feeds": 46,
+  "feeds": {
+    "odishatv.in": {
+      "urls": [
+        "https://odishatv.in/rss",
+        "https://odishatv.in/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 124,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:23.140Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sambad.in": {
+      "urls": [
+        "https://sambad.in/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 78,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:10.998Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "odishareporter.in": {
+      "urls": [
+        "https://odishareporter.in/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 126,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:19.320Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "argusnews.in": {
+      "urls": [
+        "http://argusnews.in/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 140,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:21.378Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sambadenglish.com": {
+      "urls": [
+        "https://sambadenglish.com/feed/",
+        "https://sambadenglish.com/rss",
+        "https://sambadenglish.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 73,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:22.982Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kalingatv.com": {
+      "urls": [
+        "https://kalingatv.com/feed/",
+        "https://kalingatv.com/webstories/feed/",
+        "https://kalingatv.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 514,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:25.444Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "pragativadi.com": {
+      "urls": [
+        "https://pragativadi.com/feed/",
+        "https://pragativadi.com/comments/feed/",
+        "https://pragativadi.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 589,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:11.602Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ameodia.com": {
+      "urls": [
+        "https://www.ameodia.com/feed/",
+        "https://www.ameodia.com/feed/atom/",
+        "https://www.ameodia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1990,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:36.545Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "preranaodia.com": {
+      "urls": [
+        "https://www.preranaodia.com/feed/",
+        "https://www.preranaodia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 85,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:36.633Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dinalipi.com": {
+      "urls": [
+        "https://www.dinalipi.com/feed/",
+        "https://www.dinalipi.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 271,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:11.883Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "eodishasamachar.com": {
+      "urls": [
+        "https://eodishasamachar.com/?feed=rss2",
+        "https://eodishasamachar.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 369,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:19.691Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "odishabhaskar.com": {
+      "urls": [
+        "https://odishabhaskar.com/feed/",
+        "https://odishabhaskar.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 519,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:12.836Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "orissapost.com": {
+      "urls": [
+        "https://www.orissapost.com/feed/",
+        "https://www.orissapost.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 538,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:13.558Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nandighoshatv.com": {
+      "urls": [
+        "https://nandighoshatv.com/feed/",
+        "https://nandighoshatv.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1016,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:26.462Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "orissadiary.com": {
+      "urls": [
+        "https://orissadiary.com/feed/",
+        "https://orissadiary.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1127,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:19.194Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "odisha.com": {
+      "urls": [
+        "https://www.odisha.com/feed/",
+        "https://www.odisha.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1238,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:21.238Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "odiapua.com": {
+      "urls": [
+        "https://odiapua.com/feed/",
+        "https://odiapua.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2034,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:15.682Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "naxatranews.com": {
+      "urls": [
+        "https://naxatranews.com/feed/",
+        "https://naxatranews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2661,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:34.150Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kanaknews.com": {
+      "urls": [
+        "https://kanaknews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 63,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:23.203Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "odishabytes.com": {
+      "urls": [
+        "https://odishabytes.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 72,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:22.642Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nitidinepaper.com": {
+      "urls": [
+        "https://www.nitidinepaper.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 393,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:16.075Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "odia.news18.com": {
+      "urls": [
+        "https://odia.news18.com/commonfeeds/v1/odi/rss/latest.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 401,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:34.551Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "samayaepaper.com": {
+      "urls": [
+        "https://www.samayaepaper.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 431,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:12.314Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sakalaepaper.com": {
+      "urls": [
+        "https://www.sakalaepaper.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 454,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:16.529Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ommcomnews.com": {
+      "urls": [
+        "http://ommcomnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1191,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:22.569Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "prameyanews7.com": {
+      "urls": [
+        "http://prameyanews7.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1722,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:24.925Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sarbasadharana.com": {
+      "urls": [
+        "http://sarbasadharana.com/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:18.064Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

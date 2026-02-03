@@ -1,0 +1,72 @@
+{
+  "country_code": "GD",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 8,
+  "feeds": {
+    "gbn.gd": {
+      "urls": [
+        "https://gbn.gd/feed/",
+        "http://gbn.gd/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2805,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:27.858Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thenewtodaygrenada.com": {
+      "urls": [
+        "https://www.thenewtodaygrenada.com/feed/",
+        "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "http://rss.cnn.com/rss/edition.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1427,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:33.513Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thegrenadainformer.com": {
+      "urls": [
+        "https://thegrenadainformer.com/feed/",
+        "https://thegrenadainformer.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1533,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:31.466Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "spicegrenada.com": {
+      "urls": [
+        "https://spicegrenada.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:29.930Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

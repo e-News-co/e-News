@@ -1,0 +1,452 @@
+{
+  "country_code": "KH",
+  "language_code": "OR",
+  "total_domains": 16,
+  "total_feeds": 220,
+  "feeds": {
+    "tvk.gov.kh": {
+      "urls": [
+        "https://www.tvk.gov.kh/?feed=rss2",
+        "https://www.tvk.gov.kh/feed/",
+        "https://www.tvk.gov.kh/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 692,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:54.005Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bayontv.com.kh": {
+      "urls": [
+        "https://bayontv.com.kh/feed/",
+        "https://bayontv.com.kh/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1955,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:55.963Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kohsantepheapdaily.com.kh": {
+      "urls": [
+        "https://kohsantepheapdaily.com.kh/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 392,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:23.944Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cen.com.kh": {
+      "urls": [
+        "https://cen.com.kh/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 560,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:27.631Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ladies.com.kh": {
+      "urls": [
+        "https://ladies.com.kh/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2185,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:58.148Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cnv.org.kh": {
+      "urls": [
+        "http://cnv.org.kh/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:38.759Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rfi.fr": {
+      "urls": [
+        "https://www.rfi.fr/fr/podcasts/podcast",
+        "https://www.rfi.fr/fr/rss",
+        "https://www.rfi.fr/fr/podcasts/r%C3%A9sistance/podcast",
+        "https://www.rfi.fr/tw/rss",
+        "https://www.rfi.fr/uk/rss",
+        "https://www.rfi.fr/ro/rss",
+        "https://www.rfi.fr/br/rss",
+        "https://www.rfi.fr/fr/afrique/rss",
+        "https://www.rfi.fr/ru/rss",
+        "http://www.rfi.fr/fr/rss",
+        "https://www.rfi.fr/vi/rss",
+        "https://www.rfi.fr/es/rss",
+        "https://www.rfi.fr/fa/rss",
+        "https://www.rfi.fr/km/rss",
+        "https://www.rfi.fr/en/rss",
+        "https://www.rfi.fr/fr/am%C3%A9riques/rss",
+        "https://www.rfi.fr/fr/moyen-orient/rss",
+        "https://www.rfi.fr/fr/culture-m%C3%A9dias/rss",
+        "https://www.rfi.fr/fr/europe/rss",
+        "https://www.rfi.fr/fr/%C3%A9conomie/rss",
+        "https://www.rfi.fr/fr/france/rss",
+        "https://musique.rfi.fr/actu-musique/rss",
+        "https://www.rfi.fr/fr/afrique-foot/rss",
+        "https://www.rfi.fr/fr/asie-pacifique/rss",
+        "https://www.rfi.fr/fr/sports/rss",
+        "https://www.rfi.fr/ha/rss",
+        "https://www.rfi.fr/sw/rss",
+        "https://www.rfi.fr/fr/sciences/rss",
+        "https://francaisfacile.rfi.fr/ar/podcasts/s%C3%A9lection/rss",
+        "https://francaisfacile.rfi.fr/en/podcasts/s%C3%A9lection/rss",
+        "https://francaisfacile.rfi.fr/fr/podcasts/s%C3%A9lection/rss",
+        "https://www.rfi.fr/fr/tag/connaissances-podcasts/rss",
+        "https://www.rfi.fr/fr/tag/les-chroniques-de-priorit%C3%A9-sant%C3%A9/rss",
+        "https://www.rfi.fr/fr/tag/lgbt/rss",
+        "http://www.rfi.fr/fr/culture-m%C3%A9dias/rss",
+        "http://www.rfi.fr/fr/france/rss",
+        "https://www.rfi.fr/fr/podcasts/diank%C3%A9/podcast",
+        "https://www.rfi.fr/en/podcasts/podcast",
+        "https://www.rfi.fr/fr/podcasts/contes-%C3%A0-%C3%A9couter/podcast",
+        "https://www.rfi.fr/fr/podcasts/dans-l-intimit%C3%A9-des-dictateurs/podcast",
+        "https://www.rfi.fr/fr/podcasts/dans-la-peau/podcast",
+        "http://www.rfi.fr/fr/afrique/rss",
+        "https://www.rfi.fr/fr/podcasts/appels-actualit%C3%A9/podcast",
+        "https://www.rfi.fr/fr/podcasts/basquiat-un-ticket-pour-l-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/can-chronique-de-joseph-antoine-bell/podcast",
+        "https://www.rfi.fr/fr/podcasts/palestiniens/podcast",
+        "https://www.rfi.fr/fr/podcasts/reportage-international/podcast",
+        "https://francaisfacile.rfi.fr/fr/podcasts/journal-en-fran%C3%A7ais-facile/podcast",
+        "https://francaisfacile.rfi.fr/fr/podcasts/la-puce-%C3%A0-l-oreille/podcast",
+        "https://francaisfacile.rfi.fr/fr/podcasts/les-mots-des-jo/podcast",
+        "https://francaisfacile.rfi.fr/ru/podcasts/journal-en-fran%C3%A7ais-facile/podcast",
+        "https://www.rfi.fr/br/podcasts/aprenda-franc%C3%AAs-com-a-s%C3%A9rie-de-podcast-bil%C3%ADngue-les-voisins-du-12-bis/podcast",
+        "https://www.rfi.fr/en/podcasts/africa-stories-55/podcast",
+        "https://www.rfi.fr/en/podcasts/international-report/podcast",
+        "https://www.rfi.fr/en/podcasts/mid-east-junction/podcast",
+        "https://www.rfi.fr/en/podcasts/paris-live/podcast",
+        "https://www.rfi.fr/en/podcasts/sound-kitchen/podcast",
+        "https://www.rfi.fr/en/podcasts/spotlight-africa/podcast",
+        "https://www.rfi.fr/en/podcasts/spotlight-france/podcast",
+        "https://www.rfi.fr/es/programas/noticias-america/podcast",
+        "https://www.rfi.fr/fr/podcasts/%C3%A7a-fait-d%C3%A9bat-wathi/podcast",
+        "https://www.rfi.fr/fr/podcasts/%C3%A9co-ici-%C3%A9co-ailleurs/podcast",
+        "https://www.rfi.fr/fr/podcasts/%C3%A9couter-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/%C3%A9pop%C3%A9e-musiques-noires/podcast",
+        "https://www.rfi.fr/fr/podcasts/100-pourcent-cr%C3%A9ation/podcast",
+        "https://www.rfi.fr/fr/podcasts/40-ans-rap-fran%C3%A7ais/podcast",
+        "https://www.rfi.fr/fr/podcasts/7-milliards-voisins/podcast",
+        "https://www.rfi.fr/fr/podcasts/8-milliards-voisins/podcast",
+        "https://www.rfi.fr/fr/podcasts/accents-europe/podcast",
+        "https://www.rfi.fr/fr/podcasts/accents-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/podcast",
+        "https://www.rfi.fr/fr/podcasts/afrique-m%C3%A9moires-d-un-continent/podcast",
+        "https://www.rfi.fr/fr/podcasts/afrique-marche/podcast",
+        "https://www.rfi.fr/fr/podcasts/afro-club-le-hit-des-platines/podcast",
+        "https://www.rfi.fr/fr/podcasts/afrofuturismes/podcast",
+        "https://www.rfi.fr/fr/podcasts/agenda-culture-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/alors-on-dit-quoi/podcast",
+        "https://www.rfi.fr/fr/podcasts/archives-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/atelier-m%C3%A9dias/podcast",
+        "https://www.rfi.fr/fr/podcasts/aujourd-hui-%C3%A9conomie-portrait/podcast",
+        "https://www.rfi.fr/fr/podcasts/aujourd-hui-%C3%A9conomie/podcast",
+        "https://www.rfi.fr/fr/podcasts/bas-les-pattes/podcast",
+        "https://www.rfi.fr/fr/podcasts/bonnes-pulsations-du-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/c-est-nature/podcast",
+        "https://www.rfi.fr/fr/podcasts/can-2024-la-chronique-de-joseph-antoine-bell/podcast",
+        "https://www.rfi.fr/fr/podcasts/carnet-de-sant%C3%A9/podcast",
+        "https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/podcast",
+        "https://www.rfi.fr/fr/podcasts/carrefour-europe/podcast",
+        "https://www.rfi.fr/fr/podcasts/cest-la-vie/podcast",
+        "https://www.rfi.fr/fr/podcasts/cest-pas-du-vent/podcast",
+        "https://www.rfi.fr/fr/podcasts/changer-d-air/podcast",
+        "https://www.rfi.fr/fr/podcasts/chemins-d-%C3%A9criture/podcast",
+        "https://www.rfi.fr/fr/podcasts/chronique-m%C3%A9dias/podcast",
+        "https://www.rfi.fr/fr/podcasts/chronique-mati%C3%A8res-premi%C3%A8res/podcast",
+        "https://www.rfi.fr/fr/podcasts/chronique-transports/podcast",
+        "https://www.rfi.fr/fr/podcasts/chroniques-confinement/podcast",
+        "https://www.rfi.fr/fr/podcasts/ciel-d-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/cin%C3%A9astes-d-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/conseil-sant%C3%A9/podcast",
+        "https://www.rfi.fr/fr/podcasts/couleurs-tropicales/podcast",
+        "https://www.rfi.fr/fr/podcasts/coulisses-cr%C3%A9ation/podcast",
+        "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-africain/podcast",
+        "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-jour/podcast",
+        "https://www.rfi.fr/fr/podcasts/d%C3%A9cryptage/podcast",
+        "https://www.rfi.fr/fr/podcasts/des-refrains-pour-l-histoire/podcast",
+        "https://www.rfi.fr/fr/podcasts/en-sol-majeur/podcast",
+        "https://www.rfi.fr/fr/podcasts/enqu%C3%AAtes-africaines/podcast",
+        "https://www.rfi.fr/fr/podcasts/ensemble-%C3%A0-la-maison/podcast",
+        "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/podcast",
+        "https://www.rfi.fr/fr/podcasts/go%C3%BBt-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/grand-reportage/podcast",
+        "https://www.rfi.fr/fr/podcasts/grandes-voix-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/id%C3%A9es/podcast",
+        "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/podcast",
+        "https://www.rfi.fr/fr/podcasts/invit%C3%A9-mi-journ%C3%A9e/podcast",
+        "https://www.rfi.fr/fr/podcasts/journal-fran%C3%A7ais-facile/podcast",
+        "https://www.rfi.fr/fr/podcasts/journal-ha%C3%AFti-am%C3%A9riques/podcast",
+        "https://www.rfi.fr/fr/podcasts/journal-sports/podcast",
+        "https://www.rfi.fr/fr/podcasts/koze-kilti/podcast",
+        "https://www.rfi.fr/fr/podcasts/l%C3%A9gendes-urbaines/podcast",
+        "https://www.rfi.fr/fr/podcasts/l-assassinat-de-laurent-d%C3%A9sir%C3%A9-kabila-un-thriller-congolais/podcast",
+        "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/les-rendez-vous-imaginaires-de-l%C3%A9t%C3%A9/podcast",
+        "https://www.rfi.fr/fr/podcasts/lignes-d%C3%A9fense/podcast",
+        "https://www.rfi.fr/fr/podcasts/litt%C3%A9rature-fronti%C3%A8res/podcast",
+        "https://www.rfi.fr/fr/podcasts/livre-international/podcast",
+        "https://www.rfi.fr/fr/podcasts/mali-l-histoire-d-une-crise/podcast",
+        "https://www.rfi.fr/fr/podcasts/marche-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/microf-r-iction/podcast",
+        "https://www.rfi.fr/fr/podcasts/mondial-sports/podcast",
+        "https://www.rfi.fr/fr/podcasts/musiques-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/ondes-africaines/podcast",
+        "https://www.rfi.fr/fr/podcasts/ondes-de-choc/podcast",
+        "https://www.rfi.fr/fr/podcasts/politique-choix-semaine/podcast",
+        "https://www.rfi.fr/fr/podcasts/pourquoi-rfi-dit-%C3%A7a/podcast",
+        "https://www.rfi.fr/fr/podcasts/priorit%C3%A9-sant%C3%A9/podcast",
+        "https://www.rfi.fr/fr/podcasts/radio-foot-internationale/podcast",
+        "https://www.rfi.fr/fr/podcasts/religions-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/reportage-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/reportage-france/podcast",
+        "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/podcast",
+        "https://www.rfi.fr/fr/podcasts/revue-presse-afrique/podcast",
+        "https://www.rfi.fr/fr/podcasts/revue-presse-fran%C3%A7aise/podcast",
+        "https://www.rfi.fr/fr/podcasts/rfi-concerts/podcast",
+        "https://www.rfi.fr/fr/podcasts/semaine-actualit%C3%A9/podcast",
+        "https://www.rfi.fr/fr/podcasts/sous-les-toits-du-monde/podcast",
+        "https://www.rfi.fr/fr/podcasts/sur-le-pont-des-arts/podcast",
+        "https://www.rfi.fr/fr/podcasts/traverser-le-vent/podcast",
+        "https://www.rfi.fr/fr/podcasts/un-jour-au-village/podcast",
+        "https://www.rfi.fr/fr/podcasts/une-presse-cette-semaine-kinshasa/podcast",
+        "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/podcast",
+        "https://www.rfi.fr/fr/podcasts/vous-men-direz-nouvelles/podcast",
+        "https://www.rfi.fr/fr/podcasts/washington-dici/podcast",
+        "http://www.rfi.fr/fr/europe/rss",
+        "http://www.rfi.fr/fr/sciences/rss",
+        "http://www.rfi.fr/fr/am%C3%A9riques/rss",
+        "http://www.rfi.fr/fr/%C3%A9conomie/rss",
+        "http://www.rfi.fr/fr/asie-pacifique/rss",
+        "https://www.rfi.fr/fr/podcasts/alter-ego/podcast",
+        "http://www.rfi.fr/fr/moyen-orient/rss",
+        "http://www.rfi.fr/fr/afrique-foot/rss",
+        "http://www.rfi.fr/fr/podcasts/appels-actualit%C3%A9/podcast",
+        "http://www.rfi.fr/fr/podcasts/journal-fran%C3%A7ais-facile/podcast",
+        "http://www.rfi.fr/fr/podcasts/revue-presse-fran%C3%A7aise/podcast",
+        "http://www.rfi.fr/fr/sports/rss",
+        "http://www.rfi.fr/fr/podcasts/accents-europe/podcast",
+        "http://www.rfi.fr/fr/podcasts/accents-monde/podcast",
+        "http://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/podcast",
+        "http://www.rfi.fr/fr/podcasts/afrofuturismes/podcast",
+        "http://www.rfi.fr/fr/podcasts/atelier-m%C3%A9dias/podcast",
+        "http://www.rfi.fr/fr/podcasts/aujourd-hui-%C3%A9conomie-portrait/podcast",
+        "http://www.rfi.fr/fr/podcasts/aujourd-hui-%C3%A9conomie/podcast",
+        "http://www.rfi.fr/fr/podcasts/cest-la-vie/podcast",
+        "http://www.rfi.fr/fr/podcasts/chronique-m%C3%A9dias/podcast",
+        "http://www.rfi.fr/fr/podcasts/chronique-transports/podcast",
+        "http://www.rfi.fr/fr/podcasts/chroniques-confinement/podcast",
+        "http://www.rfi.fr/fr/podcasts/journal-ha%C3%AFti-am%C3%A9riques/podcast",
+        "http://www.rfi.fr/fr/podcasts/revue-presse-afrique/podcast",
+        "http://www.rfi.fr/fr/podcasts/vivre-ailleurs/podcast"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 912,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:51.393Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "voacambodia.com": {
+      "urls": [
+        "https://www.voacambodia.com/api/",
+        "https://www.voacambodia.com/api/zumkyep$kt",
+        "https://www.voacambodia.com/podcast/",
+        "https://www.voacambodia.com/podcast/video.aspx",
+        "https://www.voacambodia.com/podcast/video.aspx/",
+        "https://khmer.voanews.com/api/",
+        "https://khmer.voanews.com/podcast/",
+        "https://khmer.voanews.com/podcast/video.aspx"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 817,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:50.364Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nokorwatnews.com": {
+      "urls": [
+        "http://nokorwatnews.com/feed",
+        "http://nokorwatnews.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 544,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:48.788Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cambojanews.com": {
+      "urls": [
+        "https://cambojanews.com/feed/",
+        "https://cambojanews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 692,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:27.071Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dap-news.com": {
+      "urls": [
+        "https://dap-news.com/feed/atom/",
+        "https://dap-news.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1095,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:28.729Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kampucheathmey.com": {
+      "urls": [
+        "https://www.kampucheathmey.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 370,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:24.457Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vodkhmer.news": {
+      "urls": [
+        "http://vodkhmer.news/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 654,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:49.442Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cambodiadaily.com": {
+      "urls": [
+        "https://www.cambodiadaily.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1739,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:26.197Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rfa.org": {
+      "urls": [
+        "https://www.rfa.org/english/podcasts/atom.xml",
+        "https://www.rfa.org/english/atom.xml",
+        "https://www.rfa.org/english/rss2.xml",
+        "https://www.rfa.org/mandarin/yataibaodao/podcast.xml",
+        "https://www.rfa.org/arc/outboundfeeds/burmese/rss/",
+        "https://www.rfa.org/english/feed/RSS",
+        "https://www.rfa.org/arc/outboundfeeds/english/rss/",
+        "https://www.rfa.org/arc/outboundfeeds/mandarin/rss/",
+        "https://www.rfa.org/arc/outboundfeeds/vietnamese/rss/",
+        "https://www.rfa.org/english/news/vietnam_news/RSS",
+        "https://www.rfa.org/english/news/chinese-news/RSS",
+        "https://www.rfa.org/english/news/burma_news/RSS",
+        "https://www.rfa.org/english/news/cambodia_news/RSS"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:53.133Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "phnompenhpost.com": {
+      "urls": [
+        "https://www.phnompenhpost.com/news-feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:24.087Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

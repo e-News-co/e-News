@@ -1,0 +1,54 @@
+{
+  "country_code": "GI",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 4,
+  "feeds": {
+    "vox.gi": {
+      "urls": [
+        "http://vox.gi/cms/?format=feed&type=atom",
+        "http://vox.gi/cms/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 619,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:15.508Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "panorama.gi": {
+      "urls": [
+        "http://www.gibraltarpanorama.gi/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 20,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:14.888Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "chronicle.gi": {
+      "urls": [
+        "https://www.chronicle.gi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2177,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:14.544Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

@@ -1,0 +1,1312 @@
+{
+  "country_code": "ID",
+  "language_code": "EN",
+  "total_domains": 55,
+  "total_feeds": 534,
+  "feeds": {
+    "bengkuluekspress.disway.id": {
+      "urls": [
+        "https://bengkuluekspress.disway.id/rss/advertorial",
+        "https://bengkuluekspress.disway.id/rss/bengkulu-selatan",
+        "https://bengkuluekspress.disway.id/rss/bengkulu-tengah",
+        "https://bengkuluekspress.disway.id/rss/bengkulu-utara",
+        "https://bengkuluekspress.disway.id/rss/bisnis",
+        "https://bengkuluekspress.disway.id/rss/daerah",
+        "https://bengkuluekspress.disway.id/rss/ekonomi",
+        "https://bengkuluekspress.disway.id/rss/event",
+        "https://bengkuluekspress.disway.id/rss/fiksi",
+        "https://bengkuluekspress.disway.id/rss/headline",
+        "https://bengkuluekspress.disway.id/rss/hiburan",
+        "https://bengkuluekspress.disway.id/rss/honda",
+        "https://bengkuluekspress.disway.id/rss/inspirasi",
+        "https://bengkuluekspress.disway.id/rss/internasional",
+        "https://bengkuluekspress.disway.id/rss/kasus-dan-peristiwa",
+        "https://bengkuluekspress.disway.id/rss/kaur",
+        "https://bengkuluekspress.disway.id/rss/kepahiang",
+        "https://bengkuluekspress.disway.id/rss/kesehatan",
+        "https://bengkuluekspress.disway.id/rss/lebong",
+        "https://bengkuluekspress.disway.id/rss/lembak-linggau-mura",
+        "https://bengkuluekspress.disway.id/rss/lifestyle",
+        "https://bengkuluekspress.disway.id/rss/mukomuko",
+        "https://bengkuluekspress.disway.id/rss/nasional",
+        "https://bengkuluekspress.disway.id/rss/opini",
+        "https://bengkuluekspress.disway.id/rss/otomotif",
+        "https://bengkuluekspress.disway.id/rss/pendidikan",
+        "https://bengkuluekspress.disway.id/rss/politik",
+        "https://bengkuluekspress.disway.id/rss/properti",
+        "https://bengkuluekspress.disway.id/rss/rejang-lebong",
+        "https://bengkuluekspress.disway.id/rss/seluma",
+        "https://bengkuluekspress.disway.id/rss/seputar-kota",
+        "https://bengkuluekspress.disway.id/rss/sport",
+        "https://bengkuluekspress.disway.id/rss/tekno",
+        "https://bengkuluekspress.disway.id/rss/video",
+        "https://bengkuluekspress.disway.id/rss/wanita",
+        "https://bengkuluekspress.disway.id/rss/wisata-bengkulu",
+        "https://bengkuluekspress.disway.id/rss/wisata-kuliner",
+        "https://bengkuluekspress.disway.id/rss/wonderful-indonesia",
+        "https://bengkuluekspress.disway.id/rss/yamaha"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 813,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:56.100Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "viva.co.id": {
+      "urls": [
+        "https://www.viva.co.id/get/all",
+        "https://www.viva.co.id/get/nasional",
+        "https://www.viva.co.id/get/blog",
+        "https://www.viva.co.id/get/budaya",
+        "https://www.viva.co.id/get/entertainment",
+        "https://www.viva.co.id/get/international",
+        "https://www.viva.co.id/get/kesehatan",
+        "https://www.viva.co.id/get/lainnya",
+        "https://www.viva.co.id/get/lifestyle",
+        "https://www.viva.co.id/get/santap",
+        "https://www.viva.co.id/get/sastra",
+        "https://www.viva.co.id/get/sosial",
+        "https://www.viva.co.id/get/teknologi",
+        "https://www.viva.co.id/get/tips-blog"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 186,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:53.356Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "republika.co.id": {
+      "urls": [
+        "https://www.republika.co.id/rss",
+        "https://www.republika.co.id:443/rss",
+        "https://www.republika.co.id/rss/",
+        "https://www.republika.co.id/rss/ekonomi/",
+        "https://www.republika.co.id:443/rss/trendtek",
+        "https://www.republika.co.id:443/rss/dunia-islam",
+        "https://www.republika.co.id/rss/dunia-islam/khazanah",
+        "https://www.republika.co.id:443/rss/dunia-islam/khazanah",
+        "https://www.republika.co.id/rss/video",
+        "https://www.republika.co.id/rss/internasional/",
+        "https://www.republika.co.id/rss/dunia-islam/hikmah",
+        "https://www.republika.co.id:443/rss/dunia-islam/hikmah"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 566,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:36.608Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "indonesiaexpat.id": {
+      "urls": [
+        "https://indonesiaexpat.id/feed/",
+        "https://indonesiaexpat.id/tag/indonesia-in-depth-podcast/feed/",
+        "https://indonesiaexpat.id/tag/podcast-indonesia/feed/",
+        "https://indonesiaexpat.id/tag/podcast/feed/",
+        "https://indonesiaexpat.id/video/podcast/feed/",
+        "https://indonesiaexpat.id/video/podcast/indonesia-in-depth/feed/",
+        "https://indonesiaexpat.id/video/podcast/sevenstones-indonesia/feed/",
+        "https://indonesiaexpat.id/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 869,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:14.531Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "daman.co.id": {
+      "urls": [
+        "https://daman.co.id/feed/",
+        "https://daman.co.id/tag/fashion-blog/feed/",
+        "https://daman.co.id/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 387,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:15.173Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hariansinggalang.co.id": {
+      "urls": [
+        "https://hariansinggalang.co.id/feed/",
+        "http://hariansinggalang.co.id/feed/",
+        "https://hariansinggalang.co.id/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 896,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:58.272Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nowjakarta.co.id": {
+      "urls": [
+        "https://www.nowjakarta.co.id/feed/",
+        "https://www.nowjakarta.co.id/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 424,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:02.773Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "radarbanten.co.id": {
+      "urls": [
+        "https://www.radarbanten.co.id/feed/",
+        "https://www.radarbanten.co.id/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 484,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:00.685Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "radarbogor.id": {
+      "urls": [
+        "https://www.radarbogor.id/feed/",
+        "https://www.radarbogor.id/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 634,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:01.321Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "makassar.terkini.id": {
+      "urls": [
+        "http://makassar.terkini.id/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 510,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:16.680Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kendaripos.fajar.co.id": {
+      "urls": [
+        "https://kendaripos.fajar.co.id/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 593,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:58.865Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "swa.co.id": {
+      "urls": [
+        "https://swa.co.id/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 718,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:21.084Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "harpersbazaar.co.id": {
+      "urls": [
+        "http://harpersbazaar.co.id/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 767,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:16.170Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "poskota.co.id": {
+      "urls": [
+        "https://www.poskota.co.id/rss/all.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 946,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:36.028Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fajar.co.id": {
+      "urls": [
+        "https://fajar.co.id/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1264,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:57.364Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "waspada.co.id": {
+      "urls": [
+        "https://waspada.co.id/feed/",
+        "https://waspada.co.id/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:55.083Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "batampos.co.id": {
+      "urls": [
+        "https://batampos.co.id/feed/",
+        "https://batampos.co.id/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:55.285Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "balipost.co.id": {
+      "urls": [
+        "http://www.balipost.co.id/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:34.344Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sinarharapan.co.id": {
+      "urls": [
+        "https://sinarharapan.co.id/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:36.632Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "msn.com": {
+      "urls": [
+        "https://www.mirror.co.uk/?service=rss",
+        "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss",
+        "https://www.mirror.co.uk/sport/football/?service=rss",
+        "https://www.infoworld.com/index.rss",
+        "https://blogs.msn.com/topic/events/feed/",
+        "https://blogs.msn.com/topic/featured/feed/",
+        "https://blogs.msn.com/topic/innovations/feed/",
+        "https://blogs.msn.com/topic/solutions/feed/",
+        "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
+        "https://blogs.msn.com/feed/",
+        "https://blogs.msn.com/author/bill-monroe/feed/",
+        "https://blogs.msn.com/author/chitralekha/feed/",
+        "https://blogs.msn.com/author/currrentlybill/feed/",
+        "https://blogs.msn.com/author/dave-kane/feed/",
+        "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
+        "https://blogs.msn.com/author/emily-falla/feed/",
+        "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
+        "https://blogs.msn.com/author/kun-chen/feed/",
+        "https://blogs.msn.com/author/lizz-callaway/feed/",
+        "https://blogs.msn.com/author/maria/feed/",
+        "https://blogs.msn.com/author/mrikank-varshney/feed/",
+        "https://blogs.msn.com/author/ovidan/feed/",
+        "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
+        "https://blogs.msn.com/author/taroon-mandhana/feed/",
+        "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
+        "https://blogs.msn.com/author/vera-chan/feed/",
+        "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
+        "https://www.computerweekly.com/rss/Enterprise-software.xml",
+        "https://www.computerweekly.com/rss/IT-security.xml",
+        "https://www.computerweekly.com/rss/Networking-and-communication.xml",
+        "https://www.computerweekly.com/rss/ContentSyndication.xml",
+        "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
+        "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
+        "https://www.computerweekly.com/rss/Internet-technology.xml",
+        "https://www.telegraph.co.uk/business/rss.xml",
+        "https://www.telegraph.co.uk/cars/rss.xml",
+        "https://www.telegraph.co.uk/food-and-drink/rss.xml",
+        "https://www.telegraph.co.uk/news/rss.xml",
+        "https://www.theguardian.com/world/rss",
+        "https://www.theguardian.com/podcasts/rss",
+        "https://www.theguardian.com/uk/rss",
+        "https://www.theguardian.com/us/rss",
+        "https://www.theguardian.com/sport/blog/rss",
+        "https://www.infoworld.com/feed/",
+        "https://www.theguardian.com/football/who-scored-blog/rss",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+        "http://www.rssmix.com/u/11743304/rss.xml",
+        "https://blogs.windows.com/msedgedev/feed/",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
+        "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
+        "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/podcast.xml",
+        "https://www.theguardian.com/football/series/footballweekly/podcast.xml",
+        "https://www.theguardian.com/football/series/theguardianswomensfootballweekly/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/weekend/podcast.xml",
+        "https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml",
+        "https://www.theguardian.com/news/series/todayinfocus/podcast.xml",
+        "https://www.theguardian.com/politics/series/politics-weekly-america/podcast.xml",
+        "https://www.theguardian.com/politics/series/politicsweekly/podcast.xml",
+        "https://www.theguardian.com/science/series/science/podcast.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml",
+        "https://blogs.windows.com/msedgedev/author/katherine-gan/feed/",
+        "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
+        "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
+        "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
+        "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
+        "https://blogs.windows.com/msedgedev/author/rogercapriotti/feed/",
+        "https://blogs.windows.com/msedgedev/author/sean-lyndersay/feed/",
+        "https://blogs.windows.com/msedgedev/author/vinithra-rajendran/feed/",
+        "https://blogs.windows.com/msedgedev/tag/performance/feed/",
+        "https://blogs.windows.com/msedgedev/tag/pwa/feed/",
+        "https://blogs.windows.com/msedgedev/tag/web-platform/feed/",
+        "https://blogs.windows.com/feed/",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml",
+        "https://blogs.windows.com/devices/feed/",
+        "https://blogs.windows.com/windowsdeveloper/feed/",
+        "https://blogs.windows.com/windowsexperience/feed/",
+        "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
+        "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
+        "https://blogs.windows.com/devices/author/sandraandrews/feed/",
+        "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
+        "https://blogs.windows.com/devices/tag/education/feed/",
+        "https://blogs.windows.com/devices/tag/surface-copilot-pcs/feed/",
+        "https://blogs.windows.com/devices/tag/surface/feed/",
+        "https://blogs.windows.com/devices/tag/windows-11/feed/",
+        "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
+        "https://blogs.windows.com/windows-insider/author/amandamc/feed/",
+        "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
+        "https://blogs.windows.com/windows-insider/tag/microsoft-copilot/feed/",
+        "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/nilanjanaganguly/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/shaybenelazar/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/windowsdeveloperblog/feed/",
+        "https://blogs.windows.com/windowsdeveloper/tag/news/feed/",
+        "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
+        "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
+        "https://blogs.windows.com/windowsexperience/author/davidweston/feed/",
+        "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
+        "https://blogs.windows.com/windowsexperience/author/marklinton/feed/",
+        "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
+        "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
+        "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
+        "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
+        "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/ai/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/copilot-vision/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/copilot/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/doom/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/handheld-gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/lenovo/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/rog/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/security/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox/feed/",
+        "https://www.infoworld.com/comments/feed/",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 608,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:45.862Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 233,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:41.978Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "liputan6.com": {
+      "urls": [
+        "https://feed.liputan6.com/rss/news",
+        "https://feed.liputan6.com/rss/bisnis",
+        "https://feed.liputan6.com/rss/bola",
+        "https://feed.liputan6.com/rss/regional",
+        "https://feed.liputan6.com/rss/showbiz",
+        "https://feed.liputan6.com/rss/saham",
+        "https://feed.liputan6.com/rss/en",
+        "https://feed.liputan6.com/rss/global",
+        "https://feed.liputan6.com/rss/lifestyle",
+        "https://feed.liputan6.com/rss/tekno",
+        "https://feed.liputan6.com/rss/otomotif",
+        "https://feed.liputan6.com/rss/hot",
+        "https://feed.liputan6.com/rss/cek-fakta",
+        "https://feed.liputan6.com/rss/health",
+        "https://feed.liputan6.com/rss/islami",
+        "https://feed.liputan6.com/rss/pilkada",
+        "https://feed.liputan6.com/rss/crypto",
+        "https://feed.liputan6.com/rss/spotlight",
+        "https://feed.liputan6.com/rss/photo",
+        "https://feed.liputan6.com/rss/tv",
+        "https://feed.liputan6.com/rss/citizen6",
+        "https://feed.liputan6.com/rss/diary-paskibraka",
+        "https://feed.liputan6.com/rss/pemilu",
+        "https://feed.liputan6.com/rss/on-off",
+        "https://feed.liputan6.com/rss/otosia",
+        "https://feed.liputan6.com/rss/surabaya",
+        "https://feed.liputan6.com/rss/disabilitas",
+        "https://feed.liputan6.com/rss/apps",
+        "https://feed.liputan6.com/rss/asian-games",
+        "https://feed.liputan6.com/rss/asian-para-games",
+        "https://feed.liputan6.com/rss/belanja",
+        "https://feed.liputan6.com/rss/fashion-beauty",
+        "https://feed.liputan6.com/rss/feeds",
+        "https://feed.liputan6.com/rss/haji",
+        "https://feed.liputan6.com/rss/jateng",
+        "https://feed.liputan6.com/rss/jatim",
+        "https://feed.liputan6.com/rss/liputan-khusus",
+        "https://feed.liputan6.com/rss/opini",
+        "https://feed.liputan6.com/rss/pileg",
+        "https://feed.liputan6.com/rss/pilpres",
+        "https://feed.liputan6.com/rss/properti",
+        "https://feed.liputan6.com/rss/ramadan"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 224,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:46.982Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "merdeka.com": {
+      "urls": [
+        "https://www.merdeka.com/rss/peristiwa",
+        "https://www.merdeka.com/rss/uang",
+        "https://www.merdeka.com/rss/trending",
+        "https://www.merdeka.com/rss/politik",
+        "https://www.merdeka.com/rss/teknologi",
+        "https://www.merdeka.com/rss/gaya",
+        "https://www.merdeka.com/rss/artis",
+        "https://www.merdeka.com/rss/jakarta",
+        "https://www.merdeka.com/rss/jabar",
+        "https://www.merdeka.com/rss/dunia",
+        "https://www.merdeka.com/rss/sepakbola",
+        "https://www.merdeka.com/rss/otomotif",
+        "https://www.merdeka.com/rss/sehat",
+        "https://www.merdeka.com/rss/jateng",
+        "https://www.merdeka.com/rss/perbankan",
+        "https://www.merdeka.com/rss/cek-fakta",
+        "https://www.merdeka.com/rss/histori",
+        "https://www.merdeka.com/rss/jatim",
+        "https://www.merdeka.com/rss/khas",
+        "https://www.merdeka.com/rss/olahraga",
+        "https://www.merdeka.com/rss/opini",
+        "https://www.merdeka.com/rss/sumut",
+        "https://www.merdeka.com/rss/travel",
+        "https://www.merdeka.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 360,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:53.130Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bola.com": {
+      "urls": [
+        "https://feed.bola.com/rss/indonesia",
+        "https://feed.bola.com/rss/dunia",
+        "https://feed.bola.com/rss/inggris",
+        "https://feed.bola.com/rss/ragam",
+        "https://feed.bola.com/rss/news",
+        "https://feed.bola.com/rss/spanyol",
+        "https://feed.bola.com/rss/moto-gp",
+        "https://feed.bola.com/rss/asian-games",
+        "https://feed.bola.com/rss/asian-para-games",
+        "https://feed.bola.com/rss/corner",
+        "https://feed.bola.com/rss/e-sports",
+        "https://feed.bola.com/rss/highlights",
+        "https://feed.bola.com/rss/jadwal-live-streaming",
+        "https://feed.bola.com/rss/nba",
+        "https://feed.bola.com/rss/pesta-bola-eropa",
+        "https://feed.bola.com/rss/pesta-bola-rusia",
+        "https://feed.bola.com/rss/piala-aff",
+        "https://feed.bola.com/rss/piala-dunia",
+        "https://feed.bola.com/rss/sea-games"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 134,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:42.424Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "okezone.com": {
+      "urls": [
+        "http://sindikasi.okezone.com/index.php/rss/0/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/0/RSS2.0",
+        "http://sindikasi.okezone.com/index.php/rss/1/RSS2.0",
+        "http://sindikasi.okezone.com/index.php/rss/11/RSS2.0",
+        "http://sindikasi.okezone.com/index.php/rss/13/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/1/RSS2.0",
+        "http://sindikasi.okezone.com/index.php/rss/12/RSS2.0",
+        "http://sindikasi.okezone.com/index.php/rss/14/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/11/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/14/RSS2.0",
+        "http://sindikasi.okezone.com/index.php/rss/2/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/12/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/13/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/2/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/16/RSS2.0",
+        "http://sindikasi.okezone.com/index.php/rss/16/RSS2.0"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 218,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:47.248Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "suara.com": {
+      "urls": [
+        "https://www.suara.com/rss/mostpopular",
+        "https://www.suara.com/rss/topstory",
+        "https://www.suara.com/rss/lifestyle",
+        "https://www.suara.com/rss",
+        "https://www.suara.com/rss/news",
+        "https://www.suara.com/rss/entertainment",
+        "https://www.suara.com/rss/yoursay",
+        "https://www.suara.com/rss/bola",
+        "https://www.suara.com/rss/tekno",
+        "https://www.suara.com/rss/otomotif",
+        "https://www.suara.com/rss/bisnis",
+        "https://www.suara.com/rss/video",
+        "https://www.suara.com/rss/foto",
+        "https://www.suara.com/rss/health",
+        "https://www.suara.com/rss/pressrelease",
+        "https://www.suara.com/rss/wawancara"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 394,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:54.119Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cnnindonesia.com": {
+      "urls": [
+        "https://www.cnnindonesia.com/rss",
+        "https://www.cnnindonesia.com/nasional/rss",
+        "https://www.cnnindonesia.com/olahraga/rss",
+        "https://www.cnnindonesia.com/ekonomi/rss",
+        "https://www.cnnindonesia.com/tv/rss",
+        "https://www.cnnindonesia.com/gaya-hidup/rss",
+        "https://www.cnnindonesia.com/internasional/rss",
+        "https://www.cnnindonesia.com/hiburan/rss",
+        "https://www.cnnindonesia.com/teknologi/rss",
+        "https://www.cnnindonesia.com/otomotif/rss",
+        "https://www.cnnindonesia.com/edukasi/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 289,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:02.345Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tempo.co": {
+      "urls": [
+        "http://rss.tempo.co",
+        "https://rss.tempo.co/",
+        "https://pustaka-api.tempo.co/single-brand/rss/free/",
+        "https://pustaka-api.tempo.co/single-brand/rss/vip/",
+        "http://rss.tempo.co/nasional",
+        "https://rss.tempo.co/nasional",
+        "http://rss.tempo.co/bisnis",
+        "https://rss.tempo.co/bisnis",
+        "https://pustaka-api.tempo.co/single-brand/rss/free/digital"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 273,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:54.417Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "en.antaranews.com": {
+      "urls": [
+        "https://en.antaranews.com/rss",
+        "https://en.antaranews.com/rss/news.xml",
+        "https://en.antaranews.com/rss/news",
+        "https://en.antaranews.com/rss/current-issue.xml",
+        "https://en.antaranews.com/rss/article.xml",
+        "https://en.antaranews.com/rss/explore-indonesia.xml",
+        "https://en.antaranews.com/rss/business-investment.xml",
+        "https://en.antaranews.com/rss/press-release.xml",
+        "https://en.antaranews.com/rss/world.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 374,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:02.054Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sports.okezone.com": {
+      "urls": [
+        "https://sindikasi.okezone.com/index.php/rss/0/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/1/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/11/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/14/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/12/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/13/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/2/RSS2.0",
+        "https://sindikasi.okezone.com/index.php/rss/16/RSS2.0"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 358,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:45.012Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "online24jam.com": {
+      "urls": [
+        "https://online24jam.com/feed/atom/",
+        "https://online24jam.com/feed/",
+        "http://online24jam.com/feed/atom/",
+        "http://online24jam.com/feed/",
+        "https://online24jam.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 785,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:00.196Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sindonews.com": {
+      "urls": [
+        "https://www.sindonews.com/feed",
+        "https://lifestyle.sindonews.com/rss",
+        "https://lifestyle.sindonews.com/rss-channel/187",
+        "https://lifestyle.sindonews.com/rss-channel/166"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 455,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:47.705Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mediaindonesia.com": {
+      "urls": [
+        "https://mediaindonesia.com/feed",
+        "https://mediaindonesia.com/feed/news",
+        "https://mediaindonesia.com/feed/all",
+        "https://mediaindonesia.com/feed/news/politik-dan-hukum"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 588,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:37.622Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sinyalmagz.com": {
+      "urls": [
+        "https://www.sinyalmagz.com/feed/",
+        "http://www.sinyalmagz.com/feed/",
+        "https://www.sinyalmagz.com/comments/feed/",
+        "http://www.sinyalmagz.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3429,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:20.366Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lampost.co": {
+      "urls": [
+        "https://lampost.co/feed/",
+        "https://lampost.co/kategori/video/podcast/feed/",
+        "https://lampost.co/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 457,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:59.408Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "insideindonesia.org": {
+      "urls": [
+        "https://www.insideindonesia.org/?format=feed&type=atom",
+        "https://www.insideindonesia.org/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1141,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:41.737Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thejakartapost.com": {
+      "urls": [
+        "https://rss.thejakartapost.com/home"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 208,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:36.840Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "beritasatu.com": {
+      "urls": [
+        "https://www.beritasatu.com/rss/beritasatu.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 304,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:42.282Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "highend-magazine.okezone.com": {
+      "urls": [
+        "http://highend-magazine.okezone.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 695,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:13.506Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "harianjogja.com": {
+      "urls": [
+        "https://www.harianjogja.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 738,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:35.082Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "indosport.com": {
+      "urls": [
+        "https://www.indosport.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 799,
+        "category": "sports",
+        "last_checked": "2026-01-31T23:04:44.641Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "koran-jakarta.com": {
+      "urls": [
+        "https://koran-jakarta.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1463,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:40.450Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bola.net": {
+      "urls": [
+        "https://www.bola.net/feed/",
+        "https://www.bola.net:443/feed/",
+        "https://a.bola.net/newsfeed/discover_indonesia/",
+        "https://a.bola.net/newsfeed/discover_italia/",
+        "https://a.bola.net/newsfeed/discover_spanyol/",
+        "https://a.bola.net/newsfeed/discover_inggris/",
+        "https://a.bola.net/newsfeed/discover_piala_dunia/",
+        "https://a.bola.net/newsfeed/discover_bola_dunia_lainnya/",
+        "https://a.bola.net/newsfeed/discover_bolatainment/",
+        "https://a.bola.net/newsfeed/discover_champions/",
+        "https://a.bola.net/newsfeed/discover_piala_eropa/",
+        "https://a.bola.net/newsfeed/discover_uefa/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:43.842Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jpnn.com": {
+      "urls": [
+        "https://www.jpnn.com/index.php?mib=rss",
+        "https://www.jpnn.com/index.php?mib=rss&id=215",
+        "https://www.jpnn.com/index.php?mib=rss&id=216",
+        "https://www.jpnn.com/index.php?mib=rss&id=210",
+        "https://www.jpnn.com/index.php?mib=rss&id=247"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:54.549Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "jawapos.com": {
+      "urls": [
+        "https://www.jawapos.com/feed/",
+        "https://www.jawapos.com/nasional/feed/",
+        "https://www.jawapos.com/ekonomi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:36.983Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thebalitimes.com": {
+      "urls": [
+        "https://www.thebalitimes.com/feed/",
+        "http://www.thebalitimes.com/feed/",
+        "https://www.thebalitimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:40.589Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "surabaya.tribunnews.com": {
+      "urls": [
+        "http://surabaya.tribunnews.com/rss",
+        "https://surabaya.tribunnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:01.594Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dewimagazine.com": {
+      "urls": [
+        "https://www.dewimagazine.com/feed/",
+        "https://www.dewimagazine.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:12.811Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "prestigeonline.com": {
+      "urls": [
+        "https://www.prestigeonline.com/hk/feed/",
+        "https://www.prestigeonline.com/hk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:15.403Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "detik.com": {
+      "urls": [
+        "http://rss.detik.com"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:46.652Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "tribunnews.com": {
+      "urls": [
+        "https://www.tribunnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:46.752Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "hidayatullah.com": {
+      "urls": [
+        "https://hidayatullah.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:04:54.656Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "aceh.tribunnews.com": {
+      "urls": [
+        "https://aceh.tribunnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:01.391Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "solopos.com": {
+      "urls": [
+        "https://www.solopos.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:01.465Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "wartakota.tribunnews.com": {
+      "urls": [
+        "https://wartakota.tribunnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:05:01.675Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

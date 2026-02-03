@@ -1,0 +1,2379 @@
+{
+  "country_code": "FI",
+  "language_code": "EN",
+  "total_domains": 124,
+  "total_feeds": 635,
+  "feeds": {
+    "kauppalehti.fi": {
+      "urls": [
+        "https://feeds.kauppalehti.fi/rss/topic/osakkeet",
+        "https://feeds.kauppalehti.fi/rss/topic/sijoittaminen",
+        "https://feeds.kauppalehti.fi/rss/klnyt",
+        "https://feeds.kauppalehti.fi/rss/main",
+        "https://feeds.kauppalehti.fi/rss/topic/auto",
+        "https://feeds.kauppalehti.fi/rss/topic/tulokset",
+        "https://feeds.kauppalehti.fi/rss/topic/yrittaminen",
+        "https://feeds.kauppalehti.fi/rss/topic/digitalous",
+        "https://feeds.kauppalehti.fi/rss/topic/politiikka",
+        "https://feeds.kauppalehti.fi/rss/topic/energia",
+        "https://feeds.kauppalehti.fi/rss/topic/kansantalous",
+        "https://feeds.kauppalehti.fi/rss/topic/asuminen",
+        "https://feeds.kauppalehti.fi/rss/topic/eu",
+        "https://feeds.kauppalehti.fi/rss/topic/finanssiala",
+        "https://feeds.kauppalehti.fi/rss/topic/kauppa",
+        "https://feeds.kauppalehti.fi/rss/topic/korot",
+        "https://feeds.kauppalehti.fi/rss/topic/pankit",
+        "https://feeds.kauppalehti.fi/rss/topic/teollisuus",
+        "https://feeds.kauppalehti.fi/rss/topic/valuutat",
+        "https://feeds.kauppalehti.fi/rss/topic/aasian-taloudet",
+        "https://feeds.kauppalehti.fi/rss/topic/asuntosijoittaminen",
+        "https://feeds.kauppalehti.fi/rss/topic/elektroniikka",
+        "https://feeds.kauppalehti.fi/rss/topic/elintarvikkeet",
+        "https://feeds.kauppalehti.fi/rss/topic/innovaatiot",
+        "https://feeds.kauppalehti.fi/rss/topic/investoinnit",
+        "https://feeds.kauppalehti.fi/rss/topic/johdannaiset",
+        "https://feeds.kauppalehti.fi/rss/topic/johtaminen",
+        "https://feeds.kauppalehti.fi/rss/topic/kaivokset",
+        "https://feeds.kauppalehti.fi/rss/topic/kehittyvat-taloudet",
+        "https://feeds.kauppalehti.fi/rss/topic/kemia",
+        "https://feeds.kauppalehti.fi/rss/topic/konepajat",
+        "https://feeds.kauppalehti.fi/rss/topic/konkurssit",
+        "https://feeds.kauppalehti.fi/rss/topic/koulutus",
+        "https://feeds.kauppalehti.fi/rss/topic/kryptovaluutat",
+        "https://feeds.kauppalehti.fi/rss/topic/kunnat",
+        "https://feeds.kauppalehti.fi/rss/topic/laakkeet",
+        "https://feeds.kauppalehti.fi/rss/topic/lifestyle",
+        "https://feeds.kauppalehti.fi/rss/topic/logistiikka",
+        "https://feeds.kauppalehti.fi/rss/topic/markkinointi",
+        "https://feeds.kauppalehti.fi/rss/topic/media",
+        "https://feeds.kauppalehti.fi/rss/topic/metalli",
+        "https://feeds.kauppalehti.fi/rss/topic/metsa",
+        "https://feeds.kauppalehti.fi/rss/topic/metsanomistus",
+        "https://feeds.kauppalehti.fi/rss/topic/nimitykset",
+        "https://feeds.kauppalehti.fi/rss/topic/paaomasijoittaminen",
+        "https://feeds.kauppalehti.fi/rss/topic/raaka-aineet",
+        "https://feeds.kauppalehti.fi/rss/topic/rahastot",
+        "https://feeds.kauppalehti.fi/rss/topic/rahoitus",
+        "https://feeds.kauppalehti.fi/rss/topic/rakentaminen",
+        "https://feeds.kauppalehti.fi/rss/topic/ravintolat",
+        "https://feeds.kauppalehti.fi/rss/topic/sote",
+        "https://feeds.kauppalehti.fi/rss/topic/startup",
+        "https://feeds.kauppalehti.fi/rss/topic/suhdanteet",
+        "https://feeds.kauppalehti.fi/rss/topic/toimitilat",
+        "https://feeds.kauppalehti.fi/rss/topic/tutkimus",
+        "https://feeds.kauppalehti.fi/rss/topic/tyoelama",
+        "https://feeds.kauppalehti.fi/rss/topic/tyomarkkinat",
+        "https://feeds.kauppalehti.fi/rss/topic/tyoviihtyvyys",
+        "https://feeds.kauppalehti.fi/rss/topic/ura",
+        "https://feeds.kauppalehti.fi/rss/topic/usa",
+        "https://feeds.kauppalehti.fi/rss/topic/vaalit",
+        "https://feeds.kauppalehti.fi/rss/topic/vakuutukset",
+        "https://feeds.kauppalehti.fi/rss/topic/varainhoito",
+        "https://feeds.kauppalehti.fi/rss/topic/velkakriisi",
+        "https://feeds.kauppalehti.fi/rss/topic/venaja",
+        "https://feeds.kauppalehti.fi/rss/topic/verotus",
+        "https://feeds.kauppalehti.fi/rss/topic/viini",
+        "https://feeds.kauppalehti.fi/rss/topic/ymparisto",
+        "https://feeds.kauppalehti.fi/rss/topic/yritys",
+        "https://feeds.kauppalehti.fi/rss/topic/yrityskaupat",
+        "https://feeds.kauppalehti.fi/rss/topic/yrityspalvelut",
+        "https://feeds.kauppalehti.fi/rss/topic/yt-neuvottelut",
+        "https://feeds.kauppalehti.fi/rss/topic/valtiontalous",
+        "https://feeds.kauppalehti.fi/rss/popular",
+        "https://feeds.kauppalehti.fi/rss/topic/valtionyhtiot"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.268Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "yle.fi": {
+      "urls": [
+        "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET",
+        "https://yle.fi/rss/tuoreimmat",
+        "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET&concepts=18-34837",
+        "https://yle.fi/rss/uutiset/tuoreimmat",
+        "https://svenska.yle.fi/rss/senaste-nytt",
+        "https://svenska.yle.fi/nyheter/rss_parad.rss",
+        "https://yle.fi/rss/t/18-34953/fi",
+        "https://yle.fi/rss/t/18-34837/fi",
+        "https://svenska.yle.fi/rss/inrikes",
+        "https://yle.fi/rss/urheilu",
+        "https://yle.fi/rss/t/18-177980/fi",
+        "https://yle.fi/rss/t/18-204933/fi",
+        "https://feeds.yle.fi/uutiset/v1/mostRead/YLE_UUTISET.rss",
+        "https://svenska.yle.fi/rss/utrikes",
+        "https://svenska.yle.fi/nyheter/rss_sport.rss",
+        "https://svenska.yle.fi/rss/sport",
+        "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NEWS",
+        "https://svenska.yle.fi/nyheter/rss_osterbotten.rss",
+        "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NOVOSTI",
+        "https://svenska.yle.fi/nyheter/rss_utrikes.rss",
+        "https://svenska.yle.fi/rss/osterbotten",
+        "https://yle.fi/rss/t/18-220306/fi",
+        "https://svenska.yle.fi/rss/aboland",
+        "https://svenska.yle.fi/rss/huvudstadsregionen",
+        "https://svenska.yle.fi/rss/vastnyland",
+        "https://yle.fi/rss/news",
+        "https://yle.fi/rss/t/18-198259/fi",
+        "https://svenska.yle.fi/nyheter/rss_vastnyland.rss",
+        "https://svenska.yle.fi/rss/kultur",
+        "https://svenska.yle.fi/rss/ostnyland",
+        "https://yle.fi/rss/novosti",
+        "https://yle.fi/rss/t/18-180490/fi",
+        "https://svenska.yle.fi/nyheter/rss_aboland.rss",
+        "https://svenska.yle.fi/nyheter/rss_huvudstadsregionen.rss",
+        "https://yle.fi/rss/t/18-148152/fi",
+        "https://yle.fi/rss/t/18-173822/fi",
+        "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss",
+        "https://svenska.yle.fi/nyheter/rss_ostnyland.rss",
+        "https://yle.fi/rss/novyny",
+        "https://yle.fi/rss/t/18-174627/fi",
+        "https://yle.fi/rss/t/18-181838/fi",
+        "https://yle.fi/rss/t/18-198551/fi",
+        "https://yle.fi/rss/sapmi",
+        "https://yle.fi/rss/selkouutiset",
+        "https://yle.fi/rss/t/18-185882/fi",
+        "https://yle.fi/rss/t/18-189791/fi",
+        "https://yle.fi/rss/t/18-197394/fi",
+        "https://yle.fi/rss/t/18-198232/fi",
+        "https://yle.fi/rss/t/18-208149/fi",
+        "https://yle.fi/rss/t/18-217946/fi",
+        "https://yle.fi/rss/t/18-171883/fi",
+        "https://yle.fi/rss/t/18-188752/fi",
+        "https://yle.fi/rss/t/18-215452/fi",
+        "https://yle.fi/rss/uutiset/paauutiset",
+        "https://yle.fi/rss/t/18-178011/fi",
+        "https://yle.fi/rss/t/18-191034/fi",
+        "https://yle.fi/rss/t/18-195288/fi",
+        "https://yle.fi/rss/t/18-169788/fi",
+        "https://yle.fi/rss/uutiset/luetuimmat",
+        "https://yle.fi/rss/t/18-205614/fi",
+        "https://yle.fi/rss/t/18-209306/fi",
+        "https://yle.fi/rss/t/18-212923/fi",
+        "https://yle.fi/rss/t/18-215844/fi",
+        "https://yle.fi/rss/t/18-44136/fi"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.469Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "is.fi": {
+      "urls": [
+        "https://www.is.fi/rss/tuoreimmat.xml",
+        "https://www.is.fi/rss/kotimaa.xml",
+        "https://www.is.fi/rss/urheilu.xml",
+        "https://www.is.fi/rss/ulkomaat.xml",
+        "https://www.is.fi/rss/viihde.xml",
+        "https://www.is.fi/rss/jaakiekko.xml",
+        "https://www.is.fi/rss/taloussanomat.xml",
+        "https://www.is.fi/rss/hiihtolajit.xml",
+        "https://www.is.fi/rss/tv-ja-elokuvat.xml",
+        "https://www.is.fi/rss/digitoday.xml",
+        "https://www.is.fi/rss/maastohiihto.xml",
+        "https://www.is.fi/rss/nhl.xml",
+        "https://www.is.fi/rss/hyvaolo.xml",
+        "https://www.is.fi/rss/jalkapallo.xml",
+        "https://www.is.fi/rss/sm-liiga.xml",
+        "https://www.is.fi/rss/autot.xml",
+        "https://www.is.fi/rss/ampumahiihto.xml",
+        "https://www.is.fi/rss/asuminen.xml",
+        "https://www.is.fi/rss/formula1.xml",
+        "https://www.is.fi/rss/koripallo.xml",
+        "https://www.is.fi/rss/ralli.xml",
+        "https://www.is.fi/rss/valioliiga.xml",
+        "https://www.is.fi/rss/alppihiihto.xml",
+        "https://www.is.fi/rss/elitserien.xml",
+        "https://www.is.fi/rss/eurosarjat.xml",
+        "https://www.is.fi/rss/freestyle.xml",
+        "https://www.is.fi/rss/golf.xml",
+        "https://www.is.fi/rss/huuhkajat.xml",
+        "https://www.is.fi/rss/khl.xml",
+        "https://www.is.fi/rss/lemmikit.xml",
+        "https://www.is.fi/rss/lentopallo.xml",
+        "https://www.is.fi/rss/lumilautailu.xml",
+        "https://www.is.fi/rss/makihyppy.xml",
+        "https://www.is.fi/rss/matkat.xml",
+        "https://www.is.fi/rss/mestarienliiga.xml",
+        "https://www.is.fi/rss/mestis.xml",
+        "https://www.is.fi/rss/mmkiekko.xml",
+        "https://www.is.fi/rss/moottoripyoraily.xml",
+        "https://www.is.fi/rss/musiikki.xml",
+        "https://www.is.fi/rss/nyrkkeily.xml",
+        "https://www.is.fi/rss/paakirjoitus.xml",
+        "https://www.is.fi/rss/perhe.xml",
+        "https://www.is.fi/rss/pesapallo.xml",
+        "https://www.is.fi/rss/purjehdus.xml",
+        "https://www.is.fi/rss/ravit.xml",
+        "https://www.is.fi/rss/salibandy.xml",
+        "https://www.is.fi/rss/taitoluistelu.xml",
+        "https://www.is.fi/rss/tennis.xml",
+        "https://www.is.fi/rss/tiede.xml",
+        "https://www.is.fi/rss/tyoelama.xml",
+        "https://www.is.fi/rss/uinti.xml",
+        "https://www.is.fi/rss/veikkausliiga.xml",
+        "https://www.is.fi/rss/videotuomarit.xml",
+        "https://www.is.fi/rss/yhdistetty.xml",
+        "https://www.is.fi/rss/yleisurheilu.xml",
+        "https://www.is.fi/rss/digitoday/esports.xml",
+        "https://www.is.fi/rss/menaiset/horoskooppi.xml",
+        "https://www.is.fi/rss/menaiset/tyyli.xml",
+        "https://www.is.fi/rss/ruokala/ajankohtaista.xml",
+        "https://www.is.fi/rss/ruokala/uutiset.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.301Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "maaseuduntulevaisuus.fi": {
+      "urls": [
+        "https://www.maaseuduntulevaisuus.fi/feed/maaseudun-tulevaisuus-newest-rss-feed-7.136983",
+        "https://www.maaseuduntulevaisuus.fi/feeds/maaseuduntulevaisuus",
+        "https://www.maaseuduntulevaisuus.fi/feed/politiikka-ja-talous-rss-feed-7.136618",
+        "https://www.maaseuduntulevaisuus.fi/feed/talous-rss-feed-7.138717",
+        "https://www.maaseuduntulevaisuus.fi/feed/maatalous-rss-feed-7.136615",
+        "https://www.maaseuduntulevaisuus.fi/feed/mets%C3%A4-rss-feed-7.136616",
+        "https://www.maaseuduntulevaisuus.fi/feed/politiikka-rss-feed-7.138718",
+        "https://www.maaseuduntulevaisuus.fi/feed/mets%C3%A4-plus-rss-feed-7.140204",
+        "https://www.maaseuduntulevaisuus.fi/feed/ruoka-rss-feed-7.136619",
+        "https://www.maaseuduntulevaisuus.fi/feed/uutiss%C3%A4hkeet-rss-feed-7.136613",
+        "https://www.maaseuduntulevaisuus.fi/feed/kaikki-kolumnit-rss-feed-7.137406",
+        "https://www.maaseuduntulevaisuus.fi/feed/hevoset-rss-feed-7.140372",
+        "https://www.maaseuduntulevaisuus.fi/feed/ymp%C3%A4rist%C3%B6-rss-feed-7.136620",
+        "https://www.maaseuduntulevaisuus.fi/feed/kolumnit-rss-feed-7.136611",
+        "https://www.maaseuduntulevaisuus.fi/feed/maaseudun-tulevaisuus-most-read-rss-feed-7.136614",
+        "https://www.maaseuduntulevaisuus.fi/feed/maaseudun-tulevaisuus-rss-feed-7.136609",
+        "https://www.maaseuduntulevaisuus.fi/feed/p%C3%A4%C3%A4kirjoitukset-rss-feed-7.136610",
+        "https://www.maaseuduntulevaisuus.fi/feed/era/er%C3%A4-rss-feed-7.140737",
+        "https://www.maaseuduntulevaisuus.fi/feed/kotimaa-rss-feed-7.140403",
+        "https://www.maaseuduntulevaisuus.fi/feed/maatalous-metsa-hevoset-era-uusimmat-rss-feed-1.443135",
+        "https://www.maaseuduntulevaisuus.fi/feeds/mt-metsa",
+        "https://www.maaseuduntulevaisuus.fi/feeds/mt-metsa-tilaajalle",
+        "https://www.maaseuduntulevaisuus.fi/feed/ihmiset-kulttuuri-rss-feed-7.138722",
+        "https://www.maaseuduntulevaisuus.fi/feed/lukijalta-rss-feed-7.136621",
+        "https://www.maaseuduntulevaisuus.fi/feed/mt-luetuimmat-rss-7.138684",
+        "https://www.maaseuduntulevaisuus.fi/feed/ulkomaat-rss-feed-7.140404",
+        "https://www.maaseuduntulevaisuus.fi/feeds/hevoset",
+        "https://www.maaseuduntulevaisuus.fi/feed/ruokauutiset-ilman-resepteja-rss-feed-7.141169",
+        "https://www.maaseuduntulevaisuus.fi/feed/koneviestin-uutiset-rss-7.138995",
+        "https://www.maaseuduntulevaisuus.fi/feed/rakentaminen-rss-feed-7.138719",
+        "https://www.maaseuduntulevaisuus.fi/feed/reseptit-rss-feed-7.141168",
+        "https://www.maaseuduntulevaisuus.fi/feed/tiede-tekniikka-rss-feed-7.138721"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.283Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "avl.fi": {
+      "urls": [
+        "https://www.sss.fi/feed/",
+        "https://www.avl.fi/feed/",
+        "https://www.laitilansanomat.fi/feed/",
+        "https://www.kuntsari.fi/feed/",
+        "https://www.avl.fi/comments/feed/",
+        "https://www.somerolehti.fi/feed/",
+        "https://www.sss.fi/category/uutiset,urheilu/feed/",
+        "https://www.kaarina-lehti.fi/feed/",
+        "https://www.kaarina-lehti.fi/category/uutiset/feed/",
+        "https://www.kuntsari.fi/category/uutiset/feed/",
+        "https://www.uudenkaupunginsanomat.fi/feed/",
+        "https://www.loimaanlehti.fi/feed/",
+        "https://www.uudenkaupunginsanomat.fi/category/uutiset/feed/",
+        "https://www.loimaanlehti.fi/category/podcast/feed/",
+        "https://www.kaarina-lehti.fi/comments/feed/",
+        "https://www.kuntsari.fi/comments/feed/",
+        "https://www.laitilansanomat.fi/comments/feed/",
+        "https://www.somerolehti.fi/comments/feed/",
+        "https://www.sss.fi/comments/feed/",
+        "https://www.loimaanlehti.fi/comments/feed/",
+        "https://www.uudenkaupunginsanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.453Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "somerolehti.fi": {
+      "urls": [
+        "https://www.sss.fi/feed/",
+        "https://www.somerolehti.fi/feed/",
+        "https://www.avl.fi/feed/",
+        "https://www.laitilansanomat.fi/feed/",
+        "https://www.kuntsari.fi/feed/",
+        "https://www.somerolehti.fi/comments/feed/",
+        "https://www.kaarina-lehti.fi/feed/",
+        "https://www.kuntsari.fi/category/uutiset/feed/",
+        "https://www.uudenkaupunginsanomat.fi/feed/",
+        "https://www.loimaanlehti.fi/feed/",
+        "https://www.uudenkaupunginsanomat.fi/category/uutiset/feed/",
+        "https://www.loimaanlehti.fi/category/podcast/feed/",
+        "https://www.avl.fi/comments/feed/",
+        "https://www.kaarina-lehti.fi/comments/feed/",
+        "https://www.kuntsari.fi/comments/feed/",
+        "https://www.laitilansanomat.fi/comments/feed/",
+        "https://www.sss.fi/comments/feed/",
+        "https://www.loimaanlehti.fi/comments/feed/",
+        "https://www.uudenkaupunginsanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.442Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "laitilansanomat.fi": {
+      "urls": [
+        "https://www.sss.fi/feed/",
+        "https://www.laitilansanomat.fi/feed/",
+        "https://www.avl.fi/feed/",
+        "https://www.kuntsari.fi/feed/",
+        "https://www.laitilansanomat.fi/comments/feed/",
+        "https://www.somerolehti.fi/feed/",
+        "https://www.kaarina-lehti.fi/feed/",
+        "https://www.kaarina-lehti.fi/category/uutiset/feed/",
+        "https://www.kuntsari.fi/category/uutiset/feed/",
+        "https://www.uudenkaupunginsanomat.fi/feed/",
+        "https://www.loimaanlehti.fi/feed/",
+        "https://www.uudenkaupunginsanomat.fi/category/uutiset/feed/",
+        "https://www.loimaanlehti.fi/category/podcast/feed/",
+        "https://www.avl.fi/comments/feed/",
+        "https://www.kaarina-lehti.fi/comments/feed/",
+        "https://www.kuntsari.fi/comments/feed/",
+        "https://www.somerolehti.fi/comments/feed/",
+        "https://www.loimaanlehti.fi/comments/feed/",
+        "https://www.uudenkaupunginsanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.567Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "iltalehti.fi": {
+      "urls": [
+        "https://www.iltalehti.fi/rss.xml",
+        "https://www.iltalehti.fi/rss/rss.xml",
+        "https://www.iltalehti.fi/rss/uutiset.xml",
+        "https://www.iltalehti.fi/rss/urheilu.xml",
+        "https://www.iltalehti.fi/rss/viihde.xml",
+        "https://www.iltalehti.fi/rss/autot.xml",
+        "https://www.iltalehti.fi/rss/kotimaa.xml",
+        "https://www.iltalehti.fi/rss/terveys.xml",
+        "https://www.iltalehti.fi/rss/asuminen.xml",
+        "https://www.iltalehti.fi/rss/hyvaolo.xml",
+        "https://www.iltalehti.fi/rss/pippuri.xml",
+        "https://www.iltalehti.fi/rss/tyylicom.xml",
+        "https://www.iltalehti.fi/rss/digi.xml",
+        "https://www.iltalehti.fi/rss/iltv.xml",
+        "https://www.iltalehti.fi/rss/matkailu.xml",
+        "https://www.iltalehti.fi/rss/perhe.xml",
+        "https://www.iltalehti.fi/rss/raha.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.255Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hs.fi": {
+      "urls": [
+        "https://www.hs.fi/rss/tuoreimmat.xml",
+        "https://www.hs.fi/rss/teasers/etusivu.xml",
+        "https://www.hs.fi/rss/kotimaa.xml",
+        "https://www.hs.fi/rss/urheilu.xml",
+        "https://www.hs.fi/rss/maailma.xml",
+        "https://www.hs.fi/rss/politiikka.xml",
+        "https://www.hs.fi/rss/suomi.xml",
+        "https://www.hs.fi/rss/helsinki.xml",
+        "https://www.hs.fi/rss/kulttuuri.xml",
+        "https://www.hs.fi/rss/paakirjoitukset.xml",
+        "https://www.hs.fi/rss/talous.xml",
+        "https://www.hs.fi/rss/ruoka.xml",
+        "https://www.hs.fi/rss/tiede.xml",
+        "https://www.hs.fi/rss/elama.xml",
+        "https://www.hs.fi/rss/kuukausiliite.xml",
+        "https://www.hs.fi/rss/lastenuutiset.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.251Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "uudenkaupunginsanomat.fi": {
+      "urls": [
+        "https://www.uudenkaupunginsanomat.fi/feed/",
+        "https://www.uudenkaupunginsanomat.fi/category/uutiset/feed/",
+        "https://www.avl.fi/feed/",
+        "https://www.laitilansanomat.fi/feed/",
+        "https://www.kuntsari.fi/feed/",
+        "https://www.somerolehti.fi/feed/",
+        "https://www.kaarina-lehti.fi/feed/",
+        "https://www.kuntsari.fi/category/uutiset/feed/",
+        "https://www.loimaanlehti.fi/feed/",
+        "https://www.uudenkaupunginsanomat.fi/comments/feed/",
+        "https://www.avl.fi/comments/feed/",
+        "https://www.kaarina-lehti.fi/comments/feed/",
+        "https://www.kuntsari.fi/comments/feed/",
+        "https://www.laitilansanomat.fi/comments/feed/",
+        "https://www.somerolehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.456Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "stara.fi": {
+      "urls": [
+        "https://www.stara.fi/feed/",
+        "https://feeds.feedburner.com/stara",
+        "http://feeds.feedburner.com/stara",
+        "http://feeds.feedburner.com/stara/ilman-big-brotheria",
+        "http://feeds.feedburner.com/stara/viihdeuutiset",
+        "http://feeds.feedburner.com/stara/big-brother",
+        "http://feeds.feedburner.com/stara/haastattelut",
+        "http://feeds.feedburner.com/stara/levyt",
+        "http://feeds.feedburner.com/stara/pelit",
+        "http://feeds.feedburner.com/stara/podcast",
+        "http://feeds.feedburner.com/stara/podcast_matkailu",
+        "http://feeds.feedburner.com/stara/podcast_viihde"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.482Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "svenska.yle.fi": {
+      "urls": [
+        "https://svenska.yle.fi/nyheter/rss_parad.rss",
+        "https://svenska.yle.fi/nyheter/senaste-nytt.rss",
+        "https://svenska.yle.fi/rss/senaste-nytt",
+        "https://svenska.yle.fi/rss/svenskaylefi",
+        "https://svenska.yle.fi/rss/inrikes",
+        "https://svenska.yle.fi/nyheter/rss_osterbotten.rss",
+        "https://svenska.yle.fi/nyheter/rss_utrikes.rss",
+        "https://svenska.yle.fi/rss/utrikes",
+        "https://svenska.yle.fi/rss/sport",
+        "https://svenska.yle.fi/rss/osterbotten",
+        "https://svenska.yle.fi/rss/kultur",
+        "https://svenska.yle.fi/rss/kultur-och-noje"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.683Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "keski-hame.fi": {
+      "urls": [
+        "https://paikat.te-palvelut.fi/tpt-api/tyopaikat.rss",
+        "https://www.keski-hame.fi/feed/rss",
+        "https://www.keski-hame.fi:443/feed/rss/",
+        "https://keski-hame.fi/feed",
+        "https://poliisi.fi/en/c/blogs/rss?plid=145828823&groupId=25235045",
+        "https://www.poliisi.fi/RSS/fi/2/0/hame",
+        "https://poliisi.fi/etusivu/-/asset_publisher/mhkofNyGe9wn/rss",
+        "https://keski-hame.fi/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.582Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "freemagazine.fi": {
+      "urls": [
+        "http://www.freemagazine.fi/feed/atom/",
+        "http://www.freemagazine.fi/feed/",
+        "http://www.freemagazine.fi/category/blogs/feed/",
+        "http://www.freemagazine.fi/category/blogs/antonios-blog/feed/",
+        "http://www.freemagazine.fi/category/blogs/free-blog/feed/",
+        "http://www.freemagazine.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.643Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "6d.fi": {
+      "urls": [
+        "https://www.6d.fi/index.php?format=feed&type=atom",
+        "https://www.6d.fi/index.php?format=feed&type=rss",
+        "http://6d.fi/index.php?format=feed&type=atom",
+        "http://www.6d.fi/index.php?format=feed&type=atom",
+        "http://6d.fi/index.php?format=feed&type=rss",
+        "http://www.6d.fi/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.677Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kangasalansanomat.fi": {
+      "urls": [
+        "https://kangasalansanomat.fi/feed",
+        "https://kangasalansanomat.fi/feed/",
+        "https://kangasalansanomat.fi/feed/events",
+        "https://kangasalansanomat.fi/comments/feed",
+        "https://kangasalansanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.538Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kaleva.fi": {
+      "urls": [
+        "https://www.kaleva.fi/feedit/rss/managed-listing/rss-uusimmat/",
+        "https://www.kaleva.fi/feedit/rss/managed-listing/oulun-seutu/",
+        "https://www.kaleva.fi/feedit/rss/managed-listing/kotimaa/",
+        "https://www.kaleva.fi/feedit/rss/managed-listing/pohjois-suomi/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.261Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hbl.fi": {
+      "urls": [
+        "https://www.hbl.fi/rss.xml",
+        "https://www.hbl.fi/feeds/feed.xml",
+        "http://www.hbl.fi/rss.xml",
+        "https://lettera.api.ksfmedia.fi/v4/list/frontpage?paper=HBL"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.298Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "helsinkitimes.fi": {
+      "urls": [
+        "https://www.helsinkitimes.fi/?format=feed&type=atom",
+        "https://www.helsinkitimes.fi/?format=feed&type=rss",
+        "https://www.helsinkitimes.fi/business.feed?type=rss",
+        "https://www.helsinkitimes.fi/finland/finland-news.feed?type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.319Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "keskilaakso.fi": {
+      "urls": [
+        "https://www.keskilaakso.fi/feed/rss",
+        "https://www.keskilaakso.fi/feed/rss/",
+        "https://www.keskilaakso.fi/feed/",
+        "https://www.keskilaakso.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.371Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sisa-savolehti.fi": {
+      "urls": [
+        "https://www.sisa-savolehti.fi/feed/rss",
+        "https://www.sisa-savolehti.fi/feed/rss/",
+        "https://www.sisa-savolehti.fi/feed/",
+        "https://www.sisa-savolehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.374Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "heinavedenlehti.fi": {
+      "urls": [
+        "https://www.heinavedenlehti.fi/feed/rss",
+        "https://www.heinavedenlehti.fi/feed/rss/",
+        "https://www.heinavedenlehti.fi/feed/",
+        "https://www.heinavedenlehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.382Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "juvanlehti.fi": {
+      "urls": [
+        "https://www.juvanlehti.fi/feed/rss",
+        "https://www.juvanlehti.fi/feed/rss/",
+        "https://www.juvanlehti.fi/feed/",
+        "https://www.juvanlehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.386Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pitajanuutiset.fi": {
+      "urls": [
+        "https://www.pitajanuutiset.fi/feed/rss",
+        "https://www.pitajanuutiset.fi/feed/rss/",
+        "https://www.pitajanuutiset.fi/feed/",
+        "https://www.pitajanuutiset.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.389Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "soisalonseutu.fi": {
+      "urls": [
+        "https://www.soisalonseutu.fi/feed/rss",
+        "https://www.soisalonseutu.fi/feed/rss/",
+        "https://www.soisalonseutu.fi/feed/",
+        "https://www.soisalonseutu.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.421Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kaakonkulma.fi": {
+      "urls": [
+        "https://www.kaakonkulma.fi/feed/rss",
+        "https://www.kaakonkulma.fi/feed/rss/",
+        "https://www.kaakonkulma.fi/feed/",
+        "https://www.kaakonkulma.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.426Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "joutsenolehti.fi": {
+      "urls": [
+        "https://www.joutsenolehti.fi/feed/rss",
+        "https://www.joutsenolehti.fi/feed/rss/",
+        "https://www.joutsenolehti.fi/feed/",
+        "https://www.joutsenolehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.435Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lansisaimaa.fi": {
+      "urls": [
+        "https://www.lansisaimaa.fi/feed/rss",
+        "https://www.lansisaimaa.fi/feed/rss/",
+        "https://www.lansisaimaa.fi/feed/",
+        "https://www.lansisaimaa.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.515Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "koillis-savo.fi": {
+      "urls": [
+        "https://www.koillis-savo.fi/feed/rss",
+        "https://www.koillis-savo.fi/feed/rss/",
+        "https://www.koillis-savo.fi/feed/",
+        "https://www.koillis-savo.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.518Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "uutis-jousi.fi": {
+      "urls": [
+        "https://www.uutis-jousi.fi/feed/rss",
+        "https://www.uutis-jousi.fi/feed/rss/",
+        "https://www.uutis-jousi.fi/feed/",
+        "https://www.uutis-jousi.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.529Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pitajalainen.fi": {
+      "urls": [
+        "https://www.pitajalainen.fi/feed/rss",
+        "https://www.pitajalainen.fi/feed/rss/",
+        "https://www.pitajalainen.fi/feed/",
+        "https://www.pitajalainen.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.558Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mattijaliisa.fi": {
+      "urls": [
+        "https://www.mattijaliisa.fi/feed/rss",
+        "https://www.mattijaliisa.fi/feed/rss/",
+        "https://www.mattijaliisa.fi/feed/",
+        "https://www.mattijaliisa.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.600Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "miilu.fi": {
+      "urls": [
+        "https://www.miilu.fi/feed/rss",
+        "https://www.miilu.fi/feed/rss/",
+        "https://www.miilu.fi/feed/",
+        "https://www.miilu.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.609Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pielavesi-keitele.fi": {
+      "urls": [
+        "https://www.pielavesi-keitele.fi/feed/rss",
+        "https://www.pielavesi-keitele.fi/feed/rss/",
+        "https://www.pielavesi-keitele.fi/feed/",
+        "https://www.pielavesi-keitele.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.619Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "luumaenlehti.fi": {
+      "urls": [
+        "https://www.luumaenlehti.fi/feed/rss",
+        "https://www.luumaenlehti.fi/feed/rss/",
+        "https://www.luumaenlehti.fi/feed/",
+        "https://www.luumaenlehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.638Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "joroistenlehti.fi": {
+      "urls": [
+        "https://www.joroistenlehti.fi/feed/rss",
+        "https://www.joroistenlehti.fi/feed/rss/",
+        "https://www.joroistenlehti.fi/feed/",
+        "https://www.joroistenlehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.650Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "orivedensanomat.fi": {
+      "urls": [
+        "https://orivedensanomat.fi/feed/",
+        "https://www.orivedensanomat.fi/feed/",
+        "https://www.orivedensanomat.fi/feed/json/",
+        "https://orivedensanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.663Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "esaimaa.fi": {
+      "urls": [
+        "https://esaimaa.fi/api/articles.rss",
+        "https://www.esaimaa.fi/feed/rss",
+        "https://www.esaimaa.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.242Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "forssanlehti.fi": {
+      "urls": [
+        "https://www.forssanlehti.fi/feed",
+        "https://www.forssanlehti.fi/feed/rss",
+        "https://www.forssanlehti.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.247Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kotimaa24.fi": {
+      "urls": [
+        "https://www.kotimaa24.fi/feed/",
+        "https://www.kotimaa.fi/feed/",
+        "https://www.kotimaa.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.276Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lansi-savo.fi": {
+      "urls": [
+        "https://www.lansi-savo.fi/feed/rss",
+        "https://lansi-savo.fi/api/articles.rss",
+        "https://www.lansi-savo.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.279Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ita-savo.fi": {
+      "urls": [
+        "https://ita-savo.fi/api/articles.rss",
+        "https://www.ita-savo.fi/feed/rss",
+        "https://www.ita-savo.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.335Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hameensanomat.fi": {
+      "urls": [
+        "https://www.hameensanomat.fi/feed/",
+        "https://www.hameensanomat.fi/feed/rss",
+        "https://www.hameensanomat.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.342Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kouvolansanomat.fi": {
+      "urls": [
+        "https://kouvolansanomat.fi/api/articles.rss",
+        "https://www.kouvolansanomat.fi/feed/rss",
+        "https://www.kouvolansanomat.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.354Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kymensanomat.fi": {
+      "urls": [
+        "https://kymensanomat.fi/api/articles.rss",
+        "https://www.kymensanomat.fi/feed/rss",
+        "https://www.kymensanomat.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.358Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pernionseudunlehti.fi": {
+      "urls": [
+        "https://pernionseudunlehti.fi/feed",
+        "https://www.pernionseudunlehti.fi/?format=feed&type=atom",
+        "https://www.pernionseudunlehti.fi/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.407Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "loimaanlehti.fi": {
+      "urls": [
+        "https://www.loimaanlehti.fi/feed/",
+        "https://www.loimaanlehti.fi/category/podcast/feed/",
+        "https://www.loimaanlehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.512Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "demokraatti.fi": {
+      "urls": [
+        "https://wp.demokraatti.fi/feed/",
+        "https://wp.demokraatti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.236Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "karjalainen.fi": {
+      "urls": [
+        "https://www.karjalainen.fi/feed/rss",
+        "https://fiare-prod-qt-images.s3.amazonaws.com/production/karjalainen/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.264Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kp24.fi": {
+      "urls": [
+        "https://www.keskipohjanmaa.fi/feed?name=keskipohjanmaa",
+        "https://www.keskipohjanmaa.fi/atom?name=keskipohjanmaa"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.271Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "suomenmaa.fi": {
+      "urls": [
+        "https://www.suomenmaa.fi/feed/",
+        "https://www.suomenmaa.fi/neo/neoproxy.dll?tem=rss_neo&tem=rss_neo"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.286Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "abounderrattelser.fi": {
+      "urls": [
+        "https://abounderrattelser.fi/feed/",
+        "https://abounderrattelser.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.295Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "aamuposti.fi": {
+      "urls": [
+        "https://www.aamuposti.fi/feed/rss",
+        "https://www.aamuposti.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.316Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lapinkansa.fi": {
+      "urls": [
+        "https://www.lapinkansa.fi/feedit/rss/managed-listing/lappi/",
+        "https://www.lapinkansa.fi/feedit/rss/newest-free/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.363Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sss.fi": {
+      "urls": [
+        "https://www.sss.fi/feed/",
+        "https://www.sss.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.377Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "puumalalehti.fi": {
+      "urls": [
+        "https://puumalalehti.fi/feed/",
+        "https://puumalalehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.392Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "paikallisuutiset.fi": {
+      "urls": [
+        "https://www.paikallisuutiset.fi/feed/",
+        "http://www.paikallisuutiset.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.398Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kotiseudunsanomat.fi": {
+      "urls": [
+        "https://kotiseudunsanomat.fi/feed/",
+        "https://kotiseudunsanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.401Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lvs.fi": {
+      "urls": [
+        "https://lvs.fi/feed/",
+        "https://lvs.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.404Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "keskipohjanmaa.fi": {
+      "urls": [
+        "https://www.keskipohjanmaa.fi/feed?name=keskipohjanmaa",
+        "https://www.keskipohjanmaa.fi/atom?name=keskipohjanmaa"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.410Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jarviseudunsanomat.fi": {
+      "urls": [
+        "https://www.jarviseudunsanomat.fi/feed/",
+        "https://www.jarviseudunsanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.430Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kuntsari.fi": {
+      "urls": [
+        "https://www.kuntsari.fi/feed/",
+        "https://www.kuntsari.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.450Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pietarsaarensanomat.fi": {
+      "urls": [
+        "https://www.pietarsaarensanomat.fi/atom?name=pietarsaarensanomat",
+        "https://www.pietarsaarensanomat.fi/feed?name=pietarsaarensanomat"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.459Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lieksanlehti.fi": {
+      "urls": [
+        "https://www.lieksanlehti.fi/feed/rss",
+        "https://www.lieksanlehti.fi/component/obrss/lieksan-lehti-kaikki-au"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.464Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "helsinginuutiset.fi": {
+      "urls": [
+        "https://www.helsinginuutiset.fi/feed/rss",
+        "https://www.helsinginuutiset.fi/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.476Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kotimaa.fi": {
+      "urls": [
+        "https://www.kotimaa.fi/feed/",
+        "https://www.kotimaa.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.493Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "uutisvuoksi.fi": {
+      "urls": [
+        "https://uutisvuoksi.fi/api/articles.rss",
+        "https://www.uutisvuoksi.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.498Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "akaanseutu.fi": {
+      "urls": [
+        "https://akaanseutu.fi/feed/",
+        "https://akaanseutu.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.501Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kiuruvesilehti.fi": {
+      "urls": [
+        "https://kiuruvesilehti.fi/feed/",
+        "https://kiuruvesilehti.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.508Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ylakarjala.fi": {
+      "urls": [
+        "https://www.ylakarjala.fi/feed/rss",
+        "https://www.ylakarjala.fi/component/obrss/yla-karjala-kaikki-au"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.548Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "urjalansanomat.fi": {
+      "urls": [
+        "https://urjalansanomat.fi/feed/",
+        "https://urjalansanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.591Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kuhmoistensanomat.fi": {
+      "urls": [
+        "https://kuhmoistensanomat.fi/feed/",
+        "https://kuhmoistensanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.654Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "petajavesilehti.fi": {
+      "urls": [
+        "https://petajavesilehti.fi/feed/",
+        "https://www.paikallisuutiset.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.657Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "padasjoensanomat.fi": {
+      "urls": [
+        "https://padasjoensanomat.fi/feed/",
+        "https://padasjoensanomat.fi/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.660Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pielisjokiseutu.fi": {
+      "urls": [
+        "https://www.pielisjokiseutu.fi/feed/rss",
+        "https://www.pielisjokiseutu.fi/component/obrss/pielisjokiseutu-kaikki-au"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.666Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pogostansanomat.fi": {
+      "urls": [
+        "https://www.pogostansanomat.fi/feed/rss",
+        "https://www.pogostansanomat.fi/component/obrss/pogostan-sanomat-kaikki-au"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.669Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sievilainenlehti.fi": {
+      "urls": [
+        "https://sievilainenlehti.fi/feed/",
+        "http://sievilainenlehti.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.672Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ess.fi": {
+      "urls": [
+        "https://www.ess.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.238Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kainuunsanomat.fi": {
+      "urls": [
+        "https://www.kainuunsanomat.fi/feed/kaikki-uutiset"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.257Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ts.fi": {
+      "urls": [
+        "https://www.ts.fi/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.288Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "verkkouutiset.fi": {
+      "urls": [
+        "https://www.verkkouutiset.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.290Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ku.fi": {
+      "urls": [
+        "https://www.ku.fi/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.303Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vastranyland.fi": {
+      "urls": [
+        "https://www.vastranyland.fi/feeds/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.309Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ilkkapohjalainen.fi": {
+      "urls": [
+        "https://fiare-prod-qt-images.s3.amazonaws.com/production/i-mediat/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.313Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "itahame.fi": {
+      "urls": [
+        "https://www.itahame.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.346Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ksml.fi": {
+      "urls": [
+        "https://www.ksml.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.350Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "uusimaa.fi": {
+      "urls": [
+        "https://www.uusimaa.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.360Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "savonsanomat.fi": {
+      "urls": [
+        "https://www.savonsanomat.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.365Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hankasalmensanomat.fi": {
+      "urls": [
+        "https://www.hankasalmensanomat.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.367Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jarviseutu-lehti.fi": {
+      "urls": [
+        "https://fiare-prod-qt-images.s3.amazonaws.com/production/i-mediat/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.379Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pirkkalainen.fi": {
+      "urls": [
+        "https://pirkkalainen.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.412Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "viikkosavo.fi": {
+      "urls": [
+        "https://www.viikkosavo.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.414Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "viitasaarenseutu.fi": {
+      "urls": [
+        "https://www.viitasaarenseutu.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.416Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tiedonantaja.fi": {
+      "urls": [
+        "https://tiedonantaja.fi/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.418Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "komiat.fi": {
+      "urls": [
+        "https://fiare-prod-qt-images.s3.amazonaws.com/production/i-mediat/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.423Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jurvansanomat.fi": {
+      "urls": [
+        "https://fiare-prod-qt-images.s3.amazonaws.com/production/i-mediat/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.432Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "viiskunta.fi": {
+      "urls": [
+        "https://fiare-prod-qt-images.s3.amazonaws.com/production/i-mediat/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.437Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "suupohjansanomat.fi": {
+      "urls": [
+        "https://fiare-prod-qt-images.s3.amazonaws.com/production/i-mediat/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.439Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rantapohja.fi": {
+      "urls": [
+        "https://www.rantapohja.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.444Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "prsanomat.fi": {
+      "urls": [
+        "https://www.prsanomat.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.446Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "orimattilansanomat.fi": {
+      "urls": [
+        "https://www.orimattilansanomat.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.461Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "iisalmensanomat.fi": {
+      "urls": [
+        "https://www.iisalmensanomat.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.466Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "seiska.fi": {
+      "urls": [
+        "https://www.seiska.fi/latest.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.471Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "uusisuomi.fi": {
+      "urls": [
+        "https://www.uusisuomi.fi/api/feed/v2/rss/us"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.473Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tivi.fi": {
+      "urls": [
+        "https://www.tivi.fi/api/feed/v2/rss/tv"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.478Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "suomenkuvalehti.fi": {
+      "urls": [
+        "https://suomenkuvalehti.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.484Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tilannehuone.fi": {
+      "urls": [
+        "https://www.tilannehuone.fi/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.485Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vantaansanomat.fi": {
+      "urls": [
+        "https://www.vantaansanomat.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.487Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "keski-uusimaa.fi": {
+      "urls": [
+        "https://www.keski-uusimaa.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.489Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lappeenrannanuutiset.fi": {
+      "urls": [
+        "https://www.lappeenrannanuutiset.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.495Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lansi-uusimaa.fi": {
+      "urls": [
+        "https://www.lansi-uusimaa.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.503Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sipoonsanomat.fi": {
+      "urls": [
+        "https://www.sipoonsanomat.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.505Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kangasniemenlehti.fi": {
+      "urls": [
+        "https://www.kangasniemenlehti.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.520Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tervareitti.fi": {
+      "urls": [
+        "https://www.tervareitti.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.522Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mantsalanuutiset.fi": {
+      "urls": [
+        "https://www.mantsalanuutiset.fi/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.573Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ulvilanseutu.fi": {
+      "urls": [
+        "https://www.ulvilanseutu.fi/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.673Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "aftonbladet.se": {
+      "urls": [
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/nyheter",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/sportbladet",
+        "https://rss.aftonbladet.se/rss2/small/collections?tags=sweden-s-news-in-english",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/kultur",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/ledare",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/aftonbladet",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/nojesbladet",
+        "https://podcast.stream.schibsted.media/ab/1172"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.686Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dn.se": {
+      "urls": [
+        "https://www.dn.se/rss/",
+        "https://www.dn.se/rss/kultur/",
+        "https://www.dn.se/rss/sport/",
+        "https://www.dn.se/rss/ekonomi/",
+        "https://www.dn.se/rss/ledare/",
+        "https://www.dn.se/rss/debatt/",
+        "https://www.dn.se/rss/podd/",
+        "https://www.dn.se/rss/om/dn-podcast/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.689Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "expressen.se": {
+      "urls": [
+        "https://feeds.expressen.se",
+        "https://feeds.expressen.se/nyheter/",
+        "https://feeds.expressen.se/sport/",
+        "https://feeds.expressen.se/noje/",
+        "https://feeds.expressen.se/kultur/",
+        "https://feeds.expressen.se/ledare/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.692Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "puruvesi.net": {
+      "urls": [
+        "https://www.puruvesi.net/feed/rss",
+        "https://www.puruvesi.net/feed/rss/",
+        "https://www.puruvesi.net/feed/",
+        "https://www.puruvesi.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.395Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "alandstidningen.ax": {
+      "urls": [
+        "https://feed.alandstidningen.ax/rss/nyheter",
+        "https://www.alandstidningen.ax/rss/allt",
+        "https://www.alandstidningen.ax/rss/nyheter"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.307Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "svd.se": {
+      "urls": [
+        "https://www.svd.se/feed/articles.rss",
+        "https://www.svd.se/?service=rss&type=senastenytt",
+        "https://www.svd.se/feed/articles/category/naringsliv.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.680Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kotiseutu-uutiset.com": {
+      "urls": [
+        "https://kotiseutu-uutiset.com/feed/",
+        "https://kotiseutu-uutiset.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.628Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "nyan.ax": {
+      "urls": [
+        "https://www.nyan.ax/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:36.311Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

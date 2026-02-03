@@ -1,0 +1,87 @@
+{
+  "country_code": "IT",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 9,
+  "feeds": {
+    "florencenews.it": {
+      "urls": [
+        "http://www.florencenews.it/feed/",
+        "http://florencenews.it/feed/",
+        "http://www.florencenews.it/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:21.783Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ilmarcopolo.ca": {
+      "urls": [
+        "https://ilmarcopolo.ca/feed/",
+        "https://ilmarcopolo.ca/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:23.818Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "italiantribune.com": {
+      "urls": [
+        "https://italiantribune.com/feed/",
+        "https://italiantribune.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1430,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:20.540Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "italica.sm": {
+      "urls": [
+        "http://www.italica.sm/rssfeed.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 818,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:21.358Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "italianamericanherald.com": {
+      "urls": [
+        "https://italianamericanherald.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:22.895Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

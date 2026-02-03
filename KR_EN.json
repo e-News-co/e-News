@@ -1,0 +1,106 @@
+{
+  "country_code": "KR",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 42,
+  "feeds": {
+    "womennews.co.kr": {
+      "urls": [
+        "https://cdn.womennews.co.kr/rss/gns_allArticle.xml",
+        "http://www.womennews.co.kr/rss/allArticle.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N2.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N1.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N4.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N3.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N44.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N6.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N11.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N12.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N15.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N16.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N39.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N45.xml",
+        "https://cdn.womennews.co.kr/rss/gns_S1N7.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 801,
+        "category": "general",
+        "last_checked": "2026-02-01T02:48:54.765Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mediatoday.co.kr": {
+      "urls": [
+        "http://www.mediatoday.co.kr/rss/allArticle.xml",
+        "http://www.mediatoday.co.kr/rss/S1N4.xml",
+        "http://www.mediatoday.co.kr/rss/clickTop.xml",
+        "http://www.mediatoday.co.kr/rss/S1N2.xml",
+        "http://www.mediatoday.co.kr/rss/S1N3.xml",
+        "http://www.mediatoday.co.kr/rss/S1N6.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 307,
+        "category": "general",
+        "last_checked": "2026-02-01T02:48:48.357Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "seoulilbo.com": {
+      "urls": [
+        "http://www.seoulilbo.com/rss/S1N17.xml",
+        "http://www.seoulilbo.com/rss/clickTop.xml",
+        "http://www.seoulilbo.com/rss/allArticle.xml",
+        "http://www.seoulilbo.com/rss/S1N3.xml",
+        "http://www.seoulilbo.com/rss/S1N9.xml",
+        "http://www.seoulilbo.com/rss/S1N10.xml",
+        "http://www.seoulilbo.com/rss/S1N8.xml",
+        "http://www.seoulilbo.com/rss/S1N18.xml",
+        "http://www.seoulilbo.com/rss/S1N11.xml",
+        "http://www.seoulilbo.com/rss/S1N16.xml",
+        "http://www.seoulilbo.com/rss/S1N4.xml",
+        "http://www.seoulilbo.com/rss/S1N7.xml",
+        "http://www.seoulilbo.com/rss/S1N12.xml",
+        "http://www.seoulilbo.com/rss/S1N13.xml",
+        "http://www.seoulilbo.com/rss/S1N14.xml",
+        "http://www.seoulilbo.com/rss/S1N15.xml",
+        "http://www.seoulilbo.com/rss/S1N5.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 353,
+        "category": "general",
+        "last_checked": "2026-02-01T02:48:51.783Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kado.net": {
+      "urls": [
+        "https://cdn.kado.net/rss/gn_rss_allArticle.xml",
+        "http://www.kado.net/rss/allArticle.xml",
+        "http://www.kado.net/rss/clickTop.xml",
+        "http://www.kado.net/rss/S1N1.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1019,
+        "category": "general",
+        "last_checked": "2026-02-01T02:48:57.111Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

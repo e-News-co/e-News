@@ -1,0 +1,446 @@
+{
+  "country_code": "GN",
+  "language_code": "EN",
+  "total_domains": 23,
+  "total_feeds": 116,
+  "feeds": {
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 84,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:30.308Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "actuguinee.org": {
+      "urls": [
+        "https://actuguinee.org/index.php/feed/",
+        "https://actuguinee.org/index.php/comments/feed/",
+        "https://actuguinee.org/feed/",
+        "https://actuguinee.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4307,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:10.418Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "guineefoot.info": {
+      "urls": [
+        "https://guineefoot.info/feed/atom/",
+        "https://guineefoot.info/feed/",
+        "https://guineefoot.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 849,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:14.303Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lejourguinee.com": {
+      "urls": [
+        "https://www.lejourguinee.com/feed/",
+        "https://lejourguinee.com/feed/",
+        "https://www.lejourguinee.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1876,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:58.115Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guineematin.com": {
+      "urls": [
+        "https://guineematin.com/feed/",
+        "https://guineematin.com/category/actualites/feed/",
+        "http://guineematin.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1890,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:00.366Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guinee7.com": {
+      "urls": [
+        "https://www.guinee7.com/feed/",
+        "http://www.guinee7.com/feed/",
+        "https://www.guinee7.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2046,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:18.489Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lelynx.net": {
+      "urls": [
+        "https://lelynx.net/feed/",
+        "https://lelynx.net/?format=feed&type=atom",
+        "https://lelynx.net/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2260,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:30.217Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kababachir.com": {
+      "urls": [
+        "http://www.kababachir.com/feed/",
+        "http://www.kababachir.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 212,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:55.770Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gnakrylive.com": {
+      "urls": [
+        "https://www.gnakrylive.com/?format=feed&type=atom",
+        "https://www.gnakrylive.com/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:06.100Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "africaguinee.com": {
+      "urls": [
+        "https://www.africaguinee.com/feed/",
+        "https://www.africaguinee.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1152,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:50.638Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "foot224.co": {
+      "urls": [
+        "https://www.foot224.co/feed/",
+        "https://www.foot224.co/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1738,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:05.075Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aminata.com": {
+      "urls": [
+        "https://aminata.com/feed/",
+        "https://aminata.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1765,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:52.455Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guinee24.com": {
+      "urls": [
+        "https://guinee24.com/feed",
+        "https://www.guinee24.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1765,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:16.106Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kaloumpresse.com": {
+      "urls": [
+        "https://kaloumpresse.com/feed/",
+        "http://kaloumpresse.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2472,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:22.927Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mediaguinee.org": {
+      "urls": [
+        "https://mediaguinee.com/feed/",
+        "https://mediaguinee.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2968,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:03.336Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "guinee360.com": {
+      "urls": [
+        "https://www.guinee360.com/feed/",
+        "https://www.guinee360.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2989,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:13.447Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guineenews.org": {
+      "urls": [
+        "https://guineenews.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 289,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:55.555Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "guinea-forum.org": {
+      "urls": [
+        "https://www.guinea-forum.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2811,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:55.266Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "conakryinfos.com": {
+      "urls": [
+        "https://www.conakryinfos.com/feed/",
+        "https://conakryinfos.com/feed/",
+        "http://conakryinfos.com/feed/",
+        "https://www.conakryinfos.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:25.351Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "afrinews.org": {
+      "urls": [
+        "https://afrinews.org/feed/",
+        "http://afrinews.org/feed/",
+        "https://afrinews.org/comments/feed/",
+        "http://afrinews.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:27.502Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lepopulaire.fr": {
+      "urls": [
+        "https://www.lepopulaire.fr/PC-tempsforts-tous.xml",
+        "http://www.lepopulaire.fr/PC-tempsforts-tous.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:58.445Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "radio-kankan.com": {
+      "urls": [
+        "https://www.radio-kankan.com/feed/",
+        "https://radio-kankan.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:58.474Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "guineelive.com": {
+      "urls": [
+        "https://guineelive.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:58:20.436Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

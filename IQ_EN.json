@@ -1,0 +1,46 @@
+{
+  "country_code": "IQ",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 24,
+  "feeds": {
+    "albawaba.com": {
+      "urls": [
+        "https://www.albawaba.com/rss/press-release",
+        "https://www.albawaba.com/rss/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9",
+        "https://article.albawaba.net/ar/rss/ar-all",
+        "https://www.albawaba.com/ar/rss/ar-all",
+        "https://www.albawaba.com/rss/ar-all",
+        "https://www.albawaba.com/rss/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+        "https://www.albawaba.com/rss/all",
+        "https://www.albawaba.com/ar/rss/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+        "https://www.albawaba.com/rss/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+        "https://www.albawaba.com/rss/%D8%B5%D8%AD%D8%AA%D9%83%D9%90-%D9%88%D8%AC%D9%85%D8%A7%D9%84%D9%83%D9%90",
+        "https://www.albawaba.com/rss/news",
+        "https://www.albawaba.com/rss/entertainment",
+        "https://www.albawaba.com/rss/%D8%AA%D8%B1%D9%81%D9%8A%D9%87",
+        "https://www.albawaba.com/rss/%D8%A3%D8%B9%D9%85%D8%A7%D9%84",
+        "https://www.albawaba.com/rss/business",
+        "https://www.albawaba.com/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9",
+        "https://www.albawaba.com/rss/%D8%B3%D8%A7%D8%AE%D8%B1%D9%88%D9%86",
+        "https://www.albawaba.com/rss/ar-buzz",
+        "https://www.albawaba.com/rss/ar-slideshows",
+        "https://www.albawaba.com/rss/editor-choice",
+        "https://www.albawaba.com/rss/en-slideshows",
+        "https://www.albawaba.com/rss/sports",
+        "https://www.albawaba.com/ar/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9",
+        "https://article.albawaba.net/ar/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1117,
+        "category": "general",
+        "last_checked": "2026-02-01T00:44:43.441Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

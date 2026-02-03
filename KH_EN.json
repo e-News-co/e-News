@@ -1,0 +1,53 @@
+{
+  "country_code": "KH",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 3,
+  "feeds": {
+    "kohsantepheapdaily.com.kh": {
+      "urls": [
+        "https://kohsantepheapdaily.com.kh/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 629,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:23.327Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cnv.org.kh": {
+      "urls": [
+        "http://cnv.org.kh/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:22.697Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "phnompenhpost.com": {
+      "urls": [
+        "https://www.phnompenhpost.com/news-feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T02:26:23.549Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "country_code": "IL",
+  "language_code": "ES",
+  "total_domains": 1,
+  "total_feeds": 3,
+  "feeds": {
+    "aurora-israel.co.il": {
+      "urls": [
+        "https://aurora-israel.co.il/feed/",
+        "https://www.aurora-israel.co.il/feed/",
+        "https://www.aurora-israel.co.il/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2581,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:03.074Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

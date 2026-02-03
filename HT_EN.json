@@ -1,0 +1,319 @@
+{
+  "country_code": "HT",
+  "language_code": "EN",
+  "total_domains": 18,
+  "total_feeds": 59,
+  "feeds": {
+    "juno7.ht": {
+      "urls": [
+        "https://www.juno7.ht/feed/",
+        "https://www.juno7.ht/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1245,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:50.865Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "metropole.ht": {
+      "urls": [
+        "https://metropole.ht/feed/",
+        "https://metropole.ht/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1680,
+        "category": "general",
+        "last_checked": "2026-01-31T22:38:01.454Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "signalfmhaiti.com": {
+      "urls": [
+        "https://www.signalfmhaiti.com/feed/atom",
+        "https://www.signalfmhaiti.com/feed/atom/",
+        "https://www.signalfmhaiti.com/feed",
+        "https://signalfmhaiti.com/feed/",
+        "https://www.signalfmhaiti.com/feed/",
+        "http://signalfmhaiti.com/feed/",
+        "https://www.signalfmhaiti.com/comments/feed",
+        "https://www.signalfmhaiti.com/comments/feed/",
+        "http://signalfmhaiti.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3581,
+        "category": "general",
+        "last_checked": "2026-01-31T22:38:05.852Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haitienmarche.com": {
+      "urls": [
+        "https://haitienmarche.com/index.php?format=feed&type=atom",
+        "https://www.haitienmarche.com/index.php?format=feed&type=atom",
+        "https://haitienmarche.com/index.php?format=feed&type=rss",
+        "https://www.haitienmarche.com/index.php?format=feed&type=rss",
+        "http://haitienmarche.com/index.php?format=feed&type=rss",
+        "http://haitienmarche.com/index.php?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1034,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:43.381Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haitiprogres.com": {
+      "urls": [
+        "https://haitiprogres.com/feed/",
+        "https://www.haitiprogres.com/feed/",
+        "https://haitiprogres.com/comments/feed/",
+        "https://www.haitiprogres.com/comments/feed/",
+        "https://haitiprogres.com/homepage/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1277,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:44.982Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haitilibre.com": {
+      "urls": [
+        "https://www.haitilibre.com/rss-flash-en.xml",
+        "https://www.haitilibre.com/rss-flash.xml",
+        "https://www.haitilibre.com/rss-flash-en.php",
+        "https://www.haitilibre.com/rss-flash.php",
+        "https://www.haitilibre.com/rss-dossiers.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1605,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:52.484Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "icihaiti.com": {
+      "urls": [
+        "https://www.icihaiti.com/rss-flash-en.xml",
+        "https://www.icihaiti.com/rss-flash.xml",
+        "https://www.icihaiti.com/rss-flash-en.php",
+        "https://www.icihaiti.com/rss-flash.php",
+        "https://www.icihaiti.com/rss-dossiers.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1633,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:58.235Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haiti24.net": {
+      "urls": [
+        "https://haiti24.net/feed/",
+        "http://haiti24.net/feed/",
+        "https://haiti24.net/comments/feed/",
+        "http://haiti24.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1276,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:59.728Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rezonodwes.com": {
+      "urls": [
+        "https://rezonodwes.com/?feed=rss2",
+        "https://rezonodwes.com/feed/",
+        "https://rezonodwes.com/?feed=comments-rss2",
+        "https://rezonodwes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2520,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:56.597Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ayibopost.com": {
+      "urls": [
+        "https://ayibopost.com/feed/",
+        "https://ayibopost.com/category/podcast/feed/",
+        "https://ayibopost.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 889,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:49.572Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haiti-observateur.ca": {
+      "urls": [
+        "https://haiti-observateur.ca/?feed=rss2",
+        "https://haiti-observateur.ca/feed/",
+        "https://haiti-observateur.ca/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2372,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:48.680Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haitiantimes.com": {
+      "urls": [
+        "https://haitiantimes.com/feed/",
+        "https://haitiantimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 457,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:45.461Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "radiotelecaraibes.com": {
+      "urls": [
+        "https://www.radiotelecaraibes.com/feed/",
+        "https://www.radiotelecaraibes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 612,
+        "category": "general",
+        "last_checked": "2026-01-31T22:38:02.268Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "scoopfmhaiti.com": {
+      "urls": [
+        "https://www.scoopfmhaiti.com/feed/",
+        "https://www.scoopfmhaiti.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1340,
+        "category": "general",
+        "last_checked": "2026-01-31T22:38:07.204Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haitiliberte.com": {
+      "urls": [
+        "https://haitiliberte.com/feed/",
+        "https://haitiliberte.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1591,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:54.077Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lakolonline.com": {
+      "urls": [
+        "https://www.lakolonline.com/blog-feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 397,
+        "category": "general",
+        "last_checked": "2026-01-31T22:38:09.115Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "m.haitiopen.com": {
+      "urls": [
+        "https://m.haitiopen.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1514,
+        "category": "general",
+        "last_checked": "2026-01-31T22:38:08.718Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "alterpresse.org": {
+      "urls": [
+        "https://www.alterpresse.org/spip.php?page=backend"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:42.314Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

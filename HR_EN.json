@@ -1,0 +1,1050 @@
+{
+  "country_code": "HR",
+  "language_code": "EN",
+  "total_domains": 49,
+  "total_feeds": 356,
+  "feeds": {
+    "slobodnadalmacija.hr": {
+      "urls": [
+        "https://slobodnadalmacija.hr/feed",
+        "https://slobodnadalmacija.hr/feed/category/246",
+        "https://slobodnadalmacija.hr/feed/category/255",
+        "https://slobodnadalmacija.hr/feed/category/119",
+        "https://slobodnadalmacija.hr/feed/category/254",
+        "https://slobodnadalmacija.hr/feed/category/253",
+        "https://slobodnadalmacija.hr/feed/category/280",
+        "https://slobodnadalmacija.hr/feed/category/241",
+        "https://slobodnadalmacija.hr/feed/category/142",
+        "https://slobodnadalmacija.hr/feed/category/276",
+        "https://slobodnadalmacija.hr/feed/category/277",
+        "https://slobodnadalmacija.hr/feed/category/245",
+        "https://slobodnadalmacija.hr/feed/category/262",
+        "https://slobodnadalmacija.hr/feed/category/263",
+        "https://slobodnadalmacija.hr/feed/category/265",
+        "https://slobodnadalmacija.hr/feed/category/275",
+        "https://slobodnadalmacija.hr/feed/category/243",
+        "https://slobodnadalmacija.hr/feed/category/256",
+        "https://slobodnadalmacija.hr/feed/category/264",
+        "https://slobodnadalmacija.hr/feed/category/258",
+        "https://slobodnadalmacija.hr/feed/category/278",
+        "https://slobodnadalmacija.hr/feed/category/279",
+        "https://slobodnadalmacija.hr/feed/category/282",
+        "https://slobodnadalmacija.hr/feed/category/283",
+        "https://slobodnadalmacija.hr/feed/category/284",
+        "https://slobodnadalmacija.hr/feed/category/242",
+        "https://slobodnadalmacija.hr/feed/category/244",
+        "https://slobodnadalmacija.hr/feed/category/286",
+        "https://slobodnadalmacija.hr/feed/category/299",
+        "https://slobodnadalmacija.hr/feed/category/260",
+        "https://slobodnadalmacija.hr/feed/category/266",
+        "https://slobodnadalmacija.hr/feed/category/267",
+        "https://slobodnadalmacija.hr/feed/category/268",
+        "https://slobodnadalmacija.hr/feed/category/269",
+        "https://slobodnadalmacija.hr/feed/category/270",
+        "https://slobodnadalmacija.hr/feed/category/271",
+        "https://slobodnadalmacija.hr/feed/category/272",
+        "https://slobodnadalmacija.hr/feed/category/273",
+        "https://slobodnadalmacija.hr/feed/category/274",
+        "https://slobodnadalmacija.hr/feed/category/281",
+        "https://slobodnadalmacija.hr/feed/category/285",
+        "https://slobodnadalmacija.hr/feed/category/287",
+        "https://slobodnadalmacija.hr/feed/category/288",
+        "https://slobodnadalmacija.hr/feed/category/289",
+        "https://slobodnadalmacija.hr/feed/category/290",
+        "https://slobodnadalmacija.hr/feed/category/291",
+        "https://slobodnadalmacija.hr/feed/category/295",
+        "https://slobodnadalmacija.hr/feed/category/296",
+        "https://slobodnadalmacija.hr/feed/category/297",
+        "https://slobodnadalmacija.hr/feed/category/298",
+        "https://slobodnadalmacija.hr/feed/category/300",
+        "https://slobodnadalmacija.hr/feed/category/375",
+        "https://slobodnadalmacija.hr/feed/category/378"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1430,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:32.027Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dubrovacki.slobodnadalmacija.hr": {
+      "urls": [
+        "https://slobodnadalmacija.hr/feed",
+        "https://slobodnadalmacija.hr/feed/category/246",
+        "https://slobodnadalmacija.hr/feed/category/255",
+        "https://slobodnadalmacija.hr/feed/category/119",
+        "https://slobodnadalmacija.hr/feed/category/254",
+        "https://slobodnadalmacija.hr/feed/category/253",
+        "https://slobodnadalmacija.hr/feed/category/280",
+        "https://slobodnadalmacija.hr/feed/category/241",
+        "https://slobodnadalmacija.hr/feed/category/142",
+        "https://slobodnadalmacija.hr/feed/category/277",
+        "https://slobodnadalmacija.hr/feed/category/245",
+        "https://slobodnadalmacija.hr/feed/category/262",
+        "https://slobodnadalmacija.hr/feed/category/263",
+        "https://slobodnadalmacija.hr/feed/category/265",
+        "https://slobodnadalmacija.hr/feed/category/275",
+        "https://slobodnadalmacija.hr/feed/category/276",
+        "https://slobodnadalmacija.hr/feed/category/243",
+        "https://slobodnadalmacija.hr/feed/category/256",
+        "https://slobodnadalmacija.hr/feed/category/264",
+        "https://slobodnadalmacija.hr/feed/category/258",
+        "https://slobodnadalmacija.hr/feed/category/278",
+        "https://slobodnadalmacija.hr/feed/category/279",
+        "https://slobodnadalmacija.hr/feed/category/282",
+        "https://slobodnadalmacija.hr/feed/category/283",
+        "https://slobodnadalmacija.hr/feed/category/284",
+        "https://slobodnadalmacija.hr/feed/category/242",
+        "https://slobodnadalmacija.hr/feed/category/244",
+        "https://slobodnadalmacija.hr/feed/category/286",
+        "https://slobodnadalmacija.hr/feed/category/299",
+        "https://slobodnadalmacija.hr/feed/category/260",
+        "https://slobodnadalmacija.hr/feed/category/266",
+        "https://slobodnadalmacija.hr/feed/category/267",
+        "https://slobodnadalmacija.hr/feed/category/268",
+        "https://slobodnadalmacija.hr/feed/category/269",
+        "https://slobodnadalmacija.hr/feed/category/270",
+        "https://slobodnadalmacija.hr/feed/category/271",
+        "https://slobodnadalmacija.hr/feed/category/272",
+        "https://slobodnadalmacija.hr/feed/category/273",
+        "https://slobodnadalmacija.hr/feed/category/274",
+        "https://slobodnadalmacija.hr/feed/category/281",
+        "https://slobodnadalmacija.hr/feed/category/285",
+        "https://slobodnadalmacija.hr/feed/category/287",
+        "https://slobodnadalmacija.hr/feed/category/288",
+        "https://slobodnadalmacija.hr/feed/category/289",
+        "https://slobodnadalmacija.hr/feed/category/290",
+        "https://slobodnadalmacija.hr/feed/category/291",
+        "https://slobodnadalmacija.hr/feed/category/295",
+        "https://slobodnadalmacija.hr/feed/category/296",
+        "https://slobodnadalmacija.hr/feed/category/297",
+        "https://slobodnadalmacija.hr/feed/category/298",
+        "https://slobodnadalmacija.hr/feed/category/300",
+        "https://slobodnadalmacija.hr/feed/category/375",
+        "https://slobodnadalmacija.hr/feed/category/378"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1469,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:03.090Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hrt.hr": {
+      "urls": [
+        "https://feed.hrt.hr/vijesti/hrvatska.xml",
+        "https://feed.hrt.hr/vijesti/svijet.xml",
+        "https://feed.hrt.hr/sport/page.xml",
+        "https://feed.hrt.hr/vijesti/gospodarstvo.xml",
+        "https://feed.hrt.hr/rijeka/latest.xml",
+        "https://feed.hrt.hr/magazin/page.xml",
+        "https://feed.hrt.hr/sport/medunarodni-nogomet.xml",
+        "https://feed.hrt.hr/zadar/latest.xml",
+        "https://feed.hrt.hr/sport/hrvatski-nogomet.xml",
+        "https://feed.hrt.hr/sport/ostali-sportovi.xml",
+        "https://feed.hrt.hr/sport/rukomet.xml",
+        "https://feed.hrt.hr/vijesti/eu.xml",
+        "https://feed.hrt.hr/osijek/latest.xml",
+        "https://feed.hrt.hr/magazin/kultura.xml",
+        "https://feed.hrt.hr/sljeme/latest.xml",
+        "https://feed.hrt.hr/sport/tenis.xml",
+        "https://feed.hrt.hr/magazin/price-iz-hrvatske.xml",
+        "https://feed.hrt.hr/magazin/zabava.xml",
+        "https://feed.hrt.hr/sport/kosarka.xml",
+        "https://feed.hrt.hr/magazin/sretni-i-zdravi.xml",
+        "https://feed.hrt.hr/magazin/znanost-i-tehnologija.xml",
+        "https://feed.hrt.hr/vijesti/page.xml",
+        "https://feed.hrt.hr/dubrovnik/latest.xml",
+        "https://feed.hrt.hr/glazba/latest.xml",
+        "https://feed.hrt.hr/hrtprikazuje/page.xml",
+        "https://feed.hrt.hr/knin/latest.xml",
+        "https://feed.hrt.hr/magazin/mladi.xml",
+        "https://feed.hrt.hr/pula/latest.xml",
+        "https://feed.hrt.hr/split/latest.xml",
+        "https://feed.hrt.hr/vijesti/manjine.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 808,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:39.005Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "net.hr": {
+      "urls": [
+        "https://net.hr/feed",
+        "https://net.hr/sport/rss.xml",
+        "https://net.hr/feed/",
+        "https://net.hr/najnovije/rss.xml",
+        "https://net.hr/feed/sport",
+        "https://net.hr/feed/danas",
+        "https://net.hr/feed/video",
+        "https://net.hr/feed/magazin",
+        "https://net.hr/video/rss.xml",
+        "https://net.hr/magazin/rss.xml",
+        "https://net.hr/danas/rss.xml",
+        "https://net.hr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1598,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:37.293Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "direktno.hr": {
+      "urls": [
+        "https://direktno.hr/rss/publish/latest/",
+        "https://direktno.hr/rss/publish/latest/sport-60/",
+        "https://direktno.hr/rss/publish/latest/domovina-10/",
+        "https://direktno.hr/rss/publish/latest/eu_svijet/",
+        "https://direktno.hr/rss/publish/latest/zivot-70/",
+        "https://direktno.hr/rss/publish/latest/direkt-50/",
+        "https://direktno.hr/rss/publish/latest/razvoj-110/",
+        "https://direktno.hr/rss/publish/latest/zagreb-15/",
+        "https://direktno.hr/rss/publish/latest/direktnotv-100/",
+        "https://direktno.hr/rss/publish/latest/kolumne-80/",
+        "https://direktno.hr/rss/publish/latest/medijski-partneri-90/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 952,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:28.852Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "24sata.hr": {
+      "urls": [
+        "https://www.24sata.hr/feeds/najnovije.xml",
+        "https://www.24sata.hr/feeds/sport.xml",
+        "https://www.24sata.hr/feeds/news.xml",
+        "https://www.24sata.hr/feeds/aktualno.xml",
+        "https://www.24sata.hr/feeds/show.xml",
+        "https://www.24sata.hr/feeds/lifestyle.xml",
+        "https://www.24sata.hr/feeds/tech.xml",
+        "https://www.24sata.hr/feeds/fun.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 914,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:24.988Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "metro-portal.hr": {
+      "urls": [
+        "https://metro-portal.hr/feed/index/galleryphoto",
+        "https://metro-portal.hr/feed/index/news",
+        "http://metro-portal.hr/feed/index/galleryphoto",
+        "https://metro-portal.hr/feed/index/comments",
+        "http://metro-portal.hr/feed/index/news",
+        "https://metro-portal.hr/feed/index/video",
+        "http://metro-portal.hr/feed/index/video",
+        "http://metro-portal.hr/feed/index/comments"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1050,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:29.903Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "057info.hr": {
+      "urls": [
+        "https://www.057info.hr/feed/",
+        "https://www.057info.hr/rss/gospodarstvo.xml",
+        "https://www.057info.hr/rss/info.xml",
+        "https://www.057info.hr/rss/kultura.xml",
+        "https://www.057info.hr/rss/sport.xml",
+        "https://www.057info.hr/rss/vijesti.xml",
+        "https://www.057info.hr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 248,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:09.173Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bug.hr": {
+      "urls": [
+        "https://www.bug.hr/rss",
+        "https://www.bug.hr/rss/",
+        "https://www.bug.hr/rss/?ch=it",
+        "http://www.bug.hr/rss/?ch=it",
+        "https://forum.bug.hr/forum/rss/?tid=302462",
+        "https://www.bug.hr/rss/igre"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 715,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:36.668Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "glas-slavonije.hr": {
+      "urls": [
+        "http://www.glas-slavonije.hr/rss.xml",
+        "http://glas-slavonije.hr/Rss",
+        "http://www.glas-slavonije.hr/Rss",
+        "https://www.glas-slavonije.hr/rss.xml",
+        "http://www.glas-slavonije.hr/Rss/Ekonomija"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 516,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:27.959Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tportal.hr": {
+      "urls": [
+        "https://www.tportal.hr/rss-najnovije.xml",
+        "https://www.tportal.hr/rss-vijesti.xml",
+        "https://www.tportal.hr/rss-lifestyle.xml",
+        "https://www.tportal.hr/rss-tehno.xml",
+        "https://www.tportal.hr/rss-kultura.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 899,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:38.194Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lika-online.hr": {
+      "urls": [
+        "https://www.lika-online.hr/feed/",
+        "https://www.lika-online.hr/comments/feed/",
+        "http://www.lika-online.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1433,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:14.852Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "narod.hr": {
+      "urls": [
+        "https://narod.hr/feed",
+        "https://narod.hr/gospodarstvo/feed",
+        "https://narod.hr/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1465,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:47.043Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "scena.hr": {
+      "urls": [
+        "https://www.scena.hr/feed/atom/",
+        "https://www.scena.hr/feed/",
+        "https://feeds.feedburner.com/Scenahr"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2309,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:55.395Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "glasistre.hr": {
+      "urls": [
+        "http://www.glasistre.hr/rss.xml",
+        "https://www.glasistre.hr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 717,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:56.113Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "novilist.hr": {
+      "urls": [
+        "https://www.novilist.hr/feed/",
+        "https://www.novilist.hr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 991,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:33.480Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dalmatinskiportal.hr": {
+      "urls": [
+        "https://dalmatinskiportal.hr/sadrzaj/rss/vijesti.xml",
+        "https://dalmatinskiportal.hr/sadrzaj/rss/hajduk.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1022,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:07.785Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "glas-koncila.hr": {
+      "urls": [
+        "https://www.glas-koncila.hr/feed/",
+        "https://www.glas-koncila.hr/tag/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1119,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:26.109Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dalmacijadanas.hr": {
+      "urls": [
+        "https://www.dalmacijadanas.hr/feed/",
+        "https://www.dalmacijadanas.hr/feed/json/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1124,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:06.761Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gloria.hr": {
+      "urls": [
+        "https://www.gloria.hr/gl/feed",
+        "http://www.gloria.hr/gl/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1454,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:35.951Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dalmacijanews.hr": {
+      "urls": [
+        "https://www.dalmacijanews.hr/feed/",
+        "https://dalmacijanews.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1762,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:05.431Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dnevno.hr": {
+      "urls": [
+        "https://www.dnevno.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 536,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:42.288Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "podravski.hr": {
+      "urls": [
+        "https://podravski.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 633,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:01.554Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "telegram.hr": {
+      "urls": [
+        "https://www.telegram.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 961,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:41.752Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "poslovni.hr": {
+      "urls": [
+        "https://www.poslovni.hr/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1024,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:27.753Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dubrovackidnevnik.net.hr": {
+      "urls": [
+        "https://dubrovackidnevnik.net.hr/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1025,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:08.810Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nacional.hr": {
+      "urls": [
+        "https://www.nacional.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1027,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:28.986Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "n1info.hr": {
+      "urls": [
+        "https://n1info.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1044,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:40.791Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dnevnik.hr": {
+      "urls": [
+        "https://dnevnik.hr/assets/feed/articles"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1160,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:34.914Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "privredni.hr": {
+      "urls": [
+        "https://privredni.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1223,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:30.209Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zadarskilist.novilist.hr": {
+      "urls": [
+        "https://zadarskilist.novilist.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1739,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:57.852Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "varazdinske-vijesti.hr": {
+      "urls": [
+        "https://www.varazdinske-vijesti.hr/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3068,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:00.920Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "monitor.hr": {
+      "urls": [
+        "https://www.monitor.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3745,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:50.788Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "index.hr": {
+      "urls": [
+        "https://www.index.hr/rss",
+        "https://www.index.hr/rss/vijesti",
+        "https://www.index.hr/rss/vijesti-svijet",
+        "https://www.index.hr/rss/sport",
+        "https://www.index.hr/rss/magazin",
+        "https://www.index.hr/rss/najcitanije",
+        "https://www.index.hr/rss/vijesti-hrvatska",
+        "https://www.index.hr/rss/sport-nogomet",
+        "https://www.index.hr/rss/magazin-showbiz",
+        "https://www.index.hr/rss/sport-ostali-sportovi",
+        "https://www.index.hr/rss/shopping",
+        "https://www.index.hr/rss/chill",
+        "https://www.index.hr/rss/vijesti-nesrece-i-kriminal",
+        "https://www.index.hr/rss/vijesti-crna-kronika",
+        "https://www.index.hr/rss/rouge",
+        "https://www.index.hr/rss/fit",
+        "https://www.index.hr/rss/food",
+        "https://www.index.hr/rss/ljubimci",
+        "https://www.index.hr/rss/fit-zdrav-zivot",
+        "https://www.index.hr/rss/horoskop",
+        "https://www.index.hr/rss/vijesti-regija",
+        "https://www.index.hr/rss/auto",
+        "https://www.index.hr/rss/mame",
+        "https://www.index.hr/rss/mame-zabava",
+        "https://www.index.hr/rss/ljubimci-psi-i-macke",
+        "https://www.index.hr/rss/rouge-moda-shopping",
+        "https://www.index.hr/rss/sport-tenis",
+        "https://www.index.hr/rss/fit-prehranadijete",
+        "https://www.index.hr/rss/ljubimci-zabava",
+        "https://www.index.hr/rss/rouge-buzz",
+        "https://www.index.hr/rss/rouge-lifestyle",
+        "https://www.index.hr/rss/vijesti-zagreb",
+        "https://www.index.hr/rss/vijesti-znanost",
+        "https://www.index.hr/rss/rouge-domace-vijesti",
+        "https://www.index.hr/rss/rouge-ljepota-zdravlje",
+        "https://www.index.hr/rss/sport-borilacki-sportovi",
+        "https://www.index.hr/rss/sport-kosarka",
+        "https://www.index.hr/rss/sport-regija",
+        "https://www.index.hr/rss/ljubimci-vijesti",
+        "https://www.index.hr/rss/rouge-ljubav-itd",
+        "https://www.index.hr/rss/auto-hrvatska",
+        "https://www.index.hr/rss/auto-predstavljamo",
+        "https://www.index.hr/rss/auto-testovi",
+        "https://www.index.hr/rss/fit-celebrity-inspiracije",
+        "https://www.index.hr/rss/fit-fitness",
+        "https://www.index.hr/rss/gaming",
+        "https://www.index.hr/rss/ljubimci-male-zivotinje",
+        "https://www.index.hr/rss/ljubimci-teraristika-i-akvaristika",
+        "https://www.index.hr/rss/magazin-glazba",
+        "https://www.index.hr/rss/magazin-lifestyle",
+        "https://www.index.hr/rss/magazin-tech-gadget",
+        "https://www.index.hr/rss/magazin-tv-film",
+        "https://www.index.hr/rss/magazin-zanimljivosti",
+        "https://www.index.hr/rss/mame-bebe",
+        "https://www.index.hr/rss/mame-recepti",
+        "https://www.index.hr/rss/mame-skola",
+        "https://www.index.hr/rss/mame-trudnoca",
+        "https://www.index.hr/rss/mame-vrtic",
+        "https://www.index.hr/rss/rouge-frajeri",
+        "https://www.index.hr/rss/rouge-insta-price",
+        "https://www.index.hr/rss/sport-e-sport",
+        "https://www.index.hr/rss/sport-komentari",
+        "https://www.index.hr/rss/vijesti-eu",
+        "https://www.index.hr/rss/vijesti-komentari",
+        "https://www.index.hr/rss/vijesti-novac"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:33.754Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lokalnahrvatska.hr": {
+      "urls": [
+        "https://lokalnahrvatska.hr/3854/feed",
+        "https://lokalnahrvatska.hr/kontinentalna/feed",
+        "http://lokalnahrvatska.hr/kontinentalna/feed",
+        "https://lokalnahrvatska.hr/3851/feed",
+        "https://lokalnahrvatska.hr/3852/feed",
+        "https://lokalnahrvatska.hr/3857/feed",
+        "https://lokalnahrvatska.hr/danas",
+        "https://lokalnahrvatska.hr/3855/feed",
+        "https://lokalnahrvatska.hr/otocna/feed",
+        "https://lokalnahrvatska.hr/3856/feed",
+        "https://lokalnahrvatska.hr/3853/feed",
+        "https://lokalnahrvatska.hr/udruga/feed",
+        "http://lokalnahrvatska.hr/3857/feed",
+        "http://lokalnahrvatska.hr/otocna/feed",
+        "http://lokalnahrvatska.hr/3854/feed",
+        "http://lokalnahrvatska.hr/3856/feed",
+        "http://lokalnahrvatska.hr/3853/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:32.158Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rtl.hr": {
+      "urls": [
+        "https://www.rtl.hr/feed",
+        "https://www.rtl.hr:443/feed",
+        "https://www.rtl.hr/feed/",
+        "https://www.rtl.hr/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:39.747Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jutarnji.hr": {
+      "urls": [
+        "https://www.jutarnji.hr/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:30.496Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sportske.jutarnji.hr": {
+      "urls": [
+        "https://sportske.jutarnji.hr/sn/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T22:36:33.610Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lidermedia.hr": {
+      "urls": [
+        "https://lidermedia.hr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:34.111Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "total-croatia-news.com": {
+      "urls": [
+        "https://total-croatia-news.com/feed/",
+        "https://total-croatia-news.com/blog/feed/",
+        "https://total-croatia-news.com/blog/adventure-tourism/feed/",
+        "https://total-croatia-news.com/blog/dugopolje/feed/",
+        "https://total-croatia-news.com/blog/klis/feed/",
+        "https://total-croatia-news.com/blog/sinj-blog/feed/",
+        "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/feed/",
+        "https://total-croatia-news.com/destinations/destination-dubrovnik/dubrovnik-blog/history-dubrovnik-blog/feed/",
+        "https://total-croatia-news.com/destinations/destination-split/split-blog/tourism-news/feed/",
+        "https://total-croatia-news.com/destinations/destination-zagreb/zagreb-blog/business-zagreb-blog/feed/",
+        "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/hvar-news/feed/",
+        "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/tourism/feed/",
+        "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/general-2/culture/feed/",
+        "https://total-croatia-news.com/destinations/destinations-hvar/blog-hvar/towns-3/vrboska-2/feed/",
+        "https://total-croatia-news.com/comments/feed/",
+        "https://total-croatia-news.com/destinations/destination-zagreb/zagreb-blog/business-zagreb-blog/deceuninck-donja-bistra/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 612,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:39.330Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dubrovnikportal.com": {
+      "urls": [
+        "https://dubrovnikportal.com/feed/",
+        "http://www.dubrovnikportal.com/feed/",
+        "https://dubrovnikportal.com/comments/feed/",
+        "http://www.dubrovnikportal.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2968,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:24.881Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thedubrovniktimes.com": {
+      "urls": [
+        "https://www.thedubrovniktimes.com/feed?format=feed&type=atom",
+        "https://www.thedubrovniktimes.com/feed?format=feed&type=rss",
+        "https://www.thedubrovniktimes.com/feed?format=feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2046,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:38.716Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "regionalni.com": {
+      "urls": [
+        "https://regionalni.com/feed/",
+        "https://regionalni.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 519,
+        "category": "local",
+        "last_checked": "2026-01-31T22:37:12.443Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "osijek031.com": {
+      "urls": [
+        "https://www.osijek031.com/news_rss.php",
+        "http://www.osijek031.com/news_rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1273,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:10.448Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rijekadanas.com": {
+      "urls": [
+        "https://www.rijekadanas.com/feed/",
+        "https://www.rijekadanas.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1343,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:11.808Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "krizevci.info": {
+      "urls": [
+        "https://www.krizevci.info/feed/",
+        "https://www.krizevci.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1846,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:26.729Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "croatiaweek.com": {
+      "urls": [
+        "https://www.croatiaweek.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 512,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:39.842Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zagorje.com": {
+      "urls": [
+        "https://www.zagorje.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 974,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:13.417Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zagreb.info": {
+      "urls": [
+        "https://www.zagreb.info/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:37:03.247Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

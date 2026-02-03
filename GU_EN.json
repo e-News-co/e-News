@@ -1,0 +1,40 @@
+{
+  "country_code": "GU",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 4,
+  "feeds": {
+    "kuam.com": {
+      "urls": [
+        "https://www.kuam.com/Global/category.asp?C=164100&clienttype=rss",
+        "https://www.kuam.com/category/164100/category?C=164100&clienttype=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 616,
+        "category": "world",
+        "last_checked": "2026-01-31T22:30:12.545Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guampdn.com": {
+      "urls": [
+        "https://www.guampdn.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory",
+        "http://www.guampdn.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2564,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:15.417Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

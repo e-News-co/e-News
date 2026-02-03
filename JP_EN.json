@@ -1,0 +1,1773 @@
+{
+  "country_code": "JP",
+  "language_code": "EN",
+  "total_domains": 76,
+  "total_feeds": 701,
+  "feeds": {
+    "news.yahoo.co.jp": {
+      "urls": [
+        "https://news.yahoo.co.jp/rss/categories/sports.xml",
+        "https://news.yahoo.co.jp/rss/categories/life.xml",
+        "https://news.yahoo.co.jp/rss/categories/local.xml",
+        "https://news.yahoo.co.jp/rss/media/nksports/all.xml",
+        "https://news.yahoo.co.jp/rss/categories/business.xml",
+        "https://news.yahoo.co.jp/rss/categories/world.xml",
+        "https://news.yahoo.co.jp/rss/media/ann/all.xml",
+        "https://news.yahoo.co.jp/pickup/rss.xml",
+        "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+        "https://news.yahoo.co.jp/rss/categories/it.xml",
+        "https://news.yahoo.co.jp/rss/media/tospoweb/all.xml",
+        "https://news.yahoo.co.jp/rss/media/usoccer/all.xml",
+        "https://news.yahoo.co.jp/rss/media/isd/all.xml",
+        "https://news.yahoo.co.jp/rss/media/it_nlab/all.xml",
+        "https://news.yahoo.co.jp/rss/media/yonh/all.xml",
+        "https://news.yahoo.co.jp/byline/rss/all.xml",
+        "https://news.yahoo.co.jp/rss/media/footballc/all.xml",
+        "https://news.yahoo.co.jp/rss/topics/domestic.xml",
+        "https://news.yahoo.co.jp/rss/media/realsound/all.xml",
+        "https://news.yahoo.co.jp/rss/media/soccerk/all.xml",
+        "https://news.yahoo.co.jp/rss/topics/sports.xml",
+        "https://news.yahoo.co.jp/rss/media/kstylens/all.xml",
+        "https://news.yahoo.co.jp/rss/media/baseballc/all.xml",
+        "https://news.yahoo.co.jp/rss/media/huffpost/all.xml",
+        "https://news.yahoo.co.jp/rss/media/zdn_mkt/all.xml",
+        "https://news.yahoo.co.jp/rss/media/anmanmv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/jct/all.xml",
+        "https://news.yahoo.co.jp/rss/media/hokkaibun/all.xml",
+        "https://news.yahoo.co.jp/rss/media/withonline/all.xml",
+        "https://news.yahoo.co.jp/rss/topics/world.xml",
+        "https://news.yahoo.co.jp/rss/media/hbcv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/toyo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/absakita/all.xml",
+        "https://news.yahoo.co.jp/rss/media/stv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tenki/all.xml",
+        "https://news.yahoo.co.jp/rss/media/weather/all.xml",
+        "https://news.yahoo.co.jp/rss/topics/business.xml",
+        "https://news.yahoo.co.jp/rss/media/entame/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ksbv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/baseballk/all.xml",
+        "https://news.yahoo.co.jp/rss/media/eiga/all.xml",
+        "https://news.yahoo.co.jp/rss/media/htbv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/the_tv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/wwdjapan/all.xml",
+        "https://news.yahoo.co.jp/rss/media/zdn_n/all.xml",
+        "https://news.yahoo.co.jp/rss/media/fminpo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/minyu/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nishispo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tspkeiba/all.xml",
+        "https://news.yahoo.co.jp/rss/media/bestcar/all.xml",
+        "https://news.yahoo.co.jp/rss/topics/it.xml",
+        "https://news.yahoo.co.jp/rss/topics/science.xml",
+        "https://news.yahoo.co.jp/rss/media/bballk/all.xml",
+        "https://news.yahoo.co.jp/rss/media/jprime/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tennisnet/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tssv/all.xml",
+        "https://news.yahoo.co.jp/pickup/sports/rss.xml",
+        "https://news.yahoo.co.jp/rss/media/ffield/all.xml",
+        "https://news.yahoo.co.jp/rss/media/mmt/all.xml",
+        "https://news.yahoo.co.jp/rss/media/piaeigat/all.xml",
+        "https://news.yahoo.co.jp/rss/media/toushin/all.xml",
+        "https://news.yahoo.co.jp/pickup/economy/rss.xml",
+        "https://news.yahoo.co.jp/rss/media/cnn/all.xml",
+        "https://news.yahoo.co.jp/rss/media/hintpot/all.xml",
+        "https://news.yahoo.co.jp/rss/media/jbpressz/all.xml",
+        "https://news.yahoo.co.jp/rss/media/minami/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nib/all.xml",
+        "https://news.yahoo.co.jp/rss/media/shincho/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tennismagv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/teny/all.xml",
+        "https://news.yahoo.co.jp/pickup/local/rss.xml",
+        "https://news.yahoo.co.jp/pickup/world/rss.xml",
+        "https://news.yahoo.co.jp/rss/media/ibaraki/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ncctv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/neweco/all.xml",
+        "https://news.yahoo.co.jp/rss/media/sut/all.xml",
+        "https://news.yahoo.co.jp/pickup/entertainment/rss.xml",
+        "https://news.yahoo.co.jp/rss/media/animage/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ebc/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ftv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/htv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nkt/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tokyotorch/all.xml",
+        "https://news.yahoo.co.jp/rss/media/aptsushinv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/at_s/all.xml",
+        "https://news.yahoo.co.jp/rss/media/hankyoreh/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ibciwate/all.xml",
+        "https://news.yahoo.co.jp/rss/media/miyazaki/all.xml",
+        "https://news.yahoo.co.jp/rss/media/president/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tbcv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/theadline/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tochitele/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tokyofm/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tsk/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tvtokyos/all.xml",
+        "https://news.yahoo.co.jp/rss/media/yamagatan/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ytv/all.xml",
+        "https://news.yahoo.co.jp/pickup/domestic/rss.xml",
+        "https://news.yahoo.co.jp/rss/categories/science.xml",
+        "https://news.yahoo.co.jp/rss/media/fbc/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ftb/all.xml",
+        "https://news.yahoo.co.jp/rss/media/kutv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nkgendai/all.xml",
+        "https://news.yahoo.co.jp/rss/media/sportiva/all.xml",
+        "https://news.yahoo.co.jp/rss/media/teletama/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tncv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/utyv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/webym/all.xml",
+        "https://news.yahoo.co.jp/rss/media/zdn_m/all.xml",
+        "https://news.yahoo.co.jp/rss/media/biz_lifeh/all.xml",
+        "https://news.yahoo.co.jp/rss/media/figaro/all.xml",
+        "https://news.yahoo.co.jp/rss/media/fujinjp/all.xml",
+        "https://news.yahoo.co.jp/rss/media/iat/all.xml",
+        "https://news.yahoo.co.jp/rss/media/lmaga/all.xml",
+        "https://news.yahoo.co.jp/rss/media/mbcnews/all.xml",
+        "https://news.yahoo.co.jp/rss/media/rab/all.xml",
+        "https://news.yahoo.co.jp/rss/media/raditopi/all.xml",
+        "https://news.yahoo.co.jp/rss/media/sangyo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/voce/all.xml",
+        "https://news.yahoo.co.jp/rss/media/afpbbnewsv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/basket/all.xml",
+        "https://news.yahoo.co.jp/rss/media/hokuriku/all.xml",
+        "https://news.yahoo.co.jp/rss/media/mimollet/all.xml",
+        "https://news.yahoo.co.jp/rss/media/newswitch/all.xml",
+        "https://news.yahoo.co.jp/rss/media/resemom/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tos/all.xml",
+        "https://news.yahoo.co.jp/rss/media/wcartop/all.xml",
+        "https://news.yahoo.co.jp/rss/media/zdn_pc/all.xml",
+        "https://news.yahoo.co.jp/pickup/science/rss.xml",
+        "https://news.yahoo.co.jp/rss/media/baila/all.xml",
+        "https://news.yahoo.co.jp/rss/media/bikeno/all.xml",
+        "https://news.yahoo.co.jp/rss/media/itv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/jrt/all.xml",
+        "https://news.yahoo.co.jp/rss/media/kry/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ktn/all.xml",
+        "https://news.yahoo.co.jp/rss/media/mbsnews/all.xml",
+        "https://news.yahoo.co.jp/rss/media/mynavin/all.xml",
+        "https://news.yahoo.co.jp/rss/media/netshop/all.xml",
+        "https://news.yahoo.co.jp/rss/media/rescuenow/all.xml",
+        "https://news.yahoo.co.jp/rss/media/rnb/all.xml",
+        "https://news.yahoo.co.jp/rss/media/storyfulv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tennisc/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tvi/all.xml",
+        "https://news.yahoo.co.jp/rss/media/umk/all.xml",
+        "https://news.yahoo.co.jp/rss/media/vague/all.xml",
+        "https://news.yahoo.co.jp/rss/media/webuomo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/wmap/all.xml",
+        "https://news.yahoo.co.jp/rss/media/wordleaf/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ybc/all.xml",
+        "https://news.yahoo.co.jp/rss/media/yts/all.xml",
+        "https://news.yahoo.co.jp/pickup/computer/rss.xml",
+        "https://news.yahoo.co.jp/polls/rss.xml",
+        "https://news.yahoo.co.jp/rss/media/aab/all.xml",
+        "https://news.yahoo.co.jp/rss/media/abn/all.xml",
+        "https://news.yahoo.co.jp/rss/media/awire/all.xml",
+        "https://news.yahoo.co.jp/rss/media/badspi/all.xml",
+        "https://news.yahoo.co.jp/rss/media/bengocom/all.xml",
+        "https://news.yahoo.co.jp/rss/media/cbn/all.xml",
+        "https://news.yahoo.co.jp/rss/media/cnetj/all.xml",
+        "https://news.yahoo.co.jp/rss/media/iwanichi/all.xml",
+        "https://news.yahoo.co.jp/rss/media/kaiyou/all.xml",
+        "https://news.yahoo.co.jp/rss/media/kfb/all.xml",
+        "https://news.yahoo.co.jp/rss/media/khbv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/lettucec/all.xml",
+        "https://news.yahoo.co.jp/rss/media/mmagazine/all.xml",
+        "https://news.yahoo.co.jp/rss/media/moneypost/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nikkey/all.xml",
+        "https://news.yahoo.co.jp/rss/media/spaia/all.xml",
+        "https://news.yahoo.co.jp/rss/media/techcrj/all.xml",
+        "https://news.yahoo.co.jp/rss/media/yogajol/all.xml",
+        "https://news.yahoo.co.jp/rss/media/bbt/all.xml",
+        "https://news.yahoo.co.jp/rss/media/cinranet/all.xml",
+        "https://news.yahoo.co.jp/rss/media/fukui/all.xml",
+        "https://news.yahoo.co.jp/rss/media/fukushi/all.xml",
+        "https://news.yahoo.co.jp/rss/media/inumag/all.xml",
+        "https://news.yahoo.co.jp/rss/media/kufura/all.xml",
+        "https://news.yahoo.co.jp/rss/media/lee/all.xml",
+        "https://news.yahoo.co.jp/rss/media/leon/all.xml",
+        "https://news.yahoo.co.jp/rss/media/macau/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nallabout/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nankainn/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nekomag/all.xml",
+        "https://news.yahoo.co.jp/rss/media/netdenjd/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nihonkai/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nipponcom/all.xml",
+        "https://news.yahoo.co.jp/rss/media/sh_mar/all.xml",
+        "https://news.yahoo.co.jp/rss/media/sorae_jp/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tokushimav/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tokyomx/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tokyomxv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tvq/all.xml",
+        "https://news.yahoo.co.jp/rss/media/womensh/all.xml",
+        "https://news.yahoo.co.jp/polls/domestic/rss.xml",
+        "https://news.yahoo.co.jp/polls/easy/rss.xml",
+        "https://news.yahoo.co.jp/polls/entertainment/rss.xml",
+        "https://news.yahoo.co.jp/polls/life/rss.xml",
+        "https://news.yahoo.co.jp/polls/other/rss.xml",
+        "https://news.yahoo.co.jp/polls/sports/rss.xml",
+        "https://news.yahoo.co.jp/rss/media/agrinews/all.xml",
+        "https://news.yahoo.co.jp/rss/media/akt/all.xml",
+        "https://news.yahoo.co.jp/rss/media/amami/all.xml",
+        "https://news.yahoo.co.jp/rss/media/andgp/all.xml",
+        "https://news.yahoo.co.jp/rss/media/battlen/all.xml",
+        "https://news.yahoo.co.jp/rss/media/biteki/all.xml",
+        "https://news.yahoo.co.jp/rss/media/edua/all.xml",
+        "https://news.yahoo.co.jp/rss/media/jsportsv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/kkbv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/mcyclist/all.xml",
+        "https://news.yahoo.co.jp/rss/media/rekishin/all.xml",
+        "https://news.yahoo.co.jp/rss/media/rugbyrp/all.xml",
+        "https://news.yahoo.co.jp/rss/media/telling/all.xml",
+        "https://news.yahoo.co.jp/rss/media/travelv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tuliptv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tvosaka/all.xml",
+        "https://news.yahoo.co.jp/rss/media/vbm/all.xml",
+        "https://news.yahoo.co.jp/rss/media/vingtcinq/all.xml",
+        "https://news.yahoo.co.jp/rss/media/vingtcinqw/all.xml",
+        "https://news.yahoo.co.jp/rss/media/webtan/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ykf/all.xml",
+        "https://news.yahoo.co.jp/rss/media/asahiand/all.xml",
+        "https://news.yahoo.co.jp/rss/media/autoby/all.xml",
+        "https://news.yahoo.co.jp/rss/media/biz_shoko/all.xml",
+        "https://news.yahoo.co.jp/rss/media/bonichi/all.xml",
+        "https://news.yahoo.co.jp/rss/media/business/all.xml",
+        "https://news.yahoo.co.jp/rss/media/dtohoku/all.xml",
+        "https://news.yahoo.co.jp/rss/media/fujingaho/all.xml",
+        "https://news.yahoo.co.jp/rss/media/hab/all.xml",
+        "https://news.yahoo.co.jp/rss/media/hakoshin/all.xml",
+        "https://news.yahoo.co.jp/rss/media/hathlete/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ignjapan/all.xml",
+        "https://news.yahoo.co.jp/rss/media/indowatch/all.xml",
+        "https://news.yahoo.co.jp/rss/media/manetatsun/all.xml",
+        "https://news.yahoo.co.jp/rss/media/naganonp/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nakamaaru/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nkctrend/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nknatiogeo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tarzanweb/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tekkou/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tjapan/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tsuriplus/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tuf/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tvh/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tvn/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tys/all.xml",
+        "https://news.yahoo.co.jp/rss/media/watchnavi/all.xml",
+        "https://news.yahoo.co.jp/rss/media/wedge/all.xml",
+        "https://news.yahoo.co.jp/rss/media/withnews/all.xml",
+        "https://news.yahoo.co.jp/rss/media/yabv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/allreview/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ampreview/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ananweb/all.xml",
+        "https://news.yahoo.co.jp/rss/media/asapostv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/bbspirits/all.xml",
+        "https://news.yahoo.co.jp/rss/media/behindp/all.xml",
+        "https://news.yahoo.co.jp/rss/media/biz_it_mk/all.xml",
+        "https://news.yahoo.co.jp/rss/media/biz_jinji/all.xml",
+        "https://news.yahoo.co.jp/rss/media/biz_mos/all.xml",
+        "https://news.yahoo.co.jp/rss/media/capa/all.xml",
+        "https://news.yahoo.co.jp/rss/media/cinemore/all.xml",
+        "https://news.yahoo.co.jp/rss/media/cnaakita/all.xml",
+        "https://news.yahoo.co.jp/rss/media/denfami/all.xml",
+        "https://news.yahoo.co.jp/rss/media/doshin/all.xml",
+        "https://news.yahoo.co.jp/rss/media/dospo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/exmusic/all.xml",
+        "https://news.yahoo.co.jp/rss/media/fct/all.xml",
+        "https://news.yahoo.co.jp/rss/media/gooday/all.xml",
+        "https://news.yahoo.co.jp/rss/media/imaonline/all.xml",
+        "https://news.yahoo.co.jp/rss/media/infact/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ishikawa/all.xml",
+        "https://news.yahoo.co.jp/rss/media/jwave/all.xml",
+        "https://news.yahoo.co.jp/rss/media/kachimai/all.xml",
+        "https://news.yahoo.co.jp/rss/media/kkt/all.xml",
+        "https://news.yahoo.co.jp/rss/media/locationj/all.xml",
+        "https://news.yahoo.co.jp/rss/media/medical/all.xml",
+        "https://news.yahoo.co.jp/rss/media/meijinet/all.xml",
+        "https://news.yahoo.co.jp/rss/media/minatos/all.xml",
+        "https://news.yahoo.co.jp/rss/media/miyako/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nissyoku/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nkbizgate/all.xml",
+        "https://news.yahoo.co.jp/rss/media/nkogyo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ntgjigen/all.xml",
+        "https://news.yahoo.co.jp/rss/media/php_r/all.xml",
+        "https://news.yahoo.co.jp/rss/media/redchair/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ryokoyom/all.xml",
+        "https://news.yahoo.co.jp/rss/media/scan/all.xml",
+        "https://news.yahoo.co.jp/rss/media/scawaii/all.xml",
+        "https://news.yahoo.co.jp/rss/media/socialinv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/socra/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tkybgmnv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tokyocal/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tomamin/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tsukuru/all.xml",
+        "https://news.yahoo.co.jp/rss/media/tvtplus/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ubenippo/all.xml",
+        "https://news.yahoo.co.jp/rss/media/vbnext/all.xml",
+        "https://news.yahoo.co.jp/rss/media/victory/all.xml",
+        "https://news.yahoo.co.jp/rss/media/videonewsv/all.xml",
+        "https://news.yahoo.co.jp/rss/media/wakayamav/all.xml",
+        "https://news.yahoo.co.jp/rss/media/woman/all.xml",
+        "https://news.yahoo.co.jp/rss/media/ycreatp/all.xml",
+        "https://news.yahoo.co.jp/rss/media/zdn_ep/all.xml",
+        "https://news.yahoo.co.jp/rss/media/zdn_tt/all.xml",
+        "https://news.yahoo.co.jp/rss/media/health/all.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1234,
+        "category": "sports",
+        "last_checked": "2026-02-01T01:39:05.108Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zaikei.co.jp": {
+      "urls": [
+        "https://www.zaikei.co.jp/rss/releases.xml",
+        "https://zaikei.co.jp/rss/releases.xml",
+        "https://www.zaikei.co.jp/rss/latest.xml",
+        "https://zaikei.co.jp/rss/latest.xml",
+        "https://www.zaikei.co.jp/rss/sections/market.xml",
+        "https://zaikei.co.jp/rss/sections/market.xml",
+        "http://www.zaikei.co.jp/rss/latest.xml",
+        "http://www.zaikei.co.jp/rss/sections/market.xml",
+        "https://www.zaikei.co.jp/rss/main.xml",
+        "https://zaikei.co.jp/rss/main.xml",
+        "https://www.zaikei.co.jp/rss/sections/company.xml",
+        "https://zaikei.co.jp/rss/sections/company.xml",
+        "https://www.zaikei.co.jp/rss/sections/eco.xml",
+        "https://www.zaikei.co.jp/rss/sections/economy.xml",
+        "https://www.zaikei.co.jp/rss/sections/entertainment.xml",
+        "https://www.zaikei.co.jp/rss/sections/hanryu.xml",
+        "https://www.zaikei.co.jp/rss/sections/it.xml",
+        "https://www.zaikei.co.jp/rss/sections/life.xml",
+        "https://www.zaikei.co.jp/rss/sections/management.xml",
+        "https://www.zaikei.co.jp/rss/sections/smb.xml",
+        "https://www.zaikei.co.jp/rss/sections/society.xml",
+        "https://zaikei.co.jp/rss/sections/eco.xml",
+        "https://zaikei.co.jp/rss/sections/economy.xml",
+        "https://zaikei.co.jp/rss/sections/entertainment.xml",
+        "https://zaikei.co.jp/rss/sections/hanryu.xml",
+        "https://zaikei.co.jp/rss/sections/it.xml",
+        "https://zaikei.co.jp/rss/sections/life.xml",
+        "https://zaikei.co.jp/rss/sections/management.xml",
+        "https://zaikei.co.jp/rss/sections/smb.xml",
+        "https://zaikei.co.jp/rss/sections/society.xml",
+        "http://www.zaikei.co.jp/rss/main.xml",
+        "http://www.zaikei.co.jp/rss/sections/company.xml",
+        "http://www.zaikei.co.jp/rss/sections/it.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 920,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:52.713Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "japantimes.co.jp": {
+      "urls": [
+        "https://www.japantimes.co.jp/feed/",
+        "https://www.japantimes.co.jp/news/feed/",
+        "https://www.japantimes.co.jp/feed",
+        "https://www.japantimes.co.jp/feed/topstories",
+        "https://www.japantimes.co.jp/news/national/feed/",
+        "https://www.japantimes.co.jp/news_category/national/feed/",
+        "https://www.japantimes.co.jp/feed/topstories/",
+        "https://www.japantimes.co.jp/news/asia-pacific/feed/",
+        "https://www.japantimes.co.jp/news_category/asia-pacific/feed/",
+        "https://www.japantimes.co.jp/opinion/feed/",
+        "https://www.japantimes.co.jp/culture/feed/",
+        "https://www.japantimes.co.jp/life/feed/",
+        "https://www.japantimes.co.jp/culture/entertainment-news/feed/",
+        "https://www.japantimes.co.jp/culture_category/entertainment-news/feed/",
+        "https://www.japantimes.co.jp/life/food/feed/",
+        "https://www.japantimes.co.jp/news/crime-legal/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 506,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:40.015Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ryoko-net.co.jp": {
+      "urls": [
+        "https://www.ryoko-net.co.jp/blog/creditcard/feed/",
+        "https://www.ryoko-net.co.jp/?feed=rss2",
+        "https://www.ryoko-net.co.jp/?feed=comments-rss2",
+        "https://www.ryoko-net.co.jp/blog/feed/",
+        "https://www.ryoko-net.co.jp/blog/domestic/feed/",
+        "https://www.ryoko-net.co.jp/blog/resort-parttimejob/feed/",
+        "https://www.ryoko-net.co.jp/blog/domestic/area-kanto/feed/",
+        "https://www.ryoko-net.co.jp/blog/tag/family/feed/",
+        "https://www.ryoko-net.co.jp/blog/tag/history/feed/",
+        "https://www.ryoko-net.co.jp/blog/tag/photogenic/feed/",
+        "https://www.ryoko-net.co.jp/blog/tag/plan/feed/",
+        "https://www.ryoko-net.co.jp/blog/tag/plans/feed/",
+        "https://www.ryoko-net.co.jp/blog/tag/recommends/feed/",
+        "https://www.ryoko-net.co.jp/blog/tag/solo/feed/",
+        "https://www.ryoko-net.co.jp/blog/tag/spots/feed/",
+        "https://www.ryoko-net.co.jp/blog/domestic/area-kanto/pref-tokyo/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 960,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:59.275Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "shikoku-np.co.jp": {
+      "urls": [
+        "http://rss.shikoku-np.co.jp/rss/flash.aspx",
+        "http://rss.shikoku-np.co.jp/rss/national_social.aspx",
+        "http://rss.shikoku-np.co.jp/rss/national_economy.aspx",
+        "http://rss.shikoku-np.co.jp/rss/national_international.aspx",
+        "http://rss.shikoku-np.co.jp/rss/national_main.aspx",
+        "http://rss.shikoku-np.co.jp/rss/kagawa_news_locality.aspx",
+        "http://rss.shikoku-np.co.jp/rss/national_political.aspx",
+        "http://rss.shikoku-np.co.jp/rss/sports_general.aspx",
+        "http://rss.shikoku-np.co.jp/rss/national_life_topic.aspx",
+        "http://rss.shikoku-np.co.jp/rss/national_science_environmental.aspx",
+        "http://rss.shikoku-np.co.jp/rss/national_culture_entertainment.aspx",
+        "http://rss.shikoku-np.co.jp/rss/kagawa_news_info_box.aspx"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 818,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:38.894Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www3.nhk.or.jp": {
+      "urls": [
+        "http://www3.nhk.or.jp/rss/news/cat0.xml",
+        "https://www3.nhk.or.jp/rss/news/cat1.xml",
+        "http://www3.nhk.or.jp/rss/news/cat1.xml",
+        "http://www3.nhk.or.jp/rss/news/cat6.xml",
+        "http://www3.nhk.or.jp/rss/news/cat5.xml",
+        "http://www3.nhk.or.jp/rss/news/cat4.xml",
+        "http://www3.nhk.or.jp/rss/news/cat7.xml",
+        "http://www3.nhk.or.jp/rss/news/cat3.xml",
+        "http://www3.nhk.or.jp/rss/news/cat2.xml",
+        "http://www3.nhk.or.jp/rss/news/cat-live.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 518,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:13.215Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "suisan.jp": {
+      "urls": [
+        "https://suisan.jp/c/all/feed",
+        "https://suisan.jp/c/fishing/feed",
+        "http://suisan.jp/c/all/feed",
+        "http://suisan.jp/c/fishing/feed",
+        "https://suisan.jp/c/general/feed",
+        "https://suisan.jp/c/other/feed",
+        "https://suisan.jp/c/restaurants/feed",
+        "http://suisan.jp/c/general/feed",
+        "http://suisan.jp/c/other/feed",
+        "http://suisan.jp/c/restaurants/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1738,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:58.241Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nhk.or.jp": {
+      "urls": [
+        "http://www.nhk.or.jp/kaisetsu-blog/index.xml",
+        "http://www.nhk.or.jp/bunken-blog/index.xml",
+        "http://www.nhk.or.jp/kobe-blog/index.xml",
+        "http://www.nhk.or.jp/kokorotabi-blog/index.xml",
+        "https://www.nhk.or.jp/s-media/news/podcast/list/v1/all.xml",
+        "https://www.nhk.or.jp/rss/news/cat4.xml",
+        "http://www.nhk.or.jp/shinshu-blog/index.xml",
+        "https://news.web.nhk/n-data/conf/na/rss/cat4.xml",
+        "http://www.nhk.or.jp/kikakubosyuu/info.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2685,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:21.952Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "worldtimes.co.jp": {
+      "urls": [
+        "https://www.worldtimes.co.jp/feed",
+        "http://blog.worldtimes.co.jp/index.rdf",
+        "http://blog.worldtimes.co.jp/atom.xml",
+        "https://www.worldtimes.co.jp/category/podcast/feed",
+        "https://www.worldtimes.co.jp/feed/",
+        "http://blog.worldtimes.co.jp/archives/cat_10008409.xml",
+        "http://blog.worldtimes.co.jp/archives/cat_10008412.xml",
+        "http://www.worldtimes.co.jp/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1383,
+        "category": "world",
+        "last_checked": "2026-02-01T01:37:41.906Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mainichi.jp": {
+      "urls": [
+        "https://mainichi.jp/rss/etc/mainichi-flash.rss",
+        "https://mainichi.jp/rss/etc/opinion.rss",
+        "http://mainichi.jp/rss/etc/opinion.rss",
+        "https://mainichi.jp/rss/etc/english_latest.rss",
+        "https://mainichi.jp/rss/etc/mainichi-sports.rss",
+        "http://mainichi.jp/rss/etc/english_latest.rss",
+        "https://mainichi.jp/rss/etc/mainichi-enta.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 570,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:16.244Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tokyo-sports.co.jp": {
+      "urls": [
+        "https://www.tokyo-sports.co.jp/list/feed/rss",
+        "https://www.tokyo-sports.co.jp/feed/",
+        "https://foods.tokyo-sports.co.jp/blog/feed",
+        "https://shop.tokyo-sports.co.jp/blog/feed",
+        "https://www.tokyo-sports.co.jp/prores/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 843,
+        "category": "sports",
+        "last_checked": "2026-02-01T01:38:02.647Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ryoutan.co.jp": {
+      "urls": [
+        "https://www.ryoutan.co.jp/articles/feed/rss10/",
+        "https://www.ryoutan.co.jp/feature/feed/rss10/",
+        "https://www.ryoutan.co.jp/fishing/feed/rss10/",
+        "https://www.ryoutan.co.jp/recruit/feed/rss10/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1116,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:50.992Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kyodo.co.jp": {
+      "urls": [
+        "https://www.kyodo.co.jp/feed/",
+        "https://www.kyodo.co.jp:443/feed/",
+        "https://www.kyodo.co.jp:443/pr/feed/",
+        "https://www.kyodo.co.jp/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1122,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:44.821Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "shonai-nippo.co.jp": {
+      "urls": [
+        "http://www.shonai-nippo.co.jp/rss/news.rdf",
+        "http://www.shonai-nippo.co.jp/rss/oshirase.rdf",
+        "http://www.shonai-nippo.co.jp/rss/news.xml",
+        "http://www.shonai-nippo.co.jp/rss/oshirase.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1228,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:38.076Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jcp.or.jp": {
+      "urls": [
+        "https://www.jcp.or.jp/atom.xml",
+        "https://www.jcp.or.jp/akahata/index.rdf",
+        "https://www.jcp.or.jp/akahata/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 944,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:27.697Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sakigake.jp": {
+      "urls": [
+        "https://feeds.feedburner.com/akita_news",
+        "http://feeds.feedburner.com/akita_news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 756,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:03.652Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "chosyu-journal.jp": {
+      "urls": [
+        "https://www.chosyu-journal.jp/feed",
+        "https://www.chosyu-journal.jp/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 864,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:04.949Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "okinawatimes.co.jp": {
+      "urls": [
+        "https://www.okinawatimes.co.jp/list/feed/rss",
+        "https://www.okinawatimes.co.jp/list/feed/rss?c=editorial"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 978,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:29.634Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kobe-np.co.jp": {
+      "urls": [
+        "https://www8.kobe-np.co.jp/blog/jobunkon/atom.xml",
+        "http://www8.kobe-np.co.jp/blog/jobunkon/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1018,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:17.368Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "japannews.yomiuri.co.jp": {
+      "urls": [
+        "https://japannews.yomiuri.co.jp/feed/",
+        "https://japannews.yomiuri.co.jp/features/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1096,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:15.583Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hokkaido-np.co.jp": {
+      "urls": [
+        "https://static.hokkaido-np.co.jp/rss/index.xml",
+        "https://www.hokkaido-np.co.jp/output/7/free/index.ad.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1231,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:26.361Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pressnet.or.jp": {
+      "urls": [
+        "https://www.pressnet.or.jp/adarc/index.rdf",
+        "https://www.pressnet.or.jp/feed/headline.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1392,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:24.012Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nikkan.co.jp": {
+      "urls": [
+        "https://www.nikkan.co.jp:443/rss/nksrdf.rdf",
+        "http://www.nikkan.co.jp/rss/nksrdf.rdf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1418,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:49.639Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ryukyushimpo.jp": {
+      "urls": [
+        "https://ryukyushimpo.jp/feed.xml",
+        "https://ryukyushimpo.jp/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3013,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:32.649Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nishinippon.co.jp": {
+      "urls": [
+        "https://www.nishinippon.co.jp/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 308,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:26.670Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "komei.or.jp": {
+      "urls": [
+        "https://www.komei.or.jp/komeinews/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 343,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:01.458Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "chibanippo.co.jp": {
+      "urls": [
+        "http://feeds.feedburner.com/chibanippo"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 426,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:04.078Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yomiuri.co.jp": {
+      "urls": [
+        "http://www.yomiuri.co.jp/adv/chuo/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 776,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:48.001Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "senken.co.jp": {
+      "urls": [
+        "https://senken.co.jp/posts/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 820,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:50.459Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hokkoku.co.jp": {
+      "urls": [
+        "https://www.hokkoku.co.jp/list/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 823,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:09.509Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yamagata-np.jp": {
+      "urls": [
+        "https://www.yamagata-np.jp/news/rss/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 860,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:49.851Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tsuyamaasahi.co.jp": {
+      "urls": [
+        "https://tsuyamaasahi.co.jp/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 880,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:48.991Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "saga-s.co.jp": {
+      "urls": [
+        "https://www.saga-s.co.jp/list/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 920,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:33.569Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jinja.co.jp": {
+      "urls": [
+        "https://www.jinja.co.jp/news/index.rdf"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1009,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:56.390Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "toonippo.co.jp": {
+      "urls": [
+        "https://www.toonippo.co.jp/list/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1068,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:47.225Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cnn.co.jp": {
+      "urls": [
+        "http://feeds.cnn.co.jp/rss/cnn/cnn.rdf"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1204,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:03.694Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kyoto-np.co.jp": {
+      "urls": [
+        "https://www.kyoto-np.co.jp/list/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1230,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:19.747Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fukuishimbun.co.jp": {
+      "urls": [
+        "https://www.fukuishimbun.co.jp/list/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1319,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:06.268Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "shimotsuke.co.jp": {
+      "urls": [
+        "https://www.shimotsuke.co.jp/list/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1331,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:36.846Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hokuroku.co.jp": {
+      "urls": [
+        "https://www.hokuroku.co.jp/files/rss/block215.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1532,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:11.041Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "shimanenichinichi.co.jp": {
+      "urls": [
+        "https://www.shimanenichinichi.co.jp/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1946,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:35.515Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kushironews.jp": {
+      "urls": [
+        "https://kushironews.jp/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2251,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:21.998Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tokachi.co.jp": {
+      "urls": [
+        "https://www.tokachi.co.jp/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2776,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:48.110Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sunday-yamaguchi.co.jp": {
+      "urls": [
+        "https://www.sunday-yamaguchi.co.jp/cms/news/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4388,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:55.380Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tanba.jp": {
+      "urls": [
+        "https://tanba.jp/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4497,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:45.334Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "chunichi.co.jp": {
+      "urls": [
+        "https://www.chunichi.co.jp/article/rss/aichi.xml",
+        "https://www.chunichi.co.jp/article/rss/fukui.xml",
+        "https://www.chunichi.co.jp/article/rss/gifu.xml",
+        "https://www.chunichi.co.jp/article/rss/mie.xml",
+        "https://www.chunichi.co.jp/article/rss/nagano.xml",
+        "https://www.chunichi.co.jp/article/rss/shiga.xml",
+        "https://www.chunichi.co.jp/article/rss/shizuoka.xml",
+        "https://www.chunichi.co.jp/article/rss/toyama.xml",
+        "https://www.chunichi.co.jp/article/rss/ishikawa.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:43.568Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nagano-np.co.jp": {
+      "urls": [
+        "http://www.nagano-np.co.jp/articles/category/news/feed",
+        "http://www.nagano-np.co.jp/articles/category/news/social/feed",
+        "http://www.nagano-np.co.jp/articles/category/news/culture/feed",
+        "http://www.nagano-np.co.jp/articles/category/news/region/feed",
+        "http://www.nagano-np.co.jp/articles/category/news/economy/feed",
+        "http://www.nagano-np.co.jp/articles/category/news/politics/feed",
+        "http://www.nagano-np.co.jp/articles/category/news/sports/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:24.564Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "digital.hakoshin.jp": {
+      "urls": [
+        "https://digital.hakoshin.jp/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-02-01T01:38:07.312Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hokuu.co.jp": {
+      "urls": [
+        "https://www.hokuu.co.jp/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:12.691Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kanaloco.jp": {
+      "urls": [
+        "https://www.kanaloco.jp/rss2.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:16.155Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "zakzak.co.jp": {
+      "urls": [
+        "https://www.zakzak.co.jp/rss/news/flash-n.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:10.334Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nikkansports.com": {
+      "urls": [
+        "https://www.nikkansports.com/entertainment/atom.xml",
+        "https://www.nikkansports.com/baseball/atom.xml",
+        "https://www.nikkansports.com/baseball/professional/atom.xml",
+        "https://www.nikkansports.com/general/atom.xml",
+        "https://p.nikkansports.com/goku-uma/rss/atom.xml",
+        "https://www.nikkansports.com/baseball/mlb/atom.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/tigers.xml",
+        "https://www.nikkansports.com/battle/atom.xml",
+        "https://www.nikkansports.com/public_race/atom.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/fighters.xml",
+        "https://www.nikkansports.com/baseball/highschool/atom.xml",
+        "https://www.nikkansports.com/soccer/atom.xml",
+        "https://www.nikkansports.com/sports/atom.xml",
+        "https://www.nikkansports.com/public_race/boat/atom.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/lions.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/eagles.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/marines.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/bellmare.xml",
+        "https://www.nikkansports.com/sports/golf/atom.xml",
+        "https://www.nikkansports.com/public_race/keirin/atom.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/giants.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/baystars.xml",
+        "http://www.nikkansports.com/public_race/boat/atom.xml",
+        "https://www.nikkansports.com/baseball/amateur/atom.xml",
+        "https://www.nikkansports.com/battle/prowrestling/atom.xml",
+        "https://www.nikkansports.com/olympic/atom.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/carp.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/hawks.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/swallows.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/buffaloes.xml",
+        "https://www.nikkansports.com/rss/baseball/professional/atom/dragons.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/vortis.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/albirex.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/antlers.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/ardija.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/avispa.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/cerezo.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/consadole.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/ehimefc.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/fagiano.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/fcgifu.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/fctokyo.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/fmarinos.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/frontale.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/gamba.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/giravanz.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/grampus.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/hollyhock.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/jef.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/jubilo.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/kamatamare.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/montedio.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/reds.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/renofa.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/reysol.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/roasso.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/sagan.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/sanfrecce.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/sanga.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/spulse.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/thespa.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/tochigisc.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/trinita.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/ventforet.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/verdy.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/vissel.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/vvaren.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/yamaga.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/yokohamafc.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/zelvia.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/zweigen.xml",
+        "https://www.nikkansports.com/sports/basketball/atom.xml",
+        "https://www.nikkansports.com/sports/figure/atom.xml",
+        "https://www.nikkansports.com/battle/sumo/atom.xml",
+        "https://www.nikkansports.com/battle/boxing/atom.xml",
+        "https://www.nikkansports.com/public_race/auto/atom.xml",
+        "https://www.nikkansports.com/soccer/japan/atom.xml",
+        "https://www.nikkansports.com/soccer/jleague/j1/atom.xml",
+        "https://www.nikkansports.com/soccer/world/atom.xml",
+        "https://www.nikkansports.com/sports/athletics/atom.xml",
+        "https://www.nikkansports.com/sports/tennis/atom.xml",
+        "https://www.nikkansports.com/sports/volley/atom.xml",
+        "https://www.nikkansports.com/entertainment/akb48/atom.xml",
+        "https://www.nikkansports.com/leisure/fishing/atom.xml",
+        "https://www.nikkansports.com/sports/cycling/atom.xml",
+        "https://www.nikkansports.com/sports/judo/atom.xml",
+        "https://www.nikkansports.com/sports/rugby/atom.xml",
+        "https://www.nikkansports.com/sports/swimming/atom.xml",
+        "https://www.nikkansports.com/sports/xleague/atom.xml",
+        "https://www.nikkansports.com/soccer/jleague/j2/atom.xml",
+        "https://www.nikkansports.com/rss/soccer/jleague/atom/vegalta.xml",
+        "http://www.nikkansports.com/public_race/auto/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 464,
+        "category": "sports",
+        "last_checked": "2026-02-01T01:37:59.753Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "asahi.com": {
+      "urls": [
+        "https://www.asahi.com/rss/asahi/national.rdf",
+        "http://rss.asahi.com/rss/asahi/national.rdf",
+        "http://www.asahi.com/rss/asahi/national.rdf",
+        "http://rss.asahi.com/rss/asahi/international.rdf",
+        "http://www.asahi.com/rss/asahi/international.rdf",
+        "https://www.asahi.com/rss/asahi/politics.rdf",
+        "http://rss.asahi.com/rss/asahi/business.rdf",
+        "http://www.asahi.com/rss/asahi/business.rdf",
+        "http://rss.asahi.com/rss/asahi/newsheadlines.rdf",
+        "http://www.asahi.com/rss/asahi/newsheadlines.rdf",
+        "http://rss.asahi.com/rss/asahi/politics.rdf",
+        "http://www.asahi.com/rss/asahi/politics.rdf",
+        "http://rss.asahi.com/rss/asahi/culture.rdf",
+        "http://www.asahi.com/rss/asahi/culture.rdf",
+        "http://rss.asahi.com/rss/asahi/sports.rdf",
+        "http://www.asahi.com/rss/asahi/sports.rdf",
+        "http://www3.asahi.com/rss/animal.rdf",
+        "http://www3.asahi.com/rss/olympics.rdf",
+        "https://www.asahi.com/rss/asahi/health.rdf",
+        "http://www.asahi.com/rss/asahi/digital.rdf",
+        "http://www.asahi.com/rss/asahi/edu.rdf",
+        "http://www3.asahi.com/rss/worldcup.rdf",
+        "http://www.asahi.com/rss/asahi/housing.rdf",
+        "http://www.asahi.com/rss/asahi/science.rdf",
+        "http://www.asahi.com/rss/asahi/car.rdf",
+        "http://www.asahi.com/rss/asahi/eco.rdf",
+        "http://www.asahi.com/rss/asahi/fashion.rdf",
+        "http://www.asahi.com/rss/asahi/food.rdf",
+        "http://www.asahi.com/rss/asahi/igo.rdf",
+        "http://www.asahi.com/rss/asahi/job.rdf",
+        "http://www.asahi.com/rss/asahi/shogi.rdf",
+        "http://www.asahi.com/rss/asahi/shopping.rdf",
+        "http://www.asahi.com/rss/asahi/travel.rdf",
+        "http://www.asahi.com/rss/asahi/health.rdf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 340,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:46.157Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "japantoday.com": {
+      "urls": [
+        "http://japantoday.com/feed/json",
+        "https://japantoday.com/feed/json",
+        "http://japantoday.com/feed/atom",
+        "https://japantoday.com/feed/atom",
+        "http://japantoday.com/feed",
+        "https://japantoday.com/feed",
+        "https://japantoday.com/category/podcast/feed/atom",
+        "https://japantoday.com/category/features/food/feed/atom",
+        "https://japantoday.com/category/business/feed",
+        "https://japantoday.com/category/national/feed",
+        "https://japantoday.com/category/politics/feed",
+        "https://japantoday.com/category/tech/feed",
+        "https://japantoday.com/category/podcast/feed",
+        "http://japantoday.com/category/podcast/feed/atom",
+        "https://japantoday.com/category/features/food/feed",
+        "https://japantoday.com/category/podcast/feed/json",
+        "https://japantoday.com/category/features/food/feed/json",
+        "http://japantoday.com/category/national/feed",
+        "http://japantoday.com/category/business/feed",
+        "http://japantoday.com/category/politics/feed",
+        "http://japantoday.com/category/tech/feed",
+        "http://japantoday.com/category/podcast/feed",
+        "http://japantoday.com/category/podcast/feed/json",
+        "https://feeds.soundcloud.com/users/soundcloud:users:13702072/sounds.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 815,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:17.233Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nippon.com": {
+      "urls": [
+        "https://www.nippon.com/es/feed/",
+        "https://www.nippon.com/en/feed/",
+        "https://www.nippon.com/fr/feed/",
+        "https://www.nippon.com/hk/feed/",
+        "https://www.nippon.com/ja/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 283,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:01.744Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "english.kyodonews.net": {
+      "urls": [
+        "https://english.kyodonews.net/rss/all.xml",
+        "https://english.kyodonews.net/list/feed/rss4kyodonews-fzone",
+        "https://english.kyodonews.net:443/list/feed/rss4kyodonews-fzone",
+        "https://english.kyodonews.net:443/rss/all.xml",
+        "https://english.kyodonews.net/rss/kyodonews-fzone.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 593,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:14.469Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "afpbb.com": {
+      "urls": [
+        "http://feeds.afpbb.com/rss/afpbb/afpbbnews",
+        "https://www.afpbb.com/list/sdata/rss/latest_news_category_sports.xml",
+        "http://feeds.afpbb.com/rss/afpbb/access_ranking",
+        "http://feeds.afpbb.com/rss/afpbb/modepress"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1547,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:08.984Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "at-s.com": {
+      "urls": [
+        "http://www.at-s.com/rss/shizushin.xml",
+        "http://www.at-s.com/blogs/casdora/index.xml",
+        "http://www.at-s.com/blogs/casdora/atom.xml",
+        "http://www.at-s.com/blogs/nie/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1669,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:40.837Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jiji.com": {
+      "urls": [
+        "https://www.jiji.com/rss/ranking.rdf",
+        "http://www.jiji.com/rss/ranking.rdf",
+        "https://www.jiji.com/jc/rdf?p=eqa&g=news&f=1"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 517,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:22.619Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "j-cast.com": {
+      "urls": [
+        "https://www.j-cast.com/index.xml",
+        "https://www.j-cast.com/atom.xml",
+        "https://www.j-cast.com/trend/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 742,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:02.489Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chosonsinbo.com": {
+      "urls": [
+        "https://www.chosonsinbo.com/feed/",
+        "https://chosonsinbo.com/feed/",
+        "http://chosonsinbo.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1789,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:33.268Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hamusoku.com": {
+      "urls": [
+        "https://hamusoku.com/atom.xml",
+        "https://hamusoku.com/index.rdf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:12.687Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "japanmetal.com": {
+      "urls": [
+        "https://www.japanmetal.com/feed/rdf",
+        "https://www.japanmetal.com/cat/news-h/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1228,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:55.990Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mag2.com": {
+      "urls": [
+        "https://www.mag2.com/p/news/feed",
+        "https://www.mag2.com/p/money/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1326,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:11.765Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chubun.com": {
+      "urls": [
+        "https://www.chubun.com/backend.php",
+        "http://www.chubun.com/backend.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1693,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:35.171Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "todaishimbun.org": {
+      "urls": [
+        "https://www.todaishimbun.org/feed/",
+        "http://feeds.feedburner.com/todaishimbun/vOGf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2829,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:01.115Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "asia.nikkei.com": {
+      "urls": [
+        "https://asia.nikkei.com/rss/feed/nar"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 308,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:13.523Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nikkanberita.com": {
+      "urls": [
+        "http://www.nikkanberita.com/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 913,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:45.734Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kumanichi.com": {
+      "urls": [
+        "https://kumanichi.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1149,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:18.517Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "japanrubberweekly.com": {
+      "urls": [
+        "https://www.japanrubberweekly.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1332,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:51.791Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news.gunosy.com": {
+      "urls": [
+        "https://news.gunosy.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1358,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:06.466Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "minyu.online": {
+      "urls": [
+        "https://minyu.online/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1373,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:08.685Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kankokeizai.com": {
+      "urls": [
+        "https://www.kankokeizai.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2047,
+        "category": "general",
+        "last_checked": "2026-02-01T01:37:54.760Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nayoro-np.com": {
+      "urls": [
+        "http://www.nayoro-np.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4089,
+        "category": "general",
+        "last_checked": "2026-02-01T01:38:28.654Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nikkansan.net": {
+      "urls": [
+        "https://nikkansan.net/feed/",
+        "https://nikkansan.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:30.914Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dailysunny.com": {
+      "urls": [
+        "http://www.dailysunny.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T01:39:29.500Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

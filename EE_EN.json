@@ -1,0 +1,481 @@
+{
+  "country_code": "EE",
+  "language_code": "EN",
+  "total_domains": 29,
+  "total_feeds": 67,
+  "feeds": {
+    "ohtuleht.ee": {
+      "urls": [
+        "https://www.ohtuleht.ee/rss",
+        "https://www.ohtuleht.ee/melu/rss",
+        "https://www.ohtuleht.ee/oltv-raadio/rss",
+        "https://www.ohtuleht.ee/mystika/rss",
+        "https://www.ohtuleht.ee/elu/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.418Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sonumid.ee": {
+      "urls": [
+        "https://sonumid.ee/feed/",
+        "https://sonumid.ee/podcast/show/elust-raplamaa-votmes/feed/",
+        "https://sonumid.ee/comments/feed/",
+        "https://xn--snumid-pxa.ee/feed/",
+        "https://xn--snumid-pxa.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.477Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "aripaev.ee": {
+      "urls": [
+        "https://feeds.feedburner.com/aripaev-rss",
+        "http://feeds.feedburner.com/aripaev-rss",
+        "https://www.aripaev.ee/rss",
+        "https://www.aripaev.ee:443/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.421Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "harjuelu.ee": {
+      "urls": [
+        "https://harjuelu.ee/feed/",
+        "https://www.harjuelu.ee/feed/",
+        "https://harjuelu.ee/comments/feed/",
+        "https://www.harjuelu.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.442Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kesknadal.ee": {
+      "urls": [
+        "https://kesknadal.ee/feed/",
+        "http://kesknadal.ee/feed/",
+        "https://kesknadal.ee/comments/feed/",
+        "http://kesknadal.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.445Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazeta.ee": {
+      "urls": [
+        "https://gazeta.ee/feed/",
+        "https://gazeta.ee/sitemap.rss",
+        "https://prospekt.ee/rss.xml",
+        "https://gazeta.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.480Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "postimees.ee": {
+      "urls": [
+        "https://www.postimees.ee/rss",
+        "https://tartu.postimees.ee/rss",
+        "https://tehnika.postimees.ee/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.451Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eestikirik.ee": {
+      "urls": [
+        "https://eestikirik.ee/feed",
+        "http://www.eestikirik.ee/feed/",
+        "https://eestikirik.ee/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.483Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kuulutaja.ee": {
+      "urls": [
+        "https://www.kuulutaja.ee/feed/",
+        "http://www.kuulutaja.ee/feed/",
+        "http://www.kuulutaja.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.485Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "stena.ee": {
+      "urls": [
+        "https://www.stena.ee/rss.xml",
+        "https://www.stena.ee/blogs/kollane/feed",
+        "https://www.stena.ee/blogs/loshad/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.488Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ap3.ee": {
+      "urls": [
+        "https://feeds.feedburner.com/aripaev-rss",
+        "https://www.aripaev.ee/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.411Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "le.ee": {
+      "urls": [
+        "https://online.le.ee/feed/",
+        "https://online.le.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.414Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "epl.delfi.ee": {
+      "urls": [
+        "https://feeds.feedburner.com/epl/epl",
+        "https://feeds.feedburner.com/epl/lp"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.425Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "online.le.ee": {
+      "urls": [
+        "https://online.le.ee/feed/",
+        "https://online.le.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.428Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "umaleht.ee": {
+      "urls": [
+        "https://umaleht.ee/feed/",
+        "https://www.umaleht.ee/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.433Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mke.ee": {
+      "urls": [
+        "https://www.mke.ee/feed/",
+        "https://www.mke.ee/et/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.462Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "narvaleht.ee": {
+      "urls": [
+        "https://narvaleht.ee/feed/",
+        "https://narvaleht.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.465Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hiiuleht.ee": {
+      "urls": [
+        "https://hiiuleht.ee/feed/",
+        "https://hiiuleht.ee/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.471Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sakala.postimees.ee": {
+      "urls": [
+        "https://sakala.postimees.ee/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.430Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dv.ee": {
+      "urls": [
+        "https://www.dv.ee/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.438Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "saartehaal.ee": {
+      "urls": [
+        "https://saartehaal.postimees.ee/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.447Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sonumitooja.ee": {
+      "urls": [
+        "https://sonumitooja.ee/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.453Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jarvateataja.postimees.ee": {
+      "urls": [
+        "https://jarvateataja.postimees.ee/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.455Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "severnojepoberezhje.postimees.ee": {
+      "urls": [
+        "https://severnojepoberezhje.postimees.ee/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.457Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "virumaateataja.postimees.ee": {
+      "urls": [
+        "https://virumaateataja.postimees.ee/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.458Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vooremaa.ee": {
+      "urls": [
+        "https://www.vooremaa.ee/avaleht/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.467Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "telegram.ee": {
+      "urls": [
+        "https://www.telegram.ee/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.494Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "baltische-rundschau.eu": {
+      "urls": [
+        "https://baltische-rundschau.eu/feed/",
+        "https://baltische-rundschau.eu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.474Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "baltija.eu": {
+      "urls": [
+        "https://baltija.eu/feed/",
+        "https://baltija.eu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.492Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

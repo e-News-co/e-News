@@ -1,0 +1,167 @@
+{
+  "country_code": "KN",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 19,
+  "feeds": {
+    "thelabourspokesman.com": {
+      "urls": [
+        "https://thelabourspokesman.com/feed/",
+        "http://thelabourspokesman.com/feed/",
+        "https://thelabourspokesman.com/comments/feed/",
+        "http://thelabourspokesman.com/comments/feed/",
+        "https://thelabourspokesman.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 721,
+        "category": "general",
+        "last_checked": "2026-02-01T02:40:55.918Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sknnewsline.com": {
+      "urls": [
+        "https://sknnewsline.com/f.atom",
+        "https://sknnewsline.com/f.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1015,
+        "category": "general",
+        "last_checked": "2026-02-01T02:40:59.413Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vonradio.com": {
+      "urls": [
+        "https://vonradio.com/feed/",
+        "https://vonradio.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1048,
+        "category": "general",
+        "last_checked": "2026-02-01T02:41:04.587Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thestkittsnevisobserver.com": {
+      "urls": [
+        "https://www.thestkittsnevisobserver.com/feed/",
+        "https://www.thestkittsnevisobserver.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1794,
+        "category": "general",
+        "last_checked": "2026-02-01T02:40:53.927Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zizonline.com": {
+      "urls": [
+        "https://zizonline.com/feed/",
+        "https://zizonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2024,
+        "category": "general",
+        "last_checked": "2026-02-01T02:41:03.537Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sknpulse.com": {
+      "urls": [
+        "https://sknpulse.com/feed/",
+        "https://sknpulse.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2352,
+        "category": "general",
+        "last_checked": "2026-02-01T02:40:58.286Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "stkittsgazette.com": {
+      "urls": [
+        "https://stkittsgazette.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1199,
+        "category": "general",
+        "last_checked": "2026-02-01T02:40:55.126Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "winnmediaskn.com": {
+      "urls": [
+        "https://www.winnmediaskn.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1636,
+        "category": "general",
+        "last_checked": "2026-02-01T02:41:06.223Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "visitstkitts.com": {
+      "urls": [
+        "http://visitstkitts.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1639,
+        "category": "general",
+        "last_checked": "2026-02-01T02:41:07.862Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nevispages.com": {
+      "urls": [
+        "https://www.nevispages.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2058,
+        "category": "general",
+        "last_checked": "2026-02-01T02:41:01.471Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

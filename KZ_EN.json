@@ -1,0 +1,527 @@
+{
+  "country_code": "KZ",
+  "language_code": "EN",
+  "total_domains": 32,
+  "total_feeds": 71,
+  "feeds": {
+    "kstnews.kz": {
+      "urls": [
+        "https://kstnews.kz/feed/",
+        "https://kstnews.kz/category/blog/feed/",
+        "https://kstnews.kz/category/blog/kinoblog/feed/",
+        "https://kstnews.kz/category/blog/kultur/feed/",
+        "https://kstnews.kz/category/blog/madam-blyudo/feed/",
+        "https://kstnews.kz/category/blog/pes/feed/",
+        "https://kstnews.kz/blog/category/projects/kak_eto_bylo/feed/",
+        "https://kstnews.kz/category/blog/altmuz/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 908,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:28.290Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "altyn-orda.kz": {
+      "urls": [
+        "https://altyn-orda.kz/tag/glavnye-novosti-rss/feed/",
+        "https://altyn-orda.kz/feed/",
+        "https://altyn-orda.kz/category/blogs/feed/",
+        "https://altyn-orda.kz/category/blogs/azimbay_gali/feed/",
+        "https://altyn-orda.kz/category/blogs/kerimsal_zhubatkanov/feed/",
+        "https://altyn-orda.kz/category/blogs/serik_maleev/feed/",
+        "https://altyn-orda.kz/category/blogs/zvezda/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2589,
+        "category": "general",
+        "last_checked": "2026-02-01T03:15:06.313Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "atr.kz": {
+      "urls": [
+        "https://atr.kz/feed/",
+        "https://atr.kz:443/feed/",
+        "http://atr.kz/feed/",
+        "https://atr.kz/comments/feed/",
+        "https://atr.kz:443/comments/feed/",
+        "http://atr.kz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2902,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:55.279Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sports.kz": {
+      "urls": [
+        "https://www.sports.kz/rss.php",
+        "https://www.sports.kz/rss",
+        "https://www.sports.kz:443/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1226,
+        "category": "sports",
+        "last_checked": "2026-02-01T03:14:14.236Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ng.kz": {
+      "urls": [
+        "https://www.ng.kz/modules/newspaper/cache/newspaper.xml",
+        "https://www.ng.kz/modules/newbb_plus/cache/forum.xml",
+        "https://www.ng.kz/modules/news/cache/news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1537,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:57.334Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "uralskweek.kz": {
+      "urls": [
+        "https://www.uralskweek.kz/blog-post/feed/",
+        "https://feeds.feedburner.com/uralskweek"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1638,
+        "category": "general",
+        "last_checked": "2026-02-01T03:15:03.491Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "otyrar.kz": {
+      "urls": [
+        "https://otyrar.kz/feed/",
+        "https://otyrar.kz/category/lyudi/blogs/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1797,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:30.271Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "altainews.kz": {
+      "urls": [
+        "https://altainews.kz/ru/rss.xml",
+        "https://altainews.kz/kz/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2083,
+        "category": "general",
+        "last_checked": "2026-02-01T03:15:08.918Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ekaraganda.kz": {
+      "urls": [
+        "https://ekaraganda.kz/rss.php",
+        "http://ekaraganda.kz/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2253,
+        "category": "general",
+        "last_checked": "2026-02-01T03:15:01.238Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dn.kz": {
+      "urls": [
+        "http://www.dn.kz/index.php?format=feed&type=atom",
+        "http://www.dn.kz/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3399,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:58.679Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "caravan.kz": {
+      "urls": [
+        "https://www.caravan.kz/rss/rss.xml",
+        "https://www.caravan.kz/podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4195,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:51.085Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lada.kz": {
+      "urls": [
+        "https://www.lada.kz/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 954,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:18.264Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nur.kz": {
+      "urls": [
+        "https://www.nur.kz/rss/all.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1004,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:01.616Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tengrinews.kz": {
+      "urls": [
+        "https://tengrinews.kz/news.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1005,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:06.021Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "inform.kz": {
+      "urls": [
+        "https://www.inform.kz/rss/rus.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1126,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:52.211Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sputnik.kz": {
+      "urls": [
+        "https://sputnik.kz/export/rss2/archive/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1328,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:12.497Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vesti.kz": {
+      "urls": [
+        "https://vesti.kz/news.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1476,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:31.747Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "informburo.kz": {
+      "urls": [
+        "https://informburo.kz/rss/pubsubhubbub-feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1536,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:15.773Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kapital.kz": {
+      "urls": [
+        "https://kapital.kz/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1536,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:17.309Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "time.kz": {
+      "urls": [
+        "https://time.kz/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1889,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:55.795Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "24.kz": {
+      "urls": [
+        "https://24.kz/ru/news?format=feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3611,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:11.168Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gazeta.kz": {
+      "urls": [
+        "https://www.caravan.kz/podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4803,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:46.886Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zakon.kz": {
+      "urls": [
+        "https://www.zakon.kz/rss/google_last_feed_producer.xml",
+        "https://www.zakon.kz/our/news/RSS.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:05.016Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kostanaytany.kz": {
+      "urls": [
+        "https://kostanaytany.kz/feed/",
+        "https://kostanaytany.kz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:52.333Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "liter.kz": {
+      "urls": [
+        "https://liter.kz/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:53.906Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "np.kz": {
+      "urls": [
+        "http://www.np.kz/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:00.612Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ktk.kz": {
+      "urls": [
+        "https://www.ktk.kz/ru/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:07.557Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "daz.asia": {
+      "urls": [
+        "https://daz.asia/feed/",
+        "https://daz.asia/blog/kooperation-zwischen-anhalt-international-university-und-ktz/feed/",
+        "https://daz.asia/blog/author/librikhtkris/feed/",
+        "https://daz.asia/blog/category/deutschland/feed/",
+        "https://daz.asia/blog/category/politik/feed/",
+        "https://daz.asia/blog/category/zam/feed/",
+        "https://daz.asia/blog/category/chancen/jugend/feed/",
+        "https://daz.asia/blog/category/gesellschaft/wiedergeburt/feed/",
+        "https://daz.asia/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1637,
+        "category": "general",
+        "last_checked": "2026-02-01T03:15:10.558Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "astanatimes.com": {
+      "urls": [
+        "https://astanatimes.com/feed/atom/",
+        "https://astanatimes.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 772,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:43.524Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "almaty.tv": {
+      "urls": [
+        "https://almaty.tv/news-ru.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1325,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:40.742Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eurasia.org.ru": {
+      "urls": [
+        "http://eurasia.org.ru/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1341,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:42.083Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zonakz.net": {
+      "urls": [
+        "https://zonakz.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:14:41.771Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "country_code": "GE",
+  "language_code": "EN",
+  "total_domains": 20,
+  "total_feeds": 321,
+  "feeds": {
+    "netgazeti.ge": {
+      "urls": [
+        "https://netgazeti.ge/feed/",
+        "https://batumelebi.netgazeti.ge/feed/",
+        "https://batumelebi.netgazeti.ge/category/news/feed/",
+        "https://netgazeti.ge/category/news/feed/",
+        "https://netgazeti.ge/category/life/feed/",
+        "https://netgazeti.ge/category/blogs/feed/",
+        "https://netgazeti.ge/category/business/feed/",
+        "https://netgazeti.ge/category/law/feed/",
+        "https://netgazeti.ge/category/opinion/feed/",
+        "https://netgazeti.ge/category/south_caucasus/feed/",
+        "https://netgazeti.ge/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1893,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:07.714Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "civil.ge": {
+      "urls": [
+        "https://civil.ge/feed",
+        "https://civil.ge/ka/feed",
+        "https://civil.ge/ru/feed",
+        "https://civil.ge/archives/category/news/feed",
+        "https://civil.ge/ka/archives/category/news-ka/feed",
+        "https://civil.ge/archives/category/blogs/feed",
+        "http://civil.ge/feed",
+        "https://civil.ge/archives/category/blogs/on-air/feed",
+        "https://civil.ge/ru/archives/category/blog-ru/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1024,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:24.815Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "timer.ge": {
+      "urls": [
+        "https://www.timer.ge/feed/",
+        "https://www.timer.ge/category/samartali/feed/",
+        "https://www.timer.ge/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1738,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:14.883Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newpress.ge": {
+      "urls": [
+        "https://newpress.ge/rss/feed",
+        "https://www.newpress.ge/rss/feed",
+        "http://newpress.ge/rss/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2403,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:23.788Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "apsny.ge": {
+      "urls": [
+        "https://apsny.ge/RSS.xml",
+        "https://www.apsny.ge/RSS.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1099,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:03.779Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eng.ghn.ge": {
+      "urls": [
+        "https://eng.ghn.ge/rss",
+        "https://www.eng.ghn.ge/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1943,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:52.970Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "georgiatoday.ge": {
+      "urls": [
+        "https://georgiatoday.ge/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1844,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:48.157Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "medianews.ge": {
+      "urls": [
+        "http://medianews.ge/ge/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2044,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:16.928Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "geotimes.ge": {
+      "urls": [
+        "https://geotimes.ge/feed/",
+        "https://geotimes.ge/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:35.882Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "messenger.com.ge": {
+      "urls": [
+        "http://www.messenger.com.ge/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:44.424Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tabula.ge": {
+      "urls": [
+        "http://www.tabula.ge/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:08.363Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "droni.ge": {
+      "urls": [
+        "https://droni.ge/rss2.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:20.513Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tagesschau.de": {
+      "urls": [
+        "https://blog.tagesschau.de/2018/08/18/der-toetungsfall-in-offenburg/feed/",
+        "https://blog.tagesschau.de/2020/02/23/hamburg-das-etwas-andere-waehlen/feed/",
+        "https://blog.tagesschau.de/2018/12/11/tagesschau-on-tour-in-koethen/feed/",
+        "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
+        "http://www.tagesschau.de/xml/rss2/",
+        "https://www.tagesschau.de/xml/rss2",
+        "https://www.tagesschau.de/index~atom.xml",
+        "https://www.tagesschau.de/index~rss2.xml",
+        "https://www.tagesschau.de:443/index~rss2.xml",
+        "https://www.tagesschau.de/multimedia/podcast/index~atom.xml",
+        "http://www.tagesschau.de/xml/rss2",
+        "https://www.tagesschau.de/inland/innenpolitik/index~rss2.xml",
+        "https://www.tagesschau.de/multimedia/podcast/index~rss2.xml",
+        "https://blog.tagesschau.de/2019/10/27/cdu-und-spd-gegenwind-aus-berlin/feed/",
+        "https://www.tagesschau.de/index~rdf.xml",
+        "https://www.tagesschau.de/xml/rss2/",
+        "https://www.tagesschau.de/xml/rss2_https/",
+        "https://www.tagesschau.de:443/xml/rss2/",
+        "https://www.tagesschau.de/multimedia/podcast/index~rdf.xml",
+        "https://www.tagesschau.de/infoservices/alle-meldungen-100~atom.xml",
+        "https://www.tagesschau.de:443/infoservices/alle-meldungen-100~atom.xml",
+        "https://www.tagesschau.de:443/infoservices/alle-meldungen-100~rss2.xml",
+        "https://www.tagesschau.de/multimedia/podcasts/11km/index~podcast.xml",
+        "https://www.tagesschau.de/infoservices/alle-meldungen-100~rdf.xml",
+        "https://www.tagesschau.de:443/infoservices/alle-meldungen-100~rdf.xml",
+        "https://blog.tagesschau.de/2018/10/14/gruene-gewinnen-mit-naturschutz/feed/",
+        "https://blog.tagesschau.de/feed/atom/",
+        "https://blog.tagesschau.de/2018/10/28/grundlegende-probleme-bei-der-spd/feed/",
+        "https://www.tagesschau.de/multimedia/podcasts/faktenfinder-feed-101.xml",
+        "https://www.tagesschau.de/multimedia/podcasts/ideenimport-feed-105.xml",
+        "https://www.tagesschau.de/multimedia/podcasts/mal-angenommen-feed-101.xml",
+        "https://www.tagesschau.de/xml/atom/",
+        "https://www.tagesschau.de:443/xml/atom/",
+        "https://www.tagesschau.de/tagesschau_20_uhr/podcast-ts2000-audio-100~podcast.xml",
+        "https://www.tagesschau.de/tagesschau_20_uhr/podcast-ts2000-video-100~podcast.xml",
+        "https://www.tagesschau.de/multimedia/podcast/faktenfinder/faktenfinder-feed-101~podcast.xml",
+        "https://www.tagesschau.de/multimedia/podcast/ideenimport/ideenimport-feed-105~podcast.xml",
+        "https://www.tagesschau.de/multimedia/podcast/malangenommen/mal-angenommen-feed-101~podcast.xml",
+        "https://www.tagesschau.de/tagesschau_in_100_sekunden/podcast-ts100-audio-100~podcast.xml",
+        "https://www.tagesschau.de/tagesschau_in_100_sekunden/podcast-ts100-video-100~podcast.xml",
+        "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/podcast-tse-audio-100~podcast.xml",
+        "https://www.tagesschau.de/tagesschau_in_einfacher_sprache/podcast-tse-video-100~podcast.xml",
+        "https://www.tagesschau.de/tagesthemen/podcast-tt-audio-100~podcast.xml",
+        "https://www.tagesschau.de/tagesthemen/podcast-tt-video-100~podcast.xml",
+        "http://www.tagesschau.de/xml/atom/",
+        "https://blog.tagesschau.de/2020/02/23/spd-stuerzt-aber-nicht-ins-bodenlose/feed/",
+        "https://blog.tagesschau.de/2021/06/02/so-kam-die-schuelerin-louisa-arendt-in-die-tagesthemen/feed/",
+        "https://blog.tagesschau.de/2018/07/24/oezil-wird-zum-politikum/feed/",
+        "https://blog.tagesschau.de/feed/",
+        "https://blog.tagesschau.de:443/feed/",
+        "https://www.tagesschau.de/newsticker.rdf",
+        "https://www.tagesschau.de:443/newsticker.rdf",
+        "https://blog.tagesschau.de/2019/03/15/wenn-dem-sprecher-schlecht-wird/feed/",
+        "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/podcast-ts2000-audio-100~podcast.xml",
+        "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/podcast-ts2000-video-100~podcast.xml",
+        "https://www.tagesschau.de:443/multimedia/sendung/tagesschau_20_uhr/podcast-ts2000-audio-100~podcast.xml",
+        "https://www.tagesschau.de:443/multimedia/sendung/tagesschau_20_uhr/podcast-ts2000-video-100~podcast.xml",
+        "https://blog.tagesschau.de/2018/12/13/danke-koethen/feed/",
+        "https://blog.tagesschau.de/autoren/feed/",
+        "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/podcast-ts100-audio-100~podcast.xml",
+        "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/podcast-ts100-video-100~podcast.xml",
+        "https://www.tagesschau.de/multimedia/sendung/tagesschau_mit_gebaerdensprache/podcast-tsg-100~podcast.xml",
+        "https://www.tagesschau.de/multimedia/sendung/tagesschau_vor_20_jahren/podcast-tsv20-audio-100~podcast.xml",
+        "https://www.tagesschau.de/multimedia/sendung/tagesschau_vor_20_jahren/podcast-tsv20-video-100~podcast.xml",
+        "https://www.tagesschau.de/multimedia/sendung/tagesthemen/podcast-tt-audio-100~podcast.xml",
+        "https://www.tagesschau.de/multimedia/sendung/tagesthemen/podcast-tt-video-100~podcast.xml",
+        "https://www.tagesschau.de:443/multimedia/sendung/tagesschau_in_100_sekunden/podcast-ts100-video-100~podcast.xml",
+        "https://blog.tagesschau.de/2019/02/01/gute-nachrichten/feed/",
+        "https://blog.tagesschau.de/2020/02/21/zum-begriff-fremdenfeindlichkeit/feed/",
+        "https://blog.tagesschau.de/author/bornheim/feed/",
+        "https://blog.tagesschau.de/author/braeutigam/feed/",
+        "https://blog.tagesschau.de/author/fuhsth/feed/",
+        "https://blog.tagesschau.de/author/gniffke/feed/",
+        "https://blog.tagesschau.de/author/leopoldj/feed/",
+        "https://blog.tagesschau.de/author/reersl/feed/",
+        "https://blog.tagesschau.de/author/schoenenborn/feed/",
+        "https://blog.tagesschau.de/author/tanthony/feed/",
+        "https://blog.tagesschau.de/author/weinholdp/feed/",
+        "https://blog.tagesschau.de/category/ard-aktuell-chefredaktion/feed/",
+        "https://blog.tagesschau.de/category/ard-aktuell/feed/",
+        "https://blog.tagesschau.de/category/ard-deutschlandtrend/feed/",
+        "https://blog.tagesschau.de/category/ard-rechtsredaktion/feed/",
+        "https://blog.tagesschau.de/category/ard-studio-peking/feed/",
+        "https://blog.tagesschau.de/category/auslandskorrespondenten/feed/",
+        "https://blog.tagesschau.de/category/corona/feed/",
+        "https://blog.tagesschau.de/category/hauptstadtstudio-berlin/feed/",
+        "https://blog.tagesschau.de/category/internet/feed/",
+        "https://blog.tagesschau.de/category/smartphone-app/feed/",
+        "https://blog.tagesschau.de/category/tagesschau-de/feed/",
+        "https://blog.tagesschau.de/category/tagesthemen/feed/",
+        "https://blog.tagesschau.de/category/wahlen/feed/",
+        "https://blog.tagesschau.de/category/wir-uber-uns/feed/",
+        "https://blog.tagesschau.de/tag/ard-studio-peking/feed/",
+        "https://blog.tagesschau.de/tag/beirut/feed/",
+        "https://blog.tagesschau.de/tag/corona/feed/",
+        "https://blog.tagesschau.de/tag/dark-mode/feed/",
+        "https://blog.tagesschau.de/tag/desktop/feed/",
+        "https://blog.tagesschau.de/tag/explosion/feed/",
+        "https://blog.tagesschau.de/tag/feature/feed/",
+        "https://blog.tagesschau.de/tag/gerichtsprozess/feed/",
+        "https://blog.tagesschau.de/tag/heimat/feed/",
+        "https://blog.tagesschau.de/tag/libanon/feed/",
+        "https://blog.tagesschau.de/tag/mittendrin/feed/",
+        "https://blog.tagesschau.de/tag/nachrichten/feed/",
+        "https://blog.tagesschau.de/tag/nachrichtenhaus/feed/",
+        "https://blog.tagesschau.de/tag/regionen/feed/",
+        "https://blog.tagesschau.de/tag/relaunch/feed/",
+        "https://blog.tagesschau.de/tag/reporter/feed/",
+        "https://blog.tagesschau.de/tag/russland/feed/",
+        "https://blog.tagesschau.de/tag/tagesthemen/feed/",
+        "https://blog.tagesschau.de/tag/ukraine/feed/",
+        "https://blog.tagesschau.de/2019/06/26/wir-wollen-noch-crossmedialer-arbeiten/feed/",
+        "https://www.tagesschau.de/export/podcast/multimedia/sendung/tagesschau_vor_20_jahren/podcast-tsv20-audio-100~podcast.xml",
+        "https://blog.tagesschau.de/2018/10/14/bayern-csu-und-spd-verlieren-deutlich/feed/",
+        "https://blog.tagesschau.de/2019/08/08/tschuess-liebe-tagesschau-user/feed/",
+        "https://blog.tagesschau.de/2020/04/04/einfach-mal-danke-sagen/feed/",
+        "https://blog.tagesschau.de/category/hauptstadtstudio-berlin/medien/feed/",
+        "https://blog.tagesschau.de/category/hauptstadtstudio-berlin/regierung/feed/",
+        "https://www.tagesschau.de/export/podcast/tagesthemen_https/",
+        "https://blog.tagesschau.de/2018/04/18/premiere-mit-hindernissen/feed/",
+        "https://blog.tagesschau.de/2018/07/05/willkommen-juliane-leopold-bei-tagesschau-de/feed/",
+        "https://blog.tagesschau.de/2018/07/12/deutschland-spricht/feed/",
+        "https://blog.tagesschau.de/2018/08/16/richtfest-bei-der-tagesschau/feed/",
+        "https://blog.tagesschau.de/2018/10/14/spd-faellt-ins-bodenlose/feed/",
+        "https://blog.tagesschau.de/2018/10/26/eine-podiumsdiskussion-bei-der-afd/feed/",
+        "https://blog.tagesschau.de/2018/10/28/gruene-gewinner-der-wahl-in-hessen/feed/",
+        "https://blog.tagesschau.de/2019/04/30/serie-loesungsfinder-wird-fortgesetzt/feed/",
+        "https://blog.tagesschau.de/2019/05/26/die-neue-gruene-mitte/feed/",
+        "https://blog.tagesschau.de/2019/05/26/spd-ohne-boden/feed/",
+        "https://blog.tagesschau.de/2019/05/26/union-bei-den-jungen-abgemeldet/feed/",
+        "https://blog.tagesschau.de/2019/10/10/ein-haus-ein-team-eine-marke/feed/",
+        "https://blog.tagesschau.de/2019/10/18/__trashed-7/feed/",
+        "https://blog.tagesschau.de/2020/05/29/wir-berichten-aus-new-york-rio-tokio-und-aus-ihrer-heimat-tagesthemenmittendrin/feed/",
+        "https://blog.tagesschau.de/2020/08/05/die-explosionen-in-beirut-in-der-tagesschau-und-den-tagesthemen/feed/",
+        "https://blog.tagesschau.de/2020/08/19/so-geht-die-tagesschau-mit-der-nennung-von-namen-in-gerichtsprozessen-um/feed/",
+        "https://blog.tagesschau.de/2020/12/14/der-aussen-und-innenminister-der-tagesschau/feed/",
+        "https://blog.tagesschau.de/2020/12/16/ein-frischer-anstrich-und-mehr-boersen-nachrichten-fuer-tagesschau-de/feed/",
+        "https://blog.tagesschau.de/2020/12/29/wenn-die-tagesschau-selbst-zur-nachricht-wird/feed/",
+        "https://blog.tagesschau.de/2021/04/13/corona-inzidenzwerte-und-ihre-abbildung-in-der-tagesschau/feed/",
+        "https://blog.tagesschau.de/2021/06/04/corona-infobox-20-uhr-tagesschau-schneller-online-und-andere-neue-features-auf-tagesschau-de/feed/",
+        "https://blog.tagesschau.de/2021/09/03/herzlich-willkommen-aline-abboud/feed/",
+        "https://blog.tagesschau.de/2021/11/03/tagesschau-differenziert-farbskala-bei-der-karte-der-7-tage-corona-inzidenz-weiter-aus/feed/",
+        "https://blog.tagesschau.de/2021/12/30/der-fels-in-der-brandung-geht-tschuess-lieber-claus-erich-boetzkes/feed/",
+        "https://blog.tagesschau.de/2022/01/19/erweiterung-der-farbskala-der-corona-karte-der-tagesschau/feed/",
+        "https://blog.tagesschau.de/2022/04/07/20-uhr-tagesschau-mit-untertiteln-auf-ukrainisch-und-russisch/feed/",
+        "https://blog.tagesschau.de/2022/09/19/fehler-auf-tagesschau-de-zu-erfinder-aus-simbabwe/feed/",
+        "https://www.tagesschau.de/export/podcast/bab_https/",
+        "https://www.tagesschau.de/export/podcast/nachtmagazin_https/",
+        "https://www.tagesschau.de/export/podcast/tagesschau-vor-20-jahren_https/",
+        "https://www.tagesschau.de/export/podcast/tagesschau/",
+        "https://www.tagesschau.de/export/podcast/tagesschau_https/",
+        "https://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/",
+        "https://www.tagesschau.de:443/export/podcast/tagesschau/",
+        "https://www.tagesschau.de:443/export/video-podcast/tagesschau-in-100-sekunden/",
+        "https://www.tagesschau.de/export/video-podcast/webl/tagesschau-vor-20-jahren_https/",
+        "https://www.tagesschau.de/export/video-podcast/webl/tagesschau/",
+        "https://www.tagesschau.de/export/video-podcast/webl/tagesschau_https/",
+        "https://www.tagesschau.de/export/video-podcast/webl/tagesthemen_https/",
+        "https://www.tagesschau.de/export/video-podcast/webm/tagesschau-vor-20-jahren_https/",
+        "https://www.tagesschau.de/export/video-podcast/webm/tagesthemen_https/",
+        "https://www.tagesschau.de/export/video-podcast/webs/tagesthemen_https/",
+        "https://www.tagesschau.de/export/video-podcast/webxl/tagesthemen_https/",
+        "https://www.tagesschau.de:443/export/video-podcast/webl/tagesschau/",
+        "http://blog.tagesschau.de/feed/",
+        "http://www.tagesschau.de/newsticker.rdf",
+        "https://www.tagesschau.de/export/podcast/hi/tagesschau-in-100-sekunden/",
+        "https://www.tagesschau.de/export/video-podcast/webl/bab_https/",
+        "https://www.tagesschau.de/export/video-podcast/webl/nachtmagazin_https/",
+        "https://www.tagesschau.de/export/video-podcast/webl/tagesschau-in-100-sekunden_https/",
+        "https://www.tagesschau.de/export/video-podcast/webl/tagesschau-mit-gebaerdensprache_https/",
+        "https://www.tagesschau.de/export/video-podcast/webm/bab_https/",
+        "https://www.tagesschau.de/export/video-podcast/webm/nachtmagazin_https/",
+        "https://www.tagesschau.de/export/video-podcast/webm/tagesschau-in-100-sekunden_https/",
+        "https://www.tagesschau.de/export/video-podcast/webm/tagesschau-mit-gebaerdensprache_https/",
+        "https://www.tagesschau.de/export/video-podcast/webm/tagesschau_https/",
+        "https://www.tagesschau.de/export/video-podcast/webs/bab_https/",
+        "https://www.tagesschau.de/export/video-podcast/webs/nachtmagazin_https/",
+        "https://www.tagesschau.de/export/video-podcast/webs/tagesschau-vor-20-jahren_https/",
+        "https://www.tagesschau.de/export/video-podcast/webs/tagesschau_https/",
+        "https://www.tagesschau.de/export/video-podcast/webxl/bab_https/",
+        "https://www.tagesschau.de/export/video-podcast/webxl/nachtmagazin_https/",
+        "https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-in-100-sekunden_https/",
+        "https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-mit-gebaerdensprache_https/",
+        "https://www.tagesschau.de/export/video-podcast/webxl/tagesschau-vor-20-jahren_https/",
+        "https://www.tagesschau.de/export/video-podcast/webxl/tagesschau_https/",
+        "https://blog.tagesschau.de/2020/10/01/die-tagesschau-stellt-bestimmte-inhalte-unter-creative-commons/feed/",
+        "http://www.tagesschau.de/export/podcast/tagesschau/",
+        "http://www.tagesschau.de/export/video-podcast/tagesschau-in-100-sekunden/",
+        "https://www.swr.de/~podcast/weltspiegel-thema/weltspiegel-podcast-102.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1602,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:58.055Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "presseportal.de": {
+      "urls": [
+        "https://www.presseportal.de/rss/polizei.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/2.rss2",
+        "https://www.presseportal.de/rss/medien-kultur.rss2",
+        "https://www.presseportal.de/rss/bild.rss2",
+        "https://www.presseportal.de/rss/wirtschaft.rss2",
+        "https://www.presseportal.de/rss/presseportal.rss2",
+        "https://www.presseportal.de/rss/presseportal.rss2?langid=1",
+        "https://www.presseportal.de/rss/polizei/laender/9.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/1.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/10.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/8.rss2",
+        "https://www.presseportal.de/rss/politik.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/6.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/15.rss2",
+        "https://www.presseportal.de/rss/panorama.rss2",
+        "https://www.presseportal.de/rss/gesundheit-medizin.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/11.rss2",
+        "https://www.presseportal.de/rss/bau-immobilien.rss2",
+        "https://www.presseportal.de/rss/dienststelle_4970.rss2",
+        "https://www.presseportal.de/rss/finanzen.rss2",
+        "https://www.presseportal.de/rss/handel.rss2",
+        "https://www.presseportal.de/rss/presseschau.rss2",
+        "https://www.presseportal.de/rss/soziales.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/7.rss2",
+        "https://www.presseportal.de/rss/sport.rss2",
+        "https://www.presseportal.de/rss/auto-verkehr.rss2",
+        "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+        "https://www.presseportal.de/rss/dienststelle_35235.rss2",
+        "https://www.presseportal.de/rss/dienststelle_35235.rss2?langid=1",
+        "https://www.presseportal.de/rss/dienststelle_4971.rss2",
+        "https://www.presseportal.de/rss/netzwelt.rss2",
+        "https://www.presseportal.de/rss/umwelt.rss2",
+        "https://www.presseportal.de/rss/wissen-bildung.rss2",
+        "https://www.presseportal.de/rss/dienststelle_6337.rss2",
+        "https://www.presseportal.de/rss/fashion-beauty.rss2",
+        "https://www.presseportal.de/rss/tourismus-urlaub.rss2",
+        "http://www.presseportal.de/rss/presseportal.rss2",
+        "https://www.presseportal.de/rss/people.rss2",
+        "https://www.presseportal.de/rss/podcast.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/4.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/5.rss2",
+        "https://www.presseportal.de/rss/rss2_vts.htx?q=tettnang&langid=1",
+        "https://www.presseportal.de/rss/videocast.rss2",
+        "https://www.presseportal.de/en/rss/presseportal.rss2?langid=2",
+        "https://www.presseportal.de/rss/polizei/laender/13.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/14.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/16.rss2",
+        "https://www.presseportal.de/rss/polizei/laender/3.rss2",
+        "http://www.presseportal.de/rss/dienststelle_4971.rss2",
+        "http://www.presseportal.de/rss/dienststelle_4970.rss2",
+        "http://www.presseportal.de/rss/dienststelle_12415.rss2",
+        "http://www.presseportal.de/rss/dienststelle_6337.rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1342,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:59.784Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "der-postillon.com": {
+      "urls": [
+        "https://www.der-postillon.com/feeds/posts/default?redirect=false",
+        "https://www.blogger.com/feeds/746298260979647434/posts/default",
+        "https://follow.it/new-api-feeds-on-follow-it/rss",
+        "https://follow.it/der-postillon-abo/rss",
+        "https://follow.it/der-postillon2/rss",
+        "https://follow.it/family-focus-blog/rss",
+        "https://follow.it/followit-blog/rss",
+        "https://follow.it/der-postillon2",
+        "https://blog.follow.it/feed/",
+        "https://blog.follow.it/for-publishers/feed/",
+        "https://blog.follow.it/for-readers/feed/",
+        "https://blog.follow.it/gdpr/feed/",
+        "https://blog.follow.it/general/feed/",
+        "https://blog.follow.it/information-overload/feed/",
+        "https://blog.follow.it/new-feature/feed/",
+        "https://blog.follow.it/productivity/feed/",
+        "https://follow.it/blog/feed/",
+        "https://follow.it/blog/for-publishers/feed/",
+        "https://follow.it/blog/for-readers/feed/",
+        "https://follow.it/blog/information-overload/feed/",
+        "https://follow.it/blog/new-feature/feed/",
+        "https://follow.it/blog/productivity/feed/",
+        "http://feeds.feedburner.com/blogspot/rkEL",
+        "https://status.follow.it/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1659,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:02.650Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zdf.de": {
+      "urls": [
+        "https://www.zdf.de/rss/zdf/kinder/logo",
+        "https://www.zdf.de/rss/zdf/nachrichten",
+        "https://www.zdf.de/rss/zdf/comedy/heute-show",
+        "https://www.zdf.de/rss/zdf/verbraucher/wiso",
+        "https://www.zdf.de/rss/zdf/comedy/die-anstalt",
+        "https://www.zdf.de/rss/podcast/video/zdf/comedy/die-anstalt",
+        "http://www.zdf.de/rss/podcast/audio/zdf/kinder/logo",
+        "http://www.zdf.de/rss/podcast/video/zdf/kinder/logo",
+        "https://www.zdfheute.de/rss/zdf/nachrichten",
+        "https://www.zdfheute.de/rss/zdf/nachrichten/politik"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2609,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:56.451Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "finchannel.com": {
+      "urls": [
+        "https://www.finchannel.com/?format=feed&type=atom",
+        "https://www.finchannel.com/?format=feed&type=rss",
+        "https://finchannel.com/feed/",
+        "https://finchannel.com/ka/feed/",
+        "https://finchannel.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2864,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:51.025Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gurianews.com": {
+      "urls": [
+        "https://gurianews.com/?feed=rss2",
+        "https://gurianews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3707,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:13.142Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sputnik-georgia.com": {
+      "urls": [
+        "https://sputnik-georgia.com/export/rss2/archive/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1785,
+        "category": "general",
+        "last_checked": "2026-01-31T21:24:05.564Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tol.org": {
+      "urls": [
+        "https://tol.org/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1889,
+        "category": "general",
+        "last_checked": "2026-01-31T21:23:46.313Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

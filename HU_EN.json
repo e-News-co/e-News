@@ -1,0 +1,1266 @@
+{
+  "country_code": "HU",
+  "language_code": "EN",
+  "total_domains": 69,
+  "total_feeds": 292,
+  "feeds": {
+    "origo.hu": {
+      "urls": [
+        "https://www.origo.hu/contentpartner/rss/origoall/origo.xml",
+        "https://www.origo.hu/publicapi/hu/rss/origo/articles",
+        "https://www.origo.hu/contentpartner/rss/itthon/origo.xml",
+        "https://www.origo.hu/publicapi/hu/rss/origo/nagyvilag/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/sport/articles",
+        "https://www.origo.hu/contentpartner/rss/sport/origo.xml",
+        "https://www.origo.hu/publicapi/hu/rss/origo/sport-futball/articles",
+        "https://www.origo.hu/contentpartner/rss/teve/origo.xml",
+        "https://www.origo.hu/publicapi/hu/rss/origo/itthon/articles",
+        "https://www.origo.hu/contentpartner/rss/nagyvilag/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/sport/futball.xml",
+        "https://www.origo.hu/publicapi/hu/rss/origo/gazdasag/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/auto/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/teve/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/tudomany/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/techbazis/articles",
+        "https://www.origo.hu/contentpartner/rss/uzletinegyed/origo.xml",
+        "https://www.origo.hu/publicapi/hu/rss/origo/filmklub/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/888/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/kultura/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/sport-esport/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/sport-loero/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/sport-trashtalk/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/tafelspicc/articles",
+        "https://www.origo.hu/publicapi/hu/rss/origo/utazas/articles",
+        "https://www.origo.hu/contentpartner/rss/tudomany/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/techbazis/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/auto/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/888/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/filmklub/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/kultura/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/tafelspicc/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/utazas/origo.xml",
+        "https://www.origo.hu/contentpartner/rss/uzletinegyed/jog.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1641,
+        "category": "sports",
+        "last_checked": "2026-01-31T22:51:18.424Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "index.hu": {
+      "urls": [
+        "https://index.hu/24ora/rss",
+        "https://index.hu/24ora/rss/",
+        "https://index.hu/belfold/rss/",
+        "https://index.hu/belfold/rss/default",
+        "https://index.hu/sport/rss/",
+        "https://index.hu/gazdasag/rss/default",
+        "https://index.hu/kultur/rss/",
+        "https://index.hu/sport/futball/rss/",
+        "https://index.hu/tudomany/rss/main",
+        "https://index.hu/english/rss/?token=139a7de5bb6123e4883d4b12ed61ec7c",
+        "https://index.hu/podcast/rss/",
+        "https://index.hu/podcast/rss/?token=e34a4e3eab8c41e7070a5935d0bff599",
+        "https://index.hu/sport/kezilabda/rss/",
+        "https://index.hu/tech/rss/",
+        "https://index.hu/sport/forma1/rss/",
+        "https://index.hu/sport/futball/2024/eb/rss/",
+        "https://index.hu/sport/jegkorong/rss/",
+        "https://index.hu/sport/kajak-kenu/rss/",
+        "https://index.hu/sport/uszas/rss/",
+        "https://index.hu/tudomany/til/podcast/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1120,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:10.980Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "24.hu": {
+      "urls": [
+        "https://24.hu/feed/",
+        "https://24.hu/feed/bukso_24hu/",
+        "https://24.hu/feed/elso_kezbol_24hu/",
+        "https://24.hu/feed/europoli_24hu/",
+        "https://24.hu/feed/tango_es_kes_24hu/",
+        "https://24.hu/feed/zoldovezet_24hu/",
+        "https://24.hu/tag/della-podcast/feed/",
+        "https://feeds.simplecast.com/0gnc2arP",
+        "https://feeds.simplecast.com/1bmJGHnD",
+        "https://feeds.simplecast.com/6UMST_d1",
+        "https://feeds.simplecast.com/96PcZMx6",
+        "https://feeds.simplecast.com/FpGKSwHh",
+        "https://feeds.simplecast.com/NBIWhsMJ",
+        "https://feeds.simplecast.com/UqtvDmAX",
+        "https://feeds.simplecast.com/XXhSIfX1",
+        "https://feeds.simplecast.com/aLG4kxB1",
+        "https://feeds.simplecast.com/aZL99RbB",
+        "https://feeds.simplecast.com/cljsxEqB"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 890,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:12.177Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "portfolio.hu": {
+      "urls": [
+        "https://www.portfolio.hu/rss/all.xml",
+        "https://www.portfolio.hu/rss/gazdasag.xml",
+        "https://www.portfolio.hu/rss/global.xml",
+        "https://www.portfolio.hu/rss/uzlet.xml",
+        "https://www.portfolio.hu/rss/bank.xml",
+        "https://www.portfolio.hu/rss/befektetes.xml",
+        "https://www.portfolio.hu/rss/ingatlan.xml",
+        "https://www.portfolio.hu/rss/unios-forrasok.xml",
+        "https://www.portfolio.hu/en/rss/all.xml",
+        "https://www.portfolio.hu/en/rss/economy.xml",
+        "https://www.portfolio.hu/rss/deviza.xml",
+        "https://www.portfolio.hu/en/rss/business.xml",
+        "https://www.portfolio.hu/en/rss/energy.xml",
+        "https://www.portfolio.hu/en/rss/equity.xml",
+        "https://www.portfolio.hu/en/rss/eu-funds.xml",
+        "https://www.portfolio.hu/en/rss/property.xml",
+        "https://www.omnycontent.com/d/playlist/9c1a4b9e-f661-4da4-8ca4-af3900d468eb/0c111983-0de7-4e97-91ff-af430096bc95/a474f850-60df-429f-b929-af430096bcb5/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c1a4b9e-f661-4da4-8ca4-af3900d468eb/2b9b9155-6b7a-4313-8ca5-af7e00f4a600/c04990c0-654b-43f5-9e16-af7e00f4a60e/podcast.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1143,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:22.353Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hirkereso.hu": {
+      "urls": [
+        "http://rss.hirkereso.hu/rss.fc/frissoldal/31.xml",
+        "http://rss.hirkereso.hu/rss.fc/frissoldal/25.xml",
+        "https://rss.hirkereso.hu/rss.fc/frissoldal/31.xml",
+        "https://rss.hirkereso.hu/rss.fc/frissoldal/33.xml",
+        "https://rss.hirkereso.hu/rss.fc/topoldal/105.xml",
+        "https://rss.hirkereso.hu/rss.fc/topoldal/138.xml",
+        "https://rss.hirkereso.hu/rss.fc/frissoldal/21.xml",
+        "https://rss.hirkereso.hu/rss.fc/frissoldal/32.xml",
+        "https://rss.hirkereso.hu/rss.fc/frissoldal/25.xml",
+        "http://rss.hirkereso.hu/rss.fc/frissoldal/33.xml",
+        "http://rss.hirkereso.hu/rss.fc/topoldal/138.xml",
+        "http://rss.hirkereso.hu/rss.fc/topoldal/105.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1000,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:52.950Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "telex.hu": {
+      "urls": [
+        "https://telex.hu/rss",
+        "https://telex.hu/rss/archivum",
+        "https://telex.hu/rss/mstag/belfold",
+        "https://telex.hu/rss/mstag/kulfold",
+        "https://telex.hu/rss/mstag/gazdasag",
+        "https://telex.hu/rss/mstag/eszkombajn",
+        "https://telex.hu/rss/mstag/napirajz",
+        "https://telex.hu/rss/mstag/tech",
+        "https://anchor.fm/s/dcfcc3bc/podcast/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 668,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:09.842Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "blikk.hu": {
+      "urls": [
+        "https://www.blikk.hu/rss-articles.xml",
+        "https://www.blikk.hu/rss",
+        "https://www.blikk.hu/rss/blikk",
+        "https://www.blikk.hu/static/rss_cikkek_aktualis.xml",
+        "https://www.blikk.hu/static/rss_cikkek_sztarblikk.xml",
+        "https://www.blikk.hu/static/rss_hirek.xml",
+        "https://www.blikk.hu/aktualis?feed=true&category=/aktualis",
+        "https://www.blikk.hu/sztarvilag?feed=true&category=/sztarvilag"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 715,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:08.594Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fn.hu": {
+      "urls": [
+        "https://24.hu/feed/",
+        "https://feeds.simplecast.com/1bmJGHnD",
+        "https://feeds.simplecast.com/FpGKSwHh",
+        "https://feeds.simplecast.com/NBIWhsMJ",
+        "https://feeds.simplecast.com/RRgxnfTz",
+        "https://feeds.simplecast.com/UqtvDmAX",
+        "https://feeds.simplecast.com/cljsxEqB",
+        "https://24.hu/tag/della-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 718,
+        "category": "general",
+        "last_checked": "2026-01-31T22:50:57.535Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nemzetisport.hu": {
+      "urls": [
+        "https://www.nemzetisport.hu/static/rss_hirek.xml",
+        "https://www.nemzetisport.hu/rss/mindencsatorna",
+        "https://www.nemzetisport.hu/publicapi/hu/rss/nso/articles",
+        "https://www.nemzetisport.hu/rss/kezilabda",
+        "https://www.nemzetisport.hu/rss/angol_labdarugas",
+        "https://www.nemzetisport.hu/rss/f1",
+        "https://www.nemzetisport.hu/rss/tokio-2020"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 913,
+        "category": "sports",
+        "last_checked": "2026-01-31T22:51:24.467Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bbj.hu": {
+      "urls": [
+        "https://bbj.hu/assets/rss/rss.php",
+        "https://bbj.hu/rss",
+        "https://www.bbj.hu/rss",
+        "https://bbj.hu/feed/",
+        "https://bbj.hu/category/business/people/podcasts/feed/",
+        "https://bbj.hu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4071,
+        "category": "general",
+        "last_checked": "2026-01-31T22:50:55.975Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "szon.hu": {
+      "urls": [
+        "https://www.szon.hu/publicapi/hu/rss/szon/articles",
+        "https://www.szon.hu/feed",
+        "https://www.szon.hu/feed/",
+        "https://szon.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 541,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:32.847Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "boon.hu": {
+      "urls": [
+        "https://boon.hu/feed/",
+        "https://www.boon.hu/publicapi/hu/rss/boon/articles",
+        "https://www.boon.hu/feed",
+        "https://www.boon.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 591,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:32.147Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haon.hu": {
+      "urls": [
+        "https://haon.hu/feed/",
+        "https://www.haon.hu/feed",
+        "https://www.haon.hu/publicapi/hu/rss/haon/articles",
+        "https://www.haon.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 640,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:36.856Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "borsonline.hu": {
+      "urls": [
+        "https://www.borsonline.hu/rss",
+        "https://www.borsonline.hu/publicapi/hu/rss/bors/articles",
+        "http://www.borsonline.hu/rss",
+        "https://www.borsonline.hu/publicapi/hu/rss/bors/lexikon/stars"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 707,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:49.652Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pestisracok.hu": {
+      "urls": [
+        "https://pestisracok.hu/feed/",
+        "https://pestisracok.hu/publicapi/hu/rss/pesti_sracok/articles",
+        "https://pestisracok.hu/category/blog/vbt/feed/",
+        "https://pestisracok.hu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 920,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:56.625Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "travelo.hu": {
+      "urls": [
+        "https://www.borsonline.hu/publicapi/hu/rss/bors/articles",
+        "https://www.travelo.hu/contentpartner/rss/travelomagazin.rss",
+        "https://www.borsonline.hu/publicapi/hu/rss/bors/lexikon/stars"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 234,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:19.867Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cosmopolitan.hu": {
+      "urls": [
+        "https://www.cosmopolitan.com/rss/all.xml",
+        "https://www.cosmopolitan.com/rss/default.xml",
+        "https://cosmopolitan.hu/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 407,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:03.994Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nepszava.hu": {
+      "urls": [
+        "https://nepszava.hu/feed",
+        "https://nepszava.hu/feed/",
+        "http://nepszava.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 616,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:06.957Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "galaktika.hu": {
+      "urls": [
+        "https://galaktika.hu/feed/",
+        "http://galaktika.hu/feed/",
+        "https://galaktika.hu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1040,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:08.640Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sportal.hu": {
+      "urls": [
+        "https://www.sportal.hu/rss-articles.xml",
+        "https://ringiersportsmediagroup.com/feed/",
+        "https://ringiersportsmediagroup.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1047,
+        "category": "sports",
+        "last_checked": "2026-01-31T22:51:25.529Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hungarytoday.hu": {
+      "urls": [
+        "https://hungarytoday.hu/feed/",
+        "http://hungarytoday.hu/feed/",
+        "https://hungarytoday.hu/category/opinion/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1059,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:38.802Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jfb.hu": {
+      "urls": [
+        "http://www.jfb.hu/rss.xml",
+        "https://jfb.hu/rss.xml",
+        "https://www.jfb.hu/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1588,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:44.175Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "magyarnarancs.hu": {
+      "urls": [
+        "https://magyarnarancs.hu/rss",
+        "https://magyarnarancs.hu/rss/",
+        "https://magyarnarancs.hu/rss/narancs_c_mlap"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2046,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:03.585Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "magyarnemzet.hu": {
+      "urls": [
+        "https://magyarnemzet.hu/feed/",
+        "https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 436,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:09.163Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vg.hu": {
+      "urls": [
+        "https://www.vg.hu/publicapi/hu/rss/vilaggazdasag/articles",
+        "https://www.vg.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 576,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:22.930Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alfahir.hu": {
+      "urls": [
+        "https://blobs.alfahir.hu/syndication/atom.xml",
+        "https://blobs.alfahir.hu/syndication/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 698,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:53.651Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mandiner.hu": {
+      "urls": [
+        "https://mandiner.hu/rss",
+        "https://mandiner.hu/publicapi/hu/rss/mandiner/articles"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 766,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:21.189Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mno.hu": {
+      "urls": [
+        "https://magyarnemzet.hu/feed/",
+        "https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 795,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:03.066Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "propeller.hu": {
+      "urls": [
+        "https://propeller.hu/feed/content.xml",
+        "https://propeller.hu/feed/content-sajat.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 946,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:51.910Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "velvet.hu": {
+      "urls": [
+        "https://velvet.hu/celeb/rss/",
+        "https://velvet.hu/24ora/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1037,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:50.962Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "budapesttimes.hu": {
+      "urls": [
+        "https://www.budapesttimes.hu/feed/",
+        "https://www.budapesttimes.hu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1039,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:39.883Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "budapester.hu": {
+      "urls": [
+        "https://www.budapester.hu/feed/",
+        "https://www.budapester.hu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1070,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:41.005Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "automotor.hu": {
+      "urls": [
+        "https://www.automotor.hu/feed/",
+        "https://www.automotor.hu/tag/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1117,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:21.025Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hirado.hu": {
+      "urls": [
+        "https://hirado.hu/hirado.aspx",
+        "https://hirado.hu/mobil.aspx"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1228,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:20.268Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mult-kor.hu": {
+      "urls": [
+        "https://mult-kor.hu/.scripts/rss.php",
+        "https://mult-kor.hu/.scripts/rss.php?label=11"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1230,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:11.879Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "impressmagazin.hu": {
+      "urls": [
+        "https://impressmagazin.hu/feed/",
+        "http://impressmagazin.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1344,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:06.560Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "honvedelem.hu": {
+      "urls": [
+        "https://honvedelem.hu/rss.xml",
+        "https://honvedelem.hu/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1535,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:17.102Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pecsinapilap.hu": {
+      "urls": [
+        "https://www.pecsinapilap.hu/rss",
+        "http://www.pecsinapilap.hu/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1586,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:35.267Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "magyarhirlap.hu": {
+      "urls": [
+        "https://www.magyarhirlap.hu/rss/rss.xml",
+        "https://magyarhirlap.hu/rss/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1669,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:02.269Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "napi.hu": {
+      "urls": [
+        "https://www.napi.hu/feed/mindencikk.xml",
+        "https://www.economx.hu/feed/mindencikk.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1757,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:05.418Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "168ora.hu": {
+      "urls": [
+        "https://168ora.hu/rss",
+        "https://168.hu/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2465,
+        "category": "general",
+        "last_checked": "2026-01-31T22:50:51.901Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "economx.hu": {
+      "urls": [
+        "https://www.economx.hu/feed/mindencikk.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 413,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:23.343Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fidelio.hu": {
+      "urls": [
+        "https://fidelio.hu/rss/cikkek"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 511,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:13.619Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "duol.hu": {
+      "urls": [
+        "https://www.duol.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 556,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:33.513Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vaol.hu": {
+      "urls": [
+        "https://www.vaol.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 558,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:29.688Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zaol.hu": {
+      "urls": [
+        "https://www.zaol.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 564,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:30.495Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "delmagyar.hu": {
+      "urls": [
+        "https://www.delmagyar.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 604,
+        "category": "general",
+        "last_checked": "2026-01-31T22:50:56.715Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "444.hu": {
+      "urls": [
+        "https://444.hu/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 614,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:19.038Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "metropol.hu": {
+      "urls": [
+        "https://metropol.hu/publicapi/hu/rss/metropol/articles"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 615,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:01.536Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kisalfold.hu": {
+      "urls": [
+        "https://www.kisalfold.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 623,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:00.176Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "feol.hu": {
+      "urls": [
+        "https://www.feol.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 643,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:31.418Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pecsiujsag.hu": {
+      "urls": [
+        "https://feeds.feedburner.com/pecsiujsag"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 872,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:36.139Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vilaggazdasag.hu": {
+      "urls": [
+        "https://www.vg.hu/publicapi/hu/rss/vilaggazdasag/articles"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 919,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:07.877Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "demokrata.hu": {
+      "urls": [
+        "https://demokrata.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 919,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:00.921Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nol.hu": {
+      "urls": [
+        "http://nol.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:06.339Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elle.hu": {
+      "urls": [
+        "https://elle.hu/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1017,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:07.577Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kiskegyed.blikk.hu": {
+      "urls": [
+        "https://www.kiskegyed.hu/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1125,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:05.119Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "szabadfold.hu": {
+      "urls": [
+        "https://szabadfold.hu/publicapi/hu/rss/szabadfold/articles"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1129,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:00.002Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hetek.hu": {
+      "urls": [
+        "https://www.hetek.hu/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1250,
+        "category": "general",
+        "last_checked": "2026-01-31T22:50:58.785Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fotomagazin.hu": {
+      "urls": [
+        "https://fotomagazin.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1906,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:10.546Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "magyarepitok.hu": {
+      "urls": [
+        "https://magyarepitok.hu/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1946,
+        "category": "general",
+        "last_checked": "2026-01-31T22:52:15.565Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eletestudomany.hu": {
+      "urls": [
+        "https://eletestudomany.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2248,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:58.873Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hvg.hu": {
+      "urls": [
+        "https://hvg.hu/rss.aspx",
+        "https://hvg.hu/rss/enesacegem",
+        "http://hvg.hu/rss/enesacegem",
+        "https://hvg.hu/rss",
+        "https://hvg.hu/rss/itthon",
+        "https://hvg.hu/rss/elet",
+        "https://hvg.hu/rss/tudomany",
+        "https://hvg.hu/rss/gazdasag",
+        "https://hvg.hu/rss/vilag",
+        "http://hvg.hu/rss/itthon",
+        "https://hvg.hu/rss/cegauto",
+        "https://hvg.hu/rss/kkv",
+        "https://hvg.hu/rss/kultura",
+        "http://hvg.hu/rss/tudomany",
+        "https://hvg.hu/rss/sport",
+        "http://hvg.hu/rss/vilag",
+        "https://hvg.hu/rss/hvgkonyvek",
+        "https://hvg.hu/rss/nagyitas",
+        "https://hvg.hu/rss/velemeny",
+        "http://hvg.hu/rss/kkv",
+        "http://hvg.hu/rss/cegauto",
+        "http://hvg.hu/rss/gazdasag",
+        "http://hvg.hu/rss/sport",
+        "https://eduline.hu/rss",
+        "https://eduline.hu/rss.aspx",
+        "http://hvg.hu/rss/kultura",
+        "https://adozona.hu/rss",
+        "http://hvg.hu/rss/nagyitas",
+        "http://hvg.hu/rss/velemeny",
+        "http://eduline.hu/rss.aspx",
+        "https://karrierplusz.jobline.hu/rss",
+        "http://adozona.hu/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:50:59.480Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "luno.hu": {
+      "urls": [
+        "https://www.luno.hu/index.php?format=feed&type=atom",
+        "https://www.luno.hu/index.php?format=feed&type=rss",
+        "http://www.luno.hu/index.php?format=feed&type=atom",
+        "http://www.luno.hu/index.php?format=feed&type=rss",
+        "https://www.luno.hu/?format=feed&type=atom",
+        "https://www.luno.hu/?format=feed&type=rss",
+        "http://www.luno.hu/?format=feed&type=atom",
+        "http://www.luno.hu/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:47.713Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "szeretlekmagyarorszag.hu": {
+      "urls": [
+        "https://www.szeretlekmagyarorszag.hu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:49.845Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dailynewshungary.com": {
+      "urls": [
+        "https://dailynewshungary.com/feed/",
+        "https://dailynewshungary.com/de/feed/",
+        "https://dailynewshungary.com/it/feed/",
+        "https://dailynewshungary.com/comments/feed/",
+        "https://dailynewshungary.com/de/comments/feed/",
+        "https://dailynewshungary.com/it/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2562,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:28.766Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "pesterlloyd.net": {
+      "urls": [
+        "https://www.pesterlloyd.net/feed/",
+        "https://www.pesterlloyd.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1276,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:42.385Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dunaujvaros.com": {
+      "urls": [
+        "https://dunaujvaros.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 724,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:37.580Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ujszo.com": {
+      "urls": [
+        "https://ujszo.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:51:48.943Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

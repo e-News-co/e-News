@@ -1,0 +1,44 @@
+{
+  "country_code": "KY",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 8,
+  "feeds": {
+    "caymannewsservice.com": {
+      "urls": [
+        "https://caymannewsservice.com/feed/",
+        "https://caymannewsservice.com/comments/feed/",
+        "https://cnslocallife.com/feed/",
+        "https://cnslocallife.com/category/notice-board/feed/",
+        "https://cnslocallife.com/tag/featured/feed/",
+        "https://cnslocallife.com/comments/feed/",
+        "https://cnslocallife.com/2020/06/lunch-programme-feeds-kids-during-lockdown/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 907,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:39.412Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cayman27.com.ky": {
+      "urls": [
+        "https://www.cayman27.com.ky/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 63,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:38.503Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

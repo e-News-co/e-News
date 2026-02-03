@@ -1,0 +1,359 @@
+{
+  "country_code": "IS",
+  "language_code": "EN",
+  "total_domains": 19,
+  "total_feeds": 85,
+  "feeds": {
+    "mbl.is": {
+      "urls": [
+        "https://www.mbl.is/feeds/fasteignir/",
+        "https://www.mbl.is/feeds/nyjast/",
+        "https://www.mbl.is/feeds/fp/",
+        "https://www.mbl.is/feeds/handbolti/",
+        "https://www.mbl.is/feeds/sport/",
+        "https://www.mbl.is/feeds/innlent/",
+        "https://www.mbl.is/feeds/blog/",
+        "https://www.mbl.is/feeds/erlent/",
+        "https://www.mbl.is/feeds/smaaugl/",
+        "https://www.mbl.is/feeds/vidskipti/",
+        "https://www.mbl.is/feeds/fotbolti/",
+        "https://www.mbl.is/feeds/helst/",
+        "https://www.mbl.is/feeds/mogginn/featured/",
+        "https://www.mbl.is/feeds/mogginn/idag/",
+        "https://www.mbl.is/feeds/mogginn/leidarar/",
+        "https://www.mbl.is/feeds/mogginn/netgreinar/",
+        "https://www.mbl.is/feeds/mogginn/sunnudagur/",
+        "https://www.mbl.is/feeds/folk/",
+        "https://www.mbl.is/feeds/menning/",
+        "https://www.mbl.is/feeds/smartland/",
+        "https://www.mbl.is/feeds/enski/",
+        "https://www.mbl.is/feeds/sjonvarp/",
+        "https://www.mbl.is/feeds/200milur/",
+        "https://www.mbl.is/feeds/born/",
+        "https://www.mbl.is/feeds/english/",
+        "https://www.mbl.is/feeds/ferdalog/",
+        "https://www.mbl.is/feeds/korfubolti/",
+        "https://www.mbl.is/feeds/matur/",
+        "https://www.mbl.is/feeds/heilsa/",
+        "https://www.mbl.is/feeds/heimili/",
+        "https://www.mbl.is/feeds/pepsideild/",
+        "https://www.mbl.is/feeds/samkvaemislifid/",
+        "https://www.mbl.is/feeds/tiska/",
+        "https://www.mbl.is/feeds/bill/",
+        "https://www.mbl.is/feeds/fjolskyldan/",
+        "https://www.mbl.is/feeds/fjolskyldulif/",
+        "https://www.mbl.is/feeds/formula/",
+        "https://www.mbl.is/feeds/frami/",
+        "https://www.mbl.is/feeds/golf/",
+        "https://www.mbl.is/feeds/hestar/",
+        "https://www.mbl.is/feeds/k100/",
+        "https://www.mbl.is/feeds/medganga/",
+        "https://www.mbl.is/feeds/rafithrottir/",
+        "https://www.mbl.is/feeds/stars/",
+        "https://www.mbl.is/feeds/togt/",
+        "https://www.mbl.is/feeds/uppeldi/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:02.006Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "icenews.is": {
+      "urls": [
+        "https://www.icenews.is/feed/",
+        "https://www.icenews.is/news/culture-music-arts/feed/",
+        "https://www.icenews.is/news/finance-and-business/feed/",
+        "https://www.icenews.is/news/politics/feed/",
+        "https://www.icenews.is/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2730,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:10.710Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "grapevine.is": {
+      "urls": [
+        "https://grapevine.is/feed/",
+        "https://grapevine.is/feed/json/",
+        "https://grapevine.is/news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 902,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:03.666Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "visir.is": {
+      "urls": [
+        "https://www.visir.is/rss/allt",
+        "https://www.visir.is/rss/frettir",
+        "https://www.visir.is/rss/frettir01"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1232,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:06.627Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bb.is": {
+      "urls": [
+        "https://bb.is/feed/",
+        "https://www.bb.is/feed/",
+        "http://www.bb.is/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2244,
+        "category": "general",
+        "last_checked": "2026-02-01T00:47:56.891Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eyjan.is": {
+      "urls": [
+        "https://www.dv.is/feed/",
+        "https://www.dv.is/eyjan/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 613,
+        "category": "general",
+        "last_checked": "2026-02-01T00:47:58.934Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pressan.dv.is": {
+      "urls": [
+        "https://www.dv.is/feed/",
+        "https://www.dv.is/pressan/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 684,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:17.366Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ruv.is": {
+      "urls": [
+        "https://nyr.ruv.is/rss/frettir",
+        "https://www.ruv.is/rss/frettir"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 710,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:02.755Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vb.is": {
+      "urls": [
+        "https://vb.is/rss/",
+        "https://www.vb.is/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 890,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:07.620Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "smugan.is": {
+      "urls": [
+        "https://smugan.is/feed/",
+        "https://smugan.is/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1103,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:04.771Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eyjafrettir.is": {
+      "urls": [
+        "https://eyjafrettir.is/feed/",
+        "https://eyjafrettir.is/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1599,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:12.760Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kopavogsbladid.is": {
+      "urls": [
+        "https://www.kopavogsbladid.is/feed/",
+        "https://www.kopavogsbladid.is/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1923,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:16.680Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vf.is": {
+      "urls": [
+        "https://www.vf.is/rss/frettir.aspx"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 614,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:05.385Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "feykir.is": {
+      "urls": [
+        "https://www.feykir.is/is/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 920,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:13.680Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vikubladid.is": {
+      "urls": [
+        "https://www.vikubladid.is/is/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1059,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:14.739Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dv.is": {
+      "urls": [
+        "https://www.dv.is/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1428,
+        "category": "general",
+        "last_checked": "2026-02-01T00:47:58.319Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "huni.is": {
+      "urls": [
+        "https://www.huni.is/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1433,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:18.799Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "icelandmonitor.mbl.is": {
+      "urls": [
+        "https://icelandmonitor.mbl.is/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:11.159Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "icelandreview.com": {
+      "urls": [
+        "https://www.icelandreview.com/feed/",
+        "https://www.icelandreview.com/podcast/feed/",
+        "https://www.icelandreview.com/subscribe/feed/",
+        "https://www.icelandreview.com/category/podcast/feed/",
+        "https://www.icelandreview.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1534,
+        "category": "general",
+        "last_checked": "2026-02-01T00:48:00.470Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "country_code": "HN",
+  "language_code": "EN",
+  "total_domains": 30,
+  "total_feeds": 89,
+  "feeds": {
+    "radiohrn.hn": {
+      "urls": [
+        "https://radiohrn.hn/category/podcast/podcast-la-chicharra/feed/",
+        "https://www.radiohrn.hn/rss/nacionales.xml",
+        "https://radiohrn.hn/feed/",
+        "https://www.radiohrn.hn/rss/tendencias.xml",
+        "https://www.radiohrn.hn/rss/deportes.xml",
+        "https://www.radiohrn.hn/rss/internacionales.xml",
+        "https://www.radiohrn.hn/rss/negocios-y-finanzas.xml",
+        "https://radiohrn.hn/category/podcast/feed/",
+        "https://radiohrn.hn/category/podcast/deportes-podcast/feed/",
+        "https://radiohrn.hn/category/podcast/podcast-de-sol-a-sol/feed/",
+        "https://radiohrn.hn/category/podcast/podcast-el-reportaje-de-la-semana/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 790,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:46.611Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elperiodico.hn": {
+      "urls": [
+        "https://elperiodico.hn/feed/",
+        "http://elperiodico.hn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 226,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:51.768Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eldiario.hn": {
+      "urls": [
+        "https://www.eldiario.hn/feed/",
+        "http://www.eldiario.hn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1728,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:53.651Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ellibertador.hn": {
+      "urls": [
+        "https://ellibertador.hn/feed/",
+        "https://ellibertador.hn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2073,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:51.037Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "criterio.hn": {
+      "urls": [
+        "https://criterio.hn/feed/",
+        "https://criterio.hn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2136,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:57.542Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "proceso.hn": {
+      "urls": [
+        "https://proceso.hn/feed/",
+        "http://proceso.hn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2418,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:43.647Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hondurastips.hn": {
+      "urls": [
+        "https://www.hondurastips.hn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 101,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:13.863Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elheraldo.hn": {
+      "urls": [
+        "https://www.elheraldo.hn/rss/portada.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1029,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:39.231Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elpatriota.hn": {
+      "urls": [
+        "https://elpatriota.hn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1077,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:09.888Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laprensa.hn": {
+      "urls": [
+        "https://www.laprensa.hn/rss/portada"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1086,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:48.793Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "primiciahonduras.hn": {
+      "urls": [
+        "https://primiciahonduras.hn/feed/",
+        "http://primiciahonduras.hn/feed/",
+        "https://primiciahonduras.hn/comments/feed/",
+        "http://primiciahonduras.hn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:01.230Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tnh.gob.hn": {
+      "urls": [
+        "https://tnh.gob.hn/feed/",
+        "http://tnh.gob.hn/feed/",
+        "https://tnh.gob.hn/comments/feed/",
+        "http://tnh.gob.hn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:24.066Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tiempo.hn": {
+      "urls": [
+        "https://tiempo.hn/feed/",
+        "https://tiempo.hn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:46.748Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "latribuna.hn": {
+      "urls": [
+        "https://www.latribuna.hn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:41.109Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elpais.hn": {
+      "urls": [
+        "https://www.elpais.hn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:48.915Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "enaltavoz.com": {
+      "urls": [
+        "https://enaltavoz.com/feed/",
+        "https://enaltavoz.com/category/podcast/feed/",
+        "https://enaltavoz.com/tag/luisa-aguero-podcast/feed/",
+        "https://enaltavoz.com/tag/podcast-en-altavoz/feed/",
+        "https://enaltavoz.com/tag/podcast-enalta-voz/feed/",
+        "https://enaltavoz.com/tag/podcast-honduras/feed/",
+        "https://enaltavoz.com/tag/podcast/feed/",
+        "http://enaltavoz.com/feed/",
+        "https://enaltavoz.com/comments/feed/",
+        "http://enaltavoz.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1957,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:13.762Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "televicentro.com": {
+      "urls": [
+        "https://www.televicentro.com/rss/trending-tvc.xml",
+        "https://www.televicentro.com:443/rss/trending-tvc.xml",
+        "https://www.televicentro.com/rss/corporativo.xml",
+        "https://www.televicentro.com/rss/especiales.xml",
+        "https://www.televicentro.com/rss/gente.xml",
+        "https://www.televicentro.com:443/rss/corporativo.xml",
+        "https://www.televicentro.com:443/rss/especiales.xml",
+        "https://www.televicentro.com:443/rss/gente.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 819,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:22.020Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hondudiario.com": {
+      "urls": [
+        "https://hondudiario.com/feed/",
+        "https://www.hondudiario.com/feed/",
+        "https://hondudiario.com/test/feed/",
+        "https://hondudiario.com/comments/feed/",
+        "https://www.hondudiario.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1406,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:55.302Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hablemosclaro.com": {
+      "urls": [
+        "http://www.hablemosclaro.com/index.php/feed/",
+        "http://www.sporthiva.com/index.php/feed/",
+        "http://www.hablemosclaro.com/?feed=rss2",
+        "http://www.hablemosclaro.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1620,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:40.953Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "contracorriente.red": {
+      "urls": [
+        "https://contracorriente.red/feed/",
+        "https://contracorriente.red/en/feed/",
+        "https://contracorriente.red/comments/feed/",
+        "https://contracorriente.red/en/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1891,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:11.781Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noticiashondurashn.com": {
+      "urls": [
+        "https://www.noticiashondurashn.com/?feed=rss2",
+        "http://www.noticiashondurashn.com/?feed=rss2",
+        "https://www.noticiashondurashn.com/?feed=comments-rss2",
+        "http://www.noticiashondurashn.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2295,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:05.827Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hondurasnews.com": {
+      "urls": [
+        "https://www.hondurasnews.com/feed/",
+        "http://www.hondurasnews.com/feed/",
+        "https://www.hondurasnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 460,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:08.811Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "roatanet.com": {
+      "urls": [
+        "https://roatanet.com/feed/",
+        "https://roatanet.com/comments/feed/",
+        "https://roatanet.com/roatan-news-articles/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1548,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:16.294Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "notibomba.com": {
+      "urls": [
+        "https://notibomba.com/feed/",
+        "https://notibomba.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1599,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:59.160Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diarioroatan.com": {
+      "urls": [
+        "https://diarioroatan.com/feed",
+        "https://diarioroatan.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2293,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:08.295Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "payamag.com": {
+      "urls": [
+        "https://payamag.com/feed/",
+        "https://payamag.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2376,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:21.198Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "revistaestilo.net": {
+      "urls": [
+        "https://www.revistaestilo.net/rss/portada.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 880,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:14.743Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "todanoticia.com": {
+      "urls": [
+        "https://todanoticia.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 959,
+        "category": "general",
+        "last_checked": "2026-01-31T22:35:47.707Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hondurasmagazineusa.com": {
+      "urls": [
+        "https://www.hondurasmagazineusa.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1809,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:18.103Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "eloncehn.com": {
+      "urls": [
+        "https://eloncehn.com/index.php/feed/",
+        "https://eloncehn.com/index.php/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:36:03.484Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "country_code": "EC",
+  "language_code": "EN",
+  "total_domains": 28,
+  "total_feeds": 388,
+  "feeds": {
+    "larepublica.ec": {
+      "urls": [
+        "https://www.larepublica.ec/feed/",
+        "https://www.larepublica.ec/blog/seccion/politica/feed/",
+        "https://www.larepublica.ec/blog/seccion/sociedad/feed/",
+        "https://www.larepublica.ec/blog/seccion/internacional/feed/",
+        "https://www.larepublica.ec/blog/seccion/deportes/feed/",
+        "https://www.larepublica.ec/blog/seccion/cultura/feed/",
+        "https://www.larepublica.ec/blog/seccion/economia/feed/",
+        "https://www.larepublica.ec/blog/seccion/entretenimiento/feed/",
+        "https://www.larepublica.ec/blog/seccion/gente/feed/",
+        "https://www.larepublica.ec/blog/seccion/opinion/feed/",
+        "https://www.larepublica.ec/blog/seccion/portada/feed/",
+        "https://www.larepublica.ec/blog/seccion/vida-estilo/feed/",
+        "https://www.larepublica.ec/blog/tag/airbnb/feed/",
+        "https://www.larepublica.ec/blog/tag/amazon/feed/",
+        "https://www.larepublica.ec/blog/tag/armas/feed/",
+        "https://www.larepublica.ec/blog/tag/cannes/feed/",
+        "https://www.larepublica.ec/blog/tag/charlene/feed/",
+        "https://www.larepublica.ec/blog/tag/china/feed/",
+        "https://www.larepublica.ec/blog/tag/ciencia/feed/",
+        "https://www.larepublica.ec/blog/tag/daniel-noboa/feed/",
+        "https://www.larepublica.ec/blog/tag/descarbonizacion/feed/",
+        "https://www.larepublica.ec/blog/tag/economia/feed/",
+        "https://www.larepublica.ec/blog/tag/eeuu/feed/",
+        "https://www.larepublica.ec/blog/tag/elecciones/feed/",
+        "https://www.larepublica.ec/blog/tag/emmy/feed/",
+        "https://www.larepublica.ec/blog/tag/enrique-viii/feed/",
+        "https://www.larepublica.ec/blog/tag/estados-unidos/feed/",
+        "https://www.larepublica.ec/blog/tag/estudio/feed/",
+        "https://www.larepublica.ec/blog/tag/festival-de-cine/feed/",
+        "https://www.larepublica.ec/blog/tag/festival-gabo/feed/",
+        "https://www.larepublica.ec/blog/tag/francia/feed/",
+        "https://www.larepublica.ec/blog/tag/francisco/feed/",
+        "https://www.larepublica.ec/blog/tag/gaza/feed/",
+        "https://www.larepublica.ec/blog/tag/gira/feed/",
+        "https://www.larepublica.ec/blog/tag/guyana/feed/",
+        "https://www.larepublica.ec/blog/tag/hamas-2/feed/",
+        "https://www.larepublica.ec/blog/tag/hispanos/feed/",
+        "https://www.larepublica.ec/blog/tag/hizbula/feed/",
+        "https://www.larepublica.ec/blog/tag/iran/feed/",
+        "https://www.larepublica.ec/blog/tag/israel/feed/",
+        "https://www.larepublica.ec/blog/tag/londres/feed/",
+        "https://www.larepublica.ec/blog/tag/los-45-anos-de-la-princesa-de-monaco/feed/",
+        "https://www.larepublica.ec/blog/tag/luis-montenegro/feed/",
+        "https://www.larepublica.ec/blog/tag/manuel-adorni/feed/",
+        "https://www.larepublica.ec/blog/tag/noticias-ecuador/feed/",
+        "https://www.larepublica.ec/blog/tag/nueva-ruta-de-la-seda/feed/",
+        "https://www.larepublica.ec/blog/tag/nueva-tormenta-azota-california/feed/",
+        "https://www.larepublica.ec/blog/tag/paris-2/feed/",
+        "https://www.larepublica.ec/blog/tag/portugal/feed/",
+        "https://www.larepublica.ec/blog/tag/primer-ministro/feed/",
+        "https://www.larepublica.ec/blog/tag/rafael-correa/feed/",
+        "https://www.larepublica.ec/blog/tag/rafah/feed/",
+        "https://www.larepublica.ec/blog/tag/rio-tiber/feed/",
+        "https://www.larepublica.ec/blog/tag/roma/feed/",
+        "https://www.larepublica.ec/blog/tag/shogun/feed/",
+        "https://www.larepublica.ec/blog/tag/tecnologicas/feed/",
+        "https://www.larepublica.ec/blog/tag/telenovelas/feed/",
+        "https://www.larepublica.ec/blog/tag/time/feed/",
+        "https://www.larepublica.ec/blog/tag/tumaco/feed/",
+        "https://www.larepublica.ec/blog/tag/ucrania/feed/",
+        "https://www.larepublica.ec/blog/tag/venezuela/feed/",
+        "https://www.larepublica.ec/blog/tag/veronica-abad/feed/",
+        "https://www.larepublica.ec/blog/tag/wall-street/feed/",
+        "https://www.larepublica.ec/blog/2011/06/11/deficit-de-deleite/feed/",
+        "https://www.larepublica.ec/blog/2011/06/11/demasiada-democracia/feed/",
+        "https://www.larepublica.ec/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.341Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elnorte.ec": {
+      "urls": [
+        "https://www.elnorte.ec/rss/tendencias.xml",
+        "https://www.elnorte.ec/rss/actualidad.xml",
+        "https://www.elnorte.ec/rss/deportes.xml",
+        "https://www.elnorte.ec/rss/carchi.xml",
+        "https://www.elnorte.ec/rss/editorial.xml",
+        "https://www.elnorte.ec/rss/ibarra.xml",
+        "https://www.elnorte.ec/rss/imbabura.xml",
+        "https://www.elnorte.ec/rss/loco-mundo.xml",
+        "https://www.elnorte.ec/rss/otavalo.xml",
+        "https://www.elnorte.ec/rss/sucesos.xml",
+        "https://www.elnorte.ec/feed/",
+        "https://www.elnorte.ec/rss/carchi/cantones.xml",
+        "https://www.elnorte.ec/rss/carchi/tulcan.xml",
+        "https://elnorte.ec/feed/",
+        "https://elnorte.ec/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.321Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "expreso.ec": {
+      "urls": [
+        "https://www.expreso.ec/rss/actualidad.xml",
+        "https://www.expreso.ec/rss/",
+        "https://www.expreso.ec/rss/ocio.xml",
+        "https://www.expreso.ec/rss/deportes.xml",
+        "https://www.expreso.ec/rss/guayaquil.xml",
+        "https://www.expreso.ec/rss/buenavida.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.301Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elmercurio.com.ec": {
+      "urls": [
+        "https://ww2.elmercurio.com.ec/feed/",
+        "https://elmercurio.com.ec/feed/",
+        "https://www.elmercurio.com.ec/feed/",
+        "https://elmercurio.com.ec/comments/feed/",
+        "https://ww2.elmercurio.com.ec/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.273Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lahora.com.ec": {
+      "urls": [
+        "https://www.lahora.com.ec/feed/",
+        "https://lahora.com.ec/rss",
+        "https://www.lahora.com.ec/rss",
+        "https://www.lahora.com.ec/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.288Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eldiario.ec": {
+      "urls": [
+        "https://www.eldiario.ec/rss/global.xml",
+        "http://feeds.feedburner.com/ElDiario",
+        "https://www.eldiario.ec/feed/",
+        "https://www.eldiario.ec/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "world",
+        "last_checked": "2026-01-31T21:02:22.315Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diariolosandes.com.ec": {
+      "urls": [
+        "https://www.diariolosandes.com.ec/feed/",
+        "https://diariolosandes.com.ec/feed/",
+        "https://diariolosandes.com.ec/comments/feed/",
+        "https://www.diariolosandes.com.ec/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.327Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "laprensa.com.ec": {
+      "urls": [
+        "https://www.laprensa.com.ec/feed/",
+        "https://laprensa.com.ec/feed/",
+        "https://laprensa.com.ec/comments/feed/",
+        "https://www.laprensa.com.ec/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.334Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "extra.ec": {
+      "urls": [
+        "https://www.extra.ec/rss/home.xml",
+        "https://www.extra.ec/rss/portada.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.309Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "metroecuador.com.ec": {
+      "urls": [
+        "https://www.metroecuador.com.ec/arc/outboundfeeds/rss/",
+        "https://www.metroecuador.com.ec:443/arc/outboundfeeds/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.313Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "cronica.com.ec": {
+      "urls": [
+        "https://cronica.com.ec/feed/",
+        "https://cronica.com.ec/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.331Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ppelverdadero.com.ec": {
+      "urls": [
+        "https://www.ppelverdadero.com.ec/feeds/posts/default",
+        "https://www.blogger.com/feeds/3451520795973986878/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.360Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eltelegrafo.com.ec": {
+      "urls": [
+        "https://www.eltelegrafo.com.ec/contenido/categoria/4/economia?format=feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.293Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elheraldo.com.ec": {
+      "urls": [
+        "https://www.elheraldo.com.ec/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.317Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lanacion.com.ec": {
+      "urls": [
+        "https://lanacion.com.ec/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.345Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ecuadortv.ec": {
+      "urls": [
+        "https://www.ecuadortv.ec/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.378Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "theguardian.com": {
+      "urls": [
+        "https://www.theguardian.com/world/venezuela/rss",
+        "https://www.theguardian.com/breaking-news/rss",
+        "https://www.theguardian.com/us-news/rss",
+        "https://www.theguardian.com/world/rss",
+        "https://www.theguardian.com/politics/rss",
+        "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+        "https://www.theguardian.com/uk/london/rss",
+        "https://www.theguardian.com/us/money/rss",
+        "https://www.theguardian.com/artanddesign/rss",
+        "https://www.theguardian.com/au/rss",
+        "https://www.theguardian.com/australia-podcasts/rss",
+        "https://www.theguardian.com/education/rss",
+        "https://www.theguardian.com/europe/rss",
+        "https://www.theguardian.com/fashion/rss",
+        "https://www.theguardian.com/football/liverpool/rss",
+        "https://www.theguardian.com/football/rss",
+        "https://www.theguardian.com/football/womensfootball/rss",
+        "https://www.theguardian.com/games/rss",
+        "https://www.theguardian.com/international/rss",
+        "https://www.theguardian.com/music/rss",
+        "https://www.theguardian.com/podcasts/rss",
+        "https://www.theguardian.com/uk/rss",
+        "https://www.theguardian.com/us/rss",
+        "https://www.theguardian.com/world/animals/rss",
+        "https://www.theguardian.com/world/china/rss",
+        "https://www.theguardian.com/world/religion/rss",
+        "https://www.theguardian.com/education/higher-education/rss",
+        "https://www.theguardian.com/media/digital-media/rss",
+        "https://www.theguardian.com/society/transgender/rss",
+        "https://www.theguardian.com/sport/formulaone/rss",
+        "https://www.theguardian.com/us/commentisfree/rss",
+        "https://www.theguardian.com/us/culture/rss",
+        "https://www.theguardian.com/world/lgbt-rights/rss",
+        "https://www.theguardian.com/au/podcasts/rss",
+        "https://www.theguardian.com/australia-news/perth-news/rss",
+        "https://www.theguardian.com/australia-news/western-australia/rss",
+        "https://www.theguardian.com/crosswords/crossword-blog/rss",
+        "https://www.theguardian.com/education/fashion-and-textiles/rss",
+        "https://www.theguardian.com/education/sexeducation/rss",
+        "https://www.theguardian.com/environment/bike-blog/rss",
+        "https://www.theguardian.com/environment/climate-crisis/rss",
+        "https://www.theguardian.com/environment/renewableenergy/rss",
+        "https://www.theguardian.com/fashion/jimmy-choo/rss",
+        "https://www.theguardian.com/food/italian-food-and-drink/rss",
+        "https://www.theguardian.com/food/japanese/rss",
+        "https://www.theguardian.com/football/fulham/rss",
+        "https://www.theguardian.com/football/tottenham-hotspur/rss",
+        "https://www.theguardian.com/football/who-scored-blog/rss",
+        "https://www.theguardian.com/lifeandstyle/kylie-jenner/rss",
+        "https://www.theguardian.com/lifeandstyle/meditation/rss",
+        "https://www.theguardian.com/lifeandstyle/online-dating/rss",
+        "https://www.theguardian.com/news/blog/rss",
+        "https://www.theguardian.com/science/archaeology/rss",
+        "https://www.theguardian.com/society/depression/rss",
+        "https://www.theguardian.com/society/eating-disorders/rss",
+        "https://www.theguardian.com/sport/blog/rss",
+        "https://www.theguardian.com/sport/nhl/rss",
+        "https://www.theguardian.com/sport/wimbledon/rss",
+        "https://www.theguardian.com/stage/westend/rss",
+        "https://www.theguardian.com/technology/crowdfunding/rss",
+        "https://www.theguardian.com/technology/self-driving-cars/rss",
+        "https://www.theguardian.com/theguardian/from-the-archive-blog/rss",
+        "https://www.theguardian.com/tone/blog/rss",
+        "https://www.theguardian.com/travel/greece/rss",
+        "https://www.theguardian.com/travel/newyork/rss",
+        "https://www.theguardian.com/tv-and-radio/podcasts/rss",
+        "https://www.theguardian.com/tv-and-radio/true-crime--podcasts-/rss",
+        "https://www.theguardian.com/uk-news/cambridge/rss",
+        "https://www.theguardian.com/uk-news/gatwick-airport/rss",
+        "https://www.theguardian.com/uk-news/heathrow-airport/rss",
+        "https://www.theguardian.com/uk-news/hull/rss",
+        "https://www.theguardian.com/uk-news/southampton/rss",
+        "https://www.theguardian.com/uk-news/southend-on-sea/rss",
+        "https://www.theguardian.com/uk-news/stoke-on-trent/rss",
+        "https://www.theguardian.com/uk/birmingham/rss",
+        "https://www.theguardian.com/uk/bournemouth/rss",
+        "https://www.theguardian.com/uk/brighton/rss",
+        "https://www.theguardian.com/uk/bristol/rss",
+        "https://www.theguardian.com/uk/british-army/rss",
+        "https://www.theguardian.com/uk/carlisle/rss",
+        "https://www.theguardian.com/uk/glasgow/rss",
+        "https://www.theguardian.com/uk/greater-manchester/rss",
+        "https://www.theguardian.com/uk/hackney/rss",
+        "https://www.theguardian.com/uk/ipswich/rss",
+        "https://www.theguardian.com/uk/jersey/rss",
+        "https://www.theguardian.com/uk/leicester/rss",
+        "https://www.theguardian.com/uk/manchester/rss",
+        "https://www.theguardian.com/uk/northernireland/rss",
+        "https://www.theguardian.com/uk/rotherham/rss",
+        "https://www.theguardian.com/uk/sheffield/rss",
+        "https://www.theguardian.com/uk/sport/rss",
+        "https://www.theguardian.com/uk/technology/rss",
+        "https://www.theguardian.com/uk/wolverhampton/rss",
+        "https://www.theguardian.com/us-news/us-politics/rss",
+        "https://www.theguardian.com/us/business/rss",
+        "https://www.theguardian.com/us/environment/rss",
+        "https://www.theguardian.com/us/technology/rss",
+        "https://www.theguardian.com/us/travel/rss",
+        "https://www.theguardian.com/world/angola/rss",
+        "https://www.theguardian.com/world/argentina/rss",
+        "https://www.theguardian.com/world/buddhism/rss",
+        "https://www.theguardian.com/world/chechnya/rss",
+        "https://www.theguardian.com/world/chile/rss",
+        "https://www.theguardian.com/world/ecuador/rss",
+        "https://www.theguardian.com/world/el-salvador/rss",
+        "https://www.theguardian.com/world/hinduism/rss",
+        "https://www.theguardian.com/world/iraq/rss",
+        "https://www.theguardian.com/world/mexico/rss",
+        "https://www.theguardian.com/world/newzealand/rss",
+        "https://www.theguardian.com/world/north-korea/rss",
+        "https://www.theguardian.com/world/paraguay/rss",
+        "https://www.theguardian.com/world/uruguay/rss",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+        "https://www.theguardian.com/culture/series/theres-a-podcast-for-that/rss",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+        "https://www.theguardian.com/music/classical-music-and-opera+tone/albumreview/rss",
+        "https://www.theguardian.com/news/series/cotton-capital-podcast/rss",
+        "https://www.theguardian.com/news/series/guardian-australia-podcast-series/rss",
+        "https://www.theguardian.com/news/series/the-long-read/rss",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+        "https://www.theguardian.com/sport/series/the-final-word-ashes-podcast/rss",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+        "https://www.theguardian.com/technology/series/chips-with-everything/rss",
+        "https://www.theguardian.com/tv-and-radio/series/miranda-sawyer-on-podcasts-and-radio/rss",
+        "https://www.theguardian.com/australia-news/series/full-story/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/who-screwed-millennials/podcast.xml",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/australian-politics-live/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/common-ground/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/podcast.xml",
+        "https://www.theguardian.com/books/series/books/podcast.xml",
+        "https://www.theguardian.com/culture/series/thestart/podcast.xml",
+        "https://www.theguardian.com/environment/series/look-at-me/podcast.xml",
+        "https://www.theguardian.com/football/series/footballweekly/podcast.xml",
+        "https://www.theguardian.com/football/series/theguardianswomensfootballweekly/podcast.xml",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/comforteatingwithgracedent/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/weekend/podcast.xml",
+        "https://www.theguardian.com/music/series/reverberate/podcast.xml",
+        "https://www.theguardian.com/news/series/cotton-capital-podcast/podcast.xml",
+        "https://www.theguardian.com/news/series/guardian-australia-podcast-series/podcast.xml",
+        "https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml",
+        "https://www.theguardian.com/news/series/todayinfocus/podcast.xml",
+        "https://www.theguardian.com/politics/series/politics-weekly-america/podcast.xml",
+        "https://www.theguardian.com/politics/series/politicsweekly/podcast.xml",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/podcast.xml",
+        "https://www.theguardian.com/science/series/science/podcast.xml",
+        "https://www.theguardian.com/society/series/pop-culture-with-chante-joseph/podcast.xml",
+        "https://www.theguardian.com/sport/series/ashespodcast/podcast.xml",
+        "https://www.theguardian.com/sport/series/the-final-word-ashes-podcast/podcast.xml",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/podcast.xml",
+        "https://www.theguardian.com/technology/series/blackbox/podcast.xml",
+        "https://www.theguardian.com/technology/series/chips-with-everything/podcast.xml",
+        "https://www.theguardian.com/society/mens-health/rss",
+        "https://theguardian.engineering/blog/rss.xml",
+        "https://feeds.acast.com/public/shows/club-sandwich",
+        "https://feeds.acast.com/public/shows/fact-up"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "world",
+        "last_checked": "2026-01-31T21:02:22.386Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "eluniverso.com": {
+      "urls": [
+        "https://www.eluniverso.com/rss/moda",
+        "https://www.eluniverso.com/rss/all.xml",
+        "https://www.eluniverso.com/rss/el-especialista",
+        "https://www.eluniverso.com/rss/noticias.xml",
+        "https://www.eluniverso.com/rss/ecuador.xml",
+        "https://www.eluniverso.com/rss/la-revista",
+        "https://www.eluniverso.com/rss/internacional.xml",
+        "https://www.eluniverso.com/rss/politica.xml",
+        "https://www.eluniverso.com/rss/deportes.xml",
+        "https://www.eluniverso.com/rss/entretenimiento",
+        "https://www.eluniverso.com/rss/futbol.xml",
+        "https://www.eluniverso.com/rss/gente.xml",
+        "https://www.eluniverso.com/rss/salud.xml",
+        "https://www.eluniverso.com/rss/comunidad",
+        "https://www.eluniverso.com/rss/economia.xml",
+        "https://www.eluniverso.com/rss/guayaquil",
+        "https://www.eluniverso.com/rss/otros-deportes.xml",
+        "https://www.eluniverso.com/rss/opinion.xml",
+        "https://www.eluniverso.com/rss/cartas-al-director.xml",
+        "https://www.eluniverso.com/rss/cultura.xml",
+        "https://www.eluniverso.com/rss/f%C3%BAtbol-internacional",
+        "https://www.eluniverso.com/rss/ecologia.xml",
+        "https://www.eluniverso.com/rss/columnistas.xml",
+        "https://www.eluniverso.com/rss/informes.xml",
+        "https://www.eluniverso.com/rss/redes-sociales",
+        "https://www.eluniverso.com/arc/outboundfeeds/rss/?outputType=xml",
+        "https://www.eluniverso.com/rss/cine",
+        "https://www.eluniverso.com/rss/doctor-tecno",
+        "https://www.eluniverso.com/rss/orientaci%C3%B3n",
+        "https://www.eluniverso.com/rss/seguridad",
+        "https://www.eluniverso.com/rss/televisi%C3%B3n",
+        "https://www.eluniverso.com/rss/ecuatorianos-en-el-exterior",
+        "https://www.eluniverso.com/rss/editoriales",
+        "https://www.eluniverso.com/rss/libros",
+        "https://www.eluniverso.com/rss/arte",
+        "https://www.eluniverso.com/rss/campeonato-nacional",
+        "https://www.eluniverso.com/rss/cocina",
+        "https://www.eluniverso.com/rss/compras",
+        "https://www.eluniverso.com/rss/cuerpo--y-alma",
+        "https://www.eluniverso.com/rss/dise%C3%B1o",
+        "https://www.eluniverso.com/rss/foro-de-lectores",
+        "https://www.eluniverso.com/rss/intercultural",
+        "https://www.eluniverso.com/rss/motores",
+        "https://www.eluniverso.com/rss/show",
+        "https://www.eluniverso.com/rss/teatro",
+        "https://www.eluniverso.com/rss/viajemos",
+        "https://sabor.eluniverso.com/feed/",
+        "https://sabor.eluniverso.com/blog/feed/",
+        "https://sabor.eluniverso.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.276Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elcomercio.com": {
+      "urls": [
+        "https://www.elcomercio.com/feed/",
+        "https://www.elcomercio.com/rss/",
+        "https://www.elcomercio.com/rss/actualidad",
+        "https://www.elcomercio.com/rss/tendencias",
+        "https://www.elcomercio.com/rss/deportes",
+        "https://www.elcomercio.com/rss/opinion",
+        "https://media.rss.com/cuaderno-de-la-salud/feed.xml",
+        "https://media.rss.com/depaseo/feed.xml",
+        "https://media.rss.com/el-senor-del-sombrero/feed.xml",
+        "https://media.rss.com/garabot/feed.xml",
+        "https://media.rss.com/historias-de-voz/feed.xml",
+        "https://media.rss.com/informacion-al-dia-podcast-de-el-comercio/feed.xml",
+        "https://media.rss.com/juicio-politico/feed.xml",
+        "https://media.rss.com/la-abeja-vi-vi-cuentacuentos-en-super-pandilla/feed.xml",
+        "https://media.rss.com/las-5-cosas-de-hoy-con-rock-otros/feed.xml",
+        "https://www.elcomercio.com/blogs/feed/",
+        "https://www.elcomercio.com/categoria/podcasts/feed/",
+        "https://anchor.fm/s/12bf347c/podcast/rss",
+        "https://blog.anchor.fm/create/rss.xml",
+        "https://blog.anchor.fm/grow/rss.xml",
+        "https://blog.anchor.fm/hip/rss.xml",
+        "https://blog.anchor.fm/share/rss.xml",
+        "https://blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.269Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "apnews.com": {
+      "urls": [
+        "https://apnews.com/index.rss",
+        "https://apnews.com/us-news.rss",
+        "https://apnews.com/entertainment.rss",
+        "https://apnews.com/world-news.rss",
+        "https://apnews.com/education.rss",
+        "https://apnews.com/science.rss",
+        "https://apnews.com/technology.rss",
+        "https://apnews.com:443/climate-and-environment.rss",
+        "https://apnews.com:443/technology.rss",
+        "https://apnews.com/hub/photography.rss",
+        "https://apnews.com/hub/ap-top-news.rss",
+        "https://apnews.com/hub/houthis.rss",
+        "https://apnews.com/hub/middle-east.rss",
+        "https://apnews.com/health.rss",
+        "https://apnews.com:443/health.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.393Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ecuadorenvivo.com": {
+      "urls": [
+        "http://www.ecuadorenvivo.com/index.php?format=feed&type=rss",
+        "http://www.ecuadorenvivo.com/?format=feed&type=atom",
+        "http://www.ecuadorenvivo.com/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.336Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "teleamazonas.com": {
+      "urls": [
+        "http://www.teleamazonas.com/feed/",
+        "https://www.teleamazonas.com/feed/",
+        "http://feeds.feedburner.com/teleamazonas/Rqkc"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.374Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "df.cl": {
+      "urls": [
+        "https://www.df.cl/noticias/site/list/port/rss.xml",
+        "https://www.df.cl/prontus_df/site/edic/base/rss/inicio.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.353Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cuencahighlife.com": {
+      "urls": [
+        "https://cuencahighlife.com/feed/",
+        "https://cuencahighlife.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.400Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thecuencadispatch.com": {
+      "urls": [
+        "https://thecuencadispatch.com/feed/",
+        "https://thecuencadispatch.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.404Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "futbolecuador.com": {
+      "urls": [
+        "https://www.futbolecuador.com/stories/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.364Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ecuavisa.com": {
+      "urls": [
+        "https://www.ecuavisa.com/rss/home"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.368Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ecuadortimes.net": {
+      "urls": [
+        "https://www.ecuadortimes.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.406Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

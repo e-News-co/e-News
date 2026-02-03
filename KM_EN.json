@@ -1,0 +1,23 @@
+{
+  "country_code": "KM",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "afrik.com": {
+      "urls": [
+        "https://www.afrik.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 508,
+        "category": "general",
+        "last_checked": "2026-02-01T02:27:04.086Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

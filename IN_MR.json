@@ -1,0 +1,1990 @@
+{
+  "country_code": "IN",
+  "language_code": "MR",
+  "total_domains": 92,
+  "total_feeds": 694,
+  "feeds": {
+    "prahaar.in": {
+      "urls": [
+        "https://prahaar.in/feed",
+        "https://prahaar.in/feed/",
+        "http://prahaar.in/feed",
+        "http://prahaar.in/feed/",
+        "https://prahaar.in/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 794,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:55.853Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hellomaharashtra.in": {
+      "urls": [
+        "https://hellomaharashtra.in/feed/",
+        "https://hellomaharashtra.in/web-stories/feed/",
+        "https://hellomaharashtra.in/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 493,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:03.307Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mahasamvad.in": {
+      "urls": [
+        "https://mahasamvad.in/?feed=comments-rss2",
+        "https://mahasamvad.in/?feed=rss2",
+        "https://mahasamvad.in/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 716,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:19.387Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bharatshakti.in": {
+      "urls": [
+        "http://bharatshakti.in/feed/",
+        "https://bharatshakti.in/feed/",
+        "https://bharatshakti.in/latest/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1952,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:14.880Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.mumbaitak.in": {
+      "urls": [
+        "https://www.mumbaitak.in/feed/",
+        "https://www.mumbaitak.in/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 101,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:05.057Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mumbaitak.in": {
+      "urls": [
+        "https://www.mumbaitak.in/feed/",
+        "https://www.mumbaitak.in/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2476,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:02.694Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nagpurtoday.in": {
+      "urls": [
+        "https://www.nagpurtoday.in/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 227,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:25.776Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.nagpurtoday.in": {
+      "urls": [
+        "https://www.nagpurtoday.in/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 680,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:05.805Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mahasports.co.in": {
+      "urls": [
+        "https://mahasports.co.in/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1330,
+        "category": "sports",
+        "last_checked": "2026-02-01T00:30:20.717Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.localnewsnetwork.in": {
+      "urls": [
+        "https://www.localnewsnetwork.in/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1631,
+        "category": "local",
+        "last_checked": "2026-02-01T00:31:02.254Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.msn.com": {
+      "urls": [
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml",
+        "http://www.rssmix.com/u/11743304/rss.xml",
+        "https://blogs.msn.com/author/bill-monroe/feed/",
+        "https://blogs.msn.com/author/chitralekha/feed/",
+        "https://blogs.msn.com/author/currrentlybill/feed/",
+        "https://blogs.msn.com/author/dave-kane/feed/",
+        "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
+        "https://blogs.msn.com/author/emily-falla/feed/",
+        "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
+        "https://blogs.msn.com/author/kun-chen/feed/",
+        "https://blogs.msn.com/author/lizz-callaway/feed/",
+        "https://blogs.msn.com/author/maria/feed/",
+        "https://blogs.msn.com/author/mrikank-varshney/feed/",
+        "https://blogs.msn.com/author/ovidan/feed/",
+        "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
+        "https://blogs.msn.com/author/taroon-mandhana/feed/",
+        "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
+        "https://blogs.msn.com/author/vera-chan/feed/",
+        "https://blogs.msn.com/feed/",
+        "https://blogs.msn.com/topic/events/feed/",
+        "https://blogs.msn.com/topic/featured/feed/",
+        "https://blogs.msn.com/topic/innovations/feed/",
+        "https://blogs.msn.com/topic/solutions/feed/",
+        "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
+        "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
+        "https://blogs.windows.com/devices/author/sandraandrews/feed/",
+        "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
+        "https://blogs.windows.com/devices/feed/",
+        "https://blogs.windows.com/devices/tag/education/feed/",
+        "https://blogs.windows.com/devices/tag/surface-copilot-pcs/feed/",
+        "https://blogs.windows.com/devices/tag/surface/feed/",
+        "https://blogs.windows.com/devices/tag/windows-11/feed/",
+        "https://blogs.windows.com/feed/",
+        "https://blogs.windows.com/msedgedev/author/katherine-gan/feed/",
+        "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
+        "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
+        "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
+        "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
+        "https://blogs.windows.com/msedgedev/author/rogercapriotti/feed/",
+        "https://blogs.windows.com/msedgedev/author/sean-lyndersay/feed/",
+        "https://blogs.windows.com/msedgedev/author/vinithra-rajendran/feed/",
+        "https://blogs.windows.com/msedgedev/feed/",
+        "https://blogs.windows.com/msedgedev/tag/performance/feed/",
+        "https://blogs.windows.com/msedgedev/tag/pwa/feed/",
+        "https://blogs.windows.com/msedgedev/tag/web-platform/feed/",
+        "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
+        "https://blogs.windows.com/windows-insider/author/amandamc/feed/",
+        "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
+        "https://blogs.windows.com/windows-insider/tag/microsoft-copilot/feed/",
+        "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/nilanjanaganguly/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/shaybenelazar/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/windowsdeveloperblog/feed/",
+        "https://blogs.windows.com/windowsdeveloper/feed/",
+        "https://blogs.windows.com/windowsdeveloper/tag/news/feed/",
+        "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
+        "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
+        "https://blogs.windows.com/windowsexperience/author/davidweston/feed/",
+        "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
+        "https://blogs.windows.com/windowsexperience/author/marklinton/feed/",
+        "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
+        "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
+        "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
+        "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
+        "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
+        "https://blogs.windows.com/windowsexperience/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/ai/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/copilot-vision/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/copilot/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/doom/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/handheld-gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/lenovo/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/rog/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/security/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox/feed/",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
+        "https://www.computerweekly.com/rss/ContentSyndication.xml",
+        "https://www.computerweekly.com/rss/Enterprise-software.xml",
+        "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
+        "https://www.computerweekly.com/rss/IT-security.xml",
+        "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
+        "https://www.computerweekly.com/rss/Internet-technology.xml",
+        "https://www.computerweekly.com/rss/Networking-and-communication.xml",
+        "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
+        "https://www.infoworld.com/feed/",
+        "https://www.infoworld.com/index.rss",
+        "https://www.mirror.co.uk/?service=rss",
+        "https://www.mirror.co.uk/sport/football/?service=rss",
+        "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss",
+        "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
+        "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
+        "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml",
+        "https://www.telegraph.co.uk/business/rss.xml",
+        "https://www.telegraph.co.uk/cars/rss.xml",
+        "https://www.telegraph.co.uk/food-and-drink/rss.xml",
+        "https://www.telegraph.co.uk/news/rss.xml",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+        "https://www.theguardian.com/football/who-scored-blog/rss",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+        "https://www.theguardian.com/sport/blog/rss",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+        "https://www.theguardian.com/uk/rss",
+        "https://www.theguardian.com/us/rss",
+        "https://www.theguardian.com/world/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 291,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T00:31:04.829Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathi.abplive.com": {
+      "urls": [
+        "https://marathi.abplive.com/agriculture/feed",
+        "https://marathi.abplive.com/astro/feed",
+        "https://marathi.abplive.com/business/budget/feed",
+        "https://marathi.abplive.com/business/feed",
+        "https://marathi.abplive.com/business/ipo/feed",
+        "https://marathi.abplive.com/business/mutual-funds/feed",
+        "https://marathi.abplive.com/business/personal-finance/feed",
+        "https://marathi.abplive.com/crime/feed",
+        "https://marathi.abplive.com/entertainment/bollywood/feed",
+        "https://marathi.abplive.com/entertainment/feed",
+        "https://marathi.abplive.com/entertainment/movie-review/feed",
+        "https://marathi.abplive.com/entertainment/television/feed",
+        "https://marathi.abplive.com/entertainment/theatre/feed",
+        "https://marathi.abplive.com/lifestyle/feed",
+        "https://marathi.abplive.com/news/ahmednagar/feed",
+        "https://marathi.abplive.com/news/akola/feed",
+        "https://marathi.abplive.com/news/amravati/feed",
+        "https://marathi.abplive.com/news/aurangabad/feed",
+        "https://marathi.abplive.com/news/auto/feed",
+        "https://marathi.abplive.com/news/beed/feed",
+        "https://marathi.abplive.com/news/bhandara/feed",
+        "https://marathi.abplive.com/news/buldhana/feed",
+        "https://marathi.abplive.com/news/chandrapur/feed",
+        "https://marathi.abplive.com/news/dhule/feed",
+        "https://marathi.abplive.com/news/gadchiroli/feed",
+        "https://marathi.abplive.com/news/gondia/feed",
+        "https://marathi.abplive.com/news/hingoli/feed",
+        "https://marathi.abplive.com/news/jalgaon/feed",
+        "https://marathi.abplive.com/news/jalna/feed",
+        "https://marathi.abplive.com/news/kolhapur/feed",
+        "https://marathi.abplive.com/news/latur/feed",
+        "https://marathi.abplive.com/news/maharashtra/feed",
+        "https://marathi.abplive.com/news/nagpur/feed",
+        "https://marathi.abplive.com/news/nanded/feed",
+        "https://marathi.abplive.com/news/nandurbar/feed",
+        "https://marathi.abplive.com/news/nashik/feed",
+        "https://marathi.abplive.com/news/nasik/feed",
+        "https://marathi.abplive.com/news/navi-mumbai/feed",
+        "https://marathi.abplive.com/news/osmanabad/feed",
+        "https://marathi.abplive.com/news/palghar/feed",
+        "https://marathi.abplive.com/news/parbhani/feed",
+        "https://marathi.abplive.com/news/politics/feed",
+        "https://marathi.abplive.com/news/pune/feed",
+        "https://marathi.abplive.com/news/raigad/feed",
+        "https://marathi.abplive.com/news/ratnagiri/feed",
+        "https://marathi.abplive.com/news/sangli/feed",
+        "https://marathi.abplive.com/news/satara/feed",
+        "https://marathi.abplive.com/news/sindhudurg/feed",
+        "https://marathi.abplive.com/news/solapur/feed",
+        "https://marathi.abplive.com/news/technology/feed",
+        "https://marathi.abplive.com/news/thane/feed",
+        "https://marathi.abplive.com/news/trending-news/feed",
+        "https://marathi.abplive.com/news/wardha/feed",
+        "https://marathi.abplive.com/news/washim/feed",
+        "https://marathi.abplive.com/news/world/feed",
+        "https://marathi.abplive.com/news/yavatmal/feed",
+        "https://marathi.abplive.com/sports/cricket/feed",
+        "https://marathi.abplive.com/sports/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 227,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T00:30:20.968Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.bbc.com": {
+      "urls": [
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://rsshub.app/bbc/chinese",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 380,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:57.789Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "blogs.windows.com": {
+      "urls": [
+        "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
+        "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
+        "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
+        "https://blogs.windows.com/devices/feed/",
+        "https://blogs.windows.com/devices/tag/surface/feed/",
+        "https://blogs.windows.com/devices/tag/windows-11/feed/",
+        "https://blogs.windows.com/feed/",
+        "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
+        "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
+        "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
+        "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
+        "https://blogs.windows.com/msedgedev/feed/",
+        "https://blogs.windows.com/msedgedev/tag/performance/feed/",
+        "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
+        "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
+        "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
+        "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
+        "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
+        "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
+        "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
+        "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
+        "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
+        "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
+        "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
+        "https://blogs.windows.com/windowsexperience/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 689,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:16.393Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news18marathi.com": {
+      "urls": [
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/news.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/mumbai.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/entertainment.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/pune.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/sport.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/money.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/photo-gallery.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/crime.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/agriculture.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/viral.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/politics.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/auto.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/beed.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/videsh.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/elections.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/career.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/love-story.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/nagpur.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/sangli.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/news/assembly-elections.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/real-estate.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/studio18.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/success-story.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/lifestyle/recipe.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/buldhana.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/chandrapur.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/dhule.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/gondia.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/hingoli.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/latur.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/nanded.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/maharashtra/sindhudurg.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/news/state.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/lifestyle/health.xml",
+        "https://news18marathi.com/commonfeeds/v1/mar/rss/latest.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 308,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:05.775Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "pudhari.news": {
+      "urls": [
+        "http://pudhari.news/feed",
+        "https://prod-qt-images.s3.amazonaws.com/production/pudharinews/feed.xml",
+        "https://pudhari.news/category/blog/feed",
+        "https://pudhari.news/category/features/ankur/feed",
+        "https://pudhari.news/category/features/arogya/feed",
+        "https://pudhari.news/category/features/arthabhan/feed",
+        "https://pudhari.news/category/features/bahar/feed",
+        "https://pudhari.news/category/features/bhumiputra/feed",
+        "https://pudhari.news/category/features/crimediary/feed",
+        "https://pudhari.news/category/features/edudisha/feed",
+        "https://pudhari.news/category/features/kasturi/feed",
+        "https://pudhari.news/category/features/myspace/feed",
+        "https://pudhari.news/category/features/youthworld/feed",
+        "https://pudhari.news/category/international/feed",
+        "https://pudhari.news/category/maharashtra/ahmednagar/feed",
+        "https://pudhari.news/category/maharashtra/aurangabad/feed",
+        "https://pudhari.news/category/maharashtra/belgaon/feed",
+        "https://pudhari.news/category/maharashtra/goa/feed",
+        "https://pudhari.news/category/maharashtra/jalna/feed",
+        "https://pudhari.news/category/maharashtra/kokan/feed",
+        "https://pudhari.news/category/maharashtra/kolhapur/feed",
+        "https://pudhari.news/category/maharashtra/marathwada/feed",
+        "https://pudhari.news/category/maharashtra/mumbai/feed",
+        "https://pudhari.news/category/maharashtra/nashik/feed",
+        "https://pudhari.news/category/maharashtra/pune/feed",
+        "https://pudhari.news/category/maharashtra/sangali/feed",
+        "https://pudhari.news/category/maharashtra/satara/feed",
+        "https://pudhari.news/category/maharashtra/solapur/feed",
+        "https://pudhari.news/category/maharashtra/vidarbha/feed",
+        "https://pudhari.news/category/national/feed",
+        "https://pudhari.news/category/soneri/feed",
+        "https://pudhari.news/category/sports/feed",
+        "https://pudhari.news/category/vishwasanchar/feed",
+        "https://pudhari.news/feed",
+        "https://pudhari.news/web-stories/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1420,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:54.562Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mumbailive.com": {
+      "urls": [
+        "https://www.mumbailive.com/rss/en/civic.xml",
+        "https://www.mumbailive.com/rss/en/entertainment.xml",
+        "https://www.mumbailive.com/rss/en/latest.xml",
+        "https://www.mumbailive.com/rss/en/lifestyle.xml",
+        "https://www.mumbailive.com/rss/en/politics.xml",
+        "https://www.mumbailive.com/rss/en/society.xml",
+        "https://www.mumbailive.com/rss/en/sports.xml",
+        "https://www.mumbailive.com/rss/hi/civic.xml",
+        "https://www.mumbailive.com/rss/hi/entertainment.xml",
+        "https://www.mumbailive.com/rss/hi/latest.xml",
+        "https://www.mumbailive.com/rss/hi/lifestyle.xml",
+        "https://www.mumbailive.com/rss/hi/politics.xml",
+        "https://www.mumbailive.com/rss/hi/society.xml",
+        "https://www.mumbailive.com/rss/hi/sports.xml",
+        "https://www.mumbailive.com/rss/mr/civic.xml",
+        "https://www.mumbailive.com/rss/mr/entertainment.xml",
+        "https://www.mumbailive.com/rss/mr/latest.xml",
+        "https://www.mumbailive.com/rss/mr/lifestyle.xml",
+        "https://www.mumbailive.com/rss/mr/politics.xml",
+        "https://www.mumbailive.com/rss/mr/society.xml",
+        "https://www.mumbailive.com/rss/mr/sports.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 56,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:25.472Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.mumbailive.com": {
+      "urls": [
+        "https://www.mumbailive.com/rss/en/civic.xml",
+        "https://www.mumbailive.com/rss/en/entertainment.xml",
+        "https://www.mumbailive.com/rss/en/latest.xml",
+        "https://www.mumbailive.com/rss/en/lifestyle.xml",
+        "https://www.mumbailive.com/rss/en/politics.xml",
+        "https://www.mumbailive.com/rss/en/society.xml",
+        "https://www.mumbailive.com/rss/en/sports.xml",
+        "https://www.mumbailive.com/rss/hi/civic.xml",
+        "https://www.mumbailive.com/rss/hi/entertainment.xml",
+        "https://www.mumbailive.com/rss/hi/latest.xml",
+        "https://www.mumbailive.com/rss/hi/lifestyle.xml",
+        "https://www.mumbailive.com/rss/hi/politics.xml",
+        "https://www.mumbailive.com/rss/hi/society.xml",
+        "https://www.mumbailive.com/rss/hi/sports.xml",
+        "https://www.mumbailive.com/rss/mr/civic.xml",
+        "https://www.mumbailive.com/rss/mr/entertainment.xml",
+        "https://www.mumbailive.com/rss/mr/latest.xml",
+        "https://www.mumbailive.com/rss/mr/lifestyle.xml",
+        "https://www.mumbailive.com/rss/mr/politics.xml",
+        "https://www.mumbailive.com/rss/mr/society.xml",
+        "https://www.mumbailive.com/rss/mr/sports.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 121,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:04.953Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zeenews.india.com": {
+      "urls": [
+        "https://zeenews.india.com/rss/entertainment-news.xml",
+        "https://zeenews.india.com/hindi/india.xml",
+        "https://zeenews.india.com/rss/india-national-news.xml",
+        "https://zeenews.india.com/rss/sports-news.xml",
+        "https://zeenews.india.com/rss/business.xml",
+        "https://zeenews.india.com:443/rss/business.xml",
+        "https://zeenews.india.com/rss/world-news.xml",
+        "https://zeenews.india.com:443/rss/world-news.xml",
+        "https://zeenews.india.com/rss/india-news.xml",
+        "https://zeenews.india.com/rss/technology-news.xml",
+        "https://zeenews.india.com/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com/rss/asia-news.xml",
+        "https://zeenews.india.com/rss/blog-news.xml",
+        "https://zeenews.india.com/rss/science-environment-news.xml",
+        "https://zeenews.india.com:443/rss/science-environment-news.xml",
+        "https://zeenews.india.com/rss/health-news.xml",
+        "https://zeenews.india.com/hindi/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 221,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T00:30:06.176Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "theguardian.com": {
+      "urls": [
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+        "https://www.theguardian.com/football/who-scored-blog/rss",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+        "https://www.theguardian.com/sport/blog/rss",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+        "https://www.theguardian.com/uk/rss",
+        "https://www.theguardian.com/us/rss",
+        "https://www.theguardian.com/world/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 386,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T00:30:55.453Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathi.hindustantimes.com": {
+      "urls": [
+        "https://marathi.hindustantimes.com/rss/astrology",
+        "https://marathi.hindustantimes.com/rss/business",
+        "https://marathi.hindustantimes.com/rss/cricket",
+        "https://marathi.hindustantimes.com/rss/entertainment",
+        "https://marathi.hindustantimes.com/rss/lifestyle",
+        "https://marathi.hindustantimes.com/rss/maharashtra",
+        "https://marathi.hindustantimes.com/rss/nation-and-world",
+        "https://marathi.hindustantimes.com/rss/photos",
+        "https://marathi.hindustantimes.com/rss/religion",
+        "https://marathi.hindustantimes.com/rss/sports",
+        "https://marathi.hindustantimes.com/rss/videos",
+        "https://marathi.hindustantimes.com/rss/web-stories"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 161,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:21.330Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathi.latestly.com": {
+      "urls": [
+        "http://marathi.latestly.com/rss.xml",
+        "https://marathi.latestly.com/rss.xml",
+        "https://marathi.latestly.com/rss/auto.xml",
+        "https://marathi.latestly.com/rss/entertainment.xml",
+        "https://marathi.latestly.com/rss/india.xml",
+        "https://marathi.latestly.com/rss/lifestyle.xml",
+        "https://marathi.latestly.com/rss/photos.xml",
+        "https://marathi.latestly.com/rss/social-viral.xml",
+        "https://marathi.latestly.com/rss/sports.xml",
+        "https://marathi.latestly.com/rss/technology.xml",
+        "https://marathi.latestly.com/rss/world.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 79,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:03.815Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "divyamarathi.bhaskar.com": {
+      "urls": [
+        "https://divyamarathi.bhaskar.com/rss-v1--category-5492.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-5489.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-5490.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-12018.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-5491.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-5558.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-5495.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-5494.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-12019.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-12021.xml",
+        "https://divyamarathi.bhaskar.com/rss-v1--category-12023.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 158,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:54.737Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "techtarget.com": {
+      "urls": [
+        "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
+        "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
+        "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 94,
+        "category": "technology",
+        "last_checked": "2026-02-01T00:30:55.045Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathi.indiatimes.com": {
+      "urls": [
+        "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed/2429064.xml",
+        "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed/2499221.xml",
+        "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed/49799682.xml",
+        "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed/51327950.xml",
+        "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed/80476634.xml",
+        "https://marathi.indiatimes.com/langapi/sitemap/gstandrssfeed/2499221.xml",
+        "https://marathi.indiatimes.com/langapi/sitemap/gstandrssfeed/49799682.xml",
+        "https://marathi.indiatimes.com/langapi/sitemap/gstandrssfeed/51327950.xml",
+        "https://marathi.indiatimes.com/langapi/sitemap/gstandrssfeed/80476634.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 177,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:21.640Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.maxmaharashtra.com": {
+      "urls": [
+        "https://www.maxmaharashtra.com/category/bs-business/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/bs-economy/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/max-blog/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/max-education/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/max-kissan/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/max-political/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/news-update/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/topnews/google_feeds.xml",
+        "https://www.maxmaharashtra.com/google_feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 201,
+        "category": "business",
+        "last_checked": "2026-02-01T00:31:04.264Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "computerweekly.com": {
+      "urls": [
+        "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
+        "https://www.computerweekly.com/rss/ContentSyndication.xml",
+        "https://www.computerweekly.com/rss/Enterprise-software.xml",
+        "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
+        "https://www.computerweekly.com/rss/IT-security.xml",
+        "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
+        "https://www.computerweekly.com/rss/Internet-technology.xml",
+        "https://www.computerweekly.com/rss/Networking-and-communication.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 66,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:16.626Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 99,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T00:30:11.223Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.loksatta.com": {
+      "urls": [
+        "https://www.loksatta.com/arthasatta/feed/",
+        "https://www.loksatta.com/maharashtra/feed/",
+        "https://www.loksatta.com/mumbai/feed/",
+        "https://www.loksatta.com/sampadkiya-category/agralekh/feed/",
+        "https://www.loksatta.com/sampadkiya/feed/",
+        "https://www.loksatta.com/web-stories/%25ie_webstories_section%25/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 99,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:02.370Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "loksatta.com": {
+      "urls": [
+        "https://www.loksatta.com/mumbai/feed/",
+        "https://www.loksatta.com/maharashtra/feed/",
+        "https://www.loksatta.com/web-stories/%25ie_webstories_section%25/feed/",
+        "https://www.loksatta.com/arthasatta/feed/",
+        "https://www.loksatta.com/sampadkiya/feed/",
+        "https://www.loksatta.com/sampadkiya-category/agralekh/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 100,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:52.407Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "maayboli.com": {
+      "urls": [
+        "https://www.maayboli.com/blog/feed",
+        "https://www.maayboli.com/blog/245/feed",
+        "https://www.maayboli.com/blog/28/feed",
+        "https://www.maayboli.com/blog/377/feed",
+        "https://www.maayboli.com/blog/4614/feed",
+        "https://www.maayboli.com/blog/7267/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1643,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:05.460Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "orfonline.org": {
+      "urls": [
+        "https://www.orfonline.org/expert-speak/feed/",
+        "https://www.orfonline.org/feed/",
+        "https://www.orfonline.org/feed/?post_type=research&withoutcomments=1",
+        "https://www.orfonline.org/orf-2/feed/",
+        "https://www.orfonline.org/research/exploring-successful-gender-friendly-workspaces-2//feed/?post_type=research&withoutcomments=1",
+        "https://www.orfonline.org/research/india-gcc//feed/?post_type=research&withoutcomments=1"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2022,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:33.007Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.orfonline.org": {
+      "urls": [
+        "https://www.orfonline.org/expert-speak/feed/",
+        "https://www.orfonline.org/feed/",
+        "https://www.orfonline.org/feed/?post_type=research&withoutcomments=1",
+        "https://www.orfonline.org/orf-2/feed/",
+        "https://www.orfonline.org/research/exploring-successful-gender-friendly-workspaces-2//feed/?post_type=research&withoutcomments=1",
+        "https://www.orfonline.org/research/india-gcc//feed/?post_type=research&withoutcomments=1"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3138,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:09.380Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tarunbharat.com": {
+      "urls": [
+        "https://www.tarunbharat.com/feed/",
+        "https://tarunbharat.com/feed",
+        "https://www.tarunbharat.com/webstories/feed/",
+        "https://www.tarunbharat.com/web-stories/feed/",
+        "https://www.tarunbharat.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 230,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:55.017Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "maharashtradesha.com": {
+      "urls": [
+        "https://maharashtradesha.com/live-blog/feed/",
+        "https://maharashtradesha.com/feed/",
+        "https://maharashtradesha.com/live-blog-marathi/feed/",
+        "https://maharashtradesha.com/web-stories/feed/",
+        "https://maharashtradesha.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 408,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:03.726Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.thodkyaat.com": {
+      "urls": [
+        "https://thodkyaat.com/feed/",
+        "https://thodkyaat.com/web-stories/feed/",
+        "https://www.thodkyaat.com/feed/",
+        "https://www.thodkyaat.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 40,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:10.675Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zeenews.india.com:443": {
+      "urls": [
+        "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com:443/rss/business.xml",
+        "https://zeenews.india.com:443/rss/science-environment-news.xml",
+        "https://zeenews.india.com:443/rss/world-news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 131,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:10.915Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.tarunbharat.com": {
+      "urls": [
+        "https://tarunbharat.com/feed",
+        "https://www.tarunbharat.com/feed/",
+        "https://www.tarunbharat.com/web-stories/feed/",
+        "https://www.tarunbharat.com/webstories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 236,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:10.630Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.rangabhoomi.com": {
+      "urls": [
+        "https://www.rangabhoomi.com/feed/",
+        "https://www.rangabhoomi.com/tag/marathi-natak-podcast/feed/",
+        "https://www.rangabhoomi.com/tag/marathi-podcast/feed/",
+        "https://www.rangabhoomi.com/tag/natak-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 603,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:09.996Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rangabhoomi.com": {
+      "urls": [
+        "https://www.rangabhoomi.com/feed/",
+        "https://www.rangabhoomi.com/tag/marathi-natak-podcast/feed/",
+        "https://www.rangabhoomi.com/tag/marathi-podcast/feed/",
+        "https://www.rangabhoomi.com/tag/natak-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 667,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:35.903Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "deshdoot.com": {
+      "urls": [
+        "https://deshdoot.com/feed/",
+        "https://deshdoot.com/web-stories/feed/",
+        "https://deshdoot.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 47,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:57.140Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "infoworld.com": {
+      "urls": [
+        "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
+        "https://www.infoworld.com/feed/",
+        "https://www.infoworld.com/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 60,
+        "category": "technology",
+        "last_checked": "2026-02-01T00:30:18.280Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.mymahanagar.com": {
+      "urls": [
+        "https://www.mymahanagar.com/featured/my-mahanagar-blog/feed/",
+        "https://www.mymahanagar.com/feed/",
+        "https://www.mymahanagar.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 63,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:05.125Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mymahanagar.com": {
+      "urls": [
+        "https://www.mymahanagar.com/featured/my-mahanagar-blog/feed/",
+        "https://www.mymahanagar.com/feed/",
+        "https://www.mymahanagar.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 74,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:25.549Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "maxmaharashtra.com": {
+      "urls": [
+        "https://www.maxmaharashtra.com/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/news-update/google_feeds.xml",
+        "https://www.maxmaharashtra.com/category/topnews/google_feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 103,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:02.805Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathimati.com": {
+      "urls": [
+        "https://www.marathimati.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/2079427118266147504/posts/default",
+        "https://www.marathimati.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1180,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:10.523Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ratnagirikhabardar.com": {
+      "urls": [
+        "https://ratnagirikhabardar.com/feed",
+        "https://ratnagirikhabardar.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 86,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:36.014Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ahmednagarlive24.com": {
+      "urls": [
+        "https://ahmednagarlive24.com/feed/",
+        "https://ahmednagarlive24.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 110,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:11.120Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.adda247.com": {
+      "urls": [
+        "https://www.adda247.com/upsc-exam/feed/",
+        "https://www.adda247.com/upsc-exam/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 127,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:57.092Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "saamana.com": {
+      "urls": [
+        "http://www.saamana.com/feed/",
+        "https://www.saamana.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 238,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:46.627Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.saamana.com": {
+      "urls": [
+        "http://www.saamana.com/feed/",
+        "https://www.saamana.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 341,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:10.346Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathi.timesnownews.com": {
+      "urls": [
+        "https://marathi.timesnownews.com/feeds/gns-mr-latest.xml",
+        "https://marathi.timesnownews.com/feeds/newsletter-mr-top-stories.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 372,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:23.426Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dainikprabhat.com": {
+      "urls": [
+        "https://www.dainikprabhat.com/feed/",
+        "https://www.dainikprabhat.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 375,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:17.036Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "adda247.com": {
+      "urls": [
+        "https://www.adda247.com/upsc-exam/feed/",
+        "https://www.adda247.com/upsc-exam/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 387,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:11.004Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thodkyaat.com": {
+      "urls": [
+        "https://www.thodkyaat.com/feed/",
+        "https://www.thodkyaat.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 677,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:56.664Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathi.itsmajja.com": {
+      "urls": [
+        "https://marathi.itsmajja.com/feed/",
+        "https://marathi.itsmajja.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 920,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:23.011Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news24pune.com": {
+      "urls": [
+        "https://news24pune.com/feed/",
+        "https://news24pune.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1140,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:27.036Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.dainikprabhat.com": {
+      "urls": [
+        "https://www.dainikprabhat.com/feed/",
+        "https://www.dainikprabhat.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1455,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:00.547Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.navarashtra.com": {
+      "urls": [
+        "https://www.navarashtra.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 34,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:05.840Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rss.nytimes.com": {
+      "urls": [
+        "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 47,
+        "category": "technology",
+        "last_checked": "2026-02-01T00:30:36.061Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.tv9marathi.com": {
+      "urls": [
+        "https://www.tv9marathi.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 52,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:10.727Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "esakal.com": {
+      "urls": [
+        "https://www.esakal.com/stories.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 62,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:52.469Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.esakal.com": {
+      "urls": [
+        "https://www.esakal.com/stories.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 76,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:00.623Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "navarashtra.com": {
+      "urls": [
+        "https://www.navarashtra.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 88,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:25.864Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.chinimandi.com": {
+      "urls": [
+        "https://www.chinimandi.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 122,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:57.911Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chinimandi.com": {
+      "urls": [
+        "https://www.chinimandi.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 160,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:16.553Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathi.asianetnews.com": {
+      "urls": [
+        "https://marathi.asianetnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 197,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:21.165Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.marathigold.com": {
+      "urls": [
+        "https://www.marathigold.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 261,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:03.933Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tv9marathi.com": {
+      "urls": [
+        "https://www.tv9marathi.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 299,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:56.963Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "maharashtratimes.com": {
+      "urls": [
+        "https://maharashtratimes.com/langapi/sitemap/gstandrssfeed/2429064.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 308,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:52.777Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathigold.com": {
+      "urls": [
+        "https://www.marathigold.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 310,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:25.048Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "puneprahar.com": {
+      "urls": [
+        "https://puneprahar.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 372,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:35.223Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "krushimarathi.com": {
+      "urls": [
+        "https://krushimarathi.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 389,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:18.669Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.newsdanka.com": {
+      "urls": [
+        "https://www.newsdanka.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 402,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:06.242Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "parshvbhumi.com": {
+      "urls": [
+        "https://www.parshvbhumi.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 492,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:56.345Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "feeds.feedburner.com": {
+      "urls": [
+        "https://feeds.feedburner.com/ndtvcooks-latest"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 506,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:17.542Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "food.ndtv.com": {
+      "urls": [
+        "https://feeds.feedburner.com/ndtvcooks-latest"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 506,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:18.048Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "epaper.dainikekmat.com": {
+      "urls": [
+        "http://epaper.dainikekmat.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 744,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:57.089Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dainikgomantak.esakal.com": {
+      "urls": [
+        "http://dainikgomantak.esakal.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 847,
+        "category": "general",
+        "last_checked": "2026-02-01T00:29:57.987Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.marathiebatmya.com": {
+      "urls": [
+        "https://www.marathiebatmya.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1302,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:03.672Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marathiebatmya.com": {
+      "urls": [
+        "https://www.marathiebatmya.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1312,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:24.738Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "prod-qt-images.s3.amazonaws.com": {
+      "urls": [
+        "https://prod-qt-images.s3.amazonaws.com/production/pudharinews/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1696,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:34.851Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "saamtv.esakal.com": {
+      "urls": [
+        "http://saamtv.esakal.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2630,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:08.806Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newsdanka.com": {
+      "urls": [
+        "https://www.newsdanka.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3306,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:30.342Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "shetishivar.com": {
+      "urls": [
+        "https://shetishivar.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3309,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:54.944Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "blogs.msn.com": {
+      "urls": [
+        "https://blogs.msn.com/author/bill-monroe/feed/",
+        "https://blogs.msn.com/author/chitralekha/feed/",
+        "https://blogs.msn.com/author/currrentlybill/feed/",
+        "https://blogs.msn.com/author/dave-kane/feed/",
+        "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
+        "https://blogs.msn.com/author/emily-falla/feed/",
+        "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
+        "https://blogs.msn.com/author/kun-chen/feed/",
+        "https://blogs.msn.com/author/lizz-callaway/feed/",
+        "https://blogs.msn.com/author/maria/feed/",
+        "https://blogs.msn.com/author/mrikank-varshney/feed/",
+        "https://blogs.msn.com/author/ovidan/feed/",
+        "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
+        "https://blogs.msn.com/author/taroon-mandhana/feed/",
+        "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
+        "https://blogs.msn.com/author/vera-chan/feed/",
+        "https://blogs.msn.com/feed/",
+        "https://blogs.msn.com/topic/events/feed/",
+        "https://blogs.msn.com/topic/featured/feed/",
+        "https://blogs.msn.com/topic/innovations/feed/",
+        "https://blogs.msn.com/topic/solutions/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:15.407Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "housing.com": {
+      "urls": [
+        "https://housing.com/news/feed/",
+        "https://housing.com/news/tag/housing-com-podcast/feed/",
+        "https://housing.com/news/tag/housing-podcast-episode-76/feed/",
+        "https://housing.com/news/tag/housing-podcast/feed/",
+        "https://housing.com/news/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:18.201Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "mensxp.com": {
+      "urls": [
+        "https://www.mensxp.com/feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:25.411Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "prnewswire.com": {
+      "urls": [
+        "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:33.155Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "rsshub.app": {
+      "urls": [
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:36.195Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rssmix.com": {
+      "urls": [
+        "http://www.rssmix.com/u/11743304/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:30:46.215Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.mensxp.com": {
+      "urls": [
+        "https://www.mensxp.com/feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:31:04.523Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "country_code": "IN",
+  "language_code": "AS",
+  "total_domains": 23,
+  "total_feeds": 203,
+  "feeds": {
+    "asomiyapratidin.in": {
+      "urls": [
+        "https://www.asomiyapratidin.in/rss",
+        "https://www.asomiyapratidin.in/feed/",
+        "https://prod-qt-images.s3.amazonaws.com/production/asomiyapratidin/feed.xml",
+        "https://www.asomiyapratidin.in/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 193,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:24.376Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "northeasttoday.in": {
+      "urls": [
+        "https://northeasttoday.in/feed/",
+        "https://www.northeasttoday.in/feed/",
+        "https://northeasttoday.in/comments/feed/",
+        "https://www.northeasttoday.in/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 374,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:27.760Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "prantojyoti.in": {
+      "urls": [
+        "https://prantojyoti.in/feed/",
+        "https://prantojyoti.in/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 823,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:32.063Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "arunachaltimes.in": {
+      "urls": [
+        "https://arunachaltimes.in/index.php/feed/",
+        "https://arunachaltimes.in/index.php/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1836,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:31.150Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dy365.in": {
+      "urls": [
+        "https://dy365live.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 141,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:32.473Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thehillstimes.in": {
+      "urls": [
+        "https://thehillstimes.in/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:29.256Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "livehindustan.com": {
+      "urls": [
+        "https://api.livehindustan.com/feeds/rss/astrology/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/career/rssfeed.xml",
+        "https://www.livehindustan.com/rss/feed/404.html",
+        "https://api.livehindustan.com/feeds/rss/astrology/rashifal/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/videos/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/gadgets/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/maharashtra/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/gadgets/smartphones-tabs/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/rajasthan/jaipur/rssfeed.xml",
+        "https://www.livehindustan.com/home/rssfeed/1.html",
+        "https://api.livehindustan.com/feeds/rss/auto/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/business/personal-investments/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/weather/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/business/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/spiritual/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/auto/cars/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/career/education/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/lifestyle/food/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/bhopal/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/assembly-elections/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/career/jobs/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/lifestyle/relationship/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/numerology/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/auto/bikes/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jammu-and-kashmir/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/odisha/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/entertainment/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/gadgets/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/tripura/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/gadgets/apps/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/gadgets/tips-tricks/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/adityapur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/bokaro/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/indore/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/lifestyle/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/sports/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttar-pradesh/aligarh/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/assembly-elections/exit-polls/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/assembly-elections/goa-election/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/assembly-elections/gujarat-election/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/assembly-elections/nagaland/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/assembly-elections/punjab-election/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/assembly-elections/up-election/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/assembly-elections/uttarakhand-election/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/aarti/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/discourse/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/gemstone/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/highlights/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/palmistry/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/puja-vidhi/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/shubh-panchang/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/astrology/special-days/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/auto/accessories/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/auto/auto-reviews/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/bihar/siwan/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/cyberworld/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/editorial-news/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/expert-daily-blogs/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/latest-blog/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/nastar/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/nazariya/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/shabd/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/tirchi-nazar/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/blog/videshiakbhar/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/budget/banking-insurance/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/budget/real-estate/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/budget/sector-wise/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/business/income-tax-return/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/business/interview/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/business/real-estate/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/business/tax-advice/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/career/career-counseller/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/chhattisgarh/baikunthpur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/chhattisgarh/bilaspur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/chhattisgarh/sukma/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/gadgets/laptops-pc/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/haryana/karnal/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/haryana/panipat/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/haryana/yamunanagar/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/himachal-pradesh/solan/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/dumka/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/garhwa/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/hazaribagh/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/jamtara/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/kodarma/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/latehar/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/lohardaga/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/palamu/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/ramgarh/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/sahibganj/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/jharkhand/simdega/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/lifestyle/inse-seekhen/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/chhatarpur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/jabalpur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/jhabua/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/khandwa/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/sagar/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/singrauli/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/madhya-pradesh/ujjain/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/maharashtra/mumbai/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/maharashtra/nagpur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/maharashtra/thane/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/aao-rajneeti-karein/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/business/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/career/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/delhi-election-2020/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/hindustan-shikhar-samagam/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/international/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/jharkhand-state-election-2019/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/jharkhand/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/maharashtra-state-election-2019/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/national/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/web-story/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/rajasthan/barmer/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/rajasthan/bikaner/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/rajasthan/sri-ganganagar/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/rajasthan/udaipur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/sports/commonwealth-games/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/sports/fifa-world-cup-2018-fan-zone/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/sports/football/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttar-pradesh/ayodhya/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttar-pradesh/azamgarh/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttar-pradesh/rampur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttarakhand/almora/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttarakhand/bageshwar/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttarakhand/chamoli/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttarakhand/champawat/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttarakhand/kashipur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/uttarakhand/rudrapur/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/videos/aao-rajneeti-karein/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/budget/healthcare/rssfeed.xml",
+        "https://api.livehindustan.com/feeds/rss/photos/commonwealth-games/rssfeed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 66,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:32.256Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "timesofindia.indiatimes.com": {
+      "urls": [
+        "https://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/442002.cms",
+        "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+        "https://timesofindia.indiatimes.com/blogs/feed/defaultrss",
+        "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms?x=1",
+        "https://timesofindia.indiatimes.com/rssfeeds/2886704.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms",
+        "https://timesofindia.indiatimes.com/rssfeedmostread.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/1898272.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/2177298.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/7098551.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/1898274.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 82,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:31.238Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "assamtribune.com": {
+      "urls": [
+        "https://assamtribune.com/google_feeds.xml",
+        "https://assamtribune.com/category/national/google_feeds.xml",
+        "https://assamtribune.com/feed",
+        "https://assamtribune.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 73,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:28.257Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "assamtimes.org": {
+      "urls": [
+        "https://assamtimes.org/rss.xml",
+        "https://www.assamtimes.org/rss.xml",
+        "http://assamtimes.org/rss.xml",
+        "http://www.assamtimes.org/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 643,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:26.884Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "magicalassam.com": {
+      "urls": [
+        "https://magicalassam.com/feed",
+        "https://magicalassam.com/web-stories/feed",
+        "https://magicalassam.com/comments/feed",
+        "https://magicalassam.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 805,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:36.660Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "assamtalks.com": {
+      "urls": [
+        "https://assamtalks.com/?feed=rss2",
+        "https://assamtalks.com/?feed=atom",
+        "https://assamtalks.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 73,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:32.331Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "barakbulletin.com": {
+      "urls": [
+        "https://barakbulletin.com/feed/",
+        "https://www.barakbulletin.com/en_US/feed/",
+        "https://barakbulletin.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 331,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:28.173Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "timesofassam.com": {
+      "urls": [
+        "https://www.timesofassam.com/feed/",
+        "https://www.timesofassam.com/web-stories/feed/",
+        "https://www.timesofassam.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 511,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:26.225Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "niyomiyabarta.com": {
+      "urls": [
+        "https://niyomiyabarta.com/feed/",
+        "https://niyomiyabarta.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 149,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:24.527Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "northeastlivetv.com": {
+      "urls": [
+        "https://northeastlivetv.com/feed/",
+        "https://northeastlivetv.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 336,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:33.380Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sentinelassam.com": {
+      "urls": [
+        "https://www.sentinelassam.com/feed/",
+        "https://prod-qt-images.s3.amazonaws.com/production/sentinelassam-english/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 592,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:29.194Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "pratidintime.com": {
+      "urls": [
+        "https://www.pratidintime.com/rss",
+        "https://prod-qt-images.s3.amazonaws.com/production/pratidintime/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 638,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:25.712Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rengonitv.com": {
+      "urls": [
+        "https://rengonitv.com/feed/",
+        "https://rengonitv.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2284,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:35.849Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newslivetv.com": {
+      "urls": [
+        "https://newslivetv.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 208,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:33.029Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "assam.news18.com": {
+      "urls": [
+        "https://assam.news18.com/commonfeeds/v1/asm/rss/latest.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 347,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:32.820Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guwahatiplus.com": {
+      "urls": [
+        "http://guwahatiplus.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 364,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:27.248Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gonitsora.com": {
+      "urls": [
+        "https://gonitsora.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 390,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:37.050Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

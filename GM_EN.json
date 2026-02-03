@@ -1,0 +1,271 @@
+{
+  "country_code": "GM",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 67,
+  "feeds": {
+    "elegance.gm": {
+      "urls": [
+        "https://elegance.gm/feed/",
+        "https://elegance.gm/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2250,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:48.076Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thepoint.gm": {
+      "urls": [
+        "https://thepoint.gm/posts/rss/xml",
+        "http://thepoint.gm/posts/rss/xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2689,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:25.342Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "standard.gm": {
+      "urls": [
+        "https://standard.gm/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2803,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:30.277Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "freedomnewspaper.com": {
+      "urls": [
+        "https://www.freedomnewspaper.com/feed/",
+        "https://freedomnewspaper.com/feed/",
+        "https://www.ufa.cn.com/blog/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/feed/",
+        "https://www.ufabet.pics/blog/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/feed/",
+        "https://www.freedomnewspaper.com/comments/feed/",
+        "https://www.ufabet.pics/feed/",
+        "https://www.ufa.cn.com/blog/vr-%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/feed/",
+        "https://www.ufabet.pics/blog/vr-%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/feed/",
+        "https://www.ufa.cn.com/blog/category/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1-ufabet/feed/",
+        "https://www.ufa.cn.com/blog/category/%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/feed/",
+        "https://www.ufa.cn.com/blog/category/%E0%B8%9A%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/feed/",
+        "https://www.ufa.cn.com/blog/category/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95/feed/",
+        "https://www.ufa.cn.com/blog/category/tiptrick/feed/",
+        "https://www.ufabet.pics/blog/category/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99/feed/",
+        "https://www.ufabet.pics/blog/category/%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/feed/",
+        "https://www.ufabet.pics/blog/category/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1-ufabet/feed/",
+        "https://www.ufabet.pics/blog/category/%E0%B8%9A%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/feed/",
+        "https://www.ufabet.pics/blog/category/%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/feed/",
+        "https://www.ufabet.pics/blog/category/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95/feed/",
+        "https://www.ufabet.pics/blog/category/tiptrick/feed/",
+        "https://ufa747.money/feed/",
+        "https://www.ufa747.fun/feed/",
+        "https://www.ufa747.guru/feed/",
+        "https://www.ufa747.tech/feed/",
+        "https://www.ufa.cn.com/comments/feed/",
+        "https://www.ufabet.pics/comments/feed/",
+        "https://www.ufabet.stream/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 283,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:17.772Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1800,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:22.446Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 657,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:18.687Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jollofnews.com": {
+      "urls": [
+        "https://www.jollofnews.com/feed/",
+        "https://aksi.in.net/feed/",
+        "https://cboeclear.eu.com/feed/",
+        "https://n8o9p0.uk.com/feed/",
+        "https://zksync.us.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1942,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:20.632Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kaironews.com": {
+      "urls": [
+        "http://www.kaironews.com/feed/",
+        "https://kaironews.com/feed/",
+        "http://www.kaironews.com/comments/feed/",
+        "https://kaironews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1233,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:44.449Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "whatson-gambia.com": {
+      "urls": [
+        "https://whatson-gambia.com/feed/",
+        "https://whatson-gambia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 766,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:49.202Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "fatunetwork.net": {
+      "urls": [
+        "https://fatunetwork.net/feed/",
+        "https://www.fatunetwork.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 867,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:42.649Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gambia-today.com": {
+      "urls": [
+        "https://gambia-today.com/feed/",
+        "https://gambia-today.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1372,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:45.824Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "foroyaa.net": {
+      "urls": [
+        "https://foroyaa.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2132,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:27.474Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "allgambianews.com": {
+      "urls": [
+        "https://allgambianews.com/feed/",
+        "https://www.allgambianews.com/feed/",
+        "https://allgambianews.com/category/business-blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:40.302Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gainako.com": {
+      "urls": [
+        "https://gainako.com/feed/",
+        "https://gainako.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:57:41.322Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

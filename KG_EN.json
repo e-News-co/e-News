@@ -1,0 +1,404 @@
+{
+  "country_code": "KG",
+  "language_code": "EN",
+  "total_domains": 19,
+  "total_feeds": 130,
+  "feeds": {
+    "24.kg": {
+      "urls": [
+        "https://24.kg/rss/all/",
+        "https://24.kg/obschestvo/rss/",
+        "https://24.kg/vlast/rss/",
+        "https://24.kg/proisshestvija/rss/",
+        "https://24.kg/ekonomika/rss/",
+        "https://24.kg/biznes_info/rss/",
+        "https://24.kg/sport/rss/",
+        "https://24.kg/agent_024/rss/",
+        "https://24.kg/finansy/rss/",
+        "https://24.kg/tehnoblog/rss/",
+        "https://24.kg/bishkek_24/rss/",
+        "https://24.kg/eaes/rss/",
+        "https://24.kg/kadry/rss/",
+        "https://24.kg/kriminal/rss/",
+        "https://24.kg/kultura/rss/",
+        "https://24.kg/ljudi_i_sudby/rss/",
+        "https://24.kg/parlament/rss/",
+        "https://24.kg/politika/rss/",
+        "https://24.kg/pro_kino/rss/",
+        "https://24.kg/reportazhi/rss/",
+        "https://24.kg/sng/rss/",
+        "https://24.kg/spetsproekty/rss/",
+        "https://24.kg/tsentralnaja_azija/rss/",
+        "https://24.kg/v_mire/rss/",
+        "https://24.kg/velikaja_pobeda/rss/",
+        "https://24.kg/vybory/rss/",
+        "https://24.kg/zdorove/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3378,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:44.504Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kloop.kg": {
+      "urls": [
+        "https://kloop.kg/feed/",
+        "https://kloop.kg/blog/category/cap-english/feed/",
+        "https://kloop.kg/blog/category/data-zhurnalistika/feed/",
+        "https://kloop.kg/blog/category/navigatsiya/lenta/feed/",
+        "https://kloop.kg/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1121,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:36.209Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gazeta.kg": {
+      "urls": [
+        "https://gazeta.kg/rssturbo.xml",
+        "https://gazeta.kg/rss.xml",
+        "https://www.gazeta.kg/rss.xml",
+        "https://gazeta.kg/rssdzen.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1218,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:21.918Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "internews.kg": {
+      "urls": [
+        "https://internewskg.blogspot.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/7318709713364881118/posts/default",
+        "https://internewskg.blogspot.com/feeds/8031483225053902714/comments/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1807,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:50.004Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "super.kg": {
+      "urls": [
+        "https://super.kg/kabar/xml",
+        "https://www.super.kg/kabar/xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1379,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:28.835Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "msn.kg": {
+      "urls": [
+        "https://msn.kg/rss.xml",
+        "https://www.msn.kg/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1529,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:25.869Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vb.kg": {
+      "urls": [
+        "https://www.vb.kg/?rss",
+        "https://www.vb.kg:443/?rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2458,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:31.296Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "for.kg": {
+      "urls": [
+        "https://for.kg/action/rss/rss_for_kg_news_last.php",
+        "https://www.for.kg/action/rss/rss_for_kg_news_last.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3168,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:39.380Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "knews.kg": {
+      "urls": [
+        "https://knews.kg/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1532,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:46.962Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kyrgyztuusu.kg": {
+      "urls": [
+        "http://kyrgyztuusu.kg/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4637,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:54.641Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kabar.kg": {
+      "urls": [
+        "https://kabar.kg/rss/",
+        "https://www.kabar.kg/rss/",
+        "https://en.kabar.kg/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:34.987Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pr.kg": {
+      "urls": [
+        "http://www.pr.kg/rss/news/",
+        "http://www.pr.kg/rss/gazeta/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:24.338Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 343,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:54.986Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "timesca.com": {
+      "urls": [
+        "https://timesca.com/feed/",
+        "https://timesca.com/tag/podcast/feed/",
+        "https://www.timesca.com/index.php?format=feed&type=atom",
+        "https://www.timesca.com/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1230,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:48.195Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "azattyk.org": {
+      "urls": [
+        "https://www.azattyk.org/api/",
+        "https://www.azattyk.org/podcast/video.aspx/",
+        "https://www.azattyk.org/podcast/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1161,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:27.403Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kyrgyzstannews.net": {
+      "urls": [
+        "https://feeds.kyrgyzstannews.net/rss/929bcf2071e81801",
+        "http://feeds.kyrgyzstannews.net/rss/929bcf2071e81801"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 473,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:18.183Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ca-news.org": {
+      "urls": [
+        "https://centralasia.media/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 926,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:45.430Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tol.org": {
+      "urls": [
+        "https://tol.org/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1604,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:19.787Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "akipress.com": {
+      "urls": [
+        "https://akipress.com/rss/en.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1744,
+        "category": "general",
+        "last_checked": "2026-02-01T02:22:41.124Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

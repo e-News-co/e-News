@@ -1,0 +1,1209 @@
+{
+  "country_code": "EG",
+  "language_code": "EN",
+  "total_domains": 54,
+  "total_feeds": 445,
+  "feeds": {
+    "algomhuria.net.eg": {
+      "urls": [
+        "https://algomhuria.gomhuriaonline.com/feed/",
+        "https://algomhuria.gomhuriaonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.117Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "progres.net.eg": {
+      "urls": [
+        "https://www.progres.net.eg/feed/",
+        "https://www.progres.net.eg/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.121Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "masrawy.com": {
+      "urls": [
+        "https://www.masrawy.com/rss/feed/210/%D9%81%D9%86%D9%88%D9%86",
+        "https://www.masrawy.com/rss/feed/582/%D8%B2%D9%88%D9%88%D9%85",
+        "https://www.masrawy.com/rss/feed/202/%D8%B4%D8%A6%D9%88%D9%86-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+        "https://www.masrawy.com/rss/feed/202/%D8%B9%D8%B1%D8%A8-%D9%88%D8%B9%D8%A7%D9%84%D9%85",
+        "https://www.masrawy.com/rssfeed/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D9%85%D8%B5%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9",
+        "https://www.masrawy.com/rssfeed/202/%D8%B4%D8%A6%D9%88%D9%86-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+        "https://www.masrawy.com/rssfeed/205/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D9%88%D9%82%D8%B6%D8%A7%D9%8A%D8%A7",
+        "https://www.masrawy.com/rss/feed/204/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/235/%D9%85%D8%B3%D8%B1%D8%AD-%D9%88%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86",
+        "https://www.masrawy.com/rss/feed/217/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84",
+        "https://www.masrawy.com/rss/feed/206/%D8%A5%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+        "https://www.masrawy.com/rss/feed/206/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+        "https://www.masrawy.com/rss/feed/218/%D8%A7%D9%84%D9%85%D9%88%D8%B6%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84",
+        "https://www.masrawy.com/rss/feed/27/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+        "https://www.masrawy.com/rss/feed/25/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+        "https://www.masrawy.com/rss/feed/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D9%85%D8%B5%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9",
+        "https://www.masrawy.com/rss/feed/35/%D9%85%D8%B5%D8%B1",
+        "https://www.masrawy.com/rss/feed/205/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB",
+        "https://www.masrawy.com/rss/feed/205/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D9%88%D9%82%D8%B6%D8%A7%D9%8A%D8%A7",
+        "https://www.masrawy.com/rss/feed/262/%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/219/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%B7%D8%A8%D9%8A%D8%A9",
+        "https://www.masrawy.com/rss/feed/579/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
+        "https://www.masrawy.com/rssfeed/206/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+        "https://www.masrawy.com/rss/feed/445/%D8%A3%D8%AE%D8%B1%D9%89",
+        "https://www.masrawy.com/rssfeed/382/%D8%B9%D9%84%D9%88%D9%85-%D9%88-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7",
+        "https://www.masrawy.com/rss/feed/375/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+        "https://www.masrawy.com/rss/feed/578/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A7%D8%AA-%D8%A3%D8%AE%D8%B1%D9%89",
+        "https://www.masrawy.com/rss/feed/373/%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/577/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9",
+        "https://www.masrawy.com/rss/feed/223/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/382/%D8%B9%D9%84%D9%88%D9%85-%D9%88%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7",
+        "https://www.masrawy.com/rss/feed/382/%D8%B9%D9%84%D9%88%D9%85-%D9%88-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7",
+        "https://www.masrawy.com/rss/feed/468/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
+        "https://www.masrawy.com/rss/feed/211/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/583/%D8%A3%D8%AC%D9%86%D8%A8%D9%89",
+        "https://www.masrawy.com/rss/feed/61/%D9%81%D8%AA%D8%A7%D9%88%D9%89",
+        "https://www.masrawy.com/rss/feed/121/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9",
+        "https://www.masrawy.com/rss/feed/122/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%81%D9%86%D9%8A%D8%A9",
+        "https://www.masrawy.com/rss/feed/207/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%88%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/208/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/209/%D8%B5%D8%AD%D8%A7%D9%81%D8%A9",
+        "https://www.masrawy.com/rss/feed/215/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
+        "https://www.masrawy.com/rss/feed/221/%D9%85%D8%B7%D8%A8%D8%AE-%D9%85%D8%B5%D8%B1%D8%A7%D9%88%D9%89",
+        "https://www.masrawy.com/rss/feed/222/%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%88%D9%85%D8%A9",
+        "https://www.masrawy.com/rss/feed/227/%D8%A2%D8%B1%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A9",
+        "https://www.masrawy.com/rss/feed/254/%D8%B3%D9%8A%D9%86%D9%85%D8%A7",
+        "https://www.masrawy.com/rss/feed/255/%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89",
+        "https://www.masrawy.com/rss/feed/376/%D8%B3%D8%A8%D8%A7%D9%82%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/378/%D8%A3%D9%84%D8%A8%D9%88%D9%85-%D8%B5%D9%88%D8%B1",
+        "https://www.masrawy.com/rss/feed/379/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/402/%D8%A7%D9%84%D8%B1%D8%AC%D9%84",
+        "https://www.masrawy.com/rss/feed/446/%D9%82%D8%B5%D8%B5-%D9%88%D8%B9%D8%A8",
+        "https://www.masrawy.com/rss/feed/467/%D8%A3%D9%84%D8%A8%D9%88%D9%85-%D8%A7%D9%84%D8%B5%D9%88%D8%B1",
+        "https://www.masrawy.com/rss/feed/50/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA",
+        "https://www.masrawy.com/rss/feed/51/%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9",
+        "https://www.masrawy.com/rss/feed/56/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85",
+        "https://www.masrawy.com/rss/feed/586/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B2%D9%85%D8%A7%D9%86",
+        "https://www.masrawy.com/rss/feed/598/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD",
+        "https://www.masrawy.com/rss/feed/603/%D8%B3%D9%81%D8%B1-%D9%88%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9",
+        "https://www.masrawy.com/rss/feed/632/%D8%A3%D8%A8%D9%8A%D8%B6-%D9%88%D8%A3%D8%B3%D9%88%D8%AF"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.163Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "arabnet5.com": {
+      "urls": [
+        "http://www.arabnet5.com/rss-classifieds.asp",
+        "https://www.arabnet5.com/rss-classifieds.asp",
+        "http://www.arabnet5.com/rss-news-all.asp",
+        "https://www.arabnet5.com/rss-news-all.asp",
+        "https://www.arabnet5.com/rss-articles.asp",
+        "https://www.arabnet5.com/rss-news-culture.asp",
+        "https://www.arabnet5.com/rss-computer-market.asp",
+        "https://www.arabnet5.com/rss-mobile-market.asp",
+        "https://www.arabnet5.com/rss-news-business.asp",
+        "https://www.arabnet5.com/rss-news-cars.asp",
+        "https://www.arabnet5.com/rss-news-communications.asp",
+        "https://www.arabnet5.com/rss-news-computer.asp",
+        "https://www.arabnet5.com/rss-news-education.asp",
+        "https://www.arabnet5.com/rss-news-egypt.asp",
+        "https://www.arabnet5.com/rss-news-environment.asp",
+        "https://www.arabnet5.com/rss-news-family.asp",
+        "https://www.arabnet5.com/rss-news-muslims.asp",
+        "https://www.arabnet5.com/rss-news-sports.asp",
+        "https://www.arabnet5.com/rss-news-tech.asp",
+        "https://www.arabnet5.com/rss-news-world.asp",
+        "https://www.arabnet5.com/rss-photos-caricature.asp",
+        "https://www.arabnet5.com/rss-photos-photos.asp",
+        "http://www.arabnet5.com/rss-news-business.asp",
+        "http://www.arabnet5.com/rss-news-cars.asp",
+        "http://www.arabnet5.com/rss-news-environment.asp",
+        "http://www.arabnet5.com/rss-news-tech.asp",
+        "http://www.arabnet5.com/rss-news-culture.asp",
+        "http://www.arabnet5.com/rss-news-family.asp",
+        "http://www.arabnet5.com/rss-news-muslims.asp",
+        "http://www.arabnet5.com/rss-news-world.asp",
+        "http://www.arabnet5.com/rss-news-egypt.asp",
+        "http://www.arabnet5.com/rss-news-communications.asp",
+        "http://www.arabnet5.com/rss-news-computer.asp",
+        "http://www.arabnet5.com/rss-news-education.asp",
+        "https://www.arabnet5.com/rss-news-health.asp",
+        "http://www.arabnet5.com/rss-news-sports.asp",
+        "http://www.arabnet5.com/rss-computer-market.asp",
+        "http://www.arabnet5.com/rss-mobile-market.asp",
+        "http://www.arabnet5.com/rss-photos-caricature.asp",
+        "http://www.arabnet5.com/rss-photos-photos.asp",
+        "http://www.arabnet5.com/rss-news-health.asp",
+        "http://www.arabnet5.com/rss-news-worldcup2010.asp",
+        "http://www.arabnet5.com/rss-articles.asp"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.211Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elzmannews.com": {
+      "urls": [
+        "https://www.elzmannews.com/rss/rss5.xml",
+        "https://www.elzmannews.com/rss/rss1.xml",
+        "https://www.elzmannews.com/rss.xml",
+        "https://www.elzmannews.com/rss/rss3.xml",
+        "https://www.elzmannews.com/rss/rss8.xml",
+        "https://www.elzmannews.com/rss/rss4.xml",
+        "https://www.elzmannews.com/rss/rss2.xml",
+        "https://www.elzmannews.com/rss/rss7.xml",
+        "https://www.elzmannews.com/rss/rss10.xml",
+        "https://www.elzmannews.com/rss/rss6.xml",
+        "https://www.elzmannews.com/rss/rss11.xml",
+        "https://www.elzmannews.com/rss/rss19.xml",
+        "https://www.elzmannews.com/rss/rss12.xml",
+        "https://www.elzmannews.com/rss/rss13.xml",
+        "https://www.elzmannews.com/rss/rss14.xml",
+        "https://www.elzmannews.com/rss/rss15.xml",
+        "https://www.elzmannews.com/rss/rss16.xml",
+        "https://www.elzmannews.com/rss/rss17.xml",
+        "https://www.elzmannews.com/rss/rss18.xml",
+        "https://www.elzmannews.com/rss/rss20.xml",
+        "https://www.elzmannews.com/rss/rss21.xml",
+        "https://www.elzmannews.com/rss/rss22.xml",
+        "https://www.elzmannews.com/rss/rss23.xml",
+        "https://www.elzmannews.com/rss/rss24.xml",
+        "https://www.elzmannews.com/rss/rss25.xml",
+        "https://www.elzmannews.com/rss/rss27.xml",
+        "https://www.elzmannews.com/rss/rss28.xml",
+        "https://www.elzmannews.com/rss/rss29.xml",
+        "https://www.elzmannews.com/rss/rss30.xml",
+        "https://www.elzmannews.com/rss/rss31.xml",
+        "https://www.elzmannews.com/rss/rss32.xml",
+        "https://www.elzmannews.com/rss/rss33.xml",
+        "https://www.elzmannews.com/rss/rss34.xml",
+        "https://www.elzmannews.com/rss/rss35.xml",
+        "https://www.elzmannews.com/rss/rss36.xml",
+        "https://www.elzmannews.com/rss/rss37.xml",
+        "https://www.elzmannews.com/rss/rss38.xml",
+        "https://www.elzmannews.com/rss/rss39.xml",
+        "https://www.elzmannews.com/rss/rss40.xml",
+        "https://www.elzmannews.com/rss/rss41.xml",
+        "https://www.elzmannews.com/rss/rss9.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.225Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "egyptianstreets.com": {
+      "urls": [
+        "https://egyptianstreets.com/feed/atom/",
+        "https://egyptianstreets.com/feed/",
+        "https://egyptianstreets.com/category/the-podcast/feed/",
+        "https://egyptianstreets.com/tag/egypt-podcast/feed/",
+        "https://egyptianstreets.com/tag/egyptian-podcast/feed/",
+        "https://egyptianstreets.com/tag/egyptian-podcasts/feed/",
+        "https://egyptianstreets.com/tag/egyptian-streets-podcast/feed/",
+        "https://egyptianstreets.com/tag/omar-samra-podcast/feed/",
+        "https://egyptianstreets.com/tag/podcast/feed/",
+        "https://egyptianstreets.com/tag/podcasts-in-egypt/feed/",
+        "https://egyptianstreets.com/comments/feed/",
+        "https://egyptianstreets.com/2021/01/03/introducing-the-egyptian-streets-podcast-stories-from-street-to-sound/feed/",
+        "https://egyptianstreets.com/2021/01/10/actress-rosaline-elbay-is-the-egyptian-streets-podcasts-first-guest/feed/",
+        "https://egyptianstreets.com/2021/01/24/on-the-egyptian-streets-podcast-graphic-novelist-deena-mohamed-of-shubeik-lubeik/feed/",
+        "https://egyptianstreets.com/2021/02/07/bassem-youssef-is-on-the-egyptian-streets-podcast/feed/",
+        "https://egyptianstreets.com/2021/02/21/merhan-keller-talks-individual-activism-on-the-egyptian-streets-podcast/feed/",
+        "https://egyptianstreets.com/2021/03/07/podcast-nour-emam-revolutionizes-sex-ed-in-egypt/feed/",
+        "https://egyptianstreets.com/2021/03/21/podcast-ganzeer-shares-his-art-journey-worldwide-since-2011/feed/",
+        "https://egyptianstreets.com/2021/05/02/podcast-felukahs-storytelling-through-rap-and-movement-from-cairo-to-new-york/feed/",
+        "https://egyptianstreets.com/2021/05/16/podcast-omar-samra-almost-didnt-make-it-in-the-atlantic/feed/",
+        "https://egyptianstreets.com/2021/06/06/mija-podcast-brings-egyptian-immigrant-family-stories-to-life/feed/",
+        "https://egyptianstreets.com/2021/06/27/meet-egyptian-american-journalist-rowaida-abdelaziz-in-egyptian-streets-podcast-return/feed/",
+        "https://egyptianstreets.com/2021/07/04/up-fuses-co-founder-yara-yassin-on-the-egyptian-streets-podcast-i-grew-up-in-a-very-energy-efficient-family/feed/",
+        "https://egyptianstreets.com/2021/07/14/science-geeks-rejoice-new-egyptian-podcast-will-tackle-all-things-science/feed/",
+        "https://egyptianstreets.com/2021/07/16/10-lessons-i-learned-from-creating-the-egyptian-streets-podcast/feed/",
+        "https://egyptianstreets.com/2022/06/20/egypt-has-an-internet-issue-nilesat-301-plans-to-fix-that/feed/",
+        "https://egyptianstreets.com/2023/04/09/4-podcasts-delving-into-the-arab-third-culture-kid/feed/",
+        "https://egyptianstreets.com/2023/09/10/4-true-crime-podcasts-by-arab-creators-to-listen-to/feed/",
+        "https://egyptianstreets.com/2023/09/27/from-relationships-to-self-development-here-are-5-egyptian-podcasts-to-keep-on-your-radar/feed/",
+        "https://egyptianstreets.com/2024/05/13/unveiling-the-musical-odyssey-spotifys-journey-into-connection-curation-and-podcast-revolution/feed/",
+        "https://egyptianstreets.com/2024/05/23/spotifys-rhea-chedid-on-the-future-of-podcasts-in-the-middle-east-and-africa/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.333Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "shorouknews.com": {
+      "urls": [
+        "https://www.shorouknews.com/Culture/rss",
+        "https://www.shorouknews.com/columns/rss/",
+        "https://www.shorouknews.com/egypt/rss",
+        "https://www.shorouknews.com/Politics/rss",
+        "https://www.shorouknews.com/tv/rss",
+        "https://www.shorouknews.com/rss/main/",
+        "https://www.shorouknews.com/Politics/world/rss",
+        "https://www.shorouknews.com/variety/rss",
+        "https://www.shorouknews.com/Politics/arab/rss",
+        "https://www.shorouknews.com/sports/rss",
+        "https://www.shorouknews.com/sports/international/rss",
+        "https://www.shorouknews.com/accidents/rss",
+        "https://www.shorouknews.com/sports/local-sports/rss",
+        "https://www.shorouknews.com/art/rss",
+        "https://www.shorouknews.com/local/rss",
+        "https://www.shorouknews.com/Economy/rss",
+        "https://www.shorouknews.com/auto/rss",
+        "https://www.shorouknews.com/variety/health/rss",
+        "https://www.shorouknews.com/Economy/business/rss",
+        "https://www.shorouknews.com/Economy/citizines/rss",
+        "https://www.shorouknews.com/universities/rss",
+        "https://www.shorouknews.com/people-life/animals/rss",
+        "https://www.shorouknews.com/people-life/rss",
+        "https://www.shorouknews.com/variety/sciences/rss",
+        "https://www.shorouknews.com/ladies/rss",
+        "https://www.shorouknews.com/variety/Internet-Comm/rss",
+        "https://www.shorouknews.com/variety/Youth-Edu/rss",
+        "https://www.shorouknews.com/people-life/history/rss",
+        "https://www.shorouknews.com/people-life/trips/rss",
+        "https://www.shorouknews.com/variety/RostomSt/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T21:02:24.140Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "alwafd.news": {
+      "urls": [
+        "https://alwafd.news/feed",
+        "https://alwafd.news/feed/18",
+        "https://alwafd.news/feed/82",
+        "https://www.alwafd.news/rss.aspx",
+        "https://alwafd.news/feed/20",
+        "https://alwafd.news/feed/87",
+        "https://alwafd.news/feed/103",
+        "https://alwafd.news/feed/34",
+        "https://alwafd.news/feed/19",
+        "https://alwafd.news/feed/44",
+        "https://alwafd.news/feed/9",
+        "https://alwafd.news/feed/26",
+        "https://alwafd.news/feed/39",
+        "https://alwafd.news/feed/666",
+        "https://alwafd.news/feed/29",
+        "https://alwafd.news/feed/533",
+        "https://alwafd.news/feed/64",
+        "https://alwafd.news/feed/369",
+        "https://alwafd.news/feed/49",
+        "https://alwafd.news/feed/48",
+        "https://alwafd.news/feed/175",
+        "https://alwafd.news/feed/21",
+        "https://alwafd.news/feed/25",
+        "https://alwafd.news/feed/27",
+        "https://alwafd.news/feed/37",
+        "https://alwafd.news/feed/54",
+        "https://alwafd.news/feed/639",
+        "https://alwafd.news/feed/98"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.135Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vetogate.com": {
+      "urls": [
+        "https://www.vetogate.com/rss.aspx",
+        "https://www.vetogate.com/rss/",
+        "https://www.vetogate.com/RSS/39",
+        "https://www.vetogate.com/RSS/-1",
+        "https://www.vetogate.com/RSS/32",
+        "https://www.vetogate.com/RSS/38",
+        "https://www.vetogate.com/RSS/41",
+        "https://www.vetogate.com/RSS/34",
+        "https://www.vetogate.com/RSS/33",
+        "https://www.vetogate.com/RSS/126",
+        "https://www.vetogate.com/RSS/35",
+        "https://www.vetogate.com/RSS/4085",
+        "https://www.vetogate.com/RSS/37",
+        "https://www.vetogate.com/RSS/40",
+        "https://www.vetogate.com/RSS/926",
+        "https://www.vetogate.com/RSS/931",
+        "https://www.vetogate.com/RSS/4084",
+        "https://www.vetogate.com/RSS/131",
+        "https://www.vetogate.com/RSS/4102",
+        "https://www.vetogate.com/RSS/836",
+        "https://www.vetogate.com/RSS/4086",
+        "https://www.vetogate.com/RSS/42",
+        "https://www.vetogate.com/RSS/463",
+        "https://www.vetogate.com/RSS/3747",
+        "https://www.vetogate.com/RSS/4087",
+        "https://www.vetogate.com/RSS/788"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.147Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "egypt-today.com": {
+      "urls": [
+        "https://www.egypt-today.com/business/rss.xml",
+        "https://www.egypt-today.com/news/rss.xml",
+        "https://www.egypt-today.com/egypt-breakingnews/rss.xml",
+        "https://www.egypt-today.com/entertainment/rss.xml",
+        "https://www.egypt-today.com/sports/rss.xml",
+        "https://www.egypt-today.com/horoscope/rss.xml",
+        "https://www.egypt-today.com/culture/rss.xml",
+        "https://www.egypt-today.com/international-football/rss.xml",
+        "https://www.egypt-today.com/ahly/rss.xml",
+        "https://www.egypt-today.com/arab-football/rss.xml",
+        "https://www.egypt-today.com/auto/rss.xml",
+        "https://www.egypt-today.com/decor/rss.xml",
+        "https://www.egypt-today.com/different-sports/rss.xml",
+        "https://www.egypt-today.com/education/rss.xml",
+        "https://www.egypt-today.com/egypt-football/rss.xml",
+        "https://www.egypt-today.com/egyptian/rss.xml",
+        "https://www.egypt-today.com/environment/rss.xml",
+        "https://www.egypt-today.com/ismaili/rss.xml",
+        "https://www.egypt-today.com/ittihad/rss.xml",
+        "https://www.egypt-today.com/media/rss.xml",
+        "https://www.egypt-today.com/rss_style/rss.xml",
+        "https://www.egypt-today.com/travel/rss.xml",
+        "https://www.egypt-today.com/video/rss.xml",
+        "https://www.egypt-today.com/zamalek/rss.xml",
+        "https://www.egypt-today.com/health/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-01-31T21:02:24.336Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elmogaz.com": {
+      "urls": [
+        "https://www.elmogaz.com/rss.xml",
+        "https://www.elmogaz.com/rss/rss7.xml",
+        "https://www.elmogaz.com/rss/rss12.xml",
+        "https://www.elmogaz.com/rss/rss16.xml",
+        "https://www.elmogaz.com/rss/rss5.xml",
+        "https://www.elmogaz.com/rss/rss6.xml",
+        "https://www.elmogaz.com/rss/rss23.xml",
+        "https://www.elmogaz.com/rss/rss4.xml",
+        "https://www.elmogaz.com/rss/rss2.xml",
+        "https://www.elmogaz.com/rss/rss18.xml",
+        "https://www.elmogaz.com/rss/rss1.xml",
+        "https://www.elmogaz.com/rss/rss22.xml",
+        "https://www.elmogaz.com/rss/rss8.xml",
+        "https://www.elmogaz.com/rss/rss9.xml",
+        "https://www.elmogaz.com/rss/rss15.xml",
+        "https://www.elmogaz.com/rss/rss17.xml",
+        "https://www.elmogaz.com/rss/rss10.xml",
+        "https://www.elmogaz.com/rss/rss11.xml",
+        "https://www.elmogaz.com/rss/rss14.xml",
+        "https://www.elmogaz.com/rss/rss19.xml",
+        "https://www.elmogaz.com/rss/rss20.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.221Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "sabaharabi.com": {
+      "urls": [
+        "https://www.sabaharabi.com/rss/rss6.xml",
+        "https://www.sabaharabi.com/rss.xml",
+        "https://www.sabaharabi.com/rss/rss3.xml",
+        "https://www.sabaharabi.com/rss/rss1.xml",
+        "https://www.sabaharabi.com/rss/rss14.xml",
+        "https://www.sabaharabi.com/rss/rss5.xml",
+        "https://www.sabaharabi.com/rss/rss7.xml",
+        "https://www.sabaharabi.com/rss/rss4.xml",
+        "https://www.sabaharabi.com/rss/rss8.xml",
+        "https://www.sabaharabi.com/rss/rss10.xml",
+        "https://www.sabaharabi.com/rss/rss15.xml",
+        "https://www.sabaharabi.com/rss/rss16.xml",
+        "https://www.sabaharabi.com/rss/rss2.xml",
+        "https://www.sabaharabi.com/rss/rss20.xml",
+        "https://www.sabaharabi.com/rss/rss11.xml",
+        "https://www.sabaharabi.com/rss/rss12.xml",
+        "https://www.sabaharabi.com/rss/rss13.xml",
+        "https://www.sabaharabi.com/rss/rss17.xml",
+        "https://www.sabaharabi.com/rss/rss18.xml",
+        "https://www.sabaharabi.com/rss/rss9.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.253Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "soutalomma.com": {
+      "urls": [
+        "https://www.soutalomma.com/Rss/Section/104",
+        "https://www.soutalomma.com/Rss/Section/1429",
+        "https://www.soutalomma.com/Rss/Section/2",
+        "https://www.soutalomma.com/Rss/Section/37",
+        "https://www.soutalomma.com/Rss/Section/42",
+        "https://www.soutalomma.com/Rss/Section/46",
+        "https://www.soutalomma.com/Rss/Section/47",
+        "http://www.soutalomma.com/Rss/Section/104",
+        "http://www.soutalomma.com/Rss/Section/1429",
+        "http://www.soutalomma.com/Rss/Section/2",
+        "http://www.soutalomma.com/Rss/Section/37",
+        "http://www.soutalomma.com/Rss/Section/42",
+        "http://www.soutalomma.com/Rss/Section/46",
+        "http://www.soutalomma.com/Rss/Section/47"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.279Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "akhbarway.com": {
+      "urls": [
+        "https://www.akhbarway.com/rss-news-elakhbar.asp",
+        "https://www.akhbarway.com/rss-news-nogoom.asp",
+        "https://www.akhbarway.com/rss-news-sports.asp",
+        "https://www.akhbarway.com/rss-news-economy.asp",
+        "https://www.akhbarway.com/rss-news-cars-news.asp",
+        "https://www.akhbarway.com/rss-news-adab.asp",
+        "https://www.akhbarway.com/rss-news-computer.asp",
+        "https://www.akhbarway.com/rss-news-technology.asp",
+        "https://www.akhbarway.com/rss-news-sehha.asp",
+        "https://www.akhbarway.com/rss-photos-news-photos.asp"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.264Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "almogaz.com": {
+      "urls": [
+        "https://almogaz.com/rss",
+        "https://almogaz.com/rss/economy",
+        "https://almogaz.com/rss/politics",
+        "https://almogaz.com/rss/sports",
+        "https://almogaz.com/rss/art-culture",
+        "https://almogaz.com/rss/crime",
+        "https://almogaz.com/rss/talk-show",
+        "https://almogaz.com/rss/tech"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.232Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "almasryalyoum.com": {
+      "urls": [
+        "https://www.almasryalyoum.com/rss/rssfeed",
+        "https://www.almasryalyoum.com/rss/rssfeeds?sectionId=3",
+        "https://www.almasryalyoum.com/rss/rssfeeds",
+        "https://www.almasryalyoum.com/rss/rssfeeds?sectionId=9",
+        "https://www.almasryalyoum.com/rss/rssfeeds?sectionId=4",
+        "https://www.almasryalyoum.com/rss/rssfeeds?sectionId=57"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.124Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "youm7.com": {
+      "urls": [
+        "https://www.youm7.com/rss/SectionRss?SectionID=286",
+        "https://www.youm7.com/rss/SectionRss?SectionID=298",
+        "https://www.youm7.com/rss/SectionRss?SectionID=328",
+        "https://www.youm7.com/rss/SectionRss?SectionID=65",
+        "https://www.youm7.com/rss/SectionRss?SectionID=88",
+        "https://www.youm7.com/rss/SectionRss?SectionID=97"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.128Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "filgoal.com": {
+      "urls": [
+        "https://www.filgoal.com/section/0/rss/%D9%85%D8%B5%D8%B1",
+        "https://www.filgoal.com/section/1/rss/%D9%85%D8%B5%D8%B1",
+        "https://www.filgoal.com/section/3/rss/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
+        "https://www.filgoal.com/section/23/rss/%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
+        "https://www.filgoal.com/section/5/rss/%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%88%D9%86",
+        "https://www.filgoal.com/section/9/rss/%D8%A7%D9%84%D9%88%D8%B7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T21:02:24.299Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "btolat.com": {
+      "urls": [
+        "https://www.btolat.com/rss/newsfeed",
+        "https://www.btolat.com/rss/videosfeed",
+        "https://www.btolat.com/RSS/videosfeed?leagueid=1204",
+        "https://www.btolat.com/rss/Professionalsfeed",
+        "https://www.btolat.com/rss/sectionnewsxml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.306Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "alahalygate.com": {
+      "urls": [
+        "http://alahalygate.com/?feed=rss2",
+        "https://alahalygate.com/feed",
+        "http://alahalygate.com/?feed=comments-rss2",
+        "https://alahalygate.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.160Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "madamasr.com": {
+      "urls": [
+        "https://www.madamasr.com/feed/",
+        "https://madamasr.com/ar/feed/",
+        "https://www.madamasr.com/en/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.175Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "misr5.com": {
+      "urls": [
+        "https://misr5.com/feed/",
+        "http://misr5.com/feed/",
+        "https://misr5.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.218Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "amwalalghad.com": {
+      "urls": [
+        "https://amwalalghad.com/feed/",
+        "https://amwalalghad.com/feed/atom/",
+        "https://amwalalghad.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.296Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "egyptindependent.com": {
+      "urls": [
+        "https://egyptindependent.com/feed/",
+        "https://www.egyptindependent.com/feed/",
+        "https://www.egyptindependent.com/category/egypt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.329Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elfagr.org": {
+      "urls": [
+        "https://www.elfagr.org/rss.aspx",
+        "https://www.elfagr.org/rss.aspx?secidmenu=1"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.150Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "almalnews.com": {
+      "urls": [
+        "https://almalnews.com/feed/",
+        "https://almalnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.154Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elaosboa.com": {
+      "urls": [
+        "https://www.elaosboa.com/feed/",
+        "https://www.elaosboa.com/rss.asp"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.157Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elbalad.news": {
+      "urls": [
+        "https://elbalad.news/rss.aspx",
+        "https://www.elbalad.news/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.167Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "akhbarak.net": {
+      "urls": [
+        "https://akhbarak.net/api/top_news.rss",
+        "https://akhbarak.net/api/news.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.204Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "masress.com": {
+      "urls": [
+        "https://www.masress.com/rss",
+        "https://www.masress.com/en/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.208Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "rassd.com": {
+      "urls": [
+        "https://rassd.com/feed",
+        "https://rassd.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.214Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "washwasha.org": {
+      "urls": [
+        "http://www.washwasha.org/rss.aspx",
+        "https://www.washwasha.org/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.238Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "masralyoum.net": {
+      "urls": [
+        "https://masralyoum.net/rss.html",
+        "https://www.masralyoum.net/rss.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.245Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elbashayer.com": {
+      "urls": [
+        "https://elbashayer.com/feed/",
+        "https://elbashayer.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.271Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ikhwanonline.com": {
+      "urls": [
+        "https://ikhwanonline.com/rss",
+        "http://www.ikhwanonline.com/rss/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.289Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ismailyonline.com": {
+      "urls": [
+        "https://www.ismailyonline.com/feed/?v=0df8da7d28fb",
+        "https://www.ismailyonline.com/comments/feed/?v=0df8da7d28fb"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.309Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "qaliubiya.com": {
+      "urls": [
+        "https://qaliubiya.com/feed/",
+        "https://qaliubiya.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.318Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "mogazmasr.com": {
+      "urls": [
+        "https://www.mogazmasr.com/feed",
+        "https://www.mogazmasr.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.323Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dailynewsegypt.com": {
+      "urls": [
+        "http://www.dailynewsegypt.com/feed/",
+        "https://www.dailynewsegypt.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.326Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "akhbarelyom.com": {
+      "urls": [
+        "https://akhbarelyom.com/RSS/GetSectionNewsRSS/1?SectionID=37"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.114Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elwatannews.com": {
+      "urls": [
+        "https://www.elwatannews.com/home/rssfeeds"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.130Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dostor.org": {
+      "urls": [
+        "https://www.dostor.org/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.132Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "albawabhnews.com": {
+      "urls": [
+        "https://www.albawabhnews.com/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.142Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ngmisr.com": {
+      "urls": [
+        "https://www.ngmisr.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.188Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "propaganda-eg.com": {
+      "urls": [
+        "https://propaganda-eg.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.227Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "fj-p.com": {
+      "urls": [
+        "https://fj-p.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.257Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "almasdar.com": {
+      "urls": [
+        "https://www.almasdar.com/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.283Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "fath-news.com": {
+      "urls": [
+        "https://fath-news.com/ar/news/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.292Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kooora.com": {
+      "urls": [
+        "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T21:02:24.301Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kingfut.com": {
+      "urls": [
+        "http://feeds.feedburner.com/KingFut"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.302Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "stadelahly.net": {
+      "urls": [
+        "https://iq.stadelahly.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.311Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tv.koorabia.com": {
+      "urls": [
+        "https://tv.koorabia.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.313Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cairo24.com": {
+      "urls": [
+        "https://www.cairo24.com/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.315Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "wataninet.com": {
+      "urls": [
+        "https://www.wataninet.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:24.320Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

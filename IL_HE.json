@@ -1,0 +1,3969 @@
+{
+  "country_code": "IL",
+  "language_code": "HE",
+  "total_domains": 164,
+  "total_feeds": 1665,
+  "feeds": {
+    "www.maariv.co.il": {
+      "urls": [
+        "https://www.maariv.co.il/Rss/RssChadashot",
+        "https://www.maariv.co.il/Rss/RssCorona",
+        "https://www.maariv.co.il/Rss/RssCoronaIsrael",
+        "https://www.maariv.co.il/Rss/RssCoronaWorld",
+        "https://www.maariv.co.il/Rss/RssEducation",
+        "https://www.maariv.co.il/Rss/RssElections2021",
+        "https://www.maariv.co.il/Rss/RssElections2022",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%93%D7%A2%D7%95%D7%AA",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%94%D7%95%D7%AA%D7%99%D7%A7%D7%99%D7%9D%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%94%D7%A4%D7%A8%D7%9C%D7%9E%D7%A0%D7%98",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%97%D7%99%D7%99%D7%9D%D7%91%D7%A8%D7%99%D7%90%D7%99%D7%9D",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%9E%D7%98%D7%91-%D7%9E%D7%97%D7%96%D7%99%D7%A8%D7%99%D7%9D%D7%90%D7%94%D7%91%D7%94",
+        "https://www.maariv.co.il/Rss/RssFeedsAllNews?id=msn",
+        "https://www.maariv.co.il/Rss/RssFeedsAnafimNosafim",
+        "https://www.maariv.co.il/Rss/RssFeedsAsakim",
+        "https://www.maariv.co.il/Rss/RssFeedsAsakimBaOlam",
+        "https://www.maariv.co.il/Rss/RssFeedsAstrology",
+        "https://www.maariv.co.il/Rss/RssFeedsBetweenNews",
+        "https://www.maariv.co.il/Rss/RssFeedsBriotVeYeoz",
+        "https://www.maariv.co.il/Rss/RssFeedsChadashotBaArez",
+        "https://www.maariv.co.il/Rss/RssFeedsChadashotBaOlam",
+        "https://www.maariv.co.il/Rss/RssFeedsDafHabit",
+        "https://www.maariv.co.il/Rss/RssFeedsDiy",
+        "https://www.maariv.co.il/Rss/RssFeedsEnvironment",
+        "https://www.maariv.co.il/Rss/RssFeedsHanivcheret",
+        "https://www.maariv.co.il/Rss/RssFeedsHanivcheret?BeforeArticleID=0",
+        "https://www.maariv.co.il/Rss/RssFeedsKadoregelIsreal",
+        "https://www.maariv.co.il/Rss/RssFeedsKadoregelOlami",
+        "https://www.maariv.co.il/Rss/RssFeedsKadorsal",
+        "https://www.maariv.co.il/Rss/RssFeedsKalkalaBaArez",
+        "https://www.maariv.co.il/Rss/RssFeedsKolnoa",
+        "https://www.maariv.co.il/Rss/RssFeedsLayfStyle",
+        "https://www.maariv.co.il/Rss/RssFeedsMivzakiChadashot",
+        "https://www.maariv.co.il/Rss/RssFeedsMozika",
+        "https://www.maariv.co.il/Rss/RssFeedsNadlan",
+        "https://www.maariv.co.il/Rss/RssFeedsNewParents",
+        "https://www.maariv.co.il/Rss/RssFeedsNewThe-Experts",
+        "https://www.maariv.co.il/Rss/RssFeedsOchel",
+        "https://www.maariv.co.il/Rss/RssFeedsOfna",
+        "https://www.maariv.co.il/Rss/RssFeedsOmanotVeBama",
+        "https://www.maariv.co.il/Rss/RssFeedsOpinions",
+        "https://www.maariv.co.il/Rss/RssFeedsPolitiMedini",
+        "https://www.maariv.co.il/Rss/RssFeedsRechev",
+        "https://www.maariv.co.il/Rss/RssFeedsSafrot",
+        "https://www.maariv.co.il/Rss/RssFeedsSport",
+        "https://www.maariv.co.il/Rss/RssFeedsTMI",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIBidurNews",
+        "https://www.maariv.co.il/Rss/RssFeedsTMICelebsNews",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIFashion",
+        "https://www.maariv.co.il/Rss/RssFeedsTMILounge",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIRedCarpet",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIStyle",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIWorldCelebs",
+        "https://www.maariv.co.il/Rss/RssFeedsTarbot",
+        "https://www.maariv.co.il/Rss/RssFeedsTayarot",
+        "https://www.maariv.co.il/Rss/RssFeedsTechnologeya",
+        "https://www.maariv.co.il/Rss/RssFeedsTechnologeya?BeforeArticleID=0",
+        "https://www.maariv.co.il/Rss/RssFeedsTelevizya",
+        "https://www.maariv.co.il/Rss/RssFeedsUSElections",
+        "https://www.maariv.co.il/Rss/RssFeedsWeather",
+        "https://www.maariv.co.il/Rss/RssFeedsZarchanot",
+        "https://www.maariv.co.il/Rss/RssFeedsZavaVeBetachon",
+        "https://www.maariv.co.il/Rss/RssFeedssignonmaariv",
+        "https://www.maariv.co.il/Rss/RssFoodNews",
+        "https://www.maariv.co.il/Rss/RssHamekomon",
+        "https://www.maariv.co.il/Rss/RssInvestmentHouse",
+        "https://www.maariv.co.il/Rss/RssMishpat",
+        "https://www.maariv.co.il/Rss/RssPoalim",
+        "https://www.maariv.co.il/Rss/RssSanedrink",
+        "https://www.maariv.co.il/Rss/Rssjewishism",
+        "https://www.maariv.co.il/Rss/RssjewishismBlessing",
+        "https://www.maariv.co.il/Rss/RssjewishismHolidays",
+        "https://www.maariv.co.il/Rss/RssjewishismParashatHasavua",
+        "https://www.maariv.co.il/Rss/Rsswomen",
+        "https://www.maariv.co.il/rss/rsschadashot",
+        "https://www.maariv.co.il/rss/rsscorona",
+        "https://www.maariv.co.il/rss/rsscoronaisrael",
+        "https://www.maariv.co.il/rss/rsscoronaworld",
+        "https://www.maariv.co.il/rss/rsseducation",
+        "https://www.maariv.co.il/rss/rsselections2021",
+        "https://www.maariv.co.il/rss/rsselections2022",
+        "https://www.maariv.co.il/rss/rssfeedsallnews?id=msn",
+        "https://www.maariv.co.il/rss/rssfeedsanafimnosafim",
+        "https://www.maariv.co.il/rss/rssfeedsasakim",
+        "https://www.maariv.co.il/rss/rssfeedsasakimbaolam",
+        "https://www.maariv.co.il/rss/rssfeedsastrology",
+        "https://www.maariv.co.il/rss/rssfeedsbetweennews",
+        "https://www.maariv.co.il/rss/rssfeedsbriotveyeoz",
+        "https://www.maariv.co.il/rss/rssfeedschadashotbaarez",
+        "https://www.maariv.co.il/rss/rssfeedschadashotbaolam",
+        "https://www.maariv.co.il/rss/rssfeedsdiy",
+        "https://www.maariv.co.il/rss/rssfeedsenvironment",
+        "https://www.maariv.co.il/rss/rssfeedshanivcheret?BeforeArticleID=0",
+        "https://www.maariv.co.il/rss/rssfeedskadoregelisreal",
+        "https://www.maariv.co.il/rss/rssfeedskadoregelolami",
+        "https://www.maariv.co.il/rss/rssfeedskadorsal",
+        "https://www.maariv.co.il/rss/rssfeedskalkalabaarez",
+        "https://www.maariv.co.il/rss/rssfeedskolnoa",
+        "https://www.maariv.co.il/rss/rssfeedslayfstyle",
+        "https://www.maariv.co.il/rss/rssfeedsmivzakichadashot",
+        "https://www.maariv.co.il/rss/rssfeedsmozika",
+        "https://www.maariv.co.il/rss/rssfeedsnadlan",
+        "https://www.maariv.co.il/rss/rssfeedsnewparents",
+        "https://www.maariv.co.il/rss/rssfeedsnewthe-experts",
+        "https://www.maariv.co.il/rss/rssfeedsochel",
+        "https://www.maariv.co.il/rss/rssfeedsofna",
+        "https://www.maariv.co.il/rss/rssfeedsomanotvebama",
+        "https://www.maariv.co.il/rss/rssfeedsopinions",
+        "https://www.maariv.co.il/rss/rssfeedspolitimedini",
+        "https://www.maariv.co.il/rss/rssfeedsrechev",
+        "https://www.maariv.co.il/rss/rssfeedssafrot",
+        "https://www.maariv.co.il/rss/rssfeedssignonmaariv",
+        "https://www.maariv.co.il/rss/rssfeedssport",
+        "https://www.maariv.co.il/rss/rssfeedstarbot",
+        "https://www.maariv.co.il/rss/rssfeedstayarot",
+        "https://www.maariv.co.il/rss/rssfeedstechnologeya",
+        "https://www.maariv.co.il/rss/rssfeedstelevizya",
+        "https://www.maariv.co.il/rss/rssfeedstmi",
+        "https://www.maariv.co.il/rss/rssfeedstmibidurnews",
+        "https://www.maariv.co.il/rss/rssfeedstmicelebsnews",
+        "https://www.maariv.co.il/rss/rssfeedstmifashion",
+        "https://www.maariv.co.il/rss/rssfeedstmilounge",
+        "https://www.maariv.co.il/rss/rssfeedstmiredcarpet",
+        "https://www.maariv.co.il/rss/rssfeedstmistyle",
+        "https://www.maariv.co.il/rss/rssfeedstmiworldcelebs",
+        "https://www.maariv.co.il/rss/rssfeedsuselections",
+        "https://www.maariv.co.il/rss/rssfeedsweather",
+        "https://www.maariv.co.il/rss/rssfeedszarchanot",
+        "https://www.maariv.co.il/rss/rssfeedszavavebetachon",
+        "https://www.maariv.co.il/rss/rssfoodnews",
+        "https://www.maariv.co.il/rss/rsshamekomon",
+        "https://www.maariv.co.il/rss/rssinvestmenthouse",
+        "https://www.maariv.co.il/rss/rssjewishism",
+        "https://www.maariv.co.il/rss/rssjewishismblessing",
+        "https://www.maariv.co.il/rss/rssjewishismholidays",
+        "https://www.maariv.co.il/rss/rssjewishismparashathasavua",
+        "https://www.maariv.co.il/rss/rssmishpat",
+        "https://www.maariv.co.il/rss/rsspoalim",
+        "https://www.maariv.co.il/rss/rsssanedrink",
+        "https://www.maariv.co.il/rss/rsswomen"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1772,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:49.058Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rcs.mako.co.il": {
+      "urls": [
+        "https://rcs.mako.co.il/rss/01d6f746ac06a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/02b84648d8935310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/0507916206b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/0adecd1ad4980310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/0dace76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/0e09846fe904e310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/102121c49d4fb310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/11a8a3b9d6b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/12bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/1369950ef2666110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/1724492c28b99310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/17cb5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/1974a359d166a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/1fb01f1cf23ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/3048a3b9d6b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/31750a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/33450a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/402bc3bdc7f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/46bbe76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/483b5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/4b0a5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/57bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/57f04f3e3a42e210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/5c015aadbb04e310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/5e636ce74879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/664fc865ef6ac510VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/6b7d25e732e7f110VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/6c311f1cf23ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/6f72069920929310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/70d04f3e3a42e210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/7489373c71380310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/75b6903202288210VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/75c54ce0c957a210VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/7dfd5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/87b50a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/8edf6a16b298a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/MainSliderRss.xml",
+        "https://rcs.mako.co.il/rss/Sports-football-il.xml",
+        "https://rcs.mako.co.il/rss/Sports-football-world.xml",
+        "https://rcs.mako.co.il/rss/a6066a16b298a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/ac76916206b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/ac8c5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/ae121f1cf23ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/ae850a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/b3bf20b1f9349310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/b7e21f1cf23ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/b7f7bb4ad8893210VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/bb43a03e22e78110VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/bd6aef0ee879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/be214f3e3a42e210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/bip.xml",
+        "https://rcs.mako.co.il/rss/c178a3b9d6b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/c3496ce74879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/c7250a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/c7a987610879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/c827a3ef43336410VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/cd0c4e8fc83b8310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/cf404569c706a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/d15366647c929310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/d228a3b9d6b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/d32c18c53a893210VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/d77fef0d59880310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/da4c5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/dac23afee62ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/e660f6707b04e310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/e6f4709fe5c3c110VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/f6750a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/food-cooking_magazine.xml",
+        "https://rcs.mako.co.il/rss/food-cooking_school.xml",
+        "https://rcs.mako.co.il/rss/food-recipes.xml",
+        "https://rcs.mako.co.il/rss/food-restaurants.xml",
+        "https://rcs.mako.co.il/rss/home-family-babies.xml",
+        "https://rcs.mako.co.il/rss/home-family-kids.xml",
+        "https://rcs.mako.co.il/rss/home-family-relationship.xml",
+        "https://rcs.mako.co.il/rss/home-family-toddlers.xml",
+        "https://rcs.mako.co.il/rss/makoTVNewest.xml",
+        "https://rcs.mako.co.il/rss/makoTVPopular.xml",
+        "https://rcs.mako.co.il/rss/men-magazine.xml",
+        "https://rcs.mako.co.il/rss/men-mirror.xml",
+        "https://rcs.mako.co.il/rss/men-sex.xml",
+        "https://rcs.mako.co.il/rss/music-Magazine.xml",
+        "https://rcs.mako.co.il/rss/news-channel2.xml",
+        "https://rcs.mako.co.il/rss/news-israel.xml",
+        "https://rcs.mako.co.il/rss/news-law.xml",
+        "https://rcs.mako.co.il/rss/news-money.xml",
+        "https://rcs.mako.co.il/rss/news-world.xml",
+        "https://rcs.mako.co.il/rss/ninemonth.xml",
+        "https://rcs.mako.co.il/rss/spirituality-newage.xml",
+        "https://rcs.mako.co.il/rss/spirituality-popular_culture.xml",
+        "https://rcs.mako.co.il/rss/spirituality-self-improvement.xml",
+        "https://rcs.mako.co.il/rss/travel-israel.xml",
+        "https://rcs.mako.co.il/rss/travel-news.xml",
+        "https://rcs.mako.co.il/rss/tv-bigbrother.xml",
+        "https://rcs.mako.co.il/rss/tv-erez-nehederet.xml",
+        "https://rcs.mako.co.il/rss/tv-ilana_dayan.xml",
+        "https://rcs.mako.co.il/rss/tv-starisborn.xml",
+        "https://rcs.mako.co.il/rss/women-beauty.xml",
+        "https://rcs.mako.co.il/rss/women-sex_and_love.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 994,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:39.470Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "maariv.co.il": {
+      "urls": [
+        "https://www.maariv.co.il/Rss/RssChadashot",
+        "https://www.maariv.co.il/Rss/RssCorona",
+        "https://www.maariv.co.il/Rss/RssCoronaIsrael",
+        "https://www.maariv.co.il/Rss/RssCoronaWorld",
+        "https://www.maariv.co.il/Rss/RssEducation",
+        "https://www.maariv.co.il/Rss/RssElections2021",
+        "https://www.maariv.co.il/Rss/RssElections2022",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%93%D7%A2%D7%95%D7%AA",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%94%D7%95%D7%AA%D7%99%D7%A7%D7%99%D7%9D%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%94%D7%A4%D7%A8%D7%9C%D7%9E%D7%A0%D7%98",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%97%D7%99%D7%99%D7%9D%D7%91%D7%A8%D7%99%D7%90%D7%99%D7%9D",
+        "https://www.maariv.co.il/Rss/RssFeeds%D7%9E%D7%98%D7%91-%D7%9E%D7%97%D7%96%D7%99%D7%A8%D7%99%D7%9D%D7%90%D7%94%D7%91%D7%94",
+        "https://www.maariv.co.il/Rss/RssFeedsAllNews?id=msn",
+        "https://www.maariv.co.il/Rss/RssFeedsAnafimNosafim",
+        "https://www.maariv.co.il/Rss/RssFeedsAsakim",
+        "https://www.maariv.co.il/Rss/RssFeedsAsakimBaOlam",
+        "https://www.maariv.co.il/Rss/RssFeedsAstrology",
+        "https://www.maariv.co.il/Rss/RssFeedsBetweenNews",
+        "https://www.maariv.co.il/Rss/RssFeedsBriotVeYeoz",
+        "https://www.maariv.co.il/Rss/RssFeedsChadashotBaArez",
+        "https://www.maariv.co.il/Rss/RssFeedsChadashotBaOlam",
+        "https://www.maariv.co.il/Rss/RssFeedsDafHabit",
+        "https://www.maariv.co.il/Rss/RssFeedsDiy",
+        "https://www.maariv.co.il/Rss/RssFeedsEnvironment",
+        "https://www.maariv.co.il/Rss/RssFeedsHanivcheret",
+        "https://www.maariv.co.il/Rss/RssFeedsHanivcheret?BeforeArticleID=0",
+        "https://www.maariv.co.il/Rss/RssFeedsKadoregelIsreal",
+        "https://www.maariv.co.il/Rss/RssFeedsKadoregelOlami",
+        "https://www.maariv.co.il/Rss/RssFeedsKadorsal",
+        "https://www.maariv.co.il/Rss/RssFeedsKalkalaBaArez",
+        "https://www.maariv.co.il/Rss/RssFeedsKolnoa",
+        "https://www.maariv.co.il/Rss/RssFeedsLayfStyle",
+        "https://www.maariv.co.il/Rss/RssFeedsMivzakiChadashot",
+        "https://www.maariv.co.il/Rss/RssFeedsMozika",
+        "https://www.maariv.co.il/Rss/RssFeedsNadlan",
+        "https://www.maariv.co.il/Rss/RssFeedsNewParents",
+        "https://www.maariv.co.il/Rss/RssFeedsNewThe-Experts",
+        "https://www.maariv.co.il/Rss/RssFeedsOchel",
+        "https://www.maariv.co.il/Rss/RssFeedsOfna",
+        "https://www.maariv.co.il/Rss/RssFeedsOmanotVeBama",
+        "https://www.maariv.co.il/Rss/RssFeedsOpinions",
+        "https://www.maariv.co.il/Rss/RssFeedsPolitiMedini",
+        "https://www.maariv.co.il/Rss/RssFeedsRechev",
+        "https://www.maariv.co.il/Rss/RssFeedsSafrot",
+        "https://www.maariv.co.il/Rss/RssFeedsSport",
+        "https://www.maariv.co.il/Rss/RssFeedsTMI",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIBidurNews",
+        "https://www.maariv.co.il/Rss/RssFeedsTMICelebsNews",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIFashion",
+        "https://www.maariv.co.il/Rss/RssFeedsTMILounge",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIRedCarpet",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIStyle",
+        "https://www.maariv.co.il/Rss/RssFeedsTMIWorldCelebs",
+        "https://www.maariv.co.il/Rss/RssFeedsTarbot",
+        "https://www.maariv.co.il/Rss/RssFeedsTayarot",
+        "https://www.maariv.co.il/Rss/RssFeedsTechnologeya",
+        "https://www.maariv.co.il/Rss/RssFeedsTechnologeya?BeforeArticleID=0",
+        "https://www.maariv.co.il/Rss/RssFeedsTelevizya",
+        "https://www.maariv.co.il/Rss/RssFeedsUSElections",
+        "https://www.maariv.co.il/Rss/RssFeedsWeather",
+        "https://www.maariv.co.il/Rss/RssFeedsZarchanot",
+        "https://www.maariv.co.il/Rss/RssFeedsZavaVeBetachon",
+        "https://www.maariv.co.il/Rss/RssFeedssignonmaariv",
+        "https://www.maariv.co.il/Rss/RssHamekomon",
+        "https://www.maariv.co.il/Rss/RssInvestmentHouse",
+        "https://www.maariv.co.il/Rss/RssMishpat",
+        "https://www.maariv.co.il/Rss/RssPoalim",
+        "https://www.maariv.co.il/Rss/RssSanedrink",
+        "https://www.maariv.co.il/Rss/Rssjewishism",
+        "https://www.maariv.co.il/Rss/RssjewishismBlessing",
+        "https://www.maariv.co.il/Rss/RssjewishismHolidays",
+        "https://www.maariv.co.il/Rss/RssjewishismParashatHasavua",
+        "https://www.maariv.co.il/Rss/Rsswomen"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1659,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:11.366Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mobile.mako.co.il": {
+      "urls": [
+        "https://rcs.mako.co.il/rss/12bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/46bbe76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/57bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/5e636ce74879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/664fc865ef6ac510VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/bd6aef0ee879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/c3496ce74879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/c7250a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/c7a987610879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/dac23afee62ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/e6f4709fe5c3c110VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/f6750a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/food-cooking_magazine.xml",
+        "https://rcs.mako.co.il/rss/food-recipes.xml",
+        "https://rcs.mako.co.il/rss/food-restaurants.xml",
+        "https://storage.googleapis.com/mako-sitemaps/breaking-news.xml",
+        "https://storage.googleapis.com/mako-sitemaps/rss-fashionforward.xml",
+        "https://storage.googleapis.com/mako-sitemaps/rssWebSub.xml",
+        "https://storage.googleapis.com/mako-sitemaps/video-rss-mako.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1174,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:16.179Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.nadlancenter.co.il": {
+      "urls": [
+        "https://www.nadlancenter.co.il/rss/category/1762",
+        "https://www.nadlancenter.co.il/rss/category/1764",
+        "https://www.nadlancenter.co.il/rss/category/1765",
+        "https://www.nadlancenter.co.il/rss/category/1766",
+        "https://www.nadlancenter.co.il/rss/category/1768",
+        "https://www.nadlancenter.co.il/rss/category/182",
+        "https://www.nadlancenter.co.il/rss/category/23",
+        "https://www.nadlancenter.co.il/rss/category/24",
+        "https://www.nadlancenter.co.il/rss/category/25",
+        "https://www.nadlancenter.co.il/rss/category/3",
+        "https://www.nadlancenter.co.il/rss/category/398",
+        "https://www.nadlancenter.co.il/rss/category/520",
+        "https://www.nadlancenter.co.il/rss/category/574",
+        "https://www.nadlancenter.co.il/rss/main",
+        "https://www.nadlancenter.co.il/rss/main_new/398",
+        "https://www.nadlancenter.co.il/rss/vod"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1128,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:54.533Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nadlancenter.co.il": {
+      "urls": [
+        "https://www.nadlancenter.co.il/rss/category/1762",
+        "https://www.nadlancenter.co.il/rss/category/1764",
+        "https://www.nadlancenter.co.il/rss/category/1765",
+        "https://www.nadlancenter.co.il/rss/category/1766",
+        "https://www.nadlancenter.co.il/rss/category/1768",
+        "https://www.nadlancenter.co.il/rss/category/182",
+        "https://www.nadlancenter.co.il/rss/category/23",
+        "https://www.nadlancenter.co.il/rss/category/24",
+        "https://www.nadlancenter.co.il/rss/category/25",
+        "https://www.nadlancenter.co.il/rss/category/3",
+        "https://www.nadlancenter.co.il/rss/category/398",
+        "https://www.nadlancenter.co.il/rss/category/520",
+        "https://www.nadlancenter.co.il/rss/category/574",
+        "https://www.nadlancenter.co.il/rss/main",
+        "https://www.nadlancenter.co.il/rss/main_new/398",
+        "https://www.nadlancenter.co.il/rss/vod"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1898,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:18.420Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ynet.co.il": {
+      "urls": [
+        "http://www.ynet.co.il/Integration/StoryRss1854.xml",
+        "http://www.ynet.co.il/Integration/StoryRss2.xml",
+        "http://www.ynet.co.il/Integration/StoryRss3082.xml",
+        "http://www.ynet.co.il/Integration/StoryRss3254.xml",
+        "http://www.ynet.co.il/Integration/StoryRss544.xml",
+        "http://www.ynet.co.il/Integration/StoryRss6.xml",
+        "https://www.ynet.co.il/Integration/StoryRss1854.xml",
+        "https://www.ynet.co.il/Integration/StoryRss2.xml",
+        "https://www.ynet.co.il/Integration/StoryRss3082.xml",
+        "https://www.ynet.co.il/Integration/StoryRss544.xml",
+        "https://www.ynet.co.il/Integration/StoryRss6.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 44,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:22.880Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.ynet.co.il": {
+      "urls": [
+        "http://www.ynet.co.il/Integration/StoryRss1854.xml",
+        "http://www.ynet.co.il/Integration/StoryRss2.xml",
+        "http://www.ynet.co.il/Integration/StoryRss3082.xml",
+        "http://www.ynet.co.il/Integration/StoryRss3254.xml",
+        "http://www.ynet.co.il/Integration/StoryRss544.xml",
+        "http://www.ynet.co.il/Integration/StoryRss6.xml",
+        "https://www.ynet.co.il/Integration/StoryRss1854.xml",
+        "https://www.ynet.co.il/Integration/StoryRss2.xml",
+        "https://www.ynet.co.il/Integration/StoryRss3082.xml",
+        "https://www.ynet.co.il/Integration/StoryRss544.xml",
+        "https://www.ynet.co.il/Integration/StoryRss6.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 161,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:22.043Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.jdn.co.il": {
+      "urls": [
+        "https://www.jdn.co.il/blog/2257163/feed/",
+        "https://www.jdn.co.il/blog/2288200/feed/",
+        "https://www.jdn.co.il/blog/2292511/feed/",
+        "https://www.jdn.co.il/blog/2292546/feed/",
+        "https://www.jdn.co.il/blog/2292718/feed/",
+        "https://www.jdn.co.il/blog/2417101/feed/",
+        "https://www.jdn.co.il/blog/2529070/feed/",
+        "https://www.jdn.co.il/category/blog/feed/",
+        "https://www.jdn.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 370,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:42.092Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jdn.co.il": {
+      "urls": [
+        "https://www.jdn.co.il/blog/2257163/feed/",
+        "https://www.jdn.co.il/blog/2288200/feed/",
+        "https://www.jdn.co.il/blog/2292511/feed/",
+        "https://www.jdn.co.il/blog/2292546/feed/",
+        "https://www.jdn.co.il/blog/2292718/feed/",
+        "https://www.jdn.co.il/blog/2417101/feed/",
+        "https://www.jdn.co.il/category/blog/feed/",
+        "https://www.jdn.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1869,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:04.096Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.haaretz.co.il": {
+      "urls": [
+        "https://www.haaretz.co.il/cmlink/%D7%90%D7%95%D7%9C%D7%99-%D7%A4%D7%A1%D7%A4%D7%A1%D7%AA%D7%9D-1.9245472",
+        "https://www.haaretz.co.il/cmlink/%D7%A1%D7%91%D7%99%D7%91%D7%94-%D7%95%D7%91%D7%A2%D7%9C%D7%99-%D7%97%D7%99%D7%99%D7%9D-1.9243353",
+        "https://www.haaretz.co.il/cmlink/developer-facebook-rss-1.2900942",
+        "https://www.haaretz.co.il/cmlink/editors-dashboard-htz-1.8225589",
+        "https://www.haaretz.co.il/cmlink/facebook-rss-feed-1.10403504",
+        "https://www.haaretz.co.il/cmlink/o-facebook-rss-feed-1.2884490"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 191,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:36.264Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haaretz.co.il": {
+      "urls": [
+        "https://www.haaretz.co.il/cmlink/%D7%90%D7%95%D7%9C%D7%99-%D7%A4%D7%A1%D7%A4%D7%A1%D7%AA%D7%9D-1.9245472",
+        "https://www.haaretz.co.il/cmlink/%D7%A1%D7%91%D7%99%D7%91%D7%94-%D7%95%D7%91%D7%A2%D7%9C%D7%99-%D7%97%D7%99%D7%99%D7%9D-1.9243353",
+        "https://www.haaretz.co.il/cmlink/developer-facebook-rss-1.2900942",
+        "https://www.haaretz.co.il/cmlink/editors-dashboard-htz-1.8225589",
+        "https://www.haaretz.co.il/cmlink/facebook-rss-feed-1.10403504",
+        "https://www.haaretz.co.il/cmlink/o-facebook-rss-feed-1.2884490"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 306,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:51.443Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.hayadan.org.il": {
+      "urls": [
+        "https://www.hayadan.org.il/category/biology/brain/feed",
+        "https://www.hayadan.org.il/category/biology/medicine/feed",
+        "https://www.hayadan.org.il/category/society/history/feed",
+        "https://www.hayadan.org.il/category/technology/feed",
+        "https://www.hayadan.org.il/erez-ezion-podcast-jan-2025/feed",
+        "https://www.hayadan.org.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1279,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:38.822Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.globes.co.il": {
+      "urls": [
+        "https://www.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederKeyword?iID=1397",
+        "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225",
+        "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585",
+        "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607",
+        "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=821"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 358,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:32.429Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.kipa.co.il": {
+      "urls": [
+        "http://www.kipa.co.il/feed/",
+        "http://www.kipa.co.il/feed/%D7%97%D7%93%D7%A9%D7%95%D7%AA/",
+        "https://www.kipa.co.il/!bilder/_xml/jew.xml",
+        "https://www.kipa.co.il/!bilder/_xml/news.xml",
+        "https://www.kipa.co.il/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:46.066Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kipa.co.il": {
+      "urls": [
+        "http://www.kipa.co.il/feed/",
+        "http://www.kipa.co.il/feed/%D7%97%D7%93%D7%A9%D7%95%D7%AA/",
+        "https://www.kipa.co.il/!bilder/_xml/jew.xml",
+        "https://www.kipa.co.il/!bilder/_xml/news.xml",
+        "https://www.kipa.co.il/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1427,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:06.758Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "a.kikar.co.il": {
+      "urls": [
+        "https://a.kikar.co.il/v1/rss/articles/221/rss2",
+        "https://a.kikar.co.il/v1/rss/articles/233/rss2",
+        "https://a.kikar.co.il/v1/rss/articles/327/rss2",
+        "https://a.kikar.co.il/v1/rss/articles/latest/rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1125,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:06.353Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.kikar.co.il": {
+      "urls": [
+        "https://a.kikar.co.il/v1/rss/articles/221/rss2",
+        "https://a.kikar.co.il/v1/rss/articles/233/rss2",
+        "https://a.kikar.co.il/v1/rss/articles/327/rss2",
+        "https://a.kikar.co.il/v1/rss/articles/latest/rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1156,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:44.244Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "globes.co.il": {
+      "urls": [
+        "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225",
+        "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585",
+        "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 359,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:47.110Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.cartube.co.il": {
+      "urls": [
+        "https://www.cartube.co.il/?format=feed&type=atom",
+        "https://www.cartube.co.il/?format=feed&type=rss",
+        "https://www.cartube.co.il/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 820,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:27.145Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bhol.co.il": {
+      "urls": [
+        "https://www.bhol.co.il/RssPage.aspx?src=site",
+        "https://www.bhol.co.il/rss/index.xml",
+        "https://www.bhol.co.il/rss/index.xml?src=site"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 965,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:16.290Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.bhol.co.il": {
+      "urls": [
+        "https://www.bhol.co.il/RssPage.aspx?src=site",
+        "https://www.bhol.co.il/rss/index.xml",
+        "https://www.bhol.co.il/rss/index.xml?src=site"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1012,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:25.704Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cartube.co.il": {
+      "urls": [
+        "https://www.cartube.co.il/?format=feed&type=atom",
+        "https://www.cartube.co.il/?format=feed&type=rss",
+        "https://www.cartube.co.il/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1189,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:21.860Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "inn.co.il": {
+      "urls": [
+        "https://www.inn.co.il/Rss.aspx",
+        "https://www.inn.co.il/Rss.aspx?act=0.1"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 185,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:00.222Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.inn.co.il": {
+      "urls": [
+        "https://www.inn.co.il/Rss.aspx",
+        "https://www.inn.co.il/Rss.aspx?act=0.1"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 313,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:41.546Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "en.globes.co.il": {
+      "urls": [
+        "https://en.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942",
+        "https://en.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 514,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:33.185Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.vgames.co.il": {
+      "urls": [
+        "https://vgames.co.il/rss",
+        "https://www.vgames.co.il/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1008,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:21.823Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "one.co.il": {
+      "urls": [
+        "https://www.one.co.il/RSS/Winner",
+        "https://www.one.co.il/cat/coop/xml/rss/newsfeed.aspx"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1162,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:32.433Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ch10.co.il": {
+      "urls": [
+        "http://ch10.co.il/feed/",
+        "https://ch10.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1180,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:23.248Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vgames.co.il": {
+      "urls": [
+        "https://vgames.co.il/rss",
+        "https://www.vgames.co.il/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1258,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:20.697Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.one.co.il": {
+      "urls": [
+        "https://www.one.co.il/RSS/Winner",
+        "https://www.one.co.il/cat/coop/xml/rss/newsfeed.aspx"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1564,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:01.853Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aurora-israel.co.il": {
+      "urls": [
+        "https://aurora-israel.co.il/feed/",
+        "https://www.aurora-israel.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2255,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:11.881Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.aurora-israel.co.il": {
+      "urls": [
+        "https://aurora-israel.co.il/feed/",
+        "https://www.aurora-israel.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2512,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:23.356Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.makorrishon.co.il": {
+      "urls": [
+        "https://www.makorrishon.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 45,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:51.727Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.davar1.co.il": {
+      "urls": [
+        "https://www.davar1.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 47,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:27.192Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.israelhayom.co.il": {
+      "urls": [
+        "https://www.israelhayom.co.il/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 130,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:41.676Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.phr.org.il": {
+      "urls": [
+        "https://www.phr.org.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 317,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:02.365Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "israelhayom.co.il": {
+      "urls": [
+        "https://www.israelhayom.co.il/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 392,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:00.614Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "phr.org.il": {
+      "urls": [
+        "https://www.phr.org.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 443,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:34.509Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zman.co.il": {
+      "urls": [
+        "https://www.zman.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 534,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:23.414Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.mekomit.co.il": {
+      "urls": [
+        "https://www.mekomit.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 608,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:52.335Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "davar1.co.il": {
+      "urls": [
+        "https://www.davar1.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 615,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:29.801Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "timeout.co.il": {
+      "urls": [
+        "https://timeout.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 651,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:16.073Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zoha.org.il": {
+      "urls": [
+        "https://zoha.org.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 660,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:24.074Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.ptnews.co.il": {
+      "urls": [
+        "https://www.ptnews.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 746,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:04.650Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.zman.co.il": {
+      "urls": [
+        "https://www.zman.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 791,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:22.835Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.ice.co.il": {
+      "urls": [
+        "https://www.ice.co.il/rss/velvet"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 830,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:41.179Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mekomit.co.il": {
+      "urls": [
+        "https://www.mekomit.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 856,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:13.213Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.ha-makom.co.il": {
+      "urls": [
+        "https://www.ha-makom.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 954,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:35.743Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "blinker.co.il": {
+      "urls": [
+        "https://blinker.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 994,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:17.640Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ha-makom.co.il": {
+      "urls": [
+        "https://www.ha-makom.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1024,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:50.794Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kvishim.co.il": {
+      "urls": [
+        "https://kvishim.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1026,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:07.892Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "br7news.co.il": {
+      "urls": [
+        "https://br7news.co.il/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1124,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:20.176Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ononews.co.il": {
+      "urls": [
+        "https://ononews.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1258,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:33.691Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.harish.co.il": {
+      "urls": [
+        "https://www.harish.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1276,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:37.540Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newzim.co.il": {
+      "urls": [
+        "https://newzim.co.il/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1331,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:26.215Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mida.org.il": {
+      "urls": [
+        "https://mida.org.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1344,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:14.747Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ashdodonline.co.il": {
+      "urls": [
+        "https://ashdodonline.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1377,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:09.163Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ashdod10.co.il": {
+      "urls": [
+        "https://ashdod10.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1432,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:07.785Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.ias.co.il": {
+      "urls": [
+        "https://www.ias.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1453,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:40.349Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ptnews.co.il": {
+      "urls": [
+        "https://www.ptnews.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1488,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:38.400Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.evm.co.il": {
+      "urls": [
+        "https://www.evm.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1496,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:30.320Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ice.co.il": {
+      "urls": [
+        "https://www.ice.co.il/rss/velvet"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1503,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:56.384Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "prtfl.co.il": {
+      "urls": [
+        "https://www.prtfl.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1523,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:36.912Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jcpa.org.il": {
+      "urls": [
+        "https://jcpa.org.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1538,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:02.152Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.prtfl.co.il": {
+      "urls": [
+        "https://www.prtfl.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1538,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:03.904Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "techtime.co.il": {
+      "urls": [
+        "https://techtime.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1574,
+        "category": "technology",
+        "last_checked": "2026-01-31T23:55:13.935Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ias.co.il": {
+      "urls": [
+        "https://www.ias.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1583,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:54.881Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ims.gov.il": {
+      "urls": [
+        "https://ims.gov.il/sites/default/files/ims_data/rss/forecast_country/rssForecastCountry_he.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1586,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:59.898Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "emeknews.co.il": {
+      "urls": [
+        "https://emeknews.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1638,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:31.439Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "shavvim.co.il": {
+      "urls": [
+        "https://shavvim.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1730,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:57.346Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "harish.co.il": {
+      "urls": [
+        "https://www.harish.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1798,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:53.241Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gal-gefen.co.il": {
+      "urls": [
+        "https://gal-gefen.co.il/rss/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2361,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:45.161Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "evm.co.il": {
+      "urls": [
+        "https://www.evm.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2414,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:37.028Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nhn.co.il": {
+      "urls": [
+        "https://nhn.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2559,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:28.774Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "forbes.co.il": {
+      "urls": [
+        "https://forbes.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2603,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:39.631Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "chiportal.co.il": {
+      "urls": [
+        "https://chiportal.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3262,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:26.510Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.mako.co.il": {
+      "urls": [
+        "https://fashionforward.mako.co.il/feed/",
+        "https://fashionforward.mako.co.il:443/feed/",
+        "https://rcs.mako.co.il/rss/01d6f746ac06a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/02b84648d8935310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/0507916206b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/0adecd1ad4980310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/0dace76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/0e09846fe904e310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/102121c49d4fb310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/11a8a3b9d6b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/12bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/1369950ef2666110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/1724492c28b99310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/17cb5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/1974a359d166a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/1fb01f1cf23ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/225ead847806a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/28350a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/3048a3b9d6b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/31750a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/3280f8e4874a5110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/33450a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/402bc3bdc7f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/44460a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/46bbe76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/483b5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/4b0a5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/57bce76404864110VgnVCM1000004801000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/57f04f3e3a42e210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/58f6ef0d59880310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/5c015aadbb04e310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/5e636ce74879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/664fc865ef6ac510VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/6b7d25e732e7f110VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/6c311f1cf23ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/6f72069920929310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/70d04f3e3a42e210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/7489373c71380310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/75b6903202288210VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/75c54ce0c957a210VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/7dfd5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/87b50a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/888f9edb29436110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/8edf6a16b298a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/MainSliderRss.xml",
+        "https://rcs.mako.co.il/rss/Sports-football-il.xml",
+        "https://rcs.mako.co.il/rss/Sports-football-world.xml",
+        "https://rcs.mako.co.il/rss/a6066a16b298a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/ac76916206b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/ac8c5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/ae121f1cf23ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/ae850a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/b3bf20b1f9349310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/b7e21f1cf23ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/b7f7bb4ad8893210VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/bb43a03e22e78110VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/bd6aef0ee879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/be214f3e3a42e210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/bip.xml",
+        "https://rcs.mako.co.il/rss/c178a3b9d6b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/c3496ce74879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/c7250a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/c7a987610879a310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/c827a3ef43336410VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/cd0c4e8fc83b8310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/cf404569c706a210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/d15366647c929310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/d228a3b9d6b54310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/d32c18c53a893210VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/d77fef0d59880310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/da4c5d1571675310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/dac23afee62ff210VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/dea47c3250daf110VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/e660f6707b04e310VgnVCM2000002a0c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/e6f4709fe5c3c110VgnVCM100000290c10acRCRD.xml",
+        "https://rcs.mako.co.il/rss/f6750a2610f26110VgnVCM1000005201000aRCRD.xml",
+        "https://rcs.mako.co.il/rss/food-cooking_magazine.xml",
+        "https://rcs.mako.co.il/rss/food-cooking_school.xml",
+        "https://rcs.mako.co.il/rss/food-recipes.xml",
+        "https://rcs.mako.co.il/rss/food-restaurants.xml",
+        "https://rcs.mako.co.il/rss/home-family-babies.xml",
+        "https://rcs.mako.co.il/rss/home-family-kids.xml",
+        "https://rcs.mako.co.il/rss/home-family-relationship.xml",
+        "https://rcs.mako.co.il/rss/home-family-toddlers.xml",
+        "https://rcs.mako.co.il/rss/makoTVNewest.xml",
+        "https://rcs.mako.co.il/rss/makoTVPopular.xml",
+        "https://rcs.mako.co.il/rss/men-magazine.xml",
+        "https://rcs.mako.co.il/rss/men-mirror.xml",
+        "https://rcs.mako.co.il/rss/men-sex.xml",
+        "https://rcs.mako.co.il/rss/music-Magazine.xml",
+        "https://rcs.mako.co.il/rss/news-channel2.xml",
+        "https://rcs.mako.co.il/rss/news-israel.xml",
+        "https://rcs.mako.co.il/rss/news-law.xml",
+        "https://rcs.mako.co.il/rss/news-military.xml",
+        "https://rcs.mako.co.il/rss/news-money.xml",
+        "https://rcs.mako.co.il/rss/news-weather.xml",
+        "https://rcs.mako.co.il/rss/news-world.xml",
+        "https://rcs.mako.co.il/rss/ninemonth.xml",
+        "https://rcs.mako.co.il/rss/spirituality-newage.xml",
+        "https://rcs.mako.co.il/rss/spirituality-popular_culture.xml",
+        "https://rcs.mako.co.il/rss/spirituality-self-improvement.xml",
+        "https://rcs.mako.co.il/rss/travel-israel.xml",
+        "https://rcs.mako.co.il/rss/travel-news.xml",
+        "https://rcs.mako.co.il/rss/travel-world.xml",
+        "https://rcs.mako.co.il/rss/tv-bigbrother.xml",
+        "https://rcs.mako.co.il/rss/tv-erez-nehederet.xml",
+        "https://rcs.mako.co.il/rss/tv-ilana_dayan.xml",
+        "https://rcs.mako.co.il/rss/tv-starisborn.xml",
+        "https://rcs.mako.co.il/rss/women-beauty.xml",
+        "https://rcs.mako.co.il/rss/women-sex_and_love.xml",
+        "https://storage.googleapis.com/mako-sitemaps/MRSS.XML",
+        "https://storage.googleapis.com/mako-sitemaps/breaking-news.xml",
+        "https://storage.googleapis.com/mako-sitemaps/rss-fashionforward.xml",
+        "https://storage.googleapis.com/mako-sitemaps/rssWebSub.xml",
+        "https://storage.googleapis.com/mako-sitemaps/video-rss-mako.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:50.698Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "goitem.co.il": {
+      "urls": [
+        "https://goitem.co.il/blog/category/%D7%98%D7%95%D7%A8-%D7%93%D7%A2%D7%94/feed/",
+        "https://goitem.co.il/blog/category/batyam/%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA-%D7%91%D7%AA-%D7%99%D7%9D/feed/",
+        "https://goitem.co.il/blog/category/holon/%D7%A4%D7%9C%D7%99%D7%9C%D7%99%D7%9D/feed/",
+        "https://goitem.co.il/blog/category/holon/%D7%AA%D7%97%D7%91%D7%95%D7%A8%D7%94-%D7%97%D7%95%D7%9C%D7%95%D7%9F/feed/",
+        "https://goitem.co.il/blog/category/recipes/feed/",
+        "https://goitem.co.il/blog/category/rishonlezion/%D7%9B%D7%9C%D7%9B%D7%9C%D7%94-%D7%95%D7%A0%D7%93%D7%9C%D7%9F-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-%D7%9C%D7%A6%D7%99%D7%95%D7%9F/feed/",
+        "https://goitem.co.il/blog/category/rishonlezion/%D7%AA%D7%A8%D7%91%D7%95%D7%AA-%D7%95%D7%A4%D7%A0%D7%90%D7%99-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-%D7%9C%D7%A6%D7%99%D7%95%D7%9F/feed/",
+        "https://goitem.co.il/blog/category/transportation/feed/",
+        "https://goitem.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:47.258Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tgspot.co.il": {
+      "urls": [
+        "https://www.tgspot.co.il/category/cellular/feed/",
+        "https://www.tgspot.co.il/category/gadgets/feed/",
+        "https://www.tgspot.co.il/category/gaming/feed/",
+        "https://www.tgspot.co.il/category/laptops-and-tablets/feed/",
+        "https://www.tgspot.co.il/category/software/feed/",
+        "https://www.tgspot.co.il/category/wearable-computing/feed/",
+        "https://www.tgspot.co.il/category/world-wide-web/feed/",
+        "https://www.tgspot.co.il/feed/",
+        "https://www.tgspot.co.il/feed/atom/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:14.270Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.tgspot.co.il": {
+      "urls": [
+        "https://www.tgspot.co.il/category/cellular/feed/",
+        "https://www.tgspot.co.il/category/gadgets/feed/",
+        "https://www.tgspot.co.il/category/gaming/feed/",
+        "https://www.tgspot.co.il/category/laptops-and-tablets/feed/",
+        "https://www.tgspot.co.il/category/software/feed/",
+        "https://www.tgspot.co.il/category/wearable-computing/feed/",
+        "https://www.tgspot.co.il/category/world-wide-web/feed/",
+        "https://www.tgspot.co.il/feed/",
+        "https://www.tgspot.co.il/feed/atom/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:17.673Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "calcalist.co.il": {
+      "urls": [
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-14,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-3674,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-3928,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-4,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-7,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-8,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-9,00.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:20.669Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.calcalist.co.il": {
+      "urls": [
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-14,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-3674,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-3928,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-4,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-7,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-8,00.xml",
+        "https://www.calcalist.co.il/GeneralRSS/0,16335,L-9,00.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:26.324Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sponser.co.il": {
+      "urls": [
+        "http://www.sponser.co.il/Content_rss_articles.aspx?CatId=7",
+        "http://www.sponser.co.il/rss/rssForum.xml",
+        "https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:58.181Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "the7eye.org.il": {
+      "urls": [
+        "https://www.the7eye.org.il/feed",
+        "https://www.the7eye.org.il/feed?filtered",
+        "https://www.the7eye.org.il/topic/the-seventh-eye-in-english/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:14.382Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.sponser.co.il": {
+      "urls": [
+        "http://www.sponser.co.il/Content_rss_articles.aspx?CatId=7",
+        "http://www.sponser.co.il/rss/rssForum.xml",
+        "https://www.sponser.co.il/Content_rss_articles.aspx?CatId=7"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:07.278Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.the7eye.org.il": {
+      "urls": [
+        "https://www.the7eye.org.il/feed",
+        "https://www.the7eye.org.il/feed?filtered",
+        "https://www.the7eye.org.il/topic/the-seventh-eye-in-english/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:17.803Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bizportal.co.il": {
+      "urls": [
+        "https://www.bizportal.co.il/shukhahon/messRss2.xml",
+        "https://www.bizportal.co.il/shukhahon/messRss41.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:16.646Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "frogi.co.il": {
+      "urls": [
+        "https://www.frogi.co.il/rss/latest",
+        "https://www.frogi.co.il/rss/videos/latest"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:42.698Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "srugim.co.il": {
+      "urls": [
+        "http://www.srugim.co.il/feed",
+        "https://www.srugim.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:08.202Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.bizportal.co.il": {
+      "urls": [
+        "https://www.bizportal.co.il/shukhahon/messRss2.xml",
+        "https://www.bizportal.co.il/shukhahon/messRss41.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:25.815Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.frogi.co.il": {
+      "urls": [
+        "https://www.frogi.co.il/rss/latest",
+        "https://www.frogi.co.il/rss/videos/latest"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:30.410Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.srugim.co.il": {
+      "urls": [
+        "http://www.srugim.co.il/feed",
+        "https://www.srugim.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:17.304Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "funder.co.il": {
+      "urls": [
+        "https://www.funder.co.il/rssNews.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:42.799Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "geektime.co.il": {
+      "urls": [
+        "https://www.geektime.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:45.322Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "idsf.org.il": {
+      "urls": [
+        "https://idsf.org.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:58.311Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "makorrishon.co.il": {
+      "urls": [
+        "https://www.makorrishon.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:12.357Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "parks.org.il": {
+      "urls": [
+        "https://www.parks.org.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:33.776Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "passportnews.co.il": {
+      "urls": [
+        "https://passportnews.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T23:54:33.928Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pc.co.il": {
+      "urls": [
+        "https://www.pc.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:34.066Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "shakuf.co.il": {
+      "urls": [
+        "https://shakuf.co.il/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:55.616Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.funder.co.il": {
+      "urls": [
+        "https://www.funder.co.il/rssNews.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:30.498Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.geektime.co.il": {
+      "urls": [
+        "https://www.geektime.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:30.607Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.kolhair.co.il": {
+      "urls": [
+        "https://www.kolhair.co.il/%D7%A2%D7%9E%D7%95%D7%93-%D7%94%D7%91%D7%99%D7%AA/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:46.232Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.parks.org.il": {
+      "urls": [
+        "https://www.parks.org.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:01.926Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.pc.co.il": {
+      "urls": [
+        "https://www.pc.co.il/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:02.048Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.microsoft.com": {
+      "urls": [
+        "https://blogs.microsoft.com/accessibility/author/ioana-tanase/feed/",
+        "https://blogs.microsoft.com/accessibility/author/itanase/feed/",
+        "https://blogs.microsoft.com/accessibility/author/tduong/feed/",
+        "https://blogs.microsoft.com/accessibility/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/ai-for-business-tech-blog/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/chris-white/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/david_carmona/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/machine-learning-blog/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/microsoft-in-culture/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/microsoft-news-centre-australia/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/microsoft-transform/feed/",
+        "https://blogs.microsoft.com/ai-for-business/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/ai-business-school-podcast/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/autonomous-systems/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/enterprise/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/healthcare/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/innovation/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/responsibleai/feed/",
+        "https://blogs.microsoft.com/ai/author/cnet/feed/",
+        "https://blogs.microsoft.com/ai/author/john-roach-new/feed/",
+        "https://blogs.microsoft.com/ai/author/johntroach/feed/",
+        "https://blogs.microsoft.com/ai/author/microsoft-365/feed/",
+        "https://blogs.microsoft.com/ai/author/venturebeat/feed/",
+        "https://blogs.microsoft.com/ai/feed/",
+        "https://blogs.microsoft.com/blog/author/acook/feed/",
+        "https://blogs.microsoft.com/blog/author/asilver/feed/",
+        "https://blogs.microsoft.com/blog/author/ataylor/feed/",
+        "https://blogs.microsoft.com/blog/author/awilson/feed/",
+        "https://blogs.microsoft.com/blog/author/bbejan/feed/",
+        "https://blogs.microsoft.com/blog/author/bradsomb/feed/",
+        "https://blogs.microsoft.com/blog/author/bsmith2/feed/",
+        "https://blogs.microsoft.com/blog/author/carkan/feed/",
+        "https://blogs.microsoft.com/blog/author/cbell/feed/",
+        "https://blogs.microsoft.com/blog/author/ccapossela/feed/",
+        "https://blogs.microsoft.com/blog/author/cdemaria/feed/",
+        "https://blogs.microsoft.com/blog/author/charlotteyarkoni/feed/",
+        "https://blogs.microsoft.com/blog/author/clamanna/feed/",
+        "https://blogs.microsoft.com/blog/author/csanders/feed/",
+        "https://blogs.microsoft.com/blog/author/cweber/feed/",
+        "https://blogs.microsoft.com/blog/author/dphillips/feed/",
+        "https://blogs.microsoft.com/blog/author/dwee/feed/",
+        "https://blogs.microsoft.com/blog/author/echapple/feed/",
+        "https://blogs.microsoft.com/blog/author/ehorvitz/feed/",
+        "https://blogs.microsoft.com/blog/author/fhumphries/feed/",
+        "https://blogs.microsoft.com/blog/author/frankxshaw/feed/",
+        "https://blogs.microsoft.com/blog/author/gglantschnig/feed/",
+        "https://blogs.microsoft.com/blog/author/gregmooreanddavidrhew/feed/",
+        "https://blogs.microsoft.com/blog/author/gschuster/feed/",
+        "https://blogs.microsoft.com/blog/author/hadasbitranandjeangabarra/feed/",
+        "https://blogs.microsoft.com/blog/author/hbitandjgabandgmoo/feed/",
+        "https://blogs.microsoft.com/blog/author/jasonzander/feed/",
+        "https://blogs.microsoft.com/blog/author/jchik/feed/",
+        "https://blogs.microsoft.com/blog/author/jeanphilippecourtois/feed/",
+        "https://blogs.microsoft.com/blog/author/jeffcomstock/feed/",
+        "https://blogs.microsoft.com/blog/author/jennyandcharlotte/feed/",
+        "https://blogs.microsoft.com/blog/author/jessiahawk/feed/",
+        "https://blogs.microsoft.com/blog/author/jhawk/feed/",
+        "https://blogs.microsoft.com/blog/author/jlflurrie/feed/",
+        "https://blogs.microsoft.com/blog/author/jspataro/feed/",
+        "https://blogs.microsoft.com/blog/author/judson-althoff/feed/",
+        "https://blogs.microsoft.com/blog/author/jzander/feed/",
+        "https://blogs.microsoft.com/blog/author/kathleenhogan/feed/",
+        "https://blogs.microsoft.com/blog/author/khall/feed/",
+        "https://blogs.microsoft.com/blog/author/kolin/feed/",
+        "https://blogs.microsoft.com/blog/author/kscott/feed/",
+        "https://blogs.microsoft.com/blog/author/laurenandbill/feed/",
+        "https://blogs.microsoft.com/blog/author/lindsayraemcintyre/feed/",
+        "https://blogs.microsoft.com/blog/author/lucasandnoelle/feed/",
+        "https://blogs.microsoft.com/blog/author/lujoppa/feed/",
+        "https://blogs.microsoft.com/blog/author/manand/feed/",
+        "https://blogs.microsoft.com/blog/author/mazizirad/feed/",
+        "https://blogs.microsoft.com/blog/author/mbraveandsgeorge/feed/",
+        "https://blogs.microsoft.com/blog/author/mncstaff/feed/",
+        "https://blogs.microsoft.com/blog/author/mustafasuleyman/feed/",
+        "https://blogs.microsoft.com/blog/author/ndezen/feed/",
+        "https://blogs.microsoft.com/blog/author/nickparker/feed/",
+        "https://blogs.microsoft.com/blog/author/nwalsh/feed/",
+        "https://blogs.microsoft.com/blog/author/peggy-johnson/feed/",
+        "https://blogs.microsoft.com/blog/author/peterlee/feed/",
+        "https://blogs.microsoft.com/blog/author/philspencer/feed/",
+        "https://blogs.microsoft.com/blog/author/pobermaier/feed/",
+        "https://blogs.microsoft.com/blog/author/rklima/feed/",
+        "https://blogs.microsoft.com/blog/author/robertdahdah/feed/",
+        "https://blogs.microsoft.com/blog/author/rvdkooi/feed/",
+        "https://blogs.microsoft.com/blog/author/rwagner/feed/",
+        "https://blogs.microsoft.com/blog/author/sbond/feed/",
+        "https://blogs.microsoft.com/blog/author/scottguthrie/feed/",
+        "https://blogs.microsoft.com/blog/author/sguthrieandmbenjamin/feed/",
+        "https://blogs.microsoft.com/blog/author/shanselman/feed/",
+        "https://blogs.microsoft.com/blog/author/shelleybransten/feed/",
+        "https://blogs.microsoft.com/blog/author/sthomas/feed/",
+        "https://blogs.microsoft.com/blog/author/susannaray-2-2-2-2-2/feed/",
+        "https://blogs.microsoft.com/blog/author/sworrall/feed/",
+        "https://blogs.microsoft.com/blog/author/takeshinumoto/feed/",
+        "https://blogs.microsoft.com/blog/author/tkeane/feed/",
+        "https://blogs.microsoft.com/blog/author/toniandgregory/feed/",
+        "https://blogs.microsoft.com/blog/author/tonitowneswhitley/feed/",
+        "https://blogs.microsoft.com/blog/author/tylerbryson/feed/",
+        "https://blogs.microsoft.com/blog/author/vajakkal/feed/",
+        "https://blogs.microsoft.com/blog/author/vsuzchomnc-2-2-2-2-2/feed/",
+        "https://blogs.microsoft.com/blog/author/ymedhi/feed/",
+        "https://blogs.microsoft.com/blog/author/ymehdi/feed/",
+        "https://blogs.microsoft.com/blog/tag/affordable-housing/feed/",
+        "https://blogs.microsoft.com/blog/tag/ai-gpt/feed/",
+        "https://blogs.microsoft.com/blog/tag/ai/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-ai-foundry/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-ai-studio/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-ai/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-government/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-purview/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-space/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-sphere/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-synapse-analytics/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure/feed/",
+        "https://blogs.microsoft.com/blog/tag/bing-image-creator/feed/",
+        "https://blogs.microsoft.com/blog/tag/bing/feed/",
+        "https://blogs.microsoft.com/blog/tag/biodiversity/feed/",
+        "https://blogs.microsoft.com/blog/tag/black-history-month/feed/",
+        "https://blogs.microsoft.com/blog/tag/book-of-news/feed/",
+        "https://blogs.microsoft.com/blog/tag/brad-smith/feed/",
+        "https://blogs.microsoft.com/blog/tag/build/feed/",
+        "https://blogs.microsoft.com/blog/tag/carbon-footprint/feed/",
+        "https://blogs.microsoft.com/blog/tag/carbon-reduction/feed/",
+        "https://blogs.microsoft.com/blog/tag/carbon/feed/",
+        "https://blogs.microsoft.com/blog/tag/ces-2021/feed/",
+        "https://blogs.microsoft.com/blog/tag/chatgpt/feed/",
+        "https://blogs.microsoft.com/blog/tag/citizenship/feed/",
+        "https://blogs.microsoft.com/blog/tag/cloud-computing/feed/",
+        "https://blogs.microsoft.com/blog/tag/cloud-solution-provider/feed/",
+        "https://blogs.microsoft.com/blog/tag/cloud/feed/",
+        "https://blogs.microsoft.com/blog/tag/convergence-2015/feed/",
+        "https://blogs.microsoft.com/blog/tag/convergence-emea/feed/",
+        "https://blogs.microsoft.com/blog/tag/convergence/feed/",
+        "https://blogs.microsoft.com/blog/tag/cybersecurity/feed/",
+        "https://blogs.microsoft.com/blog/tag/data-journalism/feed/",
+        "https://blogs.microsoft.com/blog/tag/dax-copilot/feed/",
+        "https://blogs.microsoft.com/blog/tag/deep-research/feed/",
+        "https://blogs.microsoft.com/blog/tag/developers/feed/",
+        "https://blogs.microsoft.com/blog/tag/digital-transformation/feed/",
+        "https://blogs.microsoft.com/blog/tag/digital-twins/feed/",
+        "https://blogs.microsoft.com/blog/tag/diversity-and-inclusion-report/feed/",
+        "https://blogs.microsoft.com/blog/tag/diversity/feed/",
+        "https://blogs.microsoft.com/blog/tag/dynamics-365/feed/",
+        "https://blogs.microsoft.com/blog/tag/education-2/feed/",
+        "https://blogs.microsoft.com/blog/tag/environment/feed/",
+        "https://blogs.microsoft.com/blog/tag/events/feed/",
+        "https://blogs.microsoft.com/blog/tag/games/feed/",
+        "https://blogs.microsoft.com/blog/tag/gaming/feed/",
+        "https://blogs.microsoft.com/blog/tag/generative-chemistry/feed/",
+        "https://blogs.microsoft.com/blog/tag/global-skills-initiative/feed/",
+        "https://blogs.microsoft.com/blog/tag/government/feed/",
+        "https://blogs.microsoft.com/blog/tag/hololens/feed/",
+        "https://blogs.microsoft.com/blog/tag/hour-of-code/feed/",
+        "https://blogs.microsoft.com/blog/tag/hybrid-workplace/feed/",
+        "https://blogs.microsoft.com/blog/tag/ignite-2020/feed/",
+        "https://blogs.microsoft.com/blog/tag/image-creator/feed/",
+        "https://blogs.microsoft.com/blog/tag/inclusion/feed/",
+        "https://blogs.microsoft.com/blog/tag/innovation/feed/",
+        "https://blogs.microsoft.com/blog/tag/international-womens-day/feed/",
+        "https://blogs.microsoft.com/blog/tag/interns/feed/",
+        "https://blogs.microsoft.com/blog/tag/isvs/feed/",
+        "https://blogs.microsoft.com/blog/tag/it/feed/",
+        "https://blogs.microsoft.com/blog/tag/lgbtqi/feed/",
+        "https://blogs.microsoft.com/blog/tag/lgbtqia/feed/",
+        "https://blogs.microsoft.com/blog/tag/livestreaming/feed/",
+        "https://blogs.microsoft.com/blog/tag/memory/feed/",
+        "https://blogs.microsoft.com/blog/tag/metaverse/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-365/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-and-gpt/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-cloud/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-copilot/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-defender/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-dynamics/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-edge/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-federal/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-government-leaders-summit/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-healthcare-bot/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-hololens/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-ignite-2018/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-inspire-2022/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-mesh/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-philanthropies/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-power-platform/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-pride/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-supply-chain-center/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-threat-intelligence-center/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoftpride/feed/",
+        "https://blogs.microsoft.com/blog/tag/net-zero/feed/",
+        "https://blogs.microsoft.com/blog/tag/office-365/feed/",
+        "https://blogs.microsoft.com/blog/tag/open-source/feed/",
+        "https://blogs.microsoft.com/blog/tag/partners/feed/",
+        "https://blogs.microsoft.com/blog/tag/phi-3/feed/",
+        "https://blogs.microsoft.com/blog/tag/power-bi/feed/",
+        "https://blogs.microsoft.com/blog/tag/pride/feed/",
+        "https://blogs.microsoft.com/blog/tag/prompts/feed/",
+        "https://blogs.microsoft.com/blog/tag/quantum-computing/feed/",
+        "https://blogs.microsoft.com/blog/tag/racial-equity-initiative/feed/",
+        "https://blogs.microsoft.com/blog/tag/ramp/feed/",
+        "https://blogs.microsoft.com/blog/tag/real-time-intelligence/feed/",
+        "https://blogs.microsoft.com/blog/tag/sap/feed/",
+        "https://blogs.microsoft.com/blog/tag/search/feed/",
+        "https://blogs.microsoft.com/blog/tag/smbs/feed/",
+        "https://blogs.microsoft.com/blog/tag/stem/feed/",
+        "https://blogs.microsoft.com/blog/tag/strides/feed/",
+        "https://blogs.microsoft.com/blog/tag/surface/feed/",
+        "https://blogs.microsoft.com/blog/tag/sustainability/feed/",
+        "https://blogs.microsoft.com/blog/tag/team-copilot/feed/",
+        "https://blogs.microsoft.com/blog/tag/teams/feed/",
+        "https://blogs.microsoft.com/blog/tag/training/feed/",
+        "https://blogs.microsoft.com/blog/tag/visual-studio-code/feed/",
+        "https://blogs.microsoft.com/blog/tag/viva-sales/feed/",
+        "https://blogs.microsoft.com/blog/tag/vr/feed/",
+        "https://blogs.microsoft.com/blog/tag/water/feed/",
+        "https://blogs.microsoft.com/blog/tag/windows-365/feed/",
+        "https://blogs.microsoft.com/blog/tag/womens-history-month/feed/",
+        "https://blogs.microsoft.com/blog/tag/work-trend-index/feed/",
+        "https://blogs.microsoft.com/blog/tag/workforce/feed/",
+        "https://blogs.microsoft.com/blog/tag/xbox/feed/",
+        "https://blogs.microsoft.com/blog/tag/zero-waste/feed/",
+        "https://blogs.microsoft.com/conexiones/category/loschangemakers/feed/",
+        "https://blogs.microsoft.com/conexiones/feed/",
+        "https://blogs.microsoft.com/eupolicy/feed/",
+        "https://blogs.microsoft.com/feed/",
+        "https://blogs.microsoft.com/latino/feed/",
+        "https://blogs.microsoft.com/latinx/feed/",
+        "https://blogs.microsoft.com/on-the-issues/author/jbrill/feed/",
+        "https://blogs.microsoft.com/on-the-issues/category/fundamental-rights/feed/",
+        "https://blogs.microsoft.com/on-the-issues/feed/",
+        "https://blogs.microsoft.com/on-the-issues/tag/carbon-emissions/feed/",
+        "https://blogs.microsoft.com/on-the-issues/tag/environmental-sustainability-report/feed/",
+        "https://blogs.microsoft.com/on-the-issues/tag/environmental-sustainability/feed/",
+        "https://blogs.microsoft.com/on-the-issues/tag/water-positive/feed/",
+        "https://msrc.microsoft.com/blog/categories/bluehat/feed",
+        "https://msrc.microsoft.com/blog/categories/msrc/feed",
+        "https://msrc.microsoft.com/blog/categories/security-research-defense/feed",
+        "https://msrc.microsoft.com/blog/feed",
+        "https://msrc.microsoft.com/index.xml",
+        "https://www.microsoft.com/en-us/dynamics-365/blog/feed/",
+        "https://www.microsoft.com/en-us/dynamics-365/blog/product/nuance/feed/",
+        "https://www.microsoft.com/en-us/industry/blog/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/RoadmapFeatureRSS",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/author/colette-stallbaumer/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/content-type/news/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/product/intune/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/product/microsoft-365-copilot/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/product/mobile-apps/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/product/onedrive/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/product/planner/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/product/powerpoint/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/product/teams/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/tag/ai/feed/",
+        "https://www.microsoft.com/en-us/microsoft-cloud/blog/feed/",
+        "https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/audience/it-professional/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/author/chitraj/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/content-type/events/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/content-type/news/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/alm/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/building-ui/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/copilot/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/new-features/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/templates/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/uncategorized/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/admin/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/administration/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/admins/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/ai/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/announcement/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/building-ui/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/canvas-apps/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/canvas-components/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/deployment/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/fusion-teams/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/intelligent-authoring/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/maker/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/monthly-update/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/pipelines/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/power-fx/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/power-platform/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/sql-server/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-pages/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/feed/",
+        "https://www.microsoft.com/en-us/research/blog/feed/",
+        "https://www.microsoft.com/en-us/research/feed/",
+        "https://www.microsoft.com/en-us/security/blog/content-type/best-practices/feed/",
+        "https://www.microsoft.com/en-us/security/blog/feed/",
+        "https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/feed/",
+        "https://www.microsoft.com/en-us/security/blog/topic/ai-and-machine-learning/feed/",
+        "https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/",
+        "https://www.microsoft.com/fr-fr/microsoft-365/RoadmapFeatureRSS/",
+        "https://www.microsoft.com/security/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 504,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:52.973Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "blogs.microsoft.com": {
+      "urls": [
+        "https://blogs.microsoft.com/accessibility/author/itanase/feed/",
+        "https://blogs.microsoft.com/accessibility/author/tduong/feed/",
+        "https://blogs.microsoft.com/accessibility/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/ai-for-business-tech-blog/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/chris-white/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/david_carmona/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/machine-learning-blog/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/microsoft-in-culture/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/microsoft-news-centre-australia/feed/",
+        "https://blogs.microsoft.com/ai-for-business/author/microsoft-transform/feed/",
+        "https://blogs.microsoft.com/ai-for-business/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/ai-business-school-podcast/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/autonomous-systems/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/enterprise/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/healthcare/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/innovation/feed/",
+        "https://blogs.microsoft.com/ai-for-business/topic/responsibleai/feed/",
+        "https://blogs.microsoft.com/ai/author/cnet/feed/",
+        "https://blogs.microsoft.com/ai/author/john-roach-new/feed/",
+        "https://blogs.microsoft.com/ai/author/johntroach/feed/",
+        "https://blogs.microsoft.com/ai/author/microsoft-365/feed/",
+        "https://blogs.microsoft.com/ai/author/venturebeat/feed/",
+        "https://blogs.microsoft.com/ai/feed/",
+        "https://blogs.microsoft.com/blog/author/acook/feed/",
+        "https://blogs.microsoft.com/blog/author/asilver/feed/",
+        "https://blogs.microsoft.com/blog/author/ataylor/feed/",
+        "https://blogs.microsoft.com/blog/author/awilson/feed/",
+        "https://blogs.microsoft.com/blog/author/bbejan/feed/",
+        "https://blogs.microsoft.com/blog/author/bradsomb/feed/",
+        "https://blogs.microsoft.com/blog/author/bsmith2/feed/",
+        "https://blogs.microsoft.com/blog/author/carkan/feed/",
+        "https://blogs.microsoft.com/blog/author/cbell/feed/",
+        "https://blogs.microsoft.com/blog/author/ccapossela/feed/",
+        "https://blogs.microsoft.com/blog/author/cdemaria/feed/",
+        "https://blogs.microsoft.com/blog/author/charlotteyarkoni/feed/",
+        "https://blogs.microsoft.com/blog/author/clamanna/feed/",
+        "https://blogs.microsoft.com/blog/author/csanders/feed/",
+        "https://blogs.microsoft.com/blog/author/cweber/feed/",
+        "https://blogs.microsoft.com/blog/author/dphillips/feed/",
+        "https://blogs.microsoft.com/blog/author/dwee/feed/",
+        "https://blogs.microsoft.com/blog/author/echapple/feed/",
+        "https://blogs.microsoft.com/blog/author/ehorvitz/feed/",
+        "https://blogs.microsoft.com/blog/author/fhumphries/feed/",
+        "https://blogs.microsoft.com/blog/author/frankxshaw/feed/",
+        "https://blogs.microsoft.com/blog/author/gglantschnig/feed/",
+        "https://blogs.microsoft.com/blog/author/gregmooreanddavidrhew/feed/",
+        "https://blogs.microsoft.com/blog/author/gschuster/feed/",
+        "https://blogs.microsoft.com/blog/author/hadasbitranandjeangabarra/feed/",
+        "https://blogs.microsoft.com/blog/author/hbitandjgabandgmoo/feed/",
+        "https://blogs.microsoft.com/blog/author/jasonzander/feed/",
+        "https://blogs.microsoft.com/blog/author/jchik/feed/",
+        "https://blogs.microsoft.com/blog/author/jeanphilippecourtois/feed/",
+        "https://blogs.microsoft.com/blog/author/jeffcomstock/feed/",
+        "https://blogs.microsoft.com/blog/author/jennyandcharlotte/feed/",
+        "https://blogs.microsoft.com/blog/author/jhawk/feed/",
+        "https://blogs.microsoft.com/blog/author/jlflurrie/feed/",
+        "https://blogs.microsoft.com/blog/author/jspataro/feed/",
+        "https://blogs.microsoft.com/blog/author/judson-althoff/feed/",
+        "https://blogs.microsoft.com/blog/author/jzander/feed/",
+        "https://blogs.microsoft.com/blog/author/kathleenhogan/feed/",
+        "https://blogs.microsoft.com/blog/author/khall/feed/",
+        "https://blogs.microsoft.com/blog/author/kolin/feed/",
+        "https://blogs.microsoft.com/blog/author/kscott/feed/",
+        "https://blogs.microsoft.com/blog/author/laurenandbill/feed/",
+        "https://blogs.microsoft.com/blog/author/lindsayraemcintyre/feed/",
+        "https://blogs.microsoft.com/blog/author/lucasandnoelle/feed/",
+        "https://blogs.microsoft.com/blog/author/lujoppa/feed/",
+        "https://blogs.microsoft.com/blog/author/manand/feed/",
+        "https://blogs.microsoft.com/blog/author/mazizirad/feed/",
+        "https://blogs.microsoft.com/blog/author/mbraveandsgeorge/feed/",
+        "https://blogs.microsoft.com/blog/author/mncstaff/feed/",
+        "https://blogs.microsoft.com/blog/author/mustafasuleyman/feed/",
+        "https://blogs.microsoft.com/blog/author/ndezen/feed/",
+        "https://blogs.microsoft.com/blog/author/nickparker/feed/",
+        "https://blogs.microsoft.com/blog/author/nwalsh/feed/",
+        "https://blogs.microsoft.com/blog/author/peggy-johnson/feed/",
+        "https://blogs.microsoft.com/blog/author/peterlee/feed/",
+        "https://blogs.microsoft.com/blog/author/philspencer/feed/",
+        "https://blogs.microsoft.com/blog/author/pobermaier/feed/",
+        "https://blogs.microsoft.com/blog/author/rklima/feed/",
+        "https://blogs.microsoft.com/blog/author/robertdahdah/feed/",
+        "https://blogs.microsoft.com/blog/author/rvdkooi/feed/",
+        "https://blogs.microsoft.com/blog/author/rwagner/feed/",
+        "https://blogs.microsoft.com/blog/author/sbond/feed/",
+        "https://blogs.microsoft.com/blog/author/scottguthrie/feed/",
+        "https://blogs.microsoft.com/blog/author/sguthrieandmbenjamin/feed/",
+        "https://blogs.microsoft.com/blog/author/shanselman/feed/",
+        "https://blogs.microsoft.com/blog/author/shelleybransten/feed/",
+        "https://blogs.microsoft.com/blog/author/sthomas/feed/",
+        "https://blogs.microsoft.com/blog/author/susannaray-2-2-2-2-2/feed/",
+        "https://blogs.microsoft.com/blog/author/sworrall/feed/",
+        "https://blogs.microsoft.com/blog/author/takeshinumoto/feed/",
+        "https://blogs.microsoft.com/blog/author/tkeane/feed/",
+        "https://blogs.microsoft.com/blog/author/toniandgregory/feed/",
+        "https://blogs.microsoft.com/blog/author/tonitowneswhitley/feed/",
+        "https://blogs.microsoft.com/blog/author/tylerbryson/feed/",
+        "https://blogs.microsoft.com/blog/author/vajakkal/feed/",
+        "https://blogs.microsoft.com/blog/author/vsuzchomnc-2-2-2-2-2/feed/",
+        "https://blogs.microsoft.com/blog/author/ymedhi/feed/",
+        "https://blogs.microsoft.com/blog/author/ymehdi/feed/",
+        "https://blogs.microsoft.com/blog/tag/affordable-housing/feed/",
+        "https://blogs.microsoft.com/blog/tag/ai-gpt/feed/",
+        "https://blogs.microsoft.com/blog/tag/ai/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-ai-studio/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-government/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-purview/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-space/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-sphere/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure-synapse-analytics/feed/",
+        "https://blogs.microsoft.com/blog/tag/azure/feed/",
+        "https://blogs.microsoft.com/blog/tag/bing-image-creator/feed/",
+        "https://blogs.microsoft.com/blog/tag/bing/feed/",
+        "https://blogs.microsoft.com/blog/tag/biodiversity/feed/",
+        "https://blogs.microsoft.com/blog/tag/black-history-month/feed/",
+        "https://blogs.microsoft.com/blog/tag/book-of-news/feed/",
+        "https://blogs.microsoft.com/blog/tag/brad-smith/feed/",
+        "https://blogs.microsoft.com/blog/tag/build/feed/",
+        "https://blogs.microsoft.com/blog/tag/carbon-footprint/feed/",
+        "https://blogs.microsoft.com/blog/tag/carbon-reduction/feed/",
+        "https://blogs.microsoft.com/blog/tag/carbon/feed/",
+        "https://blogs.microsoft.com/blog/tag/ces-2021/feed/",
+        "https://blogs.microsoft.com/blog/tag/chatgpt/feed/",
+        "https://blogs.microsoft.com/blog/tag/citizenship/feed/",
+        "https://blogs.microsoft.com/blog/tag/cloud-computing/feed/",
+        "https://blogs.microsoft.com/blog/tag/cloud-solution-provider/feed/",
+        "https://blogs.microsoft.com/blog/tag/cloud/feed/",
+        "https://blogs.microsoft.com/blog/tag/convergence-2015/feed/",
+        "https://blogs.microsoft.com/blog/tag/convergence-emea/feed/",
+        "https://blogs.microsoft.com/blog/tag/convergence/feed/",
+        "https://blogs.microsoft.com/blog/tag/cybersecurity/feed/",
+        "https://blogs.microsoft.com/blog/tag/data-journalism/feed/",
+        "https://blogs.microsoft.com/blog/tag/dax-copilot/feed/",
+        "https://blogs.microsoft.com/blog/tag/developers/feed/",
+        "https://blogs.microsoft.com/blog/tag/digital-transformation/feed/",
+        "https://blogs.microsoft.com/blog/tag/digital-twins/feed/",
+        "https://blogs.microsoft.com/blog/tag/diversity-and-inclusion-report/feed/",
+        "https://blogs.microsoft.com/blog/tag/diversity/feed/",
+        "https://blogs.microsoft.com/blog/tag/dynamics-365/feed/",
+        "https://blogs.microsoft.com/blog/tag/education-2/feed/",
+        "https://blogs.microsoft.com/blog/tag/environment/feed/",
+        "https://blogs.microsoft.com/blog/tag/events/feed/",
+        "https://blogs.microsoft.com/blog/tag/games/feed/",
+        "https://blogs.microsoft.com/blog/tag/gaming/feed/",
+        "https://blogs.microsoft.com/blog/tag/generative-chemistry/feed/",
+        "https://blogs.microsoft.com/blog/tag/global-skills-initiative/feed/",
+        "https://blogs.microsoft.com/blog/tag/government/feed/",
+        "https://blogs.microsoft.com/blog/tag/hololens/feed/",
+        "https://blogs.microsoft.com/blog/tag/hour-of-code/feed/",
+        "https://blogs.microsoft.com/blog/tag/hybrid-workplace/feed/",
+        "https://blogs.microsoft.com/blog/tag/ignite-2020/feed/",
+        "https://blogs.microsoft.com/blog/tag/image-creator/feed/",
+        "https://blogs.microsoft.com/blog/tag/inclusion/feed/",
+        "https://blogs.microsoft.com/blog/tag/innovation/feed/",
+        "https://blogs.microsoft.com/blog/tag/international-womens-day/feed/",
+        "https://blogs.microsoft.com/blog/tag/interns/feed/",
+        "https://blogs.microsoft.com/blog/tag/isvs/feed/",
+        "https://blogs.microsoft.com/blog/tag/it/feed/",
+        "https://blogs.microsoft.com/blog/tag/lgbtqi/feed/",
+        "https://blogs.microsoft.com/blog/tag/lgbtqia/feed/",
+        "https://blogs.microsoft.com/blog/tag/livestreaming/feed/",
+        "https://blogs.microsoft.com/blog/tag/metaverse/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-365/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-and-gpt/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-cloud/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-copilot/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-defender/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-dynamics/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-edge/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-federal/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-government-leaders-summit/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-healthcare-bot/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-hololens/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-ignite-2018/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-inspire-2022/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-mesh/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-philanthropies/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-power-platform/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-pride/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-supply-chain-center/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoft-threat-intelligence-center/feed/",
+        "https://blogs.microsoft.com/blog/tag/microsoftpride/feed/",
+        "https://blogs.microsoft.com/blog/tag/net-zero/feed/",
+        "https://blogs.microsoft.com/blog/tag/office-365/feed/",
+        "https://blogs.microsoft.com/blog/tag/open-source/feed/",
+        "https://blogs.microsoft.com/blog/tag/partners/feed/",
+        "https://blogs.microsoft.com/blog/tag/phi-3/feed/",
+        "https://blogs.microsoft.com/blog/tag/power-bi/feed/",
+        "https://blogs.microsoft.com/blog/tag/pride/feed/",
+        "https://blogs.microsoft.com/blog/tag/prompts/feed/",
+        "https://blogs.microsoft.com/blog/tag/quantum-computing/feed/",
+        "https://blogs.microsoft.com/blog/tag/racial-equity-initiative/feed/",
+        "https://blogs.microsoft.com/blog/tag/ramp/feed/",
+        "https://blogs.microsoft.com/blog/tag/real-time-intelligence/feed/",
+        "https://blogs.microsoft.com/blog/tag/sap/feed/",
+        "https://blogs.microsoft.com/blog/tag/search/feed/",
+        "https://blogs.microsoft.com/blog/tag/smbs/feed/",
+        "https://blogs.microsoft.com/blog/tag/stem/feed/",
+        "https://blogs.microsoft.com/blog/tag/strides/feed/",
+        "https://blogs.microsoft.com/blog/tag/surface/feed/",
+        "https://blogs.microsoft.com/blog/tag/sustainability/feed/",
+        "https://blogs.microsoft.com/blog/tag/team-copilot/feed/",
+        "https://blogs.microsoft.com/blog/tag/teams/feed/",
+        "https://blogs.microsoft.com/blog/tag/training/feed/",
+        "https://blogs.microsoft.com/blog/tag/viva-sales/feed/",
+        "https://blogs.microsoft.com/blog/tag/vr/feed/",
+        "https://blogs.microsoft.com/blog/tag/water/feed/",
+        "https://blogs.microsoft.com/blog/tag/windows-365/feed/",
+        "https://blogs.microsoft.com/blog/tag/womens-history-month/feed/",
+        "https://blogs.microsoft.com/blog/tag/work-trend-index/feed/",
+        "https://blogs.microsoft.com/blog/tag/workforce/feed/",
+        "https://blogs.microsoft.com/blog/tag/xbox/feed/",
+        "https://blogs.microsoft.com/blog/tag/zero-waste/feed/",
+        "https://blogs.microsoft.com/conexiones/category/loschangemakers/feed/",
+        "https://blogs.microsoft.com/conexiones/feed/",
+        "https://blogs.microsoft.com/feed/",
+        "https://blogs.microsoft.com/latino/feed/",
+        "https://blogs.microsoft.com/latinx/feed/",
+        "https://blogs.microsoft.com/on-the-issues/author/jbrill/feed/",
+        "https://blogs.microsoft.com/on-the-issues/category/fundamental-rights/feed/",
+        "https://blogs.microsoft.com/on-the-issues/feed/",
+        "https://blogs.microsoft.com/on-the-issues/tag/carbon-emissions/feed/",
+        "https://blogs.microsoft.com/on-the-issues/tag/environmental-sustainability-report/feed/",
+        "https://blogs.microsoft.com/on-the-issues/tag/environmental-sustainability/feed/",
+        "https://blogs.microsoft.com/on-the-issues/tag/water-positive/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 531,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:18.320Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.msn.com": {
+      "urls": [
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml",
+        "http://www.rssmix.com/u/11743304/rss.xml",
+        "https://blogs.msn.com/author/bill-monroe/feed/",
+        "https://blogs.msn.com/author/chitralekha/feed/",
+        "https://blogs.msn.com/author/currrentlybill/feed/",
+        "https://blogs.msn.com/author/dave-kane/feed/",
+        "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
+        "https://blogs.msn.com/author/emily-falla/feed/",
+        "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
+        "https://blogs.msn.com/author/kun-chen/feed/",
+        "https://blogs.msn.com/author/lizz-callaway/feed/",
+        "https://blogs.msn.com/author/maria/feed/",
+        "https://blogs.msn.com/author/mrikank-varshney/feed/",
+        "https://blogs.msn.com/author/ovidan/feed/",
+        "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
+        "https://blogs.msn.com/author/taroon-mandhana/feed/",
+        "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
+        "https://blogs.msn.com/author/vera-chan/feed/",
+        "https://blogs.msn.com/feed/",
+        "https://blogs.msn.com/topic/events/feed/",
+        "https://blogs.msn.com/topic/featured/feed/",
+        "https://blogs.msn.com/topic/innovations/feed/",
+        "https://blogs.msn.com/topic/solutions/feed/",
+        "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
+        "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
+        "https://blogs.windows.com/devices/author/sandraandrews/feed/",
+        "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
+        "https://blogs.windows.com/devices/feed/",
+        "https://blogs.windows.com/devices/tag/education/feed/",
+        "https://blogs.windows.com/devices/tag/surface-copilot-pcs/feed/",
+        "https://blogs.windows.com/devices/tag/surface/feed/",
+        "https://blogs.windows.com/devices/tag/windows-11/feed/",
+        "https://blogs.windows.com/feed/",
+        "https://blogs.windows.com/msedgedev/author/katherine-gan/feed/",
+        "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
+        "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
+        "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
+        "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
+        "https://blogs.windows.com/msedgedev/author/rogercapriotti/feed/",
+        "https://blogs.windows.com/msedgedev/author/sean-lyndersay/feed/",
+        "https://blogs.windows.com/msedgedev/author/vinithra-rajendran/feed/",
+        "https://blogs.windows.com/msedgedev/feed/",
+        "https://blogs.windows.com/msedgedev/tag/performance/feed/",
+        "https://blogs.windows.com/msedgedev/tag/pwa/feed/",
+        "https://blogs.windows.com/msedgedev/tag/web-platform/feed/",
+        "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
+        "https://blogs.windows.com/windows-insider/author/amandamc/feed/",
+        "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
+        "https://blogs.windows.com/windows-insider/tag/microsoft-copilot/feed/",
+        "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/nilanjanaganguly/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/shaybenelazar/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/windowsdeveloperblog/feed/",
+        "https://blogs.windows.com/windowsdeveloper/feed/",
+        "https://blogs.windows.com/windowsdeveloper/tag/news/feed/",
+        "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
+        "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
+        "https://blogs.windows.com/windowsexperience/author/davidweston/feed/",
+        "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
+        "https://blogs.windows.com/windowsexperience/author/marklinton/feed/",
+        "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
+        "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
+        "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
+        "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
+        "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
+        "https://blogs.windows.com/windowsexperience/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/ai/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/copilot-vision/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/copilot/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/doom/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/handheld-gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/lenovo/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/rog/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/security/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox/feed/",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
+        "https://www.computerweekly.com/rss/ContentSyndication.xml",
+        "https://www.computerweekly.com/rss/Enterprise-software.xml",
+        "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
+        "https://www.computerweekly.com/rss/IT-security.xml",
+        "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
+        "https://www.computerweekly.com/rss/Internet-technology.xml",
+        "https://www.computerweekly.com/rss/Networking-and-communication.xml",
+        "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
+        "https://www.infoworld.com/feed/",
+        "https://www.infoworld.com/index.rss",
+        "https://www.mirror.co.uk/?service=rss",
+        "https://www.mirror.co.uk/sport/football/?service=rss",
+        "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss",
+        "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
+        "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
+        "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml",
+        "https://www.telegraph.co.uk/business/rss.xml",
+        "https://www.telegraph.co.uk/cars/rss.xml",
+        "https://www.telegraph.co.uk/food-and-drink/rss.xml",
+        "https://www.telegraph.co.uk/news/rss.xml",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+        "https://www.theguardian.com/football/who-scored-blog/rss",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+        "https://www.theguardian.com/sport/blog/rss",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+        "https://www.theguardian.com/uk/rss",
+        "https://www.theguardian.com/us/rss",
+        "https://www.theguardian.com/world/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 380,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T23:55:53.354Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "blogs.windows.com": {
+      "urls": [
+        "https://blogs.windows.com/devices/author/microsoftstoreteam/feed/",
+        "https://blogs.windows.com/devices/author/nanciegaskill/feed/",
+        "https://blogs.windows.com/devices/author/timmcguiggan/feed/",
+        "https://blogs.windows.com/devices/feed/",
+        "https://blogs.windows.com/devices/tag/surface/feed/",
+        "https://blogs.windows.com/devices/tag/windows-11/feed/",
+        "https://blogs.windows.com/feed/",
+        "https://blogs.windows.com/msedgedev/author/leah-tu/feed/",
+        "https://blogs.windows.com/msedgedev/author/msedgeteam/feed/",
+        "https://blogs.windows.com/msedgedev/author/patrick-brosset/feed/",
+        "https://blogs.windows.com/msedgedev/author/pbrosset/feed/",
+        "https://blogs.windows.com/msedgedev/feed/",
+        "https://blogs.windows.com/msedgedev/tag/performance/feed/",
+        "https://blogs.windows.com/windows-insider/author/amanda-langowski/feed/",
+        "https://blogs.windows.com/windows-insider/author/brandonleblanc/feed/",
+        "https://blogs.windows.com/windows-insider/tag/windows-insider-program/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/jason-carter/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/sumitlahiri/feed/",
+        "https://blogs.windows.com/windowsdeveloper/author/thomas-lucchini/feed/",
+        "https://blogs.windows.com/windowsexperience/author/aliakgun/feed/",
+        "https://blogs.windows.com/windowsexperience/author/chansanchai/feed/",
+        "https://blogs.windows.com/windowsexperience/author/keenagrigsby/feed/",
+        "https://blogs.windows.com/windowsexperience/author/melissagrant/feed/",
+        "https://blogs.windows.com/windowsexperience/author/niccitrovinger/feed/",
+        "https://blogs.windows.com/windowsexperience/author/pavandavuluri/feed/",
+        "https://blogs.windows.com/windowsexperience/author/steveclarke/feed/",
+        "https://blogs.windows.com/windowsexperience/author/yusuf/feed/",
+        "https://blogs.windows.com/windowsexperience/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/breast-cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/cancer/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/develoeprs/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/disability/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gamers/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/inclusive/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/nvidia/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/overwatch-2/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-game-pass/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-games/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-gaming/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/pc-partners/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox-play-anywhere/feed/",
+        "https://blogs.windows.com/windowsexperience/tag/xbox/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 331,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:19.051Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "theguardian.com": {
+      "urls": [
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+        "https://www.theguardian.com/football/who-scored-blog/rss",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+        "https://www.theguardian.com/sport/blog/rss",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+        "https://www.theguardian.com/uk/rss",
+        "https://www.theguardian.com/us/rss",
+        "https://www.theguardian.com/world/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 374,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T23:55:14.763Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "techtarget.com": {
+      "urls": [
+        "https://www.techtarget.com/searchcio/rss/The-Data-Mill.xml",
+        "https://www.techtarget.com/searchdatacenter/rss/Data-center-technical-tips-and-expert-advice.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/News-on-data-management-trends-and-technology.xml",
+        "https://www.techtarget.com/searchdatamanagement/rss/Tips-expert-advice-and-sample-chapters.xml",
+        "https://www.techtarget.com/searchnetworking/rss/ContentSyndication.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Network-security-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/News-and-technical-advice-on-the-new-network.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wide-area-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchnetworking/rss/Wireless-networks-news-advice-and-technical-information.xml",
+        "https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1204,
+        "category": "technology",
+        "last_checked": "2026-01-31T23:55:12.361Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.globenewswire.com": {
+      "urls": [
+        "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
+        "https://www.globenewswire.com/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results",
+        "https://www.globenewswire.com/RssFeed/subjectcode/27",
+        "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions",
+        "https://www.globenewswire.com/rssfeed/organization/UvLjuKpEVg-MMNYI3AH5AA==",
+        "https://www.globenewswire.com:443/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
+        "https://www.globenewswire.com:443/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results",
+        "https://www.globenewswire.com:443/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 164,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:31.241Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "computerweekly.com": {
+      "urls": [
+        "https://www.computerweekly.com/rss/All-Computer-Weekly-content.xml",
+        "https://www.computerweekly.com/rss/ContentSyndication.xml",
+        "https://www.computerweekly.com/rss/Enterprise-software.xml",
+        "https://www.computerweekly.com/rss/Financial-services-IT-news.xml",
+        "https://www.computerweekly.com/rss/IT-security.xml",
+        "https://www.computerweekly.com/rss/IT-services-and-outsourcing.xml",
+        "https://www.computerweekly.com/rss/Internet-technology.xml",
+        "https://www.computerweekly.com/rss/Networking-and-communication.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1753,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:29.186Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.vaticannews.va": {
+      "urls": [
+        "https://www.vaticannews.va/en.rss.xml",
+        "https://www.vaticannews.va/es.rss.xml",
+        "https://www.vaticannews.va/fr.rss.xml",
+        "https://www.vaticannews.va/it.rss.xml",
+        "https://www.vaticannews.va/pt.rss.xml",
+        "https://www.vaticannews.va/sk.rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 46,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:18.483Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vaticannews.va": {
+      "urls": [
+        "https://www.vaticannews.va/en.rss.xml",
+        "https://www.vaticannews.va/es.rss.xml",
+        "https://www.vaticannews.va/fr.rss.xml",
+        "https://www.vaticannews.va/it.rss.xml",
+        "https://www.vaticannews.va/pt.rss.xml",
+        "https://www.vaticannews.va/sk.rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 546,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:17.110Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.new-techonline.com": {
+      "urls": [
+        "https://www.new-techonline.com/category/latest-news/feed/",
+        "https://www.new-techonline.com/category/new-products/feed/",
+        "https://www.new-techonline.com/category/new-tech-magazine/feed/",
+        "https://www.new-techonline.com/category/new-tech-military-magazine/feed/",
+        "https://www.new-techonline.com/category/start-up/feed/",
+        "https://www.new-techonline.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1016,
+        "category": "technology",
+        "last_checked": "2026-01-31T23:55:55.555Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "new-techonline.com": {
+      "urls": [
+        "https://www.new-techonline.com/category/latest-news/feed/",
+        "https://www.new-techonline.com/category/new-products/feed/",
+        "https://www.new-techonline.com/category/new-tech-magazine/feed/",
+        "https://www.new-techonline.com/category/new-tech-military-magazine/feed/",
+        "https://www.new-techonline.com/category/start-up/feed/",
+        "https://www.new-techonline.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1651,
+        "category": "technology",
+        "last_checked": "2026-01-31T23:54:20.075Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "recordeuropa.com": {
+      "urls": [
+        "https://recordeuropa.com/blogs/bom-garfo/feed",
+        "https://recordeuropa.com/blogs/feed",
+        "https://recordeuropa.com/blogs/lingua-afiada/feed",
+        "https://recordeuropa.com/blogs/personal-chef/feed",
+        "https://recordeuropa.com/blogs/shot-de-beleza/feed",
+        "https://recordeuropa.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2454,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:42.190Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "globenewswire.com": {
+      "urls": [
+        "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
+        "https://www.globenewswire.com/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results",
+        "https://www.globenewswire.com/RssFeed/subjectcode/27",
+        "https://www.globenewswire.com/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions",
+        "https://www.globenewswire.com/rssfeed/organization/UvLjuKpEVg-MMNYI3AH5AA=="
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 282,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:46.083Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.themarker.com": {
+      "urls": [
+        "http://www.themarker.com/cmlink/author-rss-1.143/1.436",
+        "http://www.themarker.com/cmlink/author-rss-1.143/1.451",
+        "http://www.themarker.com/cmlink/author-rss-1.143/1.480",
+        "http://www.themarker.com/cmlink/author-rss-1.143/1.496"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 552,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:18.372Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "themarker.com": {
+      "urls": [
+        "http://www.themarker.com/cmlink/author-rss-1.143/1.436",
+        "http://www.themarker.com/cmlink/author-rss-1.143/1.451",
+        "http://www.themarker.com/cmlink/author-rss-1.143/1.480",
+        "http://www.themarker.com/cmlink/author-rss-1.143/1.496"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 557,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:15.374Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news.bitcoin.com": {
+      "urls": [
+        "https://news.bitcoin.com/category/blockchain/feed/",
+        "https://news.bitcoin.com/feed/",
+        "https://news.bitcoin.com/ru/feed/",
+        "https://news.bitcoin.com/tag/cosmos-atom/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 780,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:21.233Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "forward.com": {
+      "urls": [
+        "https://forward.com/feed/",
+        "https://forward.com/news/feed/",
+        "https://forward.com/rss/",
+        "https://forward.com/rss/news/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:40.963Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "globenewswire.com:443": {
+      "urls": [
+        "https://www.globenewswire.com:443/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
+        "https://www.globenewswire.com:443/RssFeed/subjectcode/13-Earnings%20Releases%20And%20Operating%20Results/feedTitle/GlobeNewswire%20-%20Earnings%20Releases%20And%20Operating%20Results",
+        "https://www.globenewswire.com:443/RssFeed/subjectcode/27-Mergers%20And%20Acquisitions/feedTitle/GlobeNewswire%20-%20Mergers%20And%20Acquisitions"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 18,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:46.105Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "infoworld.com": {
+      "urls": [
+        "https://www.infoworld.com/blog/generative-ai-insights/index.rss",
+        "https://www.infoworld.com/feed/",
+        "https://www.infoworld.com/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 76,
+        "category": "technology",
+        "last_checked": "2026-01-31T23:53:59.984Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hrw.org": {
+      "urls": [
+        "http://www.hrw.org/rss/news",
+        "https://www.hrw.org/rss/news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 55,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:53.298Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.hrw.org": {
+      "urls": [
+        "http://www.hrw.org/rss/news",
+        "https://www.hrw.org/rss/news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 64,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:38.896Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.brickfanatics.com": {
+      "urls": [
+        "https://www.brickfanatics.com/feed",
+        "https://www.brickfanatics.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 404,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:26.223Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "brickfanatics.com": {
+      "urls": [
+        "https://www.brickfanatics.com/feed",
+        "https://www.brickfanatics.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 406,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:20.585Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.letemsvetemapplem.eu": {
+      "urls": [
+        "https://letemsvetemapplem.eu/feed.xml",
+        "https://www.letemsvetemapplem.eu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 684,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:46.926Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "letemsvetemapplem.eu": {
+      "urls": [
+        "https://letemsvetemapplem.eu/feed.xml",
+        "https://www.letemsvetemapplem.eu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1044,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:08.972Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "besacenter.org": {
+      "urls": [
+        "http://besacenter.org/feed/",
+        "https://besacenter.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1626,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:14.953Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.greenpeace.org": {
+      "urls": [
+        "https://www.greenpeace.org/international/feed/",
+        "https://www.greenpeace.org/usa/rsslatest.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1739,
+        "category": "world",
+        "last_checked": "2026-01-31T23:55:34.789Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "greenpeace.org": {
+      "urls": [
+        "https://www.greenpeace.org/international/feed/",
+        "https://www.greenpeace.org/usa/rsslatest.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1794,
+        "category": "world",
+        "last_checked": "2026-01-31T23:53:49.770Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rss.nytimes.com": {
+      "urls": [
+        "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 44,
+        "category": "technology",
+        "last_checked": "2026-01-31T23:54:42.348Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "theportugalnews.com": {
+      "urls": [
+        "https://www.theportugalnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 48,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:15.422Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.theportugalnews.com": {
+      "urls": [
+        "https://www.theportugalnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 61,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:18.433Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jns.org": {
+      "urls": [
+        "https://www.jns.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 655,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:04.922Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.jns.org": {
+      "urls": [
+        "https://www.jns.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 723,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:42.912Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "samsungmagazine.eu": {
+      "urls": [
+        "https://samsungmagazine.eu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 978,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:53.352Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bat-yamamas.com": {
+      "urls": [
+        "https://www.bat-yamamas.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1025,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:12.906Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.bat-yamamas.com": {
+      "urls": [
+        "https://www.bat-yamamas.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1091,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:24.448Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nziv.net": {
+      "urls": [
+        "https://nziv.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1228,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:31.232Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nws.report": {
+      "urls": [
+        "https://nws.report/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1230,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:30.004Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "europeantimes.news": {
+      "urls": [
+        "https://europeantimes.news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1429,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:34.614Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.europeantimes.news": {
+      "urls": [
+        "https://europeantimes.news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1632,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:28.824Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "securities.io": {
+      "urls": [
+        "https://www.securities.io/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1844,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:55.196Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.securities.io": {
+      "urls": [
+        "https://www.securities.io/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1914,
+        "category": "general",
+        "last_checked": "2026-01-31T23:56:06.564Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news08.net": {
+      "urls": [
+        "https://www.news08.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3651,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:24.884Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.news08.net": {
+      "urls": [
+        "https://www.news08.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4352,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:59.907Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "microsoft.com": {
+      "urls": [
+        "https://www.microsoft.com/en-us/dynamics-365/blog/feed/",
+        "https://www.microsoft.com/en-us/dynamics-365/blog/product/nuance/feed/",
+        "https://www.microsoft.com/en-us/industry/blog/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/RoadmapFeatureRSS",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/author/colette-stallbaumer/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",
+        "https://www.microsoft.com/en-us/microsoft-365/blog/tag/ai/feed/",
+        "https://www.microsoft.com/en-us/microsoft-cloud/blog/feed/",
+        "https://www.microsoft.com/en-us/microsoft-copilot/blog/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/audience/it-professional/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/author/chitraj/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/content-type/events/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/content-type/news/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/alm/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/building-ui/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/copilot/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/new-features/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/templates/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-category/uncategorized/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/admin/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/administration/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/admins/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/ai/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/announcement/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/building-ui/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/canvas-apps/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/canvas-components/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/deployment/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/fusion-teams/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/intelligent-authoring/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/maker/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/monthly-update/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/pipelines/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/power-fx/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/power-platform/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-tag/sql-server/feed/",
+        "https://www.microsoft.com/en-us/power-platform/blog/power-pages/feed/",
+        "https://www.microsoft.com/en-us/research/feed/",
+        "https://www.microsoft.com/en-us/security/blog/content-type/best-practices/feed/",
+        "https://www.microsoft.com/en-us/security/blog/feed/",
+        "https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/feed/",
+        "https://www.microsoft.com/en-us/security/blog/topic/ai-and-machine-learning/feed/",
+        "https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/",
+        "https://www.microsoft.com/fr-fr/microsoft-365/RoadmapFeatureRSS/",
+        "https://www.microsoft.com/security/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:13.402Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "blogs.msn.com": {
+      "urls": [
+        "https://blogs.msn.com/author/bill-monroe/feed/",
+        "https://blogs.msn.com/author/chitralekha/feed/",
+        "https://blogs.msn.com/author/currrentlybill/feed/",
+        "https://blogs.msn.com/author/dave-kane/feed/",
+        "https://blogs.msn.com/author/dinakar-jaymicrosoft-com/feed/",
+        "https://blogs.msn.com/author/emily-falla/feed/",
+        "https://blogs.msn.com/author/ganga-venkatasubramanian/feed/",
+        "https://blogs.msn.com/author/kun-chen/feed/",
+        "https://blogs.msn.com/author/lizz-callaway/feed/",
+        "https://blogs.msn.com/author/maria/feed/",
+        "https://blogs.msn.com/author/mrikank-varshney/feed/",
+        "https://blogs.msn.com/author/ovidan/feed/",
+        "https://blogs.msn.com/author/pratkumamicrosoft-com/feed/",
+        "https://blogs.msn.com/author/taroon-mandhana/feed/",
+        "https://blogs.msn.com/author/vattanaksynaxiscorp-com/feed/",
+        "https://blogs.msn.com/author/vera-chan/feed/",
+        "https://blogs.msn.com/feed/",
+        "https://blogs.msn.com/topic/events/feed/",
+        "https://blogs.msn.com/topic/featured/feed/",
+        "https://blogs.msn.com/topic/innovations/feed/",
+        "https://blogs.msn.com/topic/solutions/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:18.717Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "be106.net": {
+      "urls": [
+        "https://www.be106.net/rss/city/104/posts.xml",
+        "https://www.be106.net/rss/city/173/posts.xml",
+        "https://www.be106.net/rss/city/207/posts.xml",
+        "https://www.be106.net/rss/city/231/posts.xml",
+        "https://www.be106.net/rss/city/233/posts.xml",
+        "https://www.be106.net/rss/city/238/posts.xml",
+        "https://www.be106.net/rss/city/255/posts.xml",
+        "https://www.be106.net/rss/city/280/posts.xml",
+        "https://www.be106.net/rss/city/281/posts.xml",
+        "https://www.be106.net/rss/city/282/posts.xml",
+        "https://www.be106.net/rss/city/49/posts.xml",
+        "https://www.be106.net/rss/city/52/posts.xml",
+        "https://www.be106.net/rss/city/55/posts.xml",
+        "https://www.be106.net/rss/city/87/posts.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "local",
+        "last_checked": "2026-01-31T23:53:13.070Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.be106.net": {
+      "urls": [
+        "https://www.be106.net/rss/city/104/posts.xml",
+        "https://www.be106.net/rss/city/173/posts.xml",
+        "https://www.be106.net/rss/city/207/posts.xml",
+        "https://www.be106.net/rss/city/231/posts.xml",
+        "https://www.be106.net/rss/city/233/posts.xml",
+        "https://www.be106.net/rss/city/238/posts.xml",
+        "https://www.be106.net/rss/city/255/posts.xml",
+        "https://www.be106.net/rss/city/280/posts.xml",
+        "https://www.be106.net/rss/city/281/posts.xml",
+        "https://www.be106.net/rss/city/282/posts.xml",
+        "https://www.be106.net/rss/city/49/posts.xml",
+        "https://www.be106.net/rss/city/52/posts.xml",
+        "https://www.be106.net/rss/city/55/posts.xml",
+        "https://www.be106.net/rss/city/87/posts.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "local",
+        "last_checked": "2026-01-31T23:55:24.593Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "msrc.microsoft.com": {
+      "urls": [
+        "https://msrc.microsoft.com/blog/categories/bluehat/feed",
+        "https://msrc.microsoft.com/blog/categories/msrc/feed",
+        "https://msrc.microsoft.com/blog/categories/security-research-defense/feed",
+        "https://msrc.microsoft.com/blog/feed",
+        "https://msrc.microsoft.com/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:16.423Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "storage.googleapis.com": {
+      "urls": [
+        "https://storage.googleapis.com/mako-sitemaps/breaking-news.xml",
+        "https://storage.googleapis.com/mako-sitemaps/rss-fashionforward.xml",
+        "https://storage.googleapis.com/mako-sitemaps/rssWebSub.xml",
+        "https://storage.googleapis.com/mako-sitemaps/video-rss-mako.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:10.965Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "1075.fm": {
+      "urls": [
+        "https://1075.fm/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:53:05.021Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jewishagency.org": {
+      "urls": [
+        "https://www.jewishagency.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:04.267Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kosovapress.com": {
+      "urls": [
+        "https://kosovapress.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:06.866Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "prnewswire.com": {
+      "urls": [
+        "https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:35.388Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "rehovot.news": {
+      "urls": [
+        "https://rehovot.news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:42.304Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rssmix.com": {
+      "urls": [
+        "http://www.rssmix.com/u/11743304/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:54:52.374Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.jewishagency.org": {
+      "urls": [
+        "https://www.jewishagency.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T23:55:42.189Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

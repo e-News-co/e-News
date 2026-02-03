@@ -1,0 +1,365 @@
+{
+  "country_code": "IN",
+  "language_code": "KN",
+  "total_domains": 19,
+  "total_feeds": 91,
+  "feeds": {
+    "sudharmasanskritdaily.in": {
+      "urls": [
+        "https://sudharmasanskritdaily.in/feed/",
+        "https://sudharmasanskritdaily.in/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 136,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:27.778Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "varthabharati.in": {
+      "urls": [
+        "https://www.varthabharati.in/google_feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 99,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:26.140Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sahilonline.in": {
+      "urls": [
+        "https://sahilonline.in/feed/posts",
+        "https://www.sahilonline.in/feed/posts"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:34.539Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kannada.news18.com": {
+      "urls": [
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/videos.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/bengaluru-urban.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/entertainment/ott.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/explained.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/jobs.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/mangaluru.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/bannadodeya-rama.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/chitradurga.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/gadiyachegina-rama.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/hassan.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/india-china.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/ipl.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/kodagu.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/press-release.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/rama-rajya.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/state-govt-jobs.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/teaching-jobs-2.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/tech-trend.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/tumakuru.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/udupi.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/astrology/monthly-horoscope.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/astrology/weekly-horoscope.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/business/agriculture.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/jobs/railway-jobs.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/jobs/teaching-jobs.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/state/belgaum.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/state/mangalore.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/state/ramanagara.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/state/shimoga.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/lifestyle/health.xml",
+        "https://kannada.news18.com/commonfeeds/v1/kan/rss/latest.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 219,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:34.987Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vishvakannada.com": {
+      "urls": [
+        "http://vishvakannada.com/feed/",
+        "http://vishvakannada.com/category/blog/feed/",
+        "http://vishvakannada.com/comments/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%85%E0%B2%A8%E0%B3%81%E0%B2%A6%E0%B2%BE%E0%B2%A8-%E0%B2%85%E0%B2%95%E0%B2%BE%E0%B2%A1%E0%B3%86%E0%B2%AE%E0%B2%BF-%E0%B2%96%E0%B2%82%E0%B2%A1%E0%B2%BF%E0%B2%A4-%E0%B2%AC%E0%B3%87%E0%B2%95/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%87%E0%B2%B2%E0%B2%BF-%E0%B2%B9%E0%B2%BF%E0%B2%A1%E0%B2%BF%E0%B2%AF%E0%B3%81%E0%B2%B5%E0%B3%81%E0%B2%A6%E0%B3%81-%E0%B2%AE%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%81-%E0%B2%95%E0%B3%8A%E0%B2%B2/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1%E0%B2%A6%E0%B2%BF%E0%B2%82%E0%B2%A6-%E0%B2%AC%E0%B2%A6%E0%B3%81%E0%B2%95%E0%B3%81%E0%B2%B5-%E0%B2%A4%E0%B2%AE%E0%B2%BF%E0%B2%B3%E0%B3%81-%E0%B2%9F/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1-%E0%B2%AC%E0%B3%8D%E0%B2%B2%E0%B2%BE%E0%B2%97%E0%B3%8B%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B2%AE%E0%B2%B0-%E0%B2%B8%E0%B2%AD%E0%B3%86/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%97%E0%B2%BE%E0%B2%A2%E0%B2%BE%E0%B2%82%E0%B2%A7%E0%B2%95%E0%B2%BE%E0%B2%B0%E0%B2%A6%E0%B3%8A%E0%B2%B3%E0%B3%81-%E0%B2%A8%E0%B2%9F%E0%B2%A8-%E0%B2%AA%E0%B2%9F%E0%B3%81-%E0%B2%AE%E0%B3%87/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%98%E0%B3%8B%E0%B2%B7%E0%B2%BF%E0%B2%B8%E0%B2%BF-%E0%B2%A7%E0%B2%BE%E0%B2%B3%E0%B2%BF-%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B2%BF%E0%B2%A6%E0%B2%B0%E0%B3%87%E0%B2%A8%E0%B3%81-%E0%B2%AB%E0%B2%B2/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%A6%E0%B3%80%E0%B2%AA-%E0%B2%AC%E0%B3%86%E0%B2%B3%E0%B2%97%E0%B2%BF-%E0%B2%89%E0%B2%A6%E0%B3%8D%E0%B2%98%E0%B2%BE%E0%B2%9F%E0%B2%BF%E0%B2%B8%E0%B3%81%E0%B2%B5%E0%B3%81%E0%B2%A6%E0%B3%81/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%A6%E0%B3%8D%E0%B2%B5%E0%B2%BF%E0%B2%AD%E0%B2%BE%E0%B2%B7%E0%B2%BE-%E0%B2%AB%E0%B2%BE%E0%B2%82%E0%B2%9F%E0%B3%8D-%E0%B2%AC%E0%B2%97%E0%B3%8D%E0%B2%97%E0%B3%86-%E0%B2%95%E0%B2%B0%E0%B3%8D/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%A8%E0%B2%82-1-%E0%B2%86%E0%B2%97%E0%B3%81%E0%B2%B5%E0%B3%81%E0%B2%A6%E0%B3%81-%E0%B2%B9%E0%B3%87%E0%B2%97%E0%B3%86/feed/",
+        "http://vishvakannada.com/blog/%E0%B2%AA%E0%B2%BF%E0%B2%A4%E0%B3%8D%E0%B2%A4-%E0%B2%B8%E0%B2%9A%E0%B2%BF%E0%B2%B5/feed/",
+        "http://vishvakannada.com/blog/open-book-exam/feed/",
+        "http://vishvakannada.com/blog/pavanaja-name/feed/",
+        "http://vishvakannada.com/blog/yaana/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 983,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:36.266Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "yakshagana.com": {
+      "urls": [
+        "https://yakshagana.com/feed/",
+        "https://yakshagana.com/comments/feed/",
+        "https://yakshagana.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 266,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:35.255Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "eesanje.com": {
+      "urls": [
+        "https://eesanje.com/feed/",
+        "https://eesanje.com/home/feed/",
+        "https://eesanje.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 819,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:28.600Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sanjevani.com": {
+      "urls": [
+        "https://sanjevani.com/feed/",
+        "https://sanjevani.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 69,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:26.214Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vishwavani.news": {
+      "urls": [
+        "https://vishwavani.news/feed/",
+        "https://www.vishwavani.news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 152,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:26.041Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "prajapragathi.com": {
+      "urls": [
+        "https://prajapragathi.com/feed/",
+        "https://prajapragathi.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1417,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:27.633Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kannadadunia.com": {
+      "urls": [
+        "https://kannadadunia.com/feed/",
+        "https://kannadadunia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2524,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:32.628Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kannada.asianetnews.com": {
+      "urls": [
+        "https://kannada.asianetnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 79,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:34.618Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "udayavani.com": {
+      "urls": [
+        "https://www.udayavani.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 211,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:25.878Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vijaykarnataka.com": {
+      "urls": [
+        "https://vijaykarnataka.com/langapi/sitemap/gstandrssfeed/63431237.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 333,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:24.597Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "karnatakamalla.com": {
+      "urls": [
+        "https://www.karnatakamalla.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 335,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:29.278Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "janathavani.com": {
+      "urls": [
+        "https://janathavani.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 343,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:28.943Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "suddidina.com": {
+      "urls": [
+        "https://suddidina.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 755,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:30.033Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kannadaprabha.com": {
+      "urls": [
+        "https://prod-qt-images.s3.amazonaws.com/production/kannadaprabha/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1070,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:25.667Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kannada.oneindia.com": {
+      "urls": [
+        "https://kannada.oneindia.com/rss/kannada-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-news-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-jobs-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-astrology-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-cartoons-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-column-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-debates-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-jokes-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-literature-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-motivational-stories-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-nri-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-partner-content-fb.xml",
+        "https://kannada.oneindia.com/rss/kannada-travel-fb.xml",
+        "https://kannada.oneindia.com/rss/tag-assam-assembly-elections-2021.xml",
+        "https://kannada.oneindia.com/rss/tag-kerala-assembly-elections-2021.xml",
+        "https://kannada.oneindia.com/rss/tag-puducherry-assembly-elections-2021.xml",
+        "https://kannada.oneindia.com/rss/tag-tamil-nadu-assembly-elections-2021.xml",
+        "https://kannada.oneindia.com/rss/tag-west-bengal-assembly-elections-2021.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:28:34.746Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

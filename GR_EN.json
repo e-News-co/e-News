@@ -1,0 +1,1426 @@
+{
+  "country_code": "GR",
+  "language_code": "EN",
+  "total_domains": 81,
+  "total_feeds": 284,
+  "feeds": {
+    "protothema.gr": {
+      "urls": [
+        "https://www.protothema.gr/greece/rss",
+        "https://www.protothema.gr/economy/rss",
+        "https://www.protothema.gr/politics/rss",
+        "https://www.protothema.gr/blogs/rss",
+        "https://www.protothema.gr/rss",
+        "https://www.protothema.gr/blogs/rss/",
+        "https://www.protothema.gr/rss/",
+        "https://www.protothema.gr/technology/rss",
+        "https://www.protothema.gr/blogs/sports-blog/rss/",
+        "https://www.protothema.gr/blogs/aleksandros-kasimatis/rss",
+        "https://www.protothema.gr/blogs/basilis-stefanakidis/rss",
+        "https://www.protothema.gr/blogs/dimitris-anastasopoylos/rss",
+        "https://www.protothema.gr/blogs/dimitris-danikas/rss",
+        "https://www.protothema.gr/blogs/dimitris-pagadakis/rss",
+        "https://www.protothema.gr/blogs/fofi-giotaki/rss",
+        "https://www.protothema.gr/blogs/g-x-papagewrgioy/rss",
+        "https://www.protothema.gr/blogs/georgios-sanidas/rss",
+        "https://www.protothema.gr/blogs/giannis-paidas/rss",
+        "https://www.protothema.gr/blogs/giorgos-apostolopoulos/rss",
+        "https://www.protothema.gr/blogs/giwrgos-d-andreoy/rss",
+        "https://www.protothema.gr/blogs/giwrgos-stylios/rss",
+        "https://www.protothema.gr/blogs/gr-nikolopoylos/rss",
+        "https://www.protothema.gr/blogs/grigoris-tziobaras/rss",
+        "https://www.protothema.gr/blogs/ilias-papatheodorou/rss",
+        "https://www.protothema.gr/blogs/katerina-papakosta/rss",
+        "https://www.protothema.gr/blogs/kwstas-melas/rss",
+        "https://www.protothema.gr/blogs/makis-pollatos/rss",
+        "https://www.protothema.gr/blogs/maria-sureggela/rss",
+        "https://www.protothema.gr/blogs/mihalis-stoukas/rss",
+        "https://www.protothema.gr/blogs/mpampis-koytras/rss",
+        "https://www.protothema.gr/blogs/nikos-felekis/rss",
+        "https://www.protothema.gr/blogs/nikos-meletis/rss",
+        "https://www.protothema.gr/blogs/padelis-kapsis/rss",
+        "https://www.protothema.gr/blogs/spilios-livanos/rss",
+        "https://www.protothema.gr/blogs/stefanos-tzanakis/rss",
+        "https://www.protothema.gr/blogs/takis-trakoysellis/rss",
+        "https://www.protothema.gr/blogs/tasos-gaitanis/rss",
+        "https://www.protothema.gr/blogs/tasos-karamitsos/rss",
+        "https://www.protothema.gr/blogs/theodoros-loukakis/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 926,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:52.692Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsbeast.gr": {
+      "urls": [
+        "https://www.newsbeast.gr/feed",
+        "https://www.newsbeast.gr/world/feed",
+        "https://www.newsbeast.gr/greece/feed",
+        "https://www.newsbeast.gr/sports/feed",
+        "https://www.newsbeast.gr/lifestyle/feed",
+        "https://www.newsbeast.gr/media/feed",
+        "https://www.newsbeast.gr/financial/feed",
+        "https://www.newsbeast.gr/society/feed",
+        "https://www.newsbeast.gr/entertainment/feed",
+        "https://www.newsbeast.gr/woman/feed",
+        "https://www.newsbeast.gr/travel/feed",
+        "https://www.newsbeast.gr/car/feed",
+        "https://www.newsbeast.gr/geuseis/feed",
+        "https://www.newsbeast.gr/technology/feed",
+        "https://www.newsbeast.gr/environment/feed",
+        "https://www.newsbeast.gr/health/feed",
+        "https://www.newsbeast.gr/moto/feed",
+        "https://www.newsbeast.gr/politiki/feed",
+        "https://www.newsbeast.gr/weird/feed",
+        "https://www.newsbeast.gr/zwdia/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 307,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:55.952Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "neakriti.gr": {
+      "urls": [
+        "https://www.neakriti.gr/rss.xml",
+        "https://www.neakriti.gr/rss",
+        "https://www.neakriti.gr/category/editors-blogs/adonis-gortzis/rss",
+        "https://www.neakriti.gr/category/editors-blogs/giorgos-sahinis-blog/rss",
+        "https://www.neakriti.gr/category/editors-blogs/doulgeraki-aggela-blog/rss",
+        "https://www.neakriti.gr/category/editors-blogs/aggelidaki-andriani-blog/rss",
+        "https://www.neakriti.gr/category/editors-blogs/giorgos-mimikos-blog/rss",
+        "https://www.neakriti.gr/category/editors-blogs/manos-daskalakis-blog/rss",
+        "https://www.neakriti.gr/category/editors-blogs/maria-paulaki/rss",
+        "https://www.neakriti.gr/category/editors-blogs/mary-kariotaki-blog/rss",
+        "https://www.neakriti.gr/category/editors-blogs/nikos-kosmadakis/rss",
+        "https://www.neakriti.gr/category/editors-blogs/nikos-panagiotopoulos/rss",
+        "https://www.neakriti.gr/category/editors-blogs/sfakianaki-blog/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 601,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:37.535Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tovima.gr": {
+      "urls": [
+        "https://www.tovima.gr/feed/",
+        "https://www.tovima.gr/category/world/feed/",
+        "https://www.tovima.gr/category/finance/feed/",
+        "https://www.tovima.gr/category/politics/feed/",
+        "https://www.tovima.gr/grace/category/podcasts/feed/",
+        "https://www.tovima.gr/category/opinions/feed/",
+        "https://www.tovima.gr/category/podcasts/feed/",
+        "https://www.tovima.gr/tag/podcast/feed/",
+        "https://www.tovima.gr/tag/to-vima-simera-podcast/feed/",
+        "https://www.tovima.gr/tag/sinema-sti-sentra-podcast/feed/",
+        "https://www.tovima.gr/tag/to-vima-stin-istoria-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 786,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:35.368Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "naftemporiki.gr": {
+      "urls": [
+        "https://www.naftemporiki.gr/rssFeed",
+        "https://www.naftemporiki.gr/feed/",
+        "https://www.naftemporiki.gr/rssFeed?mode=section&id=1&atype=story",
+        "https://www.naftemporiki.gr/rssFeed?mode=section&id=2&atype=story",
+        "https://www.naftemporiki.gr/finance/feed/",
+        "https://www.naftemporiki.gr/rssFeed?mode=categ&id=8&atype=story",
+        "https://www.naftemporiki.gr/politics/feed/",
+        "https://www.naftemporiki.gr/business/feed/",
+        "https://www.naftemporiki.gr/techscience/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 885,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:37.814Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsit.gr": {
+      "urls": [
+        "https://www.newsit.gr/feed/",
+        "https://www.newsit.gr/category/blogs/apocryptografos/feed/",
+        "https://www.newsit.gr/category/blogs/eyelpidon-stories/feed/",
+        "https://www.newsit.gr/category/blogs/maximas-house/feed/",
+        "https://www.newsit.gr/category/blogs/me-to-ganti/feed/",
+        "https://www.newsit.gr/category/blogs/melas-blog/feed/",
+        "https://www.newsit.gr/category/blogs/no-filters/feed/",
+        "https://www.newsit.gr/category/blogs/oikonoklastika/feed/",
+        "https://www.newsit.gr/category/blogs/politikh-kouzina/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 902,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:53.599Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "athinapoli.gr": {
+      "urls": [
+        "https://athinapoli.gr/feed/",
+        "http://feeds.feedburner.com/athinapoli/yitZ",
+        "https://www.eklogika.gr/rss/news",
+        "https://www.blogger.com/feeds/8546276635354042336/posts/default",
+        "https://www.eklogika.gr/rss/gallops",
+        "https://athinapoli.gr/comments/feed/",
+        "https://www.eklogika.gr/rss/articles"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1083,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:30.043Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "enikos.gr": {
+      "urls": [
+        "https://www.enikos.gr/rss/latest.xml",
+        "https://www.enikos.gr/feed/",
+        "https://www.enikos.gr/podcasts/feed/",
+        "https://www.enikos.gr/podcasts/real-podcast-semina-digeni/feed/",
+        "https://www.enikos.gr/podcasts/the-social-lawyers/feed/",
+        "https://www.enikos.gr/tag/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 845,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:56.857Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kosmoslarissa.gr": {
+      "urls": [
+        "https://kosmoslarissa.gr/rss?containerid=15",
+        "https://kosmoslarissa.gr/feed/?containerid=15",
+        "https://kosmoslarissa.gr/feed/?projection=71",
+        "https://www.kosmoslarissa.gr/rss?projection=71",
+        "http://www.kosmoslarissa.gr/rss?projection=71",
+        "https://kosmoslarissa.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1575,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:42.590Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "protagon.gr": {
+      "urls": [
+        "https://protagon.gr/feed",
+        "https://www.protagon.gr/feed?i=protagon.el.article",
+        "https://www.protagon.gr/epikairotita/feed",
+        "https://www.protagon.gr/feed",
+        "https://protagon.gr/apopseis/blogs/feed",
+        "https://www.protagon.gr/apopseis/blogs/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1836,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:59.809Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "iefimerida.gr": {
+      "urls": [
+        "https://www.iefimerida.gr/rss.xml",
+        "https://www.iefimerida.gr/taxonomy/term/21/all/feed",
+        "https://www.iefimerida.gr/taxonomy/term/16/all/feed",
+        "https://www.iefimerida.gr/taxonomy/term/2/all/feed",
+        "https://www.iefimerida.gr/taxonomy/term/20/all/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 499,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:55.642Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "athensvoice.gr": {
+      "urls": [
+        "https://www.athensvoice.gr/rss/echobox/",
+        "https://feeds.simplecast.com/IAcu9dhU",
+        "https://feeds.simplecast.com/bSNFAvmx",
+        "https://anchor.fm/s/10ada1708/podcast/rss",
+        "https://anchor.fm/s/10b143b68/podcast/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1043,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:01.274Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsbomb.gr": {
+      "urls": [
+        "https://www.newsbomb.gr/oles-oi-eidhseis?format=feed&type=atom",
+        "https://www.newsbomb.gr/oles-oi-eidhseis?format=feed&type=rss",
+        "https://www.newsbomb.gr/en?format=feed&type=atom",
+        "https://www.newsbomb.gr/en?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 882,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:54.693Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "athinorama.gr": {
+      "urls": [
+        "https://digital.athinorama.gr/rss/",
+        "https://digital.athinorama.gr/rss/default.aspx",
+        "https://www.athinorama.gr/digital/rss/",
+        "https://www.athinorama.gr/digital/rss/default.aspx"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 905,
+        "category": "technology",
+        "last_checked": "2026-01-31T22:28:27.345Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rizospastis.gr": {
+      "urls": [
+        "https://www.rizospastis.gr/rssFeed.do?channel=Arts",
+        "https://www.rizospastis.gr/rssFeed.do?channel=Top",
+        "https://www.rizospastis.gr/rssFeed.do?channel=World",
+        "https://www.rizospastis.gr/rssFeed.do?channel=Youth"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 913,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T22:26:39.868Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zougla.gr": {
+      "urls": [
+        "https://www.zougla.gr/rss",
+        "https://www.zougla.gr/feed/",
+        "https://www.zougla.gr/rss/arthrablog"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 54,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:56.927Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eleftherostypos.gr": {
+      "urls": [
+        "https://eleftherostypos.gr/feed",
+        "https://feeds.feedburner.com/eleftherostypos/RevCmVR1nZQ",
+        "https://www.eleftherostypos.gr/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 499,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:38.441Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kathimerini.gr": {
+      "urls": [
+        "https://feeds.feedburner.com/kathimerini/DJpy",
+        "https://www.kathimerini.gr/rss",
+        "https://www.kathimerini.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 514,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:32.500Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dimokratiki.gr": {
+      "urls": [
+        "https://www.dimokratiki.gr/feed/",
+        "https://www.dimokratiki.gr/category/news/feed/",
+        "https://www.dimokratiki.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 918,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:42.743Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "topontiki.gr": {
+      "urls": [
+        "https://www.topontiki.gr/feed/",
+        "http://www.topontiki.gr/rss",
+        "https://www.topontiki.gr/category/podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 930,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:09.976Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pelop.gr": {
+      "urls": [
+        "https://pelop.gr/feed/gn",
+        "https://pelop.gr/feed/",
+        "https://pelop.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1028,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:41.822Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "parapolitika.gr": {
+      "urls": [
+        "https://www.parapolitika.gr/rss?containerid=15",
+        "https://www.parapolitika.gr/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 40,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:55.995Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "xronos.gr": {
+      "urls": [
+        "https://xronos.gr/rss.xml",
+        "https://www.xronos.gr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 277,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:45.684Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "reporter.gr": {
+      "urls": [
+        "https://www.reporter.gr/newsfeed?format=feed",
+        "https://feeds.feedburner.com/reportergr/allnews"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 761,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:33.514Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "avgi.gr": {
+      "urls": [
+        "https://www.avgi.gr/rss.xml",
+        "http://www.avgi.gr/newsstream/-/asset_publisher/CATEGORY/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 923,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:40.792Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aixmi-news.gr": {
+      "urls": [
+        "https://www.aixmi-news.gr/feed/",
+        "https://www.aixmi-news.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1008,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:44.890Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sport-fm.gr": {
+      "urls": [
+        "https://www.sport-fm.gr/list/1.feed",
+        "https://www.sport-fm.gr/list/2.feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1016,
+        "category": "sports",
+        "last_checked": "2026-01-31T22:28:16.416Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alithia.gr": {
+      "urls": [
+        "https://www.alithia.gr/rss.xml",
+        "http://www.alithia.gr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1022,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:29.641Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "businessnews.gr": {
+      "urls": [
+        "https://www.businessnews.gr/oles-oi-eidiseis?format=feed",
+        "https://www.businessnews.gr/?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1033,
+        "category": "business",
+        "last_checked": "2026-01-31T22:27:26.778Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tanea.gr": {
+      "urls": [
+        "https://www.tanea.gr/feed",
+        "https://www.tanea.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1034,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:34.550Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dnews.gr": {
+      "urls": [
+        "https://feeds.feedburner.com/dikaiologitika/ZteV",
+        "https://www.dnews.gr/eidhseis/politikes-eidhseis?format=feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1119,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:09.152Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "makeleio.gr": {
+      "urls": [
+        "https://www.makeleio.gr/feed/",
+        "https://www.makeleio.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1127,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:07.933Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thestival.gr": {
+      "urls": [
+        "https://www.thestival.gr/feed/",
+        "https://www.thestival.gr/eidiseis/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1278,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:11.821Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "stoxos.gr": {
+      "urls": [
+        "https://www.stoxos.gr/feeds/posts/default",
+        "https://www.blogger.com/feeds/37430256/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1410,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:06.402Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ditiki.gr": {
+      "urls": [
+        "https://ditiki.gr/feed/atom/",
+        "https://ditiki.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1441,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:59.668Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elkosmos.gr": {
+      "urls": [
+        "http://www.elkosmos.gr/feed/",
+        "https://elkosmos.gr/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1707,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:08.758Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "proinanea.gr": {
+      "urls": [
+        "https://www.proinanea.gr/feed/",
+        "http://www.proinanea.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2151,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:58.214Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "agonas.gr": {
+      "urls": [
+        "https://agonas.gr/feed/",
+        "https://agonas.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4305,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:55.446Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thetoc.gr": {
+      "urls": [
+        "https://www.thetoc.gr/newsfeed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 39,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:59.848Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ethnos.gr": {
+      "urls": [
+        "https://www.ethnos.gr/rss-news?positionid=1"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 284,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:31.555Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pentapostagma.gr": {
+      "urls": [
+        "https://www.pentapostagma.gr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 421,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:09.573Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "espressonews.gr": {
+      "urls": [
+        "https://www.espressonews.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 476,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:38.917Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newpost.gr": {
+      "urls": [
+        "https://newpost.gr/blogs/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 816,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:10.389Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ert.gr": {
+      "urls": [
+        "https://www.ert.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 821,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:12.642Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "karfitsa.gr": {
+      "urls": [
+        "https://www.karfitsa.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 898,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:00.566Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "emakedonia.gr": {
+      "urls": [
+        "https://www.emakedonia.gr/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 983,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:40.638Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rodiaki.gr": {
+      "urls": [
+        "https://feeds.feedburner.com/rodiaki/eidiseis-rodou"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 998,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:45.032Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eleftheriaonline.gr": {
+      "urls": [
+        "http://feeds.feedburner.com/eleftheriaonline/uFFd"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1011,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:38.546Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "metrosport.gr": {
+      "urls": [
+        "https://www.metrosport.gr/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1108,
+        "category": "sports",
+        "last_checked": "2026-01-31T22:27:39.655Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laosnews.gr": {
+      "urls": [
+        "https://www.laosnews.gr/feed/rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1126,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:33.839Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "novasports.gr": {
+      "urls": [
+        "https://www.novasports.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1262,
+        "category": "sports",
+        "last_checked": "2026-01-31T22:28:15.311Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "imeranews.gr": {
+      "urls": [
+        "https://imeranews.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1291,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:44.034Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "enet.gr": {
+      "urls": [
+        "http://www.enet.gr/rss?i=news.el.article"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1526,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:36.894Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kokkinosprotathlitis.gr": {
+      "urls": [
+        "https://www.kokkinosprotathlitis.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1537,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:13.675Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "agon.gr": {
+      "urls": [
+        "https://www.agon.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1737,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:28.515Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "neoiagones.gr": {
+      "urls": [
+        "https://neoiagones.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1838,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:32.713Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "evrytanika.gr": {
+      "urls": [
+        "https://evrytanika.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2353,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:49.703Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "koutipandoras.gr": {
+      "urls": [
+        "https://www.koutipandoras.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2811,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:06.804Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "katohika.gr": {
+      "urls": [
+        "https://katohika.gr/gn-blog/apeleftherose-periorismous-kai-programmata-pou-se-kratoun-piso/feed/",
+        "https://katohika.gr/feed/",
+        "https://katohika.gr/gn-blog/taksidepse-sto-mellon-100-chronia-apo-tora/feed/",
+        "https://katohika.gr/gn-blog/o-covid-19-einai-ena-symvolo-mias-vathyteris-loimoksis-tou-iou-tou-nou-wetiko/feed/",
+        "https://katohika.gr/gn-blog/fovos-aporripsis-pos-mporei-na-voithisei-i-kliniki-ypnosi/feed/",
+        "https://katohika.gr/category/gn-blog/feed/",
+        "https://katohika.gr/gn-blog/%CE%B1%CF%80%CE%BB%CF%8C%CF%84%CE%B7%CF%84%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CE%B7-%CE%B1%CF%86%CE%AE%CE%B3%CE%B7%CF%83%CE%B7-%CF%84%CE%BF%CF%85-%CE%B5%CE%B9%CE%BC%CE%B1%CE%B9-%CE%B4%CE%AF%CF%87/feed/",
+        "https://katohika.gr/gn-blog/%CE%BA%CE%AC%CF%80%CE%BF%CE%B9%CE%B5%CF%82-%CE%B1%CF%80%CF%8C-%CF%84%CE%B9%CF%82-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BC%CE%B1%CF%82-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CE%BC%CF%8C%CE%BD/feed/",
+        "https://katohika.gr/gn-blog/londino-diarroi-ypoptis-chimikis-ousias-se-kentriko-dromo/feed/",
+        "https://katohika.gr/gn-blog/na-niotheis-kai-na-eisai-afto-pou-eisai-na-to-timas-kai-na-tou-epitrepeis-na-einai-arketo/feed/",
+        "https://katohika.gr/gn-blog/o-skiodis-eaftos-mou-synantisi-kai-ensomatosi-ypnotherapeia/feed/",
+        "https://katohika.gr/gn-blog/to-monadiko-apto-oplo-kata-opoiasdipote-epivoulis-kai-mind-control/feed/",
+        "https://katohika.gr/gn-blog/video-pagkosmios-dialogismos-chronogrammis-analipsis-telous-tou-koronoiou/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:22.673Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lifo.gr": {
+      "urls": [
+        "https://www.lifo.gr/now.rss",
+        "https://www.lifo.gr/confessions.rss",
+        "https://www.lifo.gr/dedications.rss",
+        "https://www.lifo.gr/i_saw_you.rss",
+        "https://www.lifo.gr/articles.rss",
+        "https://www.lifo.gr/lifoland.rss",
+        "https://www.lifo.gr/print.rss",
+        "https://www.lifo.gr/videos.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:03.993Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "anexartitos.gr": {
+      "urls": [
+        "https://www.anexartitos.gr/feed",
+        "https://www.anexartitos.gr/tag/podcast-dimitra/feed",
+        "https://www.anexartitos.gr/koinonia/opinion/podcast/feed",
+        "https://www.anexartitos.gr/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:29.770Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazzetta.gr": {
+      "urls": [
+        "https://www.gazzetta.gr/taxonomy/term/10001/all/feed",
+        "https://www.gazzetta.gr/taxonomy/term/1016/all/feed",
+        "https://www.gazzetta.gr/taxonomy/term/1018/all/feed",
+        "https://www.gazzetta.gr/taxonomy/term/10166/all/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:14.049Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "e-thessalia.gr": {
+      "urls": [
+        "https://e-thessalia.gr/feed/",
+        "https://e-thessalia.gr/feed",
+        "https://e-thessalia.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:45.371Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "prlogos.gr": {
+      "urls": [
+        "https://www.prlogos.gr/feed/",
+        "http://www.prlogos.gr/feed/",
+        "http://www.prlogos.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:45.012Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kilkistoday.gr": {
+      "urls": [
+        "https://www.kilkistoday.gr/?format=feed&type=atom",
+        "https://www.kilkistoday.gr/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:36.311Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "orthodoxia.gr": {
+      "urls": [
+        "https://orthodoxia.gr/feed/",
+        "https://orthodoxia.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:26.439Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "efsyn.gr": {
+      "urls": [
+        "https://www.efsyn.gr/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:37.938Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "patris.gr": {
+      "urls": [
+        "https://www.patris.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:47.350Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "prin.gr": {
+      "urls": [
+        "https://prin.gr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:12.138Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sport24.gr": {
+      "urls": [
+        "https://www.sport24.gr/newsfeed.xml?profile=public&types=news&version=light&items=60"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T22:28:15.380Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "trakyaninsesi.com": {
+      "urls": [
+        "https://trakyaninsesi.com/rss.xml",
+        "https://www.trakyaninsesi.com/rss.xml",
+        "http://www.trakyaninsesi.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1049,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:25.743Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "patrisnews.com": {
+      "urls": [
+        "https://www.patrisnews.com/feed/",
+        "https://www.patrisnews.com/podcast/feed/",
+        "https://www.patrisnews.com/tag/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2315,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:04.275Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ekathimerini.com": {
+      "urls": [
+        "https://feeds.feedburner.com/ekathimerini/sKip",
+        "http://www.ekathimerini.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 512,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:50.215Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chiosnews.com": {
+      "urls": [
+        "https://chiosnews.com/feed/",
+        "http://chiosnews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 602,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:45.718Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "evianews.com": {
+      "urls": [
+        "https://evianews.com/feed/",
+        "https://evianews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1101,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:30.874Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "e-typos.com": {
+      "urls": [
+        "https://www.eleftherostypos.gr/feed",
+        "https://eleftherostypos.gr/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1228,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:31.271Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "greekreporter.com": {
+      "urls": [
+        "https://greekreporter.com/feed/",
+        "https://greekreporter.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1537,
+        "category": "general",
+        "last_checked": "2026-01-31T22:26:51.754Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "politisonline.com": {
+      "urls": [
+        "https://politisonline.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1951,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:24.624Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "greeknewsonline.com": {
+      "urls": [
+        "https://www.greeknewsonline.com/feed/",
+        "https://www.greeknewsonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:29.444Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "enimerosi.com": {
+      "urls": [
+        "https://enimerosi.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:27:43.879Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thenationalherald.com": {
+      "urls": [
+        "https://www.thenationalherald.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:29.585Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

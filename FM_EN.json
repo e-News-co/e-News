@@ -1,0 +1,81 @@
+{
+  "country_code": "FM",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 31,
+  "feeds": {
+    "kpress.info": {
+      "urls": [
+        "http://www.kpress.info/index.php?format=feed&type=atom",
+        "http://www.kpress.info/index.php?format=feed&type=rss",
+        "https://veripages.com/blog/author/root/feed/",
+        "https://veripages.com/blog/feed/",
+        "https://veripages.com/blog/category/people-search/feed/",
+        "https://veripages.com/blog/author/paul/feed/",
+        "https://veripages.com/blog/category/address-search/feed/",
+        "https://veripages.com/blog/category/cheating/feed/",
+        "https://veripages.com/blog/category/find-friends-and-relatives/feed/",
+        "https://veripages.com/blog/category/neighbor-check/feed/",
+        "https://veripages.com/blog/category/partner-check/feed/",
+        "https://veripages.com/blog/category/phone-lookup/feed/",
+        "https://veripages.com/blog/category/social-media/feed/",
+        "https://veripages.com/blog/category/uncategorized/feed/",
+        "https://veripages.com/blog/category/veripages-guides/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:03:06.916Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "apnews.com": {
+      "urls": [
+        "https://apnews.com/index.rss",
+        "https://apnews.com/us-news.rss",
+        "https://apnews.com/entertainment.rss",
+        "https://apnews.com/world-news.rss",
+        "https://apnews.com/education.rss",
+        "https://apnews.com/science.rss",
+        "https://apnews.com/technology.rss",
+        "https://apnews.com:443/climate-and-environment.rss",
+        "https://apnews.com:443/technology.rss",
+        "https://apnews.com/hub/photography.rss",
+        "https://apnews.com/hub/ap-top-news.rss",
+        "https://apnews.com/hub/houthis.rss",
+        "https://apnews.com/hub/middle-east.rss",
+        "https://apnews.com/health.rss",
+        "https://apnews.com:443/health.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:03:06.922Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gov.fm": {
+      "urls": [
+        "https://gov.fm/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:03:06.918Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

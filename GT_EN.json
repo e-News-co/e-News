@@ -1,0 +1,455 @@
+{
+  "country_code": "GT",
+  "language_code": "EN",
+  "total_domains": 27,
+  "total_feeds": 69,
+  "feeds": {
+    "perspectiva.gt": {
+      "urls": [
+        "https://www.perspectiva.gt/feed/",
+        "https://www.perspectiva.gt/blog/feed/",
+        "https://www.perspectiva.gt/blog/actualidad-economica/feed/",
+        "https://www.perspectiva.gt/blog/actualidad-politica/feed/",
+        "https://www.perspectiva.gt/blog/estilo-de-vida/feed/",
+        "https://www.perspectiva.gt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 819,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:39.990Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "plazapublica.com.gt": {
+      "urls": [
+        "https://www.plazapublica.com.gt/rss.xml",
+        "https://plazapublica.com.gt/taxonomy/term/7312/all/feed",
+        "https://www.plazapublica.com.gt/taxonomy/term/7312/all/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1365,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:25.033Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "republica.gt": {
+      "urls": [
+        "https://republica.gt/feed",
+        "https://republica.gt/feed/",
+        "https://republica.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2229,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:14.090Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "radiotgw.gob.gt": {
+      "urls": [
+        "https://radiotgw.gob.gt/feed/",
+        "https://radiotgw.gob.gt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1062,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:50.989Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lahora.gt": {
+      "urls": [
+        "https://lahora.gt/feed/",
+        "https://lahora.gt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1237,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:55.704Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elmetropolitano.com.gt": {
+      "urls": [
+        "https://elmetropolitano.com.gt/es/feed/",
+        "https://elmetropolitano.com.gt/es/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4810,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:18.902Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lahora.com.gt": {
+      "urls": [
+        "https://lahora.gt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 918,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:36.044Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dca.gob.gt": {
+      "urls": [
+        "https://dca.gob.gt/noticias-guatemala-diario-centro-america/feed/",
+        "https://dca.gob.gt/noticias-guatemala-diario-centro-america/wp-content/plugins/leaflet-maps-marker/leaflet-georss.php?layer=all",
+        "https://dca.gob.gt/noticias-guatemala-diario-centro-america/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:33.957Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elperiodico.com.gt": {
+      "urls": [
+        "https://elperiodico.com.gt/feed/",
+        "https://elperiodico.com.gt/category/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:35.126Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elsiglo.com.gt": {
+      "urls": [
+        "https://elsiglo.com.gt/feed/",
+        "https://elsiglo.com.gt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:05.726Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "publinews.gt": {
+      "urls": [
+        "https://www.publinews.gt/gt/feed",
+        "https://www.publinews.gt/gt/category/espectaculos/farandula/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:11.439Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "quepasa.gt": {
+      "urls": [
+        "https://quepasa.gt/feed/",
+        "https://quepasa.gt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:59.650Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "prensalibre.com": {
+      "urls": [
+        "https://www.prensalibre.com/feed/?rss=Guatemala",
+        "https://www.prensalibre.com/feed/",
+        "https://www.prensalibre.com/guatemala/feed/",
+        "https://www.prensalibre.com/deportes/feed/",
+        "https://www.prensalibre.com/economia/feed/",
+        "https://www.prensalibre.com/web-stories/feed/",
+        "https://www.prensalibre.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4772,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:46.043Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guatefutbol.com": {
+      "urls": [
+        "https://www.guatefutbol.com/feed/",
+        "https://guatefutbol.com/feed/",
+        "https://guatefutbol.com/comments/feed/",
+        "https://www.guatefutbol.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2301,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:46.131Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guatevision.com": {
+      "urls": [
+        "https://www.guatevision.com/feed",
+        "https://www.guatevision.com/comments/feed",
+        "https://www.guatevision.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 612,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:21.565Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "todanoticia.com": {
+      "urls": [
+        "https://todanoticia.com/feed/",
+        "https://todanoticia.com/comments/feed/",
+        "https://todanoticia.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1192,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:48.284Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "canalantigua.tv": {
+      "urls": [
+        "https://www.canalantigua.tv/feed/",
+        "https://canalantigua.tv/feed/",
+        "https://www.canalantigua.tv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1402,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:23.366Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cmiguate.org": {
+      "urls": [
+        "https://cmiguate.org/feed/",
+        "https://cmiguate.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1470,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:41.462Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mijalapa.com": {
+      "urls": [
+        "http://mijalapa.com/feed/",
+        "http://mijalapa.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1758,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:47.906Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lavozdexela.com": {
+      "urls": [
+        "http://lavozdexela.com/feed/",
+        "http://lavozdexela.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2048,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:20.951Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "crnnoticias.com": {
+      "urls": [
+        "https://crnnoticias.com/feed/",
+        "https://crnnoticias.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3281,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:28.518Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sigloxxi.com": {
+      "urls": [
+        "https://www.sigloxxi.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1046,
+        "category": "general",
+        "last_checked": "2026-01-31T22:28:47.089Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "publicogt.com": {
+      "urls": [
+        "https://publicogt.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1434,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:29.952Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lookmagazine.com": {
+      "urls": [
+        "https://www.lookmagazine.com/category/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2865,
+        "category": "general",
+        "last_checked": "2026-01-31T22:30:02.515Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "revuemag.com": {
+      "urls": [
+        "https://www.revuemag.com/feed/",
+        "http://www.revuemag.com/feed/",
+        "https://www.revuemag.com/comments/feed/",
+        "http://www.revuemag.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:58.419Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "noticieroelvigilante.com": {
+      "urls": [
+        "https://noticieroelvigilante.com/feed/",
+        "https://noticieroelvigilante.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:43.572Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "deguate.com": {
+      "urls": [
+        "https://www.deguate.com/feed/",
+        "https://www.deguate.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T22:29:49.921Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

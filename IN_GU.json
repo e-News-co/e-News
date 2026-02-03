@@ -1,0 +1,1001 @@
+{
+  "country_code": "IN",
+  "language_code": "GU",
+  "total_domains": 52,
+  "total_feeds": 265,
+  "feeds": {
+    "divyabhaskar.co.in": {
+      "urls": [
+        "https://www.divyabhaskar.co.in/rss-v1--category-1035.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1035.xml",
+        "https://www.divyabhaskar.co.in/rss-feed/1035/",
+        "https://www.divyabhaskar.co.in/rss-v1--category-1037.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1037.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-12042.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-12042.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-14936.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-14936.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-1038.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-969.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1038.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-969.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-970.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-970.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-11256.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-11256.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-10695.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-11879.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-5029.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-10695.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-11879.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-5029.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-14980.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-14995.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-7453.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-14980.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-14995.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-7453.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 114,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:44.450Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.divyabhaskar.co.in": {
+      "urls": [
+        "https://www.divyabhaskar.co.in/rss-feed/1035/",
+        "https://www.divyabhaskar.co.in/rss-v1--category-1035.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-1037.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-1038.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-10695.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-11256.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-11879.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-12042.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-14936.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-14980.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-5029.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-7453.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-969.xml",
+        "https://www.divyabhaskar.co.in/rss-v1--category-970.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1035.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1037.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1038.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-10695.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-11256.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-11879.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-12042.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-14936.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-14980.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-5029.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-7453.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-969.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-970.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 49,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:24.229Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newschecker.in": {
+      "urls": [
+        "https://newschecker.in/feed/",
+        "https://newschecker.in/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 186,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:14.839Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gujarattoday.in": {
+      "urls": [
+        "https://gujarattoday.in/feed/",
+        "https://gujarattoday.in/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1213,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:46.728Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lokpatrika.in": {
+      "urls": [
+        "https://lokpatrika.in/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 400,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:14.618Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lifecarenews.in": {
+      "urls": [
+        "http://lifecarenews.in/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1424,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:09.431Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "loksansar.in": {
+      "urls": [
+        "https://www.loksansar.in/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1881,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:50.282Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsonair.gov.in": {
+      "urls": [
+        "https://newsonair.gov.in/International_rss.aspx",
+        "https://newsonair.gov.in/National_rss.aspx",
+        "https://newsonair.gov.in/State_rss.aspx",
+        "https://newsonair.gov.in/Top_rss.aspx",
+        "https://newsonair.gov.in/business_rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "world",
+        "last_checked": "2026-02-01T00:25:17.266Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.newsonair.gov.in": {
+      "urls": [
+        "https://newsonair.gov.in/International_rss.aspx",
+        "https://newsonair.gov.in/National_rss.aspx",
+        "https://newsonair.gov.in/State_rss.aspx",
+        "https://newsonair.gov.in/Top_rss.aspx",
+        "https://newsonair.gov.in/business_rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "world",
+        "last_checked": "2026-02-01T00:25:27.616Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gstv.in": {
+      "urls": [
+        "https://www.gstv.in/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:11.295Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.gstv.in": {
+      "urls": [
+        "https://www.gstv.in/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:24.431Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.bbc.com": {
+      "urls": [
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://rsshub.app/bbc/chinese",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 324,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:24.050Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "timesofindia.indiatimes.com": {
+      "urls": [
+        "https://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/442002.cms",
+        "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+        "https://timesofindia.indiatimes.com/blogs/feed/defaultrss",
+        "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms?x=1",
+        "https://timesofindia.indiatimes.com/rssfeeds/2886704.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms",
+        "https://timesofindia.indiatimes.com/rssfeedmostread.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/1898272.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/2177298.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/7098551.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/1898274.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
+        "https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 110,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:04.900Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zeenews.india.com": {
+      "urls": [
+        "https://zeenews.india.com/rss/entertainment-news.xml",
+        "https://zeenews.india.com/hindi/india.xml",
+        "https://zeenews.india.com/rss/india-national-news.xml",
+        "https://zeenews.india.com/rss/sports-news.xml",
+        "https://zeenews.india.com/rss/business.xml",
+        "https://zeenews.india.com:443/rss/business.xml",
+        "https://zeenews.india.com/rss/world-news.xml",
+        "https://zeenews.india.com:443/rss/world-news.xml",
+        "https://zeenews.india.com/rss/india-news.xml",
+        "https://zeenews.india.com/rss/technology-news.xml",
+        "https://zeenews.india.com/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com/rss/asia-news.xml",
+        "https://zeenews.india.com/rss/blog-news.xml",
+        "https://zeenews.india.com/rss/science-environment-news.xml",
+        "https://zeenews.india.com:443/rss/science-environment-news.xml",
+        "https://zeenews.india.com/rss/health-news.xml",
+        "https://zeenews.india.com/hindi/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 438,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T00:24:51.409Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "divyabhaskar.co.in:443": {
+      "urls": [
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1035.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1037.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-1038.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-10695.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-11256.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-11879.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-12042.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-14936.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-14980.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-5029.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-7453.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-969.xml",
+        "https://www.divyabhaskar.co.in:443/rss-v1--category-970.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 53,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:10.027Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gujarati.indianexpress.com": {
+      "urls": [
+        "https://gujarati.indianexpress.com/business/feed/rssfeed/",
+        "https://gujarati.indianexpress.com/career/feed/rssfeed/",
+        "https://gujarati.indianexpress.com/dharma/feed/rssfeed/",
+        "https://gujarati.indianexpress.com/entertainment/feed/rssfeed/",
+        "https://gujarati.indianexpress.com/gujarat/feed/rssfeed/",
+        "https://gujarati.indianexpress.com/latest-news/feed/rssfeed/",
+        "https://gujarati.indianexpress.com/lifestyle/feed/rssfeed/",
+        "https://gujarati.indianexpress.com/national-news/feed/rssfeed/",
+        "https://gujarati.indianexpress.com/sports/feed/rssfeed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 235,
+        "category": "business",
+        "last_checked": "2026-02-01T00:25:11.929Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 96,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T00:25:09.838Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gujarati.connectgujarat.com": {
+      "urls": [
+        "https://gujarati.connectgujarat.com/rss",
+        "https://gujarati.connectgujarat.com/rss/categories/blog",
+        "https://gujarati.connectgujarat.com/rss/tags/blog",
+        "https://gujarati.connectgujarat.com/rss/tags/blog-baaya-rssi-dve",
+        "https://gujarati.connectgujarat.com/rss/tags/blog-by-rishi-dave",
+        "https://gujarati.connectgujarat.com/rss/tags/blog-by-rushi-dave",
+        "https://gujarati.connectgujarat.com/rss/tags/rushi-dave-blog"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 172,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:11.688Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news18.com": {
+      "urls": [
+        "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+        "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+        "https://www.news18.com/commonfeeds/v1/eng/rss/photogallery.xml",
+        "https://www.news18.com/commonfeeds/v1/eng/rss/web-stories.xml",
+        "https://www.news18.com/commonfeeds/v1/eng/rss/video.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 410,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:50.693Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bombaysamachar.com": {
+      "urls": [
+        "https://bombaysamachar.com/feed/",
+        "https://bombaysamachar.com/web-stories/feed/",
+        "https://bombaysamachar.com/comments/feed/",
+        "http://bombaysamachar.com/feed/",
+        "http://bombaysamachar.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 969,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:45.467Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zeenews.india.com:443": {
+      "urls": [
+        "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com:443/rss/business.xml",
+        "https://zeenews.india.com:443/rss/science-environment-news.xml",
+        "https://zeenews.india.com:443/rss/world-news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 69,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:27.719Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thenewsmill.com": {
+      "urls": [
+        "https://feeds.feedburner.com/thenewsmill",
+        "https://thenewsmill.com/blog/feed/",
+        "https://thenewsmill.com/feed/",
+        "https://thenewsmill.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 945,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:21.464Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sbs-ondemand.streamguys1.com": {
+      "urls": [
+        "https://sbs-ondemand.streamguys1.com/sbs-albanian/",
+        "https://sbs-ondemand.streamguys1.com/sbs-gujarati/",
+        "https://sbs-ondemand.streamguys1.com/sbs-hebrew/",
+        "https://sbs-ondemand.streamguys1.com/sbs-hindi/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1462,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:20.287Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tv9gujarati.com": {
+      "urls": [
+        "https://tv9gujarati.com/feed",
+        "https://www.tv9hindi.com/feed/gn",
+        "https://www.tv9hindi.com/knowledge/feed/gn"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 141,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:54.746Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rakhewaldaily.com": {
+      "urls": [
+        "https://rakhewaldaily.com/feed/",
+        "https://www.rakhewaldaily.com/feed/",
+        "https://rakhewaldaily.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 879,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:48.401Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.newscontinuous.com": {
+      "urls": [
+        "https://www.newscontinuous.com/feed/",
+        "https://www.newscontinuous.com/feed/atom/",
+        "https://www.newscontinuous.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1637,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:27.045Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newscontinuous.com": {
+      "urls": [
+        "https://www.newscontinuous.com/feed/",
+        "https://www.newscontinuous.com/feed/atom/",
+        "https://www.newscontinuous.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1862,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:16.702Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.abtakmedia.com": {
+      "urls": [
+        "https://www.abtakmedia.com/feed/",
+        "https://www.abtakmedia.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 210,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:23.461Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "abtakmedia.com": {
+      "urls": [
+        "https://www.abtakmedia.com/feed/",
+        "https://www.abtakmedia.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 228,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:09.739Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "muslimsandesh.wordpress.com": {
+      "urls": [
+        "https://muslimsandesh.wordpress.com/feed/",
+        "https://muslimsandesh.wordpress.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 413,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:54.538Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "khabargujarat.com": {
+      "urls": [
+        "https://khabargujarat.com/feed/",
+        "https://khabargujarat.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 507,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:14.119Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gujaratabroad.ca": {
+      "urls": [
+        "https://gujaratabroad.ca/feed/",
+        "https://gujaratabroad.ca/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 538,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:05.542Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gujaratguardian.com": {
+      "urls": [
+        "https://gujaratguardian.com/feed/",
+        "https://gujaratguardian.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 715,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:54.072Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "trishulnews.com": {
+      "urls": [
+        "https://trishulnews.com/feed/",
+        "https://trishulnews.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1075,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:23.093Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rajkotmirrornews.com": {
+      "urls": [
+        "https://rajkotmirrornews.com/feed/",
+        "https://rajkotmirrornews.com/web_stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1390,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:18.667Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aaspassepaper.com": {
+      "urls": [
+        "https://aaspassepaper.com/feed/",
+        "https://aaspassepaper.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1944,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:53.355Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.gujaratsamachar.com": {
+      "urls": [
+        "https://www.gujaratsamachar.com/rss/top-stories"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 28,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:24.650Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gujaratsamachar.com": {
+      "urls": [
+        "https://www.gujaratsamachar.com/rss/top-stories"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 46,
+        "category": "general",
+        "last_checked": "2026-02-01T00:24:44.496Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tv9hindi.com": {
+      "urls": [
+        "https://www.tv9hindi.com/feed/gn"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 50,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:23.143Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.chinimandi.com": {
+      "urls": [
+        "https://www.chinimandi.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 109,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:24.159Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chinimandi.com": {
+      "urls": [
+        "https://www.chinimandi.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 124,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:09.962Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "abhiyaanmagazine.com": {
+      "urls": [
+        "https://abhiyaanmagazine.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 314,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:08.007Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "khabarchhe.com": {
+      "urls": [
+        "https://www.khabarchhe.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 709,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:13.608Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.khabarchhe.com": {
+      "urls": [
+        "https://www.khabarchhe.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 755,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:25.405Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jk24x7news.tv": {
+      "urls": [
+        "https://jk24x7news.tv/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 970,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:12.899Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "feeds.feedburner.com": {
+      "urls": [
+        "https://feeds.feedburner.com/thenewsmill"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1028,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:11.056Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gujaratdarpan.com": {
+      "urls": [
+        "https://gujaratdarpan.com/feed/",
+        "https://gujaratdarpan.com/podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:07.693Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gujaratfirst.com": {
+      "urls": [
+        "https://www.gujaratfirst.com/feed/",
+        "https://www.gujaratfirst.com/feed/atom/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:11.514Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.gujaratfirst.com": {
+      "urls": [
+        "https://www.gujaratfirst.com/feed/",
+        "https://www.gujaratfirst.com/feed/atom/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:24.621Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "deshgujarat.com": {
+      "urls": [
+        "https://deshgujarat.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:04.773Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kosovapress.com": {
+      "urls": [
+        "https://kosovapress.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:14.217Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "rsshub.app": {
+      "urls": [
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T00:25:18.823Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

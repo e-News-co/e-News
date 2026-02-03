@@ -1,0 +1,465 @@
+{
+  "country_code": "KW",
+  "language_code": "EN",
+  "total_domains": 16,
+  "total_feeds": 233,
+  "feeds": {
+    "alanba.com.kw": {
+      "urls": [
+        "https://www.alanba.com.kw/rss/economy-news/",
+        "https://www.alanba.com.kw/rss/fasting/",
+        "https://www.alanba.com.kw/rss/incidents-issues/",
+        "https://www.alanba.com.kw/rss/newspaper/",
+        "https://www.alanba.com.kw/rss/parliament/",
+        "https://www.alanba.com.kw/rss/ramadaniyat/",
+        "https://www.alanba.com.kw/rss/sport-news/",
+        "https://www.alanba.com.kw/rss/world-sports/",
+        "https://www.alanba.com.kw/rss/Economic-supplement/",
+        "https://www.alanba.com.kw/rss/Euro2020/",
+        "https://www.alanba.com.kw/rss/Ibrahim-el-neghemesh/",
+        "https://www.alanba.com.kw/rss/Tokyo2020/",
+        "https://www.alanba.com.kw/rss/abd-rahman-el-easa/",
+        "https://www.alanba.com.kw/rss/abdulaziz-al-mutairi/",
+        "https://www.alanba.com.kw/rss/abdulhadi-alsaleh/",
+        "https://www.alanba.com.kw/rss/abdullahhussainal-masbah/",
+        "https://www.alanba.com.kw/rss/abdulmohsen-mohamed-alhusaini/",
+        "https://www.alanba.com.kw/rss/abeer/",
+        "https://www.alanba.com.kw/rss/adel-nayef-al-mezel/",
+        "https://www.alanba.com.kw/rss/advertising/",
+        "https://www.alanba.com.kw/rss/africa33/",
+        "https://www.alanba.com.kw/rss/ahmad-husain/",
+        "https://www.alanba.com.kw/rss/al-jazi_tariq_al-sanafi/",
+        "https://www.alanba.com.kw/rss/arabic-international/",
+        "https://www.alanba.com.kw/rss/badr-saead/",
+        "https://www.alanba.com.kw/rss/beloved-kuwait/",
+        "https://www.alanba.com.kw/rss/business-and-markets/",
+        "https://www.alanba.com.kw/rss/cooperatives/",
+        "https://www.alanba.com.kw/rss/dalal-anwar-sharahan/",
+        "https://www.alanba.com.kw/rss/dali-alkhamsan/",
+        "https://www.alanba.com.kw/rss/dr_noura_al_mulaifi/",
+        "https://www.alanba.com.kw/rss/energy-oil-petroleum/",
+        "https://www.alanba.com.kw/rss/english/",
+        "https://www.alanba.com.kw/rss/fatima-alazmi/",
+        "https://www.alanba.com.kw/rss/ghaze-el-etabe/",
+        "https://www.alanba.com.kw/rss/ghneim-alzoubi/",
+        "https://www.alanba.com.kw/rss/hamad_badr_al_atina/",
+        "https://www.alanba.com.kw/rss/hamadhammoud/",
+        "https://www.alanba.com.kw/rss/hamd-mahmoad-mdwi/",
+        "https://www.alanba.com.kw/rss/hasan-alhadad/",
+        "https://www.alanba.com.kw/rss/hind-alshomer/",
+        "https://www.alanba.com.kw/rss/houssam-fathi/",
+        "https://www.alanba.com.kw/rss/hussein-ismail-dashti/",
+        "https://www.alanba.com.kw/rss/islamic-faith/",
+        "https://www.alanba.com.kw/rss/kids-ar/",
+        "https://www.alanba.com.kw/rss/kuwait-community/",
+        "https://www.alanba.com.kw/rss/major_general_staff/",
+        "https://www.alanba.com.kw/rss/mefreh-alshammrei/",
+        "https://www.alanba.com.kw/rss/middle-east-news/",
+        "https://www.alanba.com.kw/rss/mnawer-alrajhi/",
+        "https://www.alanba.com.kw/rss/mobadrat/",
+        "https://www.alanba.com.kw/rss/mohamed-elsaker/",
+        "https://www.alanba.com.kw/rss/mohamed_el_ghanim/",
+        "https://www.alanba.com.kw/rss/mohammed-al-enize/",
+        "https://www.alanba.com.kw/rss/mohammed-aldejeny/",
+        "https://www.alanba.com.kw/rss/mohammed-jalahma/",
+        "https://www.alanba.com.kw/rss/muhsin-aborkbh-al-otaibi/",
+        "https://www.alanba.com.kw/rss/municipal-council/",
+        "https://www.alanba.com.kw/rss/other-side/",
+        "https://www.alanba.com.kw/rss/plastic-art/",
+        "https://www.alanba.com.kw/rss/regions-kuwait/",
+        "https://www.alanba.com.kw/rss/remote-control/",
+        "https://www.alanba.com.kw/rss/reports-and-issues/",
+        "https://www.alanba.com.kw/rss/reports/",
+        "https://www.alanba.com.kw/rss/saad-alharbi/",
+        "https://www.alanba.com.kw/rss/samer-abo-roman/",
+        "https://www.alanba.com.kw/rss/scenes/",
+        "https://www.alanba.com.kw/rss/sheikh_mohammed_ahmed_al_malik_al_sabah/",
+        "https://www.alanba.com.kw/rss/sports-interviews/",
+        "https://www.alanba.com.kw/rss/tareq-idris/",
+        "https://www.alanba.com.kw/rss/tariq-alddarbas/",
+        "https://www.alanba.com.kw/rss/technology/",
+        "https://www.alanba.com.kw/rss/usa-students/",
+        "https://www.alanba.com.kw/rss/wasmeya-almsalam/",
+        "https://www.alanba.com.kw/rss/word-youth/",
+        "https://www.alanba.com.kw/rss/youssuf-abdulrahman/",
+        "https://www.alanba.com.kw/rss/zaar-alrashidi/",
+        "https://www.alanba.com.kw/rss/drama-mistakes/",
+        "https://www.alanba.com.kw/rss/kuwait-news",
+        "https://www.alanba.com.kw/rss/last",
+        "https://www.alanba.com.kw/rss/africa-sports/",
+        "https://www.alanba.com.kw/rss/alanba-photo/",
+        "https://www.alanba.com.kw/rss/arabic-and-international-stock-exchange/",
+        "https://www.alanba.com.kw/rss/arabic-international-news/",
+        "https://www.alanba.com.kw/rss/arabic-sports/",
+        "https://www.alanba.com.kw/rss/arabs-in-the-world/",
+        "https://www.alanba.com.kw/rss/art-news/",
+        "https://www.alanba.com.kw/rss/asiacup/",
+        "https://www.alanba.com.kw/rss/cars/",
+        "https://www.alanba.com.kw/rss/decor/",
+        "https://www.alanba.com.kw/rss/economic-dialogue/",
+        "https://www.alanba.com.kw/rss/education/",
+        "https://www.alanba.com.kw/rss/egypt-news/",
+        "https://www.alanba.com.kw/rss/entertainment/",
+        "https://www.alanba.com.kw/rss/exclusive-reports/",
+        "https://www.alanba.com.kw/rss/exhibitions-and-forums/",
+        "https://www.alanba.com.kw/rss/faces-in-the-light/",
+        "https://www.alanba.com.kw/rss/fashion/",
+        "https://www.alanba.com.kw/rss/from-the-past/",
+        "https://www.alanba.com.kw/rss/gulfcup/",
+        "https://www.alanba.com.kw/rss/interviews/",
+        "https://www.alanba.com.kw/rss/investigation/",
+        "https://www.alanba.com.kw/rss/kitchen-cooking/",
+        "https://www.alanba.com.kw/rss/kuba-sports/",
+        "https://www.alanba.com.kw/rss/kuwait-news/",
+        "https://www.alanba.com.kw/rss/kuwait-stock-exchange/",
+        "https://www.alanba.com.kw/rss/last/",
+        "https://www.alanba.com.kw/rss/lebanon-news/",
+        "https://www.alanba.com.kw/rss/life-style/",
+        "https://www.alanba.com.kw/rss/literature-and-culture/",
+        "https://www.alanba.com.kw/rss/marine/",
+        "https://www.alanba.com.kw/rss/occasions-events/",
+        "https://www.alanba.com.kw/rss/official/",
+        "https://www.alanba.com.kw/rss/poetry-poems/",
+        "https://www.alanba.com.kw/rss/real-estates/",
+        "https://www.alanba.com.kw/rss/rio-olympics-2016/",
+        "https://www.alanba.com.kw/rss/shawared/",
+        "https://www.alanba.com.kw/rss/success-story/",
+        "https://www.alanba.com.kw/rss/syria-news/",
+        "https://www.alanba.com.kw/rss/tourism-and-travel/",
+        "https://www.alanba.com.kw/rss/united-nations/",
+        "https://www.alanba.com.kw/rss/variety-news/",
+        "https://www.alanba.com.kw/rss/world-news/",
+        "https://www.alanba.com.kw/rss/worldcup/",
+        "https://www.alanba.com.kw/rss/health/",
+        "https://www.alanba.com.kw/rss/Azza-Al-Ghamdi/",
+        "https://www.alanba.com.kw/rss/abdulhadi-alajmi/",
+        "https://www.alanba.com.kw/rss/abdullah-alabdeljader/",
+        "https://www.alanba.com.kw/rss/abdullah-khalid-al-ghanim/",
+        "https://www.alanba.com.kw/rss/adel-alibrahim/",
+        "https://www.alanba.com.kw/rss/adel-almetiri/",
+        "https://www.alanba.com.kw/rss/adel-youssef-al-marzooq/",
+        "https://www.alanba.com.kw/rss/afrah_malaan_eali/",
+        "https://www.alanba.com.kw/rss/ahmed-omar-balahmar/",
+        "https://www.alanba.com.kw/rss/ali-abdulrahman-alhwayl/",
+        "https://www.alanba.com.kw/rss/dealer-Alaiaf/",
+        "https://www.alanba.com.kw/rss/dr_adel_rida/",
+        "https://www.alanba.com.kw/rss/dr_hisham_ahmed_kalander/",
+        "https://www.alanba.com.kw/rss/dr_issa_mohammed_al_amiri/",
+        "https://www.alanba.com.kw/rss/dr_saud_al-aslab_al-dhafiri/",
+        "https://www.alanba.com.kw/rss/dr_zahir_hadi_al_mrakz/",
+        "https://www.alanba.com.kw/rss/fatma-el-esseli/",
+        "https://www.alanba.com.kw/rss/fatma-el-mezeal/",
+        "https://www.alanba.com.kw/rss/gasem-mohamed-eL-tneeb/",
+        "https://www.alanba.com.kw/rss/ghneima-mohamed-othman-al-haydar/",
+        "https://www.alanba.com.kw/rss/hadi_aleanzi/",
+        "https://www.alanba.com.kw/rss/hammad_mishaan_alnomsi/",
+        "https://www.alanba.com.kw/rss/hanan-badr-al-roumi/",
+        "https://www.alanba.com.kw/rss/imanhaiderdashti/",
+        "https://www.alanba.com.kw/rss/jasem-alhamir/",
+        "https://www.alanba.com.kw/rss/kamal-kabcha/",
+        "https://www.alanba.com.kw/rss/khaled_al_mulla/",
+        "https://www.alanba.com.kw/rss/khalid-alarafah/",
+        "https://www.alanba.com.kw/rss/lailaelsaban/",
+        "https://www.alanba.com.kw/rss/mazid_mubarak_almeushriji/",
+        "https://www.alanba.com.kw/rss/mishaal_al-saeed/",
+        "https://www.alanba.com.kw/rss/mohammad-alkhalidi/",
+        "https://www.alanba.com.kw/rss/monier-hamzawe/",
+        "https://www.alanba.com.kw/rss/motlak-alkarawy/",
+        "https://www.alanba.com.kw/rss/naser/",
+        "https://www.alanba.com.kw/rss/nasser-el-ammar/",
+        "https://www.alanba.com.kw/rss/nermin-alhooti/",
+        "https://www.alanba.com.kw/rss/qaysar_alkhanafar/",
+        "https://www.alanba.com.kw/rss/reem-alwiqyan/",
+        "https://www.alanba.com.kw/rss/riyad-halsanea/",
+        "https://www.alanba.com.kw/rss/rola_samor/",
+        "https://www.alanba.com.kw/rss/saad-al-nashoin/",
+        "https://www.alanba.com.kw/rss/saad-atiya-elharby/",
+        "https://www.alanba.com.kw/rss/saleh-al-ojairy/",
+        "https://www.alanba.com.kw/rss/salem-alsbei/",
+        "https://www.alanba.com.kw/rss/salem-ibrahim-saleh/",
+        "https://www.alanba.com.kw/rss/salman-dawood-al-kandari/",
+        "https://www.alanba.com.kw/rss/saqr-alghaylani/",
+        "https://www.alanba.com.kw/rss/seham-hamad-al-suhail/",
+        "https://www.alanba.com.kw/rss/sheikha-eesa/",
+        "https://www.alanba.com.kw/rss/sheikha-hessa-al-hamoud-al-salem/",
+        "https://www.alanba.com.kw/rss/sultan-ibrahim-alkhalaf/",
+        "https://www.alanba.com.kw/rss/talal_abu_ghazala/",
+        "https://www.alanba.com.kw/rss/tarek-brosli/",
+        "https://www.alanba.com.kw/rss/tareq-hamada/",
+        "https://www.alanba.com.kw/rss/turki_hammoud_al_hassam/",
+        "https://www.alanba.com.kw/rss/us_ambassador_alina_l_romanowski/",
+        "https://www.alanba.com.kw/rss/yousef-alansari/",
+        "https://www.alanba.com.kw/rss/yousef-alataby/",
+        "https://www.alanba.com.kw/rss/zobn-albazzal/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 251,
+        "category": "business",
+        "last_checked": "2026-02-01T03:13:31.232Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kuna.net.kw": {
+      "urls": [
+        "https://www.kuna.net.kw/SocialFeeds.aspx?language=en",
+        "https://www.kuna.net.kw/SocialFeeds.aspx"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1334,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:22.320Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aljarida.com": {
+      "urls": [
+        "https://www.aljarida.com/rssFeed/1",
+        "https://www.aljarida.com/channels/locals/rss/",
+        "https://www.aljarida.com/channels/international/rss/",
+        "https://www.aljarida.com/channels/latest_news/rss/",
+        "https://www.aljarida.com/channels/makalat/rss/",
+        "https://www.aljarida.com/channels/economics/rss/",
+        "https://www.aljarida.com/channels/first_news/rss/",
+        "https://www.aljarida.com/channels/latest_talks/rss/",
+        "https://www.aljarida.com/channels/sports/rss/",
+        "https://www.aljarida.com/channels/parlement/rss/",
+        "https://www.aljarida.com/channels/albums/rss/",
+        "https://www.aljarida.com/channels/cases/rss/",
+        "https://www.aljarida.com/channels/technology/rss/",
+        "https://www.aljarida.com/channels/videos/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 360,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:31.892Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "alraimedia.com": {
+      "urls": [
+        "https://www.alraimedia.com/rssFeed/0",
+        "https://www.alraimedia.com/rssFeed/1",
+        "https://www.alraimedia.com/rssFeed/4",
+        "https://www.alraimedia.com/rssFeed/4/19",
+        "https://www.alraimedia.com/rssFeed/4/20"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 603,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:23.027Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "arabtimesonline.com": {
+      "urls": [
+        "https://www.arabtimesonline.com/news/feed/",
+        "https://www.arabtimesonline.com/rssfeed/73/.com/",
+        "http://www.arabtimesonline.com/news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1250,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:20.980Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kuwaitnews.com": {
+      "urls": [
+        "https://kuwaitnews.com/feed/",
+        "https://kuwaitnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 912,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:28.147Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "masilanews.com": {
+      "urls": [
+        "https://www.masilanews.com/feed/",
+        "https://www.masilanews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1431,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:29.990Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "al-forqan.net": {
+      "urls": [
+        "https://al-forqan.net/feed/",
+        "https://al-forqan.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1432,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:24.462Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sabr.cc": {
+      "urls": [
+        "https://www.sabr.cc/feed/",
+        "https://www.sabr.cc/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1860,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:34.430Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alwatan.kuwait.tt": {
+      "urls": [
+        "http://alwatan.kuwait.tt/rss.ashx"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 657,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:32.550Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "248am.com": {
+      "urls": [
+        "http://248am.com/feed/",
+        "https://248am.com/feed/",
+        "https://248am.com/comments/feed/",
+        "https://248am.com/mark/50s-90s/blogging-before-blogs-the-1995-ais-school-paper/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:28.541Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "altaleea.com": {
+      "urls": [
+        "https://altaleea.com/?feed=rss2",
+        "http://altaleea.com/?feed=rss2",
+        "https://altaleea.com/?feed=comments-rss2",
+        "http://altaleea.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:36.326Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kuwaittimes.com": {
+      "urls": [
+        "https://www.kuwaittimes.com/feed/json/",
+        "https://www.kuwaittimes.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:26.927Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "arabgate.com": {
+      "urls": [
+        "https://drsajed.website/?feed=rss2",
+        "https://drsajed.website/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:30.974Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thouq.com": {
+      "urls": [
+        "https://thouq.com/feed/",
+        "https://thouq.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:38.185Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "anhaar.com": {
+      "urls": [
+        "https://anhaar.com/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:13:36.135Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}
