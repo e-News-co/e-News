@@ -1,0 +1,2584 @@
+{
+  "country_code": "BR",
+  "language_code": "EN",
+  "total_domains": 101,
+  "total_feeds": 1162,
+  "feeds": {
+    "correiobraziliense.com.br": {
+      "urls": [
+        "https://oantagonista.com.br/feed/",
+        "https://www.correiobraziliense.com.br/mundo/rss.xml",
+        "https://www.correiobraziliense.com.br/cidades-df/rss.xml",
+        "https://www.correiobraziliense.com.br/brasil/rss.xml",
+        "https://blogs.correiobraziliense.com.br/cbpoder/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/feed/",
+        "https://blogs.correiobraziliense.com.br/aricunha/feed/",
+        "https://blogs.correiobraziliense.com.br/azedo/feed/",
+        "https://blogs.correiobraziliense.com.br/blogaodoze/feed/",
+        "https://blogs.correiobraziliense.com.br/candangando/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/feed/",
+        "https://blogs.correiobraziliense.com.br/conversandosobrevinho/feed/",
+        "https://blogs.correiobraziliense.com.br/dad/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/feed/",
+        "https://blogs.correiobraziliense.com.br/diarioradioativo/feed/",
+        "https://blogs.correiobraziliense.com.br/eixocapital/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/feed/",
+        "https://blogs.correiobraziliense.com.br/igualdade/feed/",
+        "https://blogs.correiobraziliense.com.br/leiodetudo/feed/",
+        "https://blogs.correiobraziliense.com.br/lianasabo/feed/",
+        "https://blogs.correiobraziliense.com.br/maisbichos/feed/",
+        "https://blogs.correiobraziliense.com.br/marcas-e-negocios/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/feed/",
+        "https://blogs.correiobraziliense.com.br/nqv/feed/",
+        "https://blogs.correiobraziliense.com.br/papodeconcurseiro/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/feed/",
+        "https://blogs.correiobraziliense.com.br/primeirainfancia/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/feed/",
+        "https://blogs.correiobraziliense.com.br/segurancapublica/feed/",
+        "https://blogs.correiobraziliense.com.br/servidor/feed/",
+        "https://blogs.correiobraziliense.com.br/severino/feed/",
+        "https://blogs.correiobraziliense.com.br/tecnoveste/feed/",
+        "https://blogs.correiobraziliense.com.br/trilhasonora/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/feed/",
+        "https://newblogs.correiobraziliense.com.br/blog-da-rosana-hessel/feed/",
+        "https://blogs.correiobraziliense.com.br/candangando/u2-esteve-duas-vezes-em-brasilia-onde-fez-turismo/feed/",
+        "https://blogs.correiobraziliense.com.br/igualdade/mulheres-nao-sao-incubadoras-nem-mercadorias/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/category/coluna-capital-s-a/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/category/esporte/feed/",
+        "https://blogs.correiobraziliense.com.br/papodeconcurseiro/author/papodeconcurseiro/feed/",
+        "https://blogs.correiobraziliense.com.br/aricunha/author/circecunha/feed/",
+        "https://blogs.correiobraziliense.com.br/aricunha/category/integra/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/abras/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/alimentacao/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/anahickmann/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/arthurlira/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/cldf/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/comercio/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/congresso/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/disque180/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/economia/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/reajuste/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/tag/sindiatacadista/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/author/cbpoder/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/author/thaysmartins/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/category/cb-poder/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/category/coluna-brasilia-df/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/category/noticias/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/tag/cldf/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/tag/delegaco/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/tag/governo/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/tag/keka-bagno/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/tag/lgbtwqia/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/tag/mulheres-no-topo/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/tag/seguranca/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/tag/stf/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/author/maracisantana/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/category/psicologia/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/category/relacionamento-abusivo/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/tag/abuso/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/tag/indecisao/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/tag/mulher/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/tag/mundo/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/tag/relacionamento-abusivo/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/tag/relacionamento/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/tag/suicidio/feed/",
+        "https://blogs.correiobraziliense.com.br/conversandosobrevinho/category/duvidas-mais-frequentes/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/author/humbertorezende/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/category/entrevista/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/category/noticias/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/tag/penis/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/tag/prazer/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/tag/sexo-anal/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/tag/traicao/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/author/deniserothenburg/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/author/robertofonseca/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/author/talitadesouza/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/author/thaysmartins/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/category/camara-dos-deputados/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/category/coluna-brasilia-df/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/category/governo-lula/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/category/orcamento/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/category/politica/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/category/senado/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/tag/alexandre-silveira/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/tag/banco-central/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/tag/campos-neto/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/tag/congresso/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/tag/flavio-dino/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/tag/governo/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/tag/lula/feed/",
+        "https://blogs.correiobraziliense.com.br/denise/tag/rodrigo-pacheco/feed/",
+        "https://blogs.correiobraziliense.com.br/diarioradioativo/category/eventos/feed/",
+        "https://blogs.correiobraziliense.com.br/diarioradioativo/category/series/feed/",
+        "https://blogs.correiobraziliense.com.br/diarioradioativo/tag/vingadores/feed/",
+        "https://blogs.correiobraziliense.com.br/diarioradioativo/tag/warner/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/author/marcospaulo/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/argentina/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/cbf/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/copa-america/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/dani-olmo/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/ednaldo-rodrigues/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/emiliano-dibu-martinez/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/equador/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/espanha/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/flamengo/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/kaio-jorge/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/liminar/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/paulo-emilio-dantas-nazare/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/tag/rodada-3/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/category/olimpiadas/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/category/sem-categoria/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/category/volei/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/tag/brasileirao-feminino/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/tag/copa-da-russia/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/tag/jogos-olimpicos/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/tag/marta/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/tag/selecao/feed/",
+        "https://blogs.correiobraziliense.com.br/igualdade/category/estupro-infanto-juvenil/feed/",
+        "https://blogs.correiobraziliense.com.br/igualdade/category/genero-nas-artes/feed/",
+        "https://blogs.correiobraziliense.com.br/leiodetudo/tag/ritmolouco/feed/",
+        "https://blogs.correiobraziliense.com.br/lianasabo/category/bufes/feed/",
+        "https://blogs.correiobraziliense.com.br/lianasabo/category/confeitaria/feed/",
+        "https://blogs.correiobraziliense.com.br/lianasabo/category/culinaria-internacional/feed/",
+        "https://blogs.correiobraziliense.com.br/lianasabo/category/festival-gastronomico/feed/",
+        "https://blogs.correiobraziliense.com.br/lianasabo/category/hamburguer/feed/",
+        "https://blogs.correiobraziliense.com.br/lianasabo/category/sem-categoria/feed/",
+        "https://blogs.correiobraziliense.com.br/lianasabo/tag/pontao-do-lago-sul/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/author/marizasoares/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/category/cultura/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/tag/a-forma-da-agua/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/tag/apresentacao/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/tag/avianca/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/tag/cabelo/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/tag/justin-timberlake/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/tag/rabanada/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/tag/tender/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/category/o-grito/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/tag/hiphop/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/category/cronica/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/bebida/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/capivara/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/cinema/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/cultura/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/imprensa/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/janot/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/jk/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/joesley/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/lingua/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/poesia/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/politicamente-correto/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/rock/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/tag/samba/feed/",
+        "https://blogs.correiobraziliense.com.br/primeirainfancia/author/ronayrenunes/feed/",
+        "https://blogs.correiobraziliense.com.br/primeirainfancia/category/artigo-de-opiniao/feed/",
+        "https://blogs.correiobraziliense.com.br/primeirainfancia/tag/correio-braziliense/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/category/documentario/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/category/entrevista/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/category/filmes/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/category/reality-show/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/category/sem-categoria/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/category/streaming/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/tag/hbo-max/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/tag/machismo/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/tag/multishow/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/tag/novela/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/tag/segunda-temporada/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/tag/tv/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/tag/viva/feed/",
+        "https://blogs.correiobraziliense.com.br/segurancapublica/author/rsdlima/feed/",
+        "https://blogs.correiobraziliense.com.br/segurancapublica/category/rio-sob-intervencao/feed/",
+        "https://blogs.correiobraziliense.com.br/segurancapublica/tag/financiamento/feed/",
+        "https://blogs.correiobraziliense.com.br/segurancapublica/tag/seguranca/feed/",
+        "https://blogs.correiobraziliense.com.br/trilhasonora/tag/beatles/feed/",
+        "https://blogs.correiobraziliense.com.br/trilhasonora/tag/festa-junina/feed/",
+        "https://blogs.correiobraziliense.com.br/trilhasonora/tag/fim-de-semana/feed/",
+        "https://blogs.correiobraziliense.com.br/trilhasonora/tag/ivete-sangalo/feed/",
+        "https://blogs.correiobraziliense.com.br/trilhasonora/tag/rock/feed/",
+        "https://blogs.correiobraziliense.com.br/trilhasonora/tag/turne/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/3/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/banco-central/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/calotes/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/ciro-gomes/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/corte/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/eleicoes-2022/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/inadimplencial-cartao/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/investigacoes/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/juros/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/nacao-brbfla/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/rodrigo-pacheco/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/tag/servicos/feed/",
+        "https://www.correiobraziliense.com.br/ciencia-e-saude/rss.xml",
+        "https://www.correiobraziliense.com.br/economia/rss.xml",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/category/filmes/acao/feed/",
+        "http://blogs.correiobraziliense.com.br/denise/feed/",
+        "https://blogs.correiobraziliense.com.br/primeirainfancia/2019/09/11/crianca-feliz-vence-o-wise-awards-por-inovacao/feed/",
+        "http://blogs.correiobraziliense.com.br/dribledecorpo/feed/",
+        "http://blogs.correiobraziliense.com.br/papodeconcurseiro/feed/",
+        "http://blogs.correiobraziliense.com.br/proximocapitulo/feed/",
+        "http://blogs.correiobraziliense.com.br/servidor/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/feed/",
+        "http://blogs.correiobraziliense.com.br/cbpoder/tag/mascara/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/author/cilenevieira/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/category/conversas/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/category/pessoas/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/category/voce-sabia/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/conversas/sobre-janeiro/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/pessoas/ser-feliz-e-uma-decisao/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/tag/radio-familiadoradio/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/voce-sabia/o-radio-tira-voce-da-solidao/feed/",
+        "https://blogs.correiobraziliense.com.br/aricunha/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/azedo/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/candangando/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/capital-sa/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/cbpoder/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/consultoriosentimental/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/conversandosobrevinho/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/dad/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/daquilo/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/diarioradioativo/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/dribledecorpo/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/eixocapital/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/elasnoataque/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/igualdade/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/leiodetudo/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/maisbichos/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/mariza/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/nqv/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/papodeconcurseiro/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/paulopestana/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/primeirainfancia/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/proximocapitulo/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/segurancapublica/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/servidor/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/severino/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/tecnoveste/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/trilhasonora/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/vicente/comments/feed/",
+        "https://newblogs.correiobraziliense.com.br/blog-da-rosana-hessel/comments/feed/",
+        "https://oantagonista.com.br/podcasts/feed/",
+        "http://blogs.correiobraziliense.com.br/cbpoder/comments/feed/",
+        "http://blogs.correiobraziliense.com.br/dribledecorpo/comments/feed/",
+        "http://blogs.correiobraziliense.com.br/papodeconcurseiro/comments/feed/",
+        "http://blogs.correiobraziliense.com.br/servidor/comments/feed/",
+        "https://blogs.correiobraziliense.com.br/nosso-parque-da-cidade/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1318,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:35.401Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gazetadopovo.com.br": {
+      "urls": [
+        "https://www.gazetadopovo.com.br/feed/rss/republica.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/mundo.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/economia.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/opiniao.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/ideias.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/parana.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/pino.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/curitiba.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/agronegocio.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/bomgourmet.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/cultura.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/educacao.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/esportes.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/gazz-conecta.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/haus.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/justica.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/rodrigo-constantino.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/caixa-zero.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/concurseiros.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/parana-sa.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/curitiba/falecimentos.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/blog-do-brasileirao.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/podcast-15-minutos.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/quarentena-cult.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/alexandre-borges.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/alexandre-garcia.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/andre-pugliesi.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/aperte-o-play.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/arquibancada-virtual.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/bruna-frascolla.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/caio-coppolla.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/camila-farani.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/carlos-alberto-di-franco.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/carlos-ramalhete.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/carneiro-neto.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/cartoleiros.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/certas-palavras.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/conexao-brasilia.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/cronicas-de-um-estado-laico.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/daniel-lopez.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/dante-mendonca.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/de-brasilia.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/diario-de-autista.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/diogo-schelp.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/educacao-e-midia.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/espanto.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/felipe-koller.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/fernando-jasper.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/fernando-martins.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/filipe-figueiredo.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/flavio-gordon.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/flavio-quintela.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/foto-sintese.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/francisco-razzo.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/giro-sustentavel.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/guido-orgis.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/guilherme-de-carvalho.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/guilherme-fiuza.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/guilherme-macalossi.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/gustavo-nogy.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/joao-frey.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/joao-pereira-coutinho.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/jorge-caldeira.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/jr-guzzo.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/leonardo-coutinho.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/luciano-trigo.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/lucio-vaz.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/luis-ernesto-lacombe.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/luiz-tadeu-jordao.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/madeleine-lacsko.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/mario-vitor-rodrigues.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/marleth-silva.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/mauro-cezar.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/musica-urbana.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/panela-do-anacreon.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/paulo-cruz.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/pedro-fernando-nery.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/pedro-menezes.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/polzonoff.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/ranking-dos-politicos.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/resenha-do-poker.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/roberto-indech.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/tatiana-palermo.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/thiago-aragao.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/vosso-blog-de-comida.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vida-e-cidadania.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/cafe-da-republica.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/conversa-com-fiuza.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/falando-abertamente.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/gazeta-explica.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/mini-docs.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/podcast-ideias.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/tudo-sobre/podcast-o-papo-e.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/andre-uliano.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/egon-bockmann-moreira.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/jogos-de-guerra.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/paulo-uebel.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/salim-mattar.xml",
+        "https://www.gazetadopovo.com.br/feed/rss/vozes/thamea-danelon.xml",
+        "https://www.umdoisesportes.com.br/feed/rss/futebol.xml",
+        "https://www.umdoisesportes.com.br/feed/rss/coritiba.xml",
+        "https://www.umdoisesportes.com.br/feed/rss/dicas-do-cartola.xml",
+        "https://www.umdoisesportes.com.br/feed/rss/mais-esportes.xml",
+        "https://www.umdoisesportes.com.br/feed/rss/colunas-e-blogs.xml",
+        "https://www.umdoisesportes.com.br/feed/rss/podcasts.xml",
+        "https://www.umdoisesportes.com.br/feed/",
+        "https://www.umdoisesportes.com.br:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 930,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:53.620Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "opovo.com.br": {
+      "urls": [
+        "https://blogs.opovo.com.br/blogdovozao/2021/10/17/ceara-2x2-bragantino-melhor-que-perder/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/02/15/bahia-0x3-fortaleza-pre-carnaval/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/2021/02/02/ideias-geniais-contidas-na-cronica-ostra-feliz-nao-faz-perola-de-rubem-alves/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/feed/",
+        "https://blogs.opovo.com.br/assimcaminhaahumanidade/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/author/vanderluciosouza/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/category/arquidiocese-de-fortaleza-2/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/category/educacao/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/category/noticia/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/category/praticas-do-bem/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/category/reportagem-especial/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/category/sem-categoria/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/tag/shalom/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/author/isaiasmundya/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/category/autoconhecimento/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/category/educacao/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/category/psicologia/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/category/sociedade-2/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/category/vida/feed/",
+        "https://blogs.opovo.com.br/assimcaminhaahumanidade/author/patirabelo/feed/",
+        "https://blogs.opovo.com.br/assimcaminhaahumanidade/category/podcast/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/author/mariaclarademenezes/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/category/comidinhas/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/category/dicas/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/category/lifestyle/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/category/outback-steakhouse/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/category/parceiros/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/category/saude/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/author/elenilsondantas/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/category/blogs-o-povo/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/author/weiberdecastro/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/category/temporada-2021/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/10/23/juventude-0x0-ceara-e-desculpas-esfarrapadas/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/10/20/ceara-1x2-palmeira-nem-fora-e-agora-nem-em-casa/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/category/temporada-2021/serie-a-temporada-2021/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/11/01/ceara-1x0-fluminense-era-preciso-vencer-vencemos/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/11/10/athletico-2x1-ceara-ainda-nao-foi-dessa-vez/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/11/14/ceara-2x1-sport-com-o-coracao/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/11/21/atletico-go-1x1-ceara-ponto-valido/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/12/05/ceara-0x0-america-mg-ainda-sonhar-ou-devanear/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/2023/11/13/caninde-vibra-com-segunda-edicao-do-arrasta-pra-cima/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/2019/02/09/a-honestidade-dos-estupidos-e-mil-vezes-mais-perigosa-que-a-mentira-dos-inteligentes/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/2021/07/26/somos-todos-pecinhas-de-um-imenso-quebra-cabeca/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/02/02/fortaleza-6x1-atletico-ce-meia-duzia-de-alegria/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/02/06/abc-2x0-fortaleza-choque-de-realidade/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/02/08/ceara-2x1-fortaleza-hora-da-dr/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/02/18/fortaleza-3x0-csa-o-abre-alas/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/03/03/fortaleza-4x0-maldonado-baila-y-baila/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/03/17/cerro-porteno-2x1-fortaleza-el-consuelo/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/03/24/santa-cruz-0x4-fortaleza-matou-a-cobra-e-mostrou-futebol/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/04/11/ceara-2x2-fortaleza-a-taca-do-penta-e-nossa/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/2023/04/21/san-lorenzo-0x2-fortaleza-perdao-francisco/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/11/08/ceara-1x0-cuiaba-um-passo-a-frente/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/11/25/ceara-2x1-corinthians-jogou-o-jogo-e-venceu-o-jogo/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/11/30/flamengo-2x1-ceara-nao-deu-bom/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/2021/12/10/palmeiras-1x0-ceara-nem-uma-coisa-nem-outra/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/category/health/feed/",
+        "https://blogs.opovo.com.br/ancoradouro/comments/feed/",
+        "https://blogs.opovo.com.br/artesanatodamente/comments/feed/",
+        "https://blogs.opovo.com.br/assimcaminhaahumanidade/comments/feed/",
+        "https://blogs.opovo.com.br/blogdaclara/comments/feed/",
+        "https://blogs.opovo.com.br/blogdoleao/comments/feed/",
+        "https://blogs.opovo.com.br/blogdovozao/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1736,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:50.663Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "uai.com.br": {
+      "urls": [
+        "https://blogs.uai.com.br/cantodogalo/hoje-e-jogo-pelo-brasileirao/feed/",
+        "https://blogs.uai.com.br/cantodogalo/tempos-de-recuperacao/feed/",
+        "https://blogs.uai.com.br/cantodogalo/eu-acredito-e-na-realidade/feed/",
+        "https://blogs.uai.com.br/cantodogalo/la-tem-culpa-todo-mundo-2/feed/",
+        "https://blogs.uai.com.br/cantodogalo/olhar-no-nosso-jogo-e-na-copa-do-brasil/feed/",
+        "https://blogs.uai.com.br/cantodogalo/irregularidade-e-exigencia-de-reacao/feed/",
+        "https://blogs.uai.com.br/cantodogalo/feed/",
+        "https://blogs.uai.com.br/pergunteaopsicologo/549minha-esposa-me-traiu-alegando-que-eu-fiz-o-mesmo-e-eu-nunca-a-trai-e-agora/feed/",
+        "https://blogs.uai.com.br/pergunteaopsicologo/feed/",
+        "https://blogs.uai.com.br/pergunteaopsicologo/meu-namorado-faz-brincadeiras-que-eu-odeio-e-vamos-nos-casar-como-devo-agir/feed/",
+        "https://blogs.uai.com.br/pergunteaopsicologo/quero-me-separar-do-meu-marido-que-e-dependente-quimico-porem-tenho-pena-dele/feed/",
+        "https://blogs.uai.com.br/cantodogalo/author/eduardo/feed/",
+        "https://blogs.uai.com.br/cantodogalo/category/blogueiros/feed/",
+        "https://blogs.uai.com.br/cantodogalo/tag/paixao-atleticana/feed/",
+        "https://www.mg.superesportes.com.br/rss/noticias/futebol/atletico-mg/rss.xml",
+        "https://blogs.uai.com.br/mirante/feed/",
+        "https://blogs.uai.com.br/mirante/2024/07/02/tome-tenencia-luiz-inacio/feed/",
+        "https://blogs.uai.com.br/mirante/author/eduardo/feed/",
+        "https://blogs.uai.com.br/mirante/category/convidados/feed/",
+        "https://blogs.uai.com.br/mirante/category/daniela-piroli-cabral/feed/",
+        "https://blogs.uai.com.br/mirante/category/eduardo-de-avila/feed/",
+        "https://blogs.uai.com.br/mirante/category/gabriela-pedrosa/feed/",
+        "https://blogs.uai.com.br/mirante/category/guilherme-scarpellini/feed/",
+        "https://blogs.uai.com.br/mirante/category/luciana-sampaio-moreira/feed/",
+        "https://blogs.uai.com.br/mirante/category/peter-rossi/feed/",
+        "https://blogs.uai.com.br/mirante/category/rosangela-maluf/feed/",
+        "https://blogs.uai.com.br/mirante/category/sandra-belchiolina/feed/",
+        "https://blogs.uai.com.br/mirante/category/silvia-ribeiro/feed/",
+        "https://blogs.uai.com.br/mirante/category/tadeu-duarte/feed/",
+        "https://blogs.uai.com.br/mirante/category/tais-civitarese/feed/",
+        "https://blogs.uai.com.br/mirante/category/victoria-farias/feed/",
+        "https://blogs.uai.com.br/mirante/category/wander-aguiar/feed/",
+        "https://blogs.uai.com.br/mirante/tag/john-smith/feed/",
+        "https://blogs.uai.com.br/mirante/tag/luisa-bahia/feed/",
+        "https://blogs.uai.com.br/mirante/tag/marcela-c-piancastelli/feed/",
+        "https://blogs.uai.com.br/mirante/tag/perda/feed/",
+        "https://blogs.uai.com.br/mirante/tag/raniere-sabara/feed/",
+        "https://blogs.uai.com.br/mirante/tag/vida/feed/",
+        "https://blogs.uai.com.br/cantodogalo/comments/feed/",
+        "https://blogs.uai.com.br/mirante/2024/08/06/participacao-do-brasil-nas-olimpiadas/feed/",
+        "https://blogs.uai.com.br/mirante/2024/08/13/cidadania-consumidor-e-assistencia-tecnica/feed/",
+        "https://blogs.uai.com.br/pergunteaopsicologo/comments/feed/",
+        "https://blogs.uai.com.br/mirante/2024/08/14/rasgo/feed/",
+        "https://www.uai.com.br/rss/noticia/saude/rss.xml",
+        "https://blogs.uai.com.br/mirante/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3101,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:40.505Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "uol.com.br": {
+      "urls": [
+        "https://musica.uol.com.br/ultnot/index.xml",
+        "http://rss.home.uol.com.br/index.xml",
+        "https://www.uol.com.br/esporte/ultimas/index.xml",
+        "https://www.uol.com.br/esporte/basquete/ultimas/index.xml",
+        "https://www.uol.com.br/esporte/futebol/ultimas/index.xml",
+        "https://www.uol.com.br/esporte/tenis/ultimas/index.xml",
+        "http://musica.uol.com.br/ultnot/index.xml",
+        "https://rss.uol.com.br/feed/cinema.xml",
+        "https://rss.uol.com.br/feed/comecar-o-dia.xml",
+        "https://rss.uol.com.br/feed/economia.xml",
+        "https://rss.uol.com.br/feed/eleicoes2022.xml",
+        "https://rss.uol.com.br/feed/jogos.xml",
+        "https://rss.uol.com.br/feed/noticias.xml",
+        "https://rss.uol.com.br/feed/tecnologia.xml",
+        "https://rss.uol.com.br/feed/vestibular.xml",
+        "https://www.uol.com.br/vueland/api/?loadComponent=XmlFeedRss",
+        "http://rss.uol.com.br/feed/cinema.xml",
+        "http://rss.uol.com.br/feed/economia.xml",
+        "http://rss.uol.com.br/feed/jogos.xml",
+        "http://rss.uol.com.br/feed/noticias.xml",
+        "http://rss.uol.com.br/feed/tecnologia.xml",
+        "http://rss.uol.com.br/feed/vestibular.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/atleticomg.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/atleticopr.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/bahia.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/ceara.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/corinthians.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/coritiba.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/cruzeiro.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/flamengo.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/fluminense.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/fortaleza.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/gremio.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/internacional.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/nautico.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/palmeiras.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/santacruz.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/santos.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/saopaulo.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/sport.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/vasco.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/vitoria.xml",
+        "https://uolhost.uol.com.br/blog/feed/",
+        "https://uolhost.uol.com.br/blog/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3447,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T20:35:16.746Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunadonorte.com.br": {
+      "urls": [
+        "https://tribunadonorte.com.br/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/feed/",
+        "https://blog.tribunadonorte.com.br/thiagocavalcanti/feed/",
+        "https://blog.tribunadonorte.com.br/heitorgregorio/feed/",
+        "https://blog.tribunadonorte.com.br/agitosebaladas/feed/",
+        "https://blog.tribunadonorte.com.br/augustobezerril/feed/",
+        "https://blog.tribunadonorte.com.br/blogdociriaco/feed/",
+        "https://blog.tribunadonorte.com.br/esportesdeprimeira/feed/",
+        "https://blog.tribunadonorte.com.br/eturismo/feed/",
+        "https://blog.tribunadonorte.com.br/partiu/feed/",
+        "https://blog.tribunadonorte.com.br/poderjudiciario/feed/",
+        "https://blog.tribunadonorte.com.br/rotulosrotaseritmos/feed/",
+        "https://blog.tribunadonorte.com.br/eturismo/maceio-tera-dois-voos-semanais-de-buenos-aires-da-flybondi-e-natal/feed/",
+        "https://blog.tribunadonorte.com.br/eturismo/turistas-estao-cada-vez-mais-indignados-com-ponta-negra-destino-natal-corre-serios-riscos/feed/",
+        "https://blog.tribunadonorte.com.br/augustobezerril/palavra-chave/mulapreta/feed/",
+        "https://blog.tribunadonorte.com.br/augustobezerril/palavra-chave/pfw/feed/",
+        "https://blog.tribunadonorte.com.br/augustobezerril/palavra-chave/rockinrio/feed/",
+        "https://blog.tribunadonorte.com.br/augustobezerril/palavra-chave/stylist/feed/",
+        "https://blog.tribunadonorte.com.br/esportesdeprimeira/category/noticias/feed/",
+        "https://blog.tribunadonorte.com.br/eturismo/palavra-chave/literatura/feed/",
+        "https://blog.tribunadonorte.com.br/poderjudiciario/categoria/oab-rn/feed/",
+        "https://blog.tribunadonorte.com.br/poderjudiciario/palavra-chave/estagio/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/categoria/beneficente/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/categoria/buffet/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/categoria/cafe/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/categoria/cidades/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/categoria/comportamento/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/categoria/historia/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/categoria/irrigacao-2/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/palavra-chave/medicina/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/palavra-chave/politica/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/palavra-chave/seguranca-publica/feed/",
+        "https://blog.tribunadonorte.com.br/agitosebaladas/comments/feed/",
+        "https://blog.tribunadonorte.com.br/augustobezerril/comments/feed/",
+        "https://blog.tribunadonorte.com.br/blogdociriaco/comments/feed/",
+        "https://blog.tribunadonorte.com.br/esportesdeprimeira/comments/feed/",
+        "https://blog.tribunadonorte.com.br/eturismo/comments/feed/",
+        "https://blog.tribunadonorte.com.br/heitorgregorio/comments/feed/",
+        "https://blog.tribunadonorte.com.br/partiu/comments/feed/",
+        "https://blog.tribunadonorte.com.br/poderjudiciario/comments/feed/",
+        "https://blog.tribunadonorte.com.br/rotulosrotaseritmos/comments/feed/",
+        "https://blog.tribunadonorte.com.br/territoriolivre/comments/feed/",
+        "https://blog.tribunadonorte.com.br/thiagocavalcanti/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 767,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:46.511Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornaldebrasilia.com.br": {
+      "urls": [
+        "https://jornaldebrasilia.com.br/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/analice-nicolau/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/futebol-etc/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/marcelo-chaves/feed/",
+        "https://jornaldebrasilia.com.br/arquivo-de-blogs/bsbtek/feed/",
+        "https://jornaldebrasilia.com.br/arquivo-de-blogs/eixe-se/feed/",
+        "https://jornaldebrasilia.com.br/arquivo-de-blogs/invista-agora/feed/",
+        "https://jornaldebrasilia.com.br/arquivo-de-blogs/pense-direito/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/a-mesa/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/arquitetura-design/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/bastidores/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/ciencia-da-psicologia/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/cinema-com-ela/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/coluna-esplanada/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/comer-rezando/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/concursando-direito/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/conta-giros/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/de-passagem/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/educar-acao/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/fala-torcida/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/game-life/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/hashtag-cinema/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/historias-da-bola/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/jbrshopping/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/lia-dinorah/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/mensagemsubliminar/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/neurologia-e-vida-saudavel/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/pisicanalise/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/pragmatica/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/questao-direito/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/quinto-ato/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/tres-poderes/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/verbalize/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/vinhos-e-vivencias/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/do-alto-da-torre/feed/",
+        "https://jornaldebrasilia.com.br/blogs-e-colunas/alta-velocidade/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1101,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:59.587Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "estadao.com.br": {
+      "urls": [
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/cultura/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/sao-paulo/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/esportes/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://politica.estadao.com.br/blogs/fausto-macedo/tags/artigo/feed/",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/paladar/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/viagem/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/educacao/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/emais/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/jornal-do-carro/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/link/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/midia-mkt/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/pme/?body=%7B%22layout%22:%22google-news%22%7D",
+        "https://emais.estadao.com.br/blogs/bruna-ribeiro/tags/abuso-sexual/feed/",
+        "https://emais.estadao.com.br/blogs/bruna-ribeiro/tags/brincar/feed/",
+        "https://emais.estadao.com.br/blogs/bruna-ribeiro/tags/direitos-das-meninas/feed/",
+        "https://emais.estadao.com.br/blogs/bruna-ribeiro/tags/plan-international-brasil/feed/",
+        "https://emais.estadao.com.br/blogs/bruna-ribeiro/tags/por-ser-menina/feed/",
+        "https://emais.estadao.com.br/blogs/bruna-ribeiro/tags/violencia-sexual/feed/",
+        "https://emais.estadao.com.br/blogs/comportamento-animal/tag/animal-de-estimacao/feed/",
+        "https://emais.estadao.com.br/blogs/cronica-por-quilo/tag/gigantes-hilarios/feed/",
+        "https://emais.estadao.com.br/blogs/cronica-por-quilo/tag/grandes-escritores/feed/",
+        "https://emais.estadao.com.br/blogs/cronica-por-quilo/tag/pilulas/feed/",
+        "https://politica.estadao.com.br/blogs/fausto-macedo/categorias/ministerio-publico-democratico/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 652,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:43.008Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "odia.ig.com.br": {
+      "urls": [
+        "https://odia.ig.com.br/_conteudo/home/rss.xml",
+        "https://odia.ig.com.br/_conteudo/ultimas-noticias/rss.xml",
+        "https://odia.ig.com.br/_conteudo/stories/rss.xml",
+        "https://anchor.fm/s/3cd3f450/podcast/rss",
+        "https://blog.anchor.fm/create/rss.xml",
+        "https://blog.anchor.fm/grow/rss.xml",
+        "https://blog.anchor.fm/share/rss.xml",
+        "https://blog.anchor.fm/updates/rss.xml",
+        "https://de.blog.anchor.fm/create/rss.xml",
+        "https://de.blog.anchor.fm/grow/rss.xml",
+        "https://de.blog.anchor.fm/share/rss.xml",
+        "https://de.blog.anchor.fm/updates/rss.xml",
+        "https://es.blog.anchor.fm/create/rss.xml",
+        "https://es.blog.anchor.fm/grow/rss.xml",
+        "https://es.blog.anchor.fm/share/rss.xml",
+        "https://es.blog.anchor.fm/updates/rss.xml",
+        "https://fr.blog.anchor.fm/create/rss.xml",
+        "https://fr.blog.anchor.fm/grow/rss.xml",
+        "https://fr.blog.anchor.fm/share/rss.xml",
+        "https://fr.blog.anchor.fm/updates/rss.xml",
+        "https://id.blog.anchor.fm/create/rss.xml",
+        "https://id.blog.anchor.fm/grow/rss.xml",
+        "https://id.blog.anchor.fm/share/rss.xml",
+        "https://id.blog.anchor.fm/updates/rss.xml",
+        "https://it.blog.anchor.fm/create/rss.xml",
+        "https://it.blog.anchor.fm/grow/rss.xml",
+        "https://it.blog.anchor.fm/share/rss.xml",
+        "https://it.blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 800,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:51.572Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "agenciabrasil.ebc.com.br": {
+      "urls": [
+        "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/parceiros/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/ultimasnoticias/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/educacao/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/saude/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/direitos-humanos/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/esportes/feed.xml",
+        "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/politica/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/cultura/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/direitos-humanos/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/meio-ambiente/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/internacional/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/justica/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/economia/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/educacao/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/esportes/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/geral/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/pesquisa-e-inovacao/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/saude/feed.xml",
+        "https://agenciabrasil.ebc.com.br/radioagencia-nacional/rss/seguranca/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 883,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:48.457Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noticias.uol.com.br": {
+      "urls": [
+        "https://musica.uol.com.br/ultnot/index.xml",
+        "https://www.uol.com.br/esporte/ultimas/index.xml",
+        "https://www.uol.com.br/esporte/tenis/ultimas/index.xml",
+        "https://rss.uol.com.br/feed/comecar-o-dia.xml",
+        "https://rss.uol.com.br/feed/eleicoes2022.xml",
+        "https://www.uol.com.br/vueland/api/?loadComponent=XmlFeedRss",
+        "http://rss.uol.com.br/feed/cinema.xml",
+        "http://rss.uol.com.br/feed/economia.xml",
+        "http://rss.uol.com.br/feed/jogos.xml",
+        "http://rss.uol.com.br/feed/noticias.xml",
+        "http://rss.uol.com.br/feed/tecnologia.xml",
+        "http://rss.uol.com.br/feed/vestibular.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/bahia.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/internacional.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/santos.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/saopaulo.xml",
+        "https://www.uol.com.br/esporte/futebol/clubes/vitoria.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2017,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T20:35:34.648Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "istoe.com.br": {
+      "urls": [
+        "https://istoe.com.br/feed/",
+        "https://istoe.com.br/feed",
+        "https://istoe.com.br/coluna/brasil-confidencial/feed",
+        "https://istoe.com.br/coluna/marco-antonio-villa/feed",
+        "https://istoe.com.br/mulher/podcast/feed/",
+        "https://istoe.com.br/esportes/podcast/feed/",
+        "https://istoe.com.br:443/coluna/brasil-confidencial/feed/",
+        "https://istoe.com.br:443/coluna/marco-antonio-villa/feed/",
+        "https://bemestar.istoe.com.br/category/podcast/feed",
+        "https://mulher.istoe.com.br/tag/podcast/feed",
+        "https://bemestar.istoe.com.br/category/podcast/feed/",
+        "https://mulher.istoe.com.br/category/podcast/feed/",
+        "https://mulher.istoe.com.br/tag/podcast-sobre-depressao/feed/",
+        "https://mulher.istoe.com.br/tag/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1216,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:36.616Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "super.abril.com.br": {
+      "urls": [
+        "https://super.abril.com.br/feed/",
+        "https://super.abril.com.br/ciencia/rss",
+        "https://super.abril.com.br/cultura/rss",
+        "https://super.abril.com.br/tecnologia/rss",
+        "https://super.abril.com.br/ciencia/rss/",
+        "https://super.abril.com.br/cultura/rss/",
+        "https://super.abril.com.br/tecnologia/rss/",
+        "https://super.abril.com.br/blog/oraculo/feed",
+        "https://super.abril.com.br/blog/bruno-garattoni/feed",
+        "https://super.abril.com.br/blog/cultura/feed",
+        "https://super.abril.com.br/blog/oraculo/feed/",
+        "https://super.abril.com.br/blog/bruno-garattoni/feed/",
+        "https://super.abril.com.br/blog/cultura/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2995,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:15.380Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "correiodopovo.com.br": {
+      "urls": [
+        "https://www.correiodopovo.com.br/cmlink/capa-1.1100281",
+        "https://www.correiodopovo.com.br/cmlink/ultimas-1.1100282",
+        "https://www.correiodopovo.com.br/cmlink/ultimas-noticias-1.244006",
+        "https://www.correiodopovo.com.br/cmlink/capa-1.552148",
+        "https://www.correiodopovo.com.br/cmlink/direto-ao-ponto-1.1450994",
+        "https://www.correiodopovo.com.br/cmlink/h%C3%A1-um-s%C3%A9culo-no-cp-1.1536676",
+        "https://www.correiodopovo.com.br/cmlink/h%C3%A1-um-s%C3%A9culo-no-cp-1.1580614",
+        "https://www.correiodopovo.com.br/cmlink/podcast-1.1450995"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 851,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:59.886Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariodoamapa.com.br": {
+      "urls": [
+        "https://www.diariodoamapa.com.br/feed/",
+        "https://www.diariodoamapa.com.br/cat/blogs/cleber-barbosa/feed/",
+        "https://www.diariodoamapa.com.br/cat/blogs/coluna-esplanada/feed/",
+        "https://www.diariodoamapa.com.br/cat/blogs/heraldo-almeida/feed/",
+        "https://www.diariodoamapa.com.br/cat/blogs/paulo-silva/feed/",
+        "https://www.diariodoamapa.com.br/cat/blogs/podcasts/feed/",
+        "https://www.diariodoamapa.com.br/cat/blogs/ponto-e-virgula/feed/",
+        "https://www.diariodoamapa.com.br/cat/blogs/ziulana-melo/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1428,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:01.017Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "otempo.com.br": {
+      "urls": [
+        "https://www.otempo.com.br/cmlink/poltica-1.650246",
+        "https://www.otempo.com.br/cmlink/cidades-1.650234",
+        "https://www.otempo.com.br/cmlink/mundo-1.650236",
+        "https://www.otempo.com.br/cmlink/economia-1.650230",
+        "https://www.otempo.com.br/cmlink/brasil-1.650232",
+        "https://feeds.simplecast.com/9GQBUSW7",
+        "https://feeds.transistor.fm/tempo-habil",
+        "https://www.omnycontent.com/d/playlist/0009b167-0e82-414e-91eb-aae8011fc66d/6aa9b0d3-43f1-451b-9f19-ad0900ec49cc/f02bc133-5d9b-42e2-918e-ad0900ec49da/podcast.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1643,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:52.680Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "veja.abril.com.br": {
+      "urls": [
+        "https://veja.abril.com.br/brasil/rss",
+        "https://veja.abril.com.br/gastronomia/rss",
+        "https://veja.abril.com.br/ultimas-noticias/rss",
+        "https://veja.abril.com.br/brasil/rss/",
+        "https://veja.abril.com.br/gastronomia/rss/",
+        "https://veja.abril.com.br/ultimas-noticias/rss/",
+        "https://veja.abril.com.br/blog/sensacionalista/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1622,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:05.632Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "revistaforum.com.br": {
+      "urls": [
+        "https://revistaforum.com.br/rss/feed.html?r=1",
+        "https://revistaforum.com.br/category/blogs/blog-do-menon/feed/",
+        "https://revistaforum.com.br/category/blogs/dicionario-marxismo-na-america/feed/",
+        "https://revistaforum.com.br/category/blogs/o-cafezinho/feed/",
+        "https://revistaforum.com.br/category/blogs/ponta-esquerda/feed/",
+        "https://revistaforum.com.br/category/blogs/portal-veg/feed/",
+        "https://revistaforum.com.br/editoria/blogs/blog-do-rovai/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3098,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:30.135Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornalnh.com.br": {
+      "urls": [
+        "https://www.jornalnh.com.br/feed/noticias.php",
+        "https://www.abcmais.com/feed/",
+        "https://www.jornalnh.com.br/feed/novo_hamburgo.php",
+        "https://www.jornalnh.com.br/feed/cotidiano.php",
+        "https://www.jornalnh.com.br/feed/esportes.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 57,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:41.094Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cnnbrasil.com.br": {
+      "urls": [
+        "https://www.cnnbrasil.com.br/feed/",
+        "https://admin.cnnbrasil.com.br/feed/",
+        "https://www.cnnbrasil.com.br/economia/feed/",
+        "https://www.cnnbrasil.com.br/politica/feed/",
+        "https://www.cnnbrasil.com.br/tecnologia/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 472,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:17.377Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "folha.uol.com.br": {
+      "urls": [
+        "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+        "https://feeds.folha.uol.com.br/folha/ilustrada/rss091.xml",
+        "https://feeds.folha.uol.com.br/mundo/rss091.xml",
+        "https://feeds.folha.uol.com.br/tec/rss091.xml",
+        "https://feeds.folha.uol.com.br/colunas/contardocalligaris/rss091.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2429,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:39.882Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "quatrorodas.abril.com.br": {
+      "urls": [
+        "https://quatrorodas.abril.com.br/feed/",
+        "https://quatrorodas.abril.com.br/rss/",
+        "https://quatrorodas.abril.com.br/ultimas-noticias/rss",
+        "https://quatrorodas.abril.com.br/ultimas-noticias/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 583,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:32.005Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornalvs.com.br": {
+      "urls": [
+        "https://www.abcmais.com/feed/",
+        "https://www.jornalvs.com.br/feed/noticias.php",
+        "https://www.jornalvs.com.br/feed/cotidiano.php",
+        "https://www.jornalvs.com.br/feed/esportes.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 936,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:42.069Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariodocentrodomundo.com.br": {
+      "urls": [
+        "https://www.diariodocentrodomundo.com.br/feed/json/",
+        "https://www.diariodocentrodomundo.com.br/feed/",
+        "https://www.diariodocentrodomundo.com.br/web-stories/feed/",
+        "https://www.diariodocentrodomundo.com.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 939,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:24.559Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunadoplanalto.com.br": {
+      "urls": [
+        "https://tribunadoplanalto.com.br/feed/",
+        "http://tribunadoplanalto.com.br/feed/",
+        "https://tribunadoplanalto.com.br/comments/feed/",
+        "http://tribunadoplanalto.com.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 968,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:24.331Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "guiadoestudante.abril.com.br": {
+      "urls": [
+        "https://guiadoestudante.abril.com.br/rss",
+        "https://guiadoestudante.abril.com.br/rss/",
+        "https://guiadoestudante.abril.com.br/ultimas-noticias/rss",
+        "https://guiadoestudante.abril.com.br/ultimas-noticias/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1265,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:10.899Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunadosertao.com.br": {
+      "urls": [
+        "https://www.tribunadosertao.com.br/feed/",
+        "https://tribunadosertao.com.br/feed",
+        "https://www.tribunadosertao.com.br/feed",
+        "https://www.tribunadosertao.com.br/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1978,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:33.553Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariodecanoas.com.br": {
+      "urls": [
+        "https://www.abcmais.com/feed/",
+        "https://www.diariodecanoas.com.br/feed/noticias.php",
+        "https://www.diariodecanoas.com.br/feed/esportes.php",
+        "https://www.diariodecanoas.com.br/feed/canoas.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2019,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:37.420Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "brasildefato.com.br": {
+      "urls": [
+        "https://www.brasildefato.com.br/rss2.xml",
+        "https://www.brasildefato.com.br/feed/",
+        "https://www.brasildefato.com.br/sitemap.rss",
+        "https://www.brasildefato.com.br/en/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3217,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:55.642Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "reporterbrasil.org.br": {
+      "urls": [
+        "https://reporterbrasil.org.br/categorias/noticias/feed/",
+        "https://reporterbrasil.org.br/feed/",
+        "https://reporterbrasil.org.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 367,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:58.287Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "poder360.com.br": {
+      "urls": [
+        "https://www.poder360.com.br/feed/",
+        "https://www.poder360.com.br/opiniao/feed/",
+        "https://www.poder360.com.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 698,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:35.351Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dm.com.br": {
+      "urls": [
+        "http://www.dm.com.br/feed/",
+        "https://www.dm.com.br/feed/",
+        "https://www.dm.com.br/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 714,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:13.129Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "terra.com.br": {
+      "urls": [
+        "http://www.terra.com.br/rss/Controller?channelid=20e07ef2795b2310VgnVCM3000009af154d0RCRD&ctName=atomo-noticia",
+        "https://www.terra.com.br/rss/Controller?channelid=20e07ef2795b2310VgnVCM3000009af154d0RCRD&ctName=atomo-noticia",
+        "http://noticias.terra.com.br/rss/Controller?channelid=e3c54b844f65e310VgnVCM3000009acceb0aRCRD&ctName=atomo-noticia"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1304,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:20.698Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dgabc.com.br": {
+      "urls": [
+        "https://www.dgabc.com.br/Servicos/RSS/Home",
+        "http://www.dgabc.com.br/Servicos/RSS/Home",
+        "https://www.dgabc.com.br/Servicos/RSS"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1632,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:57.317Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "caras.uol.com.br": {
+      "urls": [
+        "https://caras.uol.com.br/feed/",
+        "https://caras.com.br/feed",
+        "https://caras.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2552,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:21.974Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "piaui.folha.uol.com.br": {
+      "urls": [
+        "https://piaui.folha.uol.com.br/feed/",
+        "https://piaui.folha.uol.com.br/herald/feed/",
+        "https://piaui.folha.uol.com.br/podcast/tema/sequestro-da-amarelinha/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2596,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:18.087Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunapr.com.br": {
+      "urls": [
+        "https://www.tribunapr.com.br/feed/",
+        "https://tribunapr.uol.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 443,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:59.031Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pragmatismopolitico.com.br": {
+      "urls": [
+        "https://feeds.feedburner.com/pragmatismopolitico",
+        "http://feeds.feedburner.com/PragmatismoPolitico"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 926,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:23.617Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornalopcao.com.br": {
+      "urls": [
+        "https://www.jornalopcao.com.br/feed/",
+        "https://www.jornalopcao.com.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3104,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:11.985Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunadojurua.com.br": {
+      "urls": [
+        "https://tribunadojurua.com.br/feed/",
+        "https://tribunadojurua.com.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3210,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:22.786Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "artebrasileiros.com.br": {
+      "urls": [
+        "https://artebrasileiros.com.br/feed/",
+        "https://artebrasileiros.com.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3683,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:35.928Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornalpequeno.com.br": {
+      "urls": [
+        "https://jornalpequeno.com.br/feed/",
+        "https://jornalpequeno.com.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4435,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:17.568Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dsvc.com.br": {
+      "urls": [
+        "https://www.dsvc.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 401,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:23.308Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aregiao.com.br": {
+      "urls": [
+        "https://feeds.feedburner.com/ARegioOJornalDaBahia"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 466,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:32.587Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariodecuiaba.com.br": {
+      "urls": [
+        "https://www.diariodecuiaba.com.br/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 625,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:01.642Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "economia.ig.com.br": {
+      "urls": [
+        "https://economia.ig.com.br/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 654,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:42.326Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "esporte.ig.com.br": {
+      "urls": [
+        "https://esporte.ig.com.br/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 676,
+        "category": "sports",
+        "last_checked": "2026-01-31T20:35:45.869Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ultimosegundo.ig.com.br": {
+      "urls": [
+        "https://ultimosegundo.ig.com.br/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 812,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:22.314Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "moneytimes.com.br": {
+      "urls": [
+        "https://www.moneytimes.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1104,
+        "category": "business",
+        "last_checked": "2026-01-31T20:35:41.672Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "miseria.com.br": {
+      "urls": [
+        "https://www.miseria.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1174,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:07.770Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunaonline.com.br": {
+      "urls": [
+        "https://tribunaonline.com.br/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1332,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:18.900Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "oimparcial.com.br": {
+      "urls": [
+        "https://oimparcial.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1359,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:06.596Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "atarde.com.br": {
+      "urls": [
+        "https://atarde.com.br/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1433,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:34.020Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ne10.uol.com.br": {
+      "urls": [
+        "https://ne10.uol.com.br/ultimas/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1492,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:37.402Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "campograndenews.com.br": {
+      "urls": [
+        "https://www.campograndenews.com.br/rss/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1561,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:55.165Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ndmais.com.br": {
+      "urls": [
+        "https://ndmais.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1667,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:42.172Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nenoticias.com.br": {
+      "urls": [
+        "https://www.nenoticias.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1718,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:44.262Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ogirassol.com.br": {
+      "urls": [
+        "https://ogirassol.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1736,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:26.067Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "paginanet.com.br": {
+      "urls": [
+        "https://paginanet.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2418,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:31.145Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "capricho.abril.com.br": {
+      "urls": [
+        "https://capricho.abril.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2572,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:08.205Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "brasilemfolhas.com.br": {
+      "urls": [
+        "https://www1.brasilemfolhas.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3594,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:05.236Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "correio24horas.com.br": {
+      "urls": [
+        "https://www.correio24horas.com.br/rss/",
+        "https://blogs.correio24horas.com.br/a-toda-prova/?feed=rss2",
+        "https://www.correio24horas.com.br/rss",
+        "https://blogs.correio24horas.com.br/correiodefuturo/?feed=rss2",
+        "https://blogs.correio24horas.com.br/mesalte/category/home/feed/",
+        "https://blogs.correio24horas.com.br/correiodefuturo/?feed=comments-rss2",
+        "https://blogs.correio24horas.com.br/mesalte/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/identidade-trans/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/author/admin/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/author/mesalte/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/category/me-abano/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/category/me-informo/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/category/me-inspiro/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/category/me-jogo/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/category/me-orgulho/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/category/me-transformo/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/beyonce/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/bissexuais/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/claudia-leitte/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/daniela-mercury/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/drag/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/dragart/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/instagay/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/ivete-sangalo/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/ivete/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/jorgegauthier/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/lesbian/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/lesbiscas/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/lgbt/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/lgbtq/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/nude/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/orgulho/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/pabllo-vittar/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/parada-lgbt/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/salvador/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/san-sebastian/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/trans/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/transexuais-e-transgeneros/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/transexuais/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/transexual/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/vittar/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/tag/xuxa/feed/",
+        "https://blogs.correio24horas.com.br/mesalte/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:58.560Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diariodepernambuco.com.br": {
+      "urls": [
+        "http://blogs.diariodepernambuco.com.br/oabusododia/feed/",
+        "http://blogs.diariodepernambuco.com.br/oabusododia/feed/?doing_wp_cron=1725166522.8793570995330810546875",
+        "http://blogs.diariodepernambuco.com.br/construcaosemcinzas/feed/",
+        "http://blogs.diariodepernambuco.com.br/construcaosemcinzas/feed/?doing_wp_cron=1748597005.1421940326690673828125",
+        "http://blogs.diariodepernambuco.com.br/construcaosemcinzas/feed/?doing_wp_cron=1751898630.3509600162506103515625",
+        "http://blogs.diariodepernambuco.com.br/construcaosemcinzas/feed/?doing_wp_cron=1754682810.7905709743499755859375",
+        "http://blogs.diariodepernambuco.com.br/oabusododia/author/pernambuco-com/feed/",
+        "http://blogs.diariodepernambuco.com.br/oabusododia/author/pernambuco-com/feed/?doing_wp_cron=1685982704.1970999240875244140625",
+        "http://blogs.diariodepernambuco.com.br/oabusododia/author/pernambuco-com/feed/?doing_wp_cron=1751898629.8162488937377929687500",
+        "http://blogs.diariodepernambuco.com.br/oabusododia/category/o-abuso-do-dia/feed/",
+        "http://blogs.diariodepernambuco.com.br/oabusododia/category/o-abuso-do-dia/feed/?doing_wp_cron=1701919031.8905580043792724609375",
+        "http://blogs.diariodepernambuco.com.br/oabusododia/category/o-abuso-do-dia/feed/?doing_wp_cron=1751898629.8162889480590820312500",
+        "http://blogs.diariodepernambuco.com.br/machismonofutebol/feed/",
+        "http://blogs.diariodepernambuco.com.br/machismonofutebol/feed/?doing_wp_cron=1685982704.4989440441131591796875",
+        "http://blogs.diariodepernambuco.com.br/machismonofutebol/feed/?doing_wp_cron=1701919032.2439770698547363281250",
+        "http://blogs.diariodepernambuco.com.br/machismonofutebol/feed/?doing_wp_cron=1725166523.7239210605621337890625",
+        "http://blogs.diariodepernambuco.com.br/construcaosemcinzas/comments/feed/",
+        "http://blogs.diariodepernambuco.com.br/construcaosemcinzas/comments/feed/?doing_wp_cron=1638989460.8841578960418701171875",
+        "http://blogs.diariodepernambuco.com.br/construcaosemcinzas/comments/feed/?doing_wp_cron=1701919032.0717060565948486328125",
+        "http://blogs.diariodepernambuco.com.br/construcaosemcinzas/comments/feed/?doing_wp_cron=1754682810.7983660697937011718750"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:09.917Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diariodonordeste.verdesmares.com.br": {
+      "urls": [
+        "https://diariodonordeste.verdesmares.com.br/cmlink/feed-7.4674196",
+        "https://diariodonordeste.verdesmares.com.br:443/cmlink/feed-7.4674196",
+        "https://diariodonordeste.verdesmares.com.br/cmlink/feed-app-7.4879158",
+        "https://diariodonordeste.verdesmares.com.br:443/cmlink/feed-app-7.4879158",
+        "https://diariodonordeste.verdesmares.com.br/cmlink/feed-neg%C3%B3cios-7.4834673",
+        "https://diariodonordeste.verdesmares.com.br:443/cmlink/feed-neg%C3%B3cios-7.4834673",
+        "https://diariodonordeste.verdesmares.com.br/cmlink/feed-1.3009099",
+        "https://diariodonordeste.verdesmares.com.br:443/cmlink/feed-1.3009099",
+        "https://diariodonordeste.verdesmares.com.br/cmlink/dow-jones-1.2963165",
+        "https://diariodonordeste.verdesmares.com.br:443/cmlink/dow-jones-1.2963165",
+        "https://diariodonordeste.verdesmares.com.br/cmlink/feed-webstories-7.5124750",
+        "https://diariodonordeste.verdesmares.com.br:443/cmlink/feed-webstories-7.5124750",
+        "https://diariodonordeste.verdesmares.com.br/cmlink/feed-seguranca-1.3086870"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:51.002Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "agazeta.com.br": {
+      "urls": [
+        "https://www.agazeta.com.br/rss/economia",
+        "https://www.agazeta.com.br/rss/esportes",
+        "https://www.agazeta.com.br/rss/geral",
+        "https://www.agazeta.com.br/rss/minha-bahia",
+        "https://www.agazeta.com.br/rss/entretenimento/gastronomia",
+        "https://www.agazeta.com.br/rss/es/cotidiano",
+        "https://www.agazeta.com.br/rss/es/economia",
+        "https://www.agazeta.com.br/rss/es/policia",
+        "https://www.agazeta.com.br/rss/es/politica",
+        "https://www.agazeta.com.br/rss/es/transito",
+        "https://www.agazeta.com.br/rss/geral/minuto-a-minuto",
+        "https://www.agazeta.com.br/rss/hz/cultura",
+        "https://www.agazeta.com.br/rss/hz/gastronomia"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:55.660Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "em.com.br": {
+      "urls": [
+        "https://www.em.com.br/rss/noticia/internacional/rss.xml",
+        "https://www.em.com.br/rss/noticia/gerais/rss.xml",
+        "https://www.em.com.br/rss/noticia/politica/rss.xml",
+        "https://www.em.com.br/rss/noticia/economia/rss.xml",
+        "https://www.em.com.br/rss/noticia/nacional/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:56.762Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "revistadecinema.com.br": {
+      "urls": [
+        "https://revistadecinema.com.br/feed/",
+        "https://revistadecinema.com.br/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T20:37:45.962Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "onacional.com.br": {
+      "urls": [
+        "https://www.onacional.com.br/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:45.693Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jornalggn.com.br": {
+      "urls": [
+        "https://jornalggn.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:30.644Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "opopular.com.br": {
+      "urls": [
+        "https://opopular.com.br/cmlink/o-popular-%C3%BAltimas-1.272904"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:53.604Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "folhadelondrina.com.br": {
+      "urls": [
+        "https://www.folhadelondrina.com.br/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:57.702Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "agoramt.com.br": {
+      "urls": [
+        "https://www.agoramt.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:19.560Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "cearaagora.com.br": {
+      "urls": [
+        "https://cearaagora.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:44.617Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "revistapetcenter.com.br": {
+      "urls": [
+        "https://revistapetcenter.com.br/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:46.659Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetaesportiva.com": {
+      "urls": [
+        "https://www.gazetaesportiva.com/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2024/03/04/classico-conservador-e-polemicas-a-vista/feed/",
+        "https://www.gazetaesportiva.com/futebol/futebol-internacional/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2022/12/09/a-danca-macabra-do-brasil/feed/",
+        "https://www.gazetaesportiva.com/times/santos/feed/",
+        "https://www.gazetaesportiva.com/times/sao-paulo/feed/",
+        "https://www.gazetaesportiva.com/times/palmeiras/feed/",
+        "https://blogs.gazetaesportiva.com/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2024/01/24/campeonato-paulista-nao-e-mole-nao/feed/",
+        "https://blogs.gazetaesportiva.com/danielcarreirafilho/para-meditarmos/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/feed/",
+        "https://blogs.gazetaesportiva.com/arbitragem/feed/",
+        "https://blogs.gazetaesportiva.com/automobilismo/feed/",
+        "https://blogs.gazetaesportiva.com/blogdacopa/feed/",
+        "https://blogs.gazetaesportiva.com/chicolang/feed/",
+        "https://blogs.gazetaesportiva.com/danielcarreirafilho/feed/",
+        "https://blogs.gazetaesportiva.com/esporte-com-saude/feed/",
+        "https://blogs.gazetaesportiva.com/feitos-e-fatos/feed/",
+        "https://blogs.gazetaesportiva.com/fernandasilva/feed/",
+        "https://blogs.gazetaesportiva.com/flavioprado/feed/",
+        "https://blogs.gazetaesportiva.com/joaoricardocozac/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/feed/",
+        "https://blogs.gazetaesportiva.com/planeta-octogono/feed/",
+        "https://blogs.gazetaesportiva.com/ponto-de-vista/feed/",
+        "https://blogs.gazetaesportiva.com/por-tras-das-medalhas/feed/",
+        "https://blogs.gazetaesportiva.com/velocidade/feed/",
+        "https://www.gazetaesportiva.com/webstories/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2024/02/25/weverton-e-humano-e-errar-tambem/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2022/12/02/armar-eis-a-questao/feed/",
+        "https://blogs.gazetaesportiva.com/flavioprado/category/corinthians/feed/",
+        "https://blogs.gazetaesportiva.com/flavioprado/category/outros/feed/",
+        "https://blogs.gazetaesportiva.com/planeta-octogono/category/aprendendo-mma/feed/",
+        "https://blogs.gazetaesportiva.com/planeta-octogono/category/combate-da-semana/feed/",
+        "https://blogs.gazetaesportiva.com/planeta-octogono/category/vlog-de-mma/feed/",
+        "https://blogs.gazetaesportiva.com/planeta-octogono/category/voce-indica/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2022/11/20/a-festa-comecou/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2022/11/24/a-questao-agora-e-quem-nos-marca/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2021/12/06/tricolor-chega-aos-3-sem-a-maldicao-do-3/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2021/12/10/e-ceni-repetiu-o-erro-sinal-de/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2022/11/22/franca-abate-zebra/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2021/12/06/verdao-verdissimo-e-o-peixe-escapa-da-isca/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2021/12/12/cuca-e-o-equilibrio/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2021/12/28/ah-os-treinadores/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2022/11/28/casemiro-o-salvador-da-patria/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/2022/12/05/que-venha-a-croacia/feed/",
+        "https://blogs.gazetaesportiva.com/esporte-com-saude/2022/07/08/endocanabinoides-a-morfina-da-atividade-aerobica/feed/",
+        "https://blogs.gazetaesportiva.com/fernandasilva/2022/01/12/emily-lima-futebol-feminino-na-america-do-sul-o-brasil-e-o-espelho-das-outras-selecoes/feed/",
+        "https://blogs.gazetaesportiva.com/fernandasilva/2022/01/28/para-frigerio-futebol-feminino-no-paraguai-se-desenvolvera-mais-rapido-do-que-no-brasil/feed/",
+        "https://blogs.gazetaesportiva.com/fernandasilva/2022/04/13/andressinha-sobre-ida-para-o-palmeiras-sabia-que-ia-receber-muita-mensagem-de-corintiano/feed/",
+        "https://blogs.gazetaesportiva.com/fernandasilva/2022/08/30/resiliencia-e-coragem-o-futebol-de-debinha-artilheira-da-selecao-na-era-pia/feed/",
+        "https://blogs.gazetaesportiva.com/fernandasilva/2022/10/24/precisamos-falar-sobre-o-kc-current/feed/",
+        "https://blogs.gazetaesportiva.com/fernandasilva/2022/11/15/dna-palmeirense-torcida-e-libertadores-um-papo-com-ricardo-belli/feed/",
+        "https://blogs.gazetaesportiva.com/joaoricardocozac/2022/12/18/argentina-campea-e-o-futebol-antes-e-depois-da-final-da-copa-de-2022/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2022/10/16/sao-paulo-heroico-em-campo/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2022/10/22/corinthians-caiu-de-pe/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2022/11/06/quem-eu-levaria-pra-copa-aqui-do-brasil/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2022/11/28/vitor-pereira-vergonha-alheia/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2022/12/09/a-vida-segue-e-a-copa-tambem/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2023/07/23/nilson-cesar-a-voz-da-pan-no-mesa-redonda/feed/",
+        "https://blogs.gazetaesportiva.com/planeta-octogono/2013/05/06/aprendendo-mma-veja-seminario-de-mma-com-a-lenda-russa-fedor-emelianenko/feed/",
+        "https://blogs.gazetaesportiva.com/joaoricardocozac/2023/01/28/campeao-abel-so-nao-vai-para-selecao-por-conta-da-falta-de-equilibrio-emocional/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/2024/02/04/o-que-acontece-com-o-palmeiras-nos-penaltis/feed/",
+        "https://www.gazetaesportiva.com/comments/feed/",
+        "https://blogs.gazetaesportiva.com/albertohelena/comments/feed/",
+        "https://blogs.gazetaesportiva.com/arbitragem/comments/feed/",
+        "https://blogs.gazetaesportiva.com/automobilismo/comments/feed/",
+        "https://blogs.gazetaesportiva.com/chicolang/comments/feed/",
+        "https://blogs.gazetaesportiva.com/danielcarreirafilho/comments/feed/",
+        "https://blogs.gazetaesportiva.com/esporte-com-saude/comments/feed/",
+        "https://blogs.gazetaesportiva.com/fernandasilva/comments/feed/",
+        "https://blogs.gazetaesportiva.com/joaoricardocozac/comments/feed/",
+        "https://blogs.gazetaesportiva.com/michellegiannella/comments/feed/",
+        "https://blogs.gazetaesportiva.com/planeta-octogono/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 609,
+        "category": "sports",
+        "last_checked": "2026-01-31T20:35:47.019Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "oglobo.globo.com": {
+      "urls": [
+        "https://oglobo.globo.com/rss/oglobo",
+        "https://pox.globo.com/rss/oglobo/",
+        "https://oglobo.globo.com/rss.xml?secao=ece_frontpage",
+        "https://blogs.oglobo.globo.com/lauro-jardim/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/ancelmo/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/malu-gaspar/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/capital/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/bela-megale/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/miriam-leitao/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/sensacionalista/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/a-hora-da-ciencia/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/bernardo-mello-franco/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/carlos-andreazza/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/fumus-boni-iuris/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/guga-chacra/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/marcelo-ninio/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/merval-pereira/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/ruth-de-aquino/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/sonar-a-escuta-das-redes/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/vera-magalhaes/rss/ultimas.feed",
+        "https://blogs.oglobo.globo.com/opiniao/rss/ultimas.feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1876,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:45.411Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "metropoles.com": {
+      "urls": [
+        "https://www.metropoles.com/feed",
+        "https://www.metropoles.com/brasil/feed",
+        "https://www.metropoles.com/distrito-federal/feed",
+        "https://www.metropoles.com/colunas/guilherme-amado/feed",
+        "https://www.metropoles.com/colunas/leo-dias/feed",
+        "https://www.metropoles.com/entretenimento/feed",
+        "https://www.metropoles.com/colunas/e-o-bicho/feed",
+        "https://www.metropoles.com/blog-do-noblat/feed",
+        "https://www.metropoles.com/concursos-e-empregos/feed",
+        "https://www.metropoles.com/blog-do-noblat/artigos/feed",
+        "https://www.metropoles.com/blog-do-noblat/enquetes/feed",
+        "https://www.metropoles.com/blog-do-noblat/charges/feed",
+        "https://www.metropoles.com/blog-do-noblat/frases-do-dia/feed",
+        "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1901,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:19.366Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "english.elpais.com": {
+      "urls": [
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/usa",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/international",
+        "https://fapi-top.prisasd.com/podcast/elpais/que_de_el_pais_in_english.xml",
+        "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/culture",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/economy-and-business",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/people",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/podcasts",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/science-tech",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/brasil_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/podcast_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/uruguay_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/podcasts/subsection/que"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 528,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:45.757Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ge.globo.com": {
+      "urls": [
+        "https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/584fd793-8f3c-424b-8b52-af7100ed5a01/9a06fde5-962a-4e55-b0c7-af7100ed5d05/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/146389eb-532e-4c6e-bae2-ac72011b9d08/0ce932e2-24eb-4f87-ac3b-ac72011b9d16/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/53b1255b-cc66-47f1-9c77-ac7f00d5a4fc/79664438-1780-40e0-ba12-ac7f00d5a505/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/56b5c8e3-22e4-476e-a055-ac85012c7d41/b87a5bc1-c608-45e2-b64c-ac85012c7d4a/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/7907d43f-869f-4ee7-9dfa-adc8014654b2/5b56fe82-c78b-4938-a8b2-adc8014655f6/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/8b729d50-aa32-4590-b98c-ac72011b9dbf/418446c4-737c-4dee-b40d-ac72011b9dcd/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/c1b7476f-24c6-46a0-8671-ac72011b9d87/e85feb87-55ed-4c55-8eac-ac72011b9d95/podcast.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 798,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:45.193Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "autoesporte.globo.com": {
+      "urls": [
+        "https://autoesporte.globo.com/rss/autoesporte",
+        "https://autoesporte.globo.com/rss/autoesporte/",
+        "https://autoesporte.globo.com/rss/autoesporte/carros",
+        "https://autoesporte.globo.com/rss/autoesporte/carros/podcast",
+        "https://pox.globo.com/rss/autoesporte/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1398,
+        "category": "sports",
+        "last_checked": "2026-01-31T20:37:09.627Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "brasil247.com": {
+      "urls": [
+        "https://www.brasil247.com/feed.rss",
+        "https://www.brasil247.com:443/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 358,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:22.686Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "riotimesonline.com": {
+      "urls": [
+        "https://www.riotimesonline.com/feed/",
+        "https://www.riotimesonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 677,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:47.085Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "revistaquem.globo.com": {
+      "urls": [
+        "https://revistaquem.globo.com/rss/quem",
+        "https://pox.globo.com/rss/quem/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1161,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:02.509Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "revistagalileu.globo.com": {
+      "urls": [
+        "https://revistagalileu.globo.com/rss/galileu",
+        "https://pox.globo.com/rss/galileu/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1254,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:03.983Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "braziljournal.com": {
+      "urls": [
+        "https://braziljournal.com/feed/",
+        "https://braziljournal.com/podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1428,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:44.370Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "valor.globo.com": {
+      "urls": [
+        "https://valor.globo.com/rss/valor",
+        "http://pox.globo.com/rss/valor"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1543,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:48.925Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "revistapegn.globo.com": {
+      "urls": [
+        "https://revistapegn.globo.com/rss/pegn",
+        "https://pox.globo.com/rss/pegn/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1968,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:01.199Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "brazilianpress.com": {
+      "urls": [
+        "https://www.brazilianpress.com/v1/feed/",
+        "https://www.brazilianpress.com/v1/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2230,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:50.742Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "oriobranco.net": {
+      "urls": [
+        "https://oriobranco.net/feed/",
+        "https://oriobranco.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2635,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:28.727Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vavel.com": {
+      "urls": [
+        "https://www.vavel.com/es/feed/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 594,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:50.207Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "r7.com": {
+      "urls": [
+        "https://feeds.noticiasaominuto.com.br/r7/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 804,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:21.502Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "exame.com": {
+      "urls": [
+        "https://exame.com/blog/esporte-executivo/feed/",
+        "https://exame.com/blog/blog-do-site-exame/feed/",
+        "https://exame.com/blog/branding-consumo-negocios/feed/",
+        "https://exame.com/blog/car-and-fun/feed/",
+        "https://exame.com/blog/celso-toledo/feed/",
+        "https://exame.com/blog/crescer-em-rede/feed/",
+        "https://exame.com/blog/gestao-fora-da-caixa/feed/",
+        "https://exame.com/blog/instituto-millenium/feed/",
+        "https://exame.com/blog/joel-pinheiro-da-fonseca/feed/",
+        "https://exame.com/blog/o-que-te-motiva/feed/",
+        "https://exame.com/blog/opiniao/feed/",
+        "https://exame.com/blog/relacionamento-antes-do-marketing/feed/",
+        "https://exame.com/blog/sergio-praca/feed/",
+        "https://exame.com/blog/sergio-vale/feed/",
+        "https://exame.com/blog/sua-carreira-sua-gestao/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T20:35:40.568Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "g1.globo.com": {
+      "urls": [
+        "https://g1.globo.com/rss/g1/",
+        "http://g1.globo.com/globo-news/jornal-globo-news/videos/feed.atom",
+        "https://g1.globo.com/rss/g1/mundo/",
+        "https://g1.globo.com/rss/g1/politica/",
+        "https://g1.globo.com/rss/g1/pa/para/",
+        "https://g1.globo.com/rss/g1/to/tocantins/",
+        "https://g1.globo.com/rss/g1/mg/sul-de-minas/",
+        "https://g1.globo.com/rss/g1/rs/rio-grande-do-sul/",
+        "https://g1.globo.com/rss/g1/tecnologia/",
+        "https://g1.globo.com/rss/g1/educacao/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:35:11.997Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "brazilian.report": {
+      "urls": [
+        "https://brazilian.report/feed/",
+        "https://brazilian.report/coronavirus-brazil-live-blog/feed/",
+        "https://brazilian.report/podcast/feed/",
+        "https://brazilian.report/subscribe/feed/",
+        "https://brazilian.report/tag/podcast/feed/",
+        "https://rss.beehiiv.com/feeds/EPWB5hzRfW.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:45.222Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "esportes.r7.com": {
+      "urls": [
+        "https://esportes.r7.com/futebol/feed.xml",
+        "https://esportes.r7.com/feed.xml",
+        "https://esportes.r7.com/mais-esportes/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T20:35:49.613Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "oaltoacre.com": {
+      "urls": [
+        "https://oaltoacre.com/feed/",
+        "https://www.oaltoacre.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:19.045Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "oestadoacre.com": {
+      "urls": [
+        "https://oestadoacre.com/feed/",
+        "https://oestadoacre.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:22.907Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "anoticiadovale.com": {
+      "urls": [
+        "https://anoticiadovale.com/feed/",
+        "https://anoticiadovale.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:35.910Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "180graus.com": {
+      "urls": [
+        "https://180graus.com/feed/",
+        "https://180graus.com/blogs/blog-geral/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:42.544Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "jornalprimeirapaginato.com": {
+      "urls": [
+        "https://jornalprimeirapaginato.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:36:33.644Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "mundo.top": {
+      "urls": [
+        "https://mundo.top/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:37:46.168Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

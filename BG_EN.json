@@ -1,0 +1,959 @@
+{
+  "country_code": "BG",
+  "language_code": "EN",
+  "total_domains": 53,
+  "total_feeds": 209,
+  "feeds": {
+    "offnews.bg": {
+      "urls": [
+        "https://feed.offnews.bg/rss/all",
+        "https://offnews.bg/rss/all",
+        "https://feed.offnews.bg/rss/%D0%A1%D0%B2%D1%8F%D1%82%20_12",
+        "https://feed.offnews.bg/rss/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_8",
+        "https://feed.offnews.bg/rss/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%B5_18753",
+        "https://feed.offnews.bg/rss/%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_59",
+        "https://feed.offnews.bg/rss/%D0%9A%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B0_33",
+        "https://feed.offnews.bg/rss/%D0%92%D0%BE%D0%B4%D0%BD%D0%B8_18774",
+        "https://feed.offnews.bg/rss/%D0%92%D0%BE%D0%BB%D0%B5%D0%B9%D0%B1%D0%BE%D0%BB_18779",
+        "https://feed.offnews.bg/rss/%D0%93%D0%B8%D0%BC%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0_18776",
+        "https://feed.offnews.bg/rss/%D0%94%D0%BE%D0%BC_18814",
+        "https://feed.offnews.bg/rss/%D0%94%D1%80%D1%83%D0%B3%D0%B8_18773",
+        "https://feed.offnews.bg/rss/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%B5%20%D0%B8%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0_18812",
+        "https://feed.offnews.bg/rss/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8_18801",
+        "https://feed.offnews.bg/rss/%D0%98%D0%B7%D0%B2%D1%8A%D0%BD%20%D1%82%D0%B5%D1%80%D0%B5%D0%BD%D0%B0_18817",
+        "https://feed.offnews.bg/rss/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8E_66",
+        "https://feed.offnews.bg/rss/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_18809",
+        "https://feed.offnews.bg/rss/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8_18808",
+        "https://feed.offnews.bg/rss/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B5%D0%B7%D0%B4%D0%B5%D0%BD%D0%B5_18819",
+        "https://feed.offnews.bg/rss/%D0%9A%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8_65",
+        "https://feed.offnews.bg/rss/%D0%9A%D1%83%D1%85%D0%BD%D1%8F_18815",
+        "https://feed.offnews.bg/rss/%D0%9B%D0%B5%D0%BA%D0%B0%20%D0%B0%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_18783",
+        "https://feed.offnews.bg/rss/%D0%9B%D0%B8%D1%86%D0%B0_18761",
+        "https://feed.offnews.bg/rss/%D0%9C%D0%B0%D0%BC%D0%B0%20%D0%9D%D0%B8%D0%BD%D0%B4%D0%B6%D0%B0_18807",
+        "https://feed.offnews.bg/rss/%D0%9C%D0%B5%D0%B4%D0%B8%D0%B8_73",
+        "https://feed.offnews.bg/rss/%D0%9C%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_56",
+        "https://feed.offnews.bg/rss/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8_2",
+        "https://feed.offnews.bg/rss/%D0%9E%D1%82%20%D0%B2%D0%B0%D1%81_67",
+        "https://feed.offnews.bg/rss/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_18816",
+        "https://feed.offnews.bg/rss/%D0%A0%D0%B0%D0%B7%D1%81%D0%BB%D0%B5%D0%B4%D0%B2%D0%B0%D0%BD%D0%B5_68",
+        "https://feed.offnews.bg/rss/%D0%A1%D0%BF%D0%BE%D1%80%D1%82_18752",
+        "https://feed.offnews.bg/rss/%D0%A1%D1%82%D0%B8%D0%BB_18811",
+        "https://feed.offnews.bg/rss/%D0%A2%D1%83%D1%80%D0%B8%D0%B7%D1%8A%D0%BC_75",
+        "https://feed.offnews.bg/rss/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_18793"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 614,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:57.134Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fakti.bg": {
+      "urls": [
+        "https://fakti.bg/feed",
+        "https://fakti.bg/feed/bulgaria",
+        "https://fakti.bg/feed/world",
+        "https://fakti.bg/feed/sport",
+        "https://fakti.bg/feed/life",
+        "https://fakti.bg/feed/avto",
+        "https://fakti.bg/feed/mnenia",
+        "https://fakti.bg/feed/technozone",
+        "https://fakti.bg/feed/kultura-art",
+        "https://fakti.bg/feed/krimi",
+        "https://fakti.bg/feed/biznes",
+        "https://fakti.bg/feed/horoskopi",
+        "https://fakti.bg/feed/zdrave",
+        "https://fakti.bg/feed/imoti",
+        "https://fakti.bg/feed/razsledvania",
+        "https://fakti.bg/feed/video"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1233,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:58.372Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bnr.bg": {
+      "urls": [
+        "https://bnr.bg/rss",
+        "https://bnr.bg/ru/rss/news",
+        "https://bnr.bg/radiobulgaria/rss/news",
+        "https://bnr.bg/en/rss/news",
+        "https://bnr.bg/ru/rss/news/news",
+        "https://bnr.bg/ru/rss/news/life",
+        "https://bnr.bg/ru/rss/news/sport",
+        "https://bnr.bg/ru/rss/news/culture",
+        "https://bnr.bg/ru/rss/news/economy",
+        "https://bnr.bg/ru/rss/news/history",
+        "https://bnr.bg/ru/rss/news/lichnosti",
+        "https://bnr.bg/ru/rss/news/politics",
+        "https://bnr.bg/ru/rss/news/tourism"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2387,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:46.686Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "banker.bg": {
+      "urls": [
+        "http://banker.bg/feed/",
+        "https://banker.bg/feed/",
+        "https://www.banker.bg/rss",
+        "https://www.bgonair.bg/rss/latest",
+        "https://www.bgonair.bg/rss/c/2-bulgaria",
+        "https://www.bgonair.bg/rss/c/4-world",
+        "https://www.bgonair.bg/rss/c/7-sport",
+        "https://www.bgonair.bg/rss/c/199-goreshta-liniya",
+        "https://www.bgonair.bg/rss/c/166-kriminalno",
+        "https://www.bgonair.bg/rss/c/162-reportazhi",
+        "https://www.bgonair.bg/rss/c/5-science",
+        "https://banker.bg/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2359,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:42.717Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "capital.bg": {
+      "urls": [
+        "https://www.capital.bg/rss/",
+        "https://www.capital.bg/rss/?rubrid=2248",
+        "https://www.capital.bg/podcast/rss/?rubr=4896",
+        "https://www.capital.bg/podcast/rss/?rubr=4948",
+        "https://www.capital.bg/podcast/rss/?rubr=4955",
+        "https://www.capital.bg/rss/?rubrid=2278",
+        "https://www.capital.bg/rss/?rubrid=2249",
+        "https://www.capital.bg/rss/?rubrid=2274",
+        "https://feeds.fireside.fm/parite/rss",
+        "https://parite-govoriat.com/feed/podcast?rubr=4896",
+        "https://www.parite-govoriat.com/json"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 675,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:40.177Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "chernomore.bg": {
+      "urls": [
+        "https://www.chernomore.bg/rss/jivot",
+        "https://www.chernomore.bg/rss/latest",
+        "https://www.chernomore.bg/rss/sport",
+        "https://www.chernomore.bg/rss/sviat",
+        "https://www.chernomore.bg/rss/varna",
+        "https://www.chernomore.bg/rss/bulgaria",
+        "https://www.chernomore.bg/rss/video",
+        "https://www.chernomore.bg/rss/krimi",
+        "https://www.chernomore.bg/rss/kultura",
+        "https://www.chernomore.bg/rss/morski-biznes"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 919,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:10.655Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bta.bg": {
+      "urls": [
+        "http://www.bta.bg/bg/rss/free",
+        "https://www.bta.bg/bg/rss/free",
+        "https://www.bta.bg/bg/news/bulgaria/rss",
+        "https://www.bta.bg/en/rss/free",
+        "http://www.bta.bg/en/rss/free",
+        "https://bta.bg/bg/rss/free",
+        "http://www.bta.bg/bg/rss/pressclub"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1429,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:39.529Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dnes.bg": {
+      "urls": [
+        "https://www.dnes.bg/rss.php",
+        "https://www.dnes.bg/rss.php?last",
+        "https://www.dnes.bg/rss.php?today",
+        "https://www.dnes.bg/rss.php?top",
+        "https://www.dnes.bg/rss/latest",
+        "https://www.dnes.bg/rss.php?cat=4"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 625,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:35.718Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dir.bg": {
+      "urls": [
+        "https://dir.bg/feeds/rss",
+        "https://dnes.dir.bg/feeds/rss",
+        "https://dir.bg/feeds/top-news",
+        "https://dnes.dir.bg/feeds/top-news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1173,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:49.514Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "frognews.bg": {
+      "urls": [
+        "https://rss.frognews.bg/",
+        "http://rss.frognews.bg/0/rss.xml",
+        "http://rss.frognews.bg"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 503,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:58.981Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "varna24.bg": {
+      "urls": [
+        "http://varna24.bg/rss.php",
+        "https://varna24.bg/rss.php",
+        "https://www.varna24.bg/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1187,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:05.736Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "24chasa.bg": {
+      "urls": [
+        "https://www.24chasa.bg/rss",
+        "https://www.24chasa.bg/RSS",
+        "https://www.24chasa.bg/Rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1556,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:30.843Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "blitz.bg": {
+      "urls": [
+        "https://blitz.bg/rss",
+        "https://blitz.bg/category/xml/podcast.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 814,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:53.240Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "plovdiv24.bg": {
+      "urls": [
+        "https://plovdiv24.bg/rss.php",
+        "https://www.plovdiv24.bg/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 913,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:04.302Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vestnikataka.bg": {
+      "urls": [
+        "https://vestnikataka.bg/feed/",
+        "https://vestnikataka.bg/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 990,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:39.275Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "novinar.bg": {
+      "urls": [
+        "https://novinar.bg/feed",
+        "https://novinar.bg/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1102,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:50.682Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "abv.bg": {
+      "urls": [
+        "https://blog.abv.bg/feed/",
+        "https://blog.abv.bg/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1741,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:52.425Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zashumen.bg": {
+      "urls": [
+        "https://zashumen.bg/feed/",
+        "https://zashumen.bg/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1917,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:27.213Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mediapool.bg": {
+      "urls": [
+        "https://www.mediapool.bg/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 306,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:56.520Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sinor.bg": {
+      "urls": [
+        "https://sinor.bg/feed/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 623,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:43.341Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "telegraph.bg": {
+      "urls": [
+        "https://telegraph.bg/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 669,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:36.725Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "marica.bg": {
+      "urls": [
+        "https://www.marica.bg/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1123,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:11.778Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bgdnes.bg": {
+      "urls": [
+        "https://www.bgdnes.bg/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1554,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:38.279Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "varnautre.bg": {
+      "urls": [
+        "https://varnautre.bg/feed/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1574,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:35.773Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ruse24.bg": {
+      "urls": [
+        "https://www.ruse24.bg/rss.php?cat=20"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1740,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:08.807Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dnevnik.bg": {
+      "urls": [
+        "https://www.dnevnik.bg/rss/",
+        "https://www.dnevnik.bg/rss/?rubrid=1658",
+        "https://www.dnevnik.bg/rss/?rubrid=1657",
+        "https://www.dnevnik.bg/rss/?rubrid=1688",
+        "https://www.dnevnik.bg/rss/?rubrid=1660",
+        "https://www.dnevnik.bg/rssc/?rubrid=303"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:30.958Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vesti.bg": {
+      "urls": [
+        "http://www.vesti.bg/rss",
+        "http://www.vesti.bg/rss.php?c=",
+        "https://www.vesti.bg/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:56.213Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "trud.bg": {
+      "urls": [
+        "https://trud.bg/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:35.084Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gong.bg": {
+      "urls": [
+        "https://gong.bg/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:45.432Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "btvnovinite.bg": {
+      "urls": [
+        "https://btvnovinite.bg/lbin/v3/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:46.379Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nova.bg": {
+      "urls": [
+        "https://nova.bg/rss/latest"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:47.605Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "segabg.com": {
+      "urls": [
+        "https://www.segabg.com/rss/category-bulgaria",
+        "https://www.segabg.com/rss/rss20.xml",
+        "https://www.segabg.com/rss",
+        "https://www.segabg.com/rss/category-economy",
+        "https://www.segabg.com/rss/category-observer"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 306,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:36.055Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "factor-news.net": {
+      "urls": [
+        "http://www.factor-news.net/rss/bgnews.xml",
+        "http://www.factor-news.net/rss/leading.xml",
+        "http://www.factor-news.net/rss/sci_tech.xml",
+        "http://www.factor-news.net/rss/znaete_li.xml",
+        "https://www.factor-news.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2864,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:01.846Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "focus-news.net": {
+      "urls": [
+        "http://www.focus-news.net/RSS/channel_-2.xml",
+        "http://www.focus-news.net/RSS/channel_0.xml",
+        "http://www.focus-news.net/RSS/channel_-1.xml",
+        "https://www.focus-news.net/rss.php",
+        "http://www.focus-news.net/RSS/channel_-3.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3173,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:42.703Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sofiaglobe.com": {
+      "urls": [
+        "https://sofiaglobe.com/comments/feed/",
+        "http://feeds.feedburner.com/TheSofiaGlobe",
+        "https://sofiaglobe.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1224,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:44.137Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sapernik.info": {
+      "urls": [
+        "https://sapernik.info/feed/",
+        "https://sapernik.info/?feed=rss2",
+        "http://sapernik.info/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1960,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:37.808Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "viaranews.com": {
+      "urls": [
+        "https://viaranews.com/feed/",
+        "http://viaranews.com/?feed=comments-rss2",
+        "https://viaranews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2673,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:24.821Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kompasbg.com": {
+      "urls": [
+        "https://www.kompasbg.com/?layout=category&format=feed&type=atom",
+        "https://www.kompasbg.com/?layout=category&format=feed&type=rss",
+        "https://kompasbg.com/sample-page/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3047,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:15.160Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zapernik.com": {
+      "urls": [
+        "https://zapernik.com/feed/",
+        "https://zapernik.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 203,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:20.046Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "standartnews.com": {
+      "urls": [
+        "https://www.standartnews.com/rss",
+        "https://www.standartnews.com/rss?c=186"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 455,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:48.073Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "actualno.com": {
+      "urls": [
+        "https://www.actualno.com/rss",
+        "https://www.actualno.com/rss/novini-new"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 576,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:43.919Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "temasport.com": {
+      "urls": [
+        "https://temasport.com/feed/",
+        "https://temasport.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 810,
+        "category": "sports",
+        "last_checked": "2026-01-31T19:59:46.245Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sofiaecho.com": {
+      "urls": [
+        "https://www.capital.bg/rss/",
+        "https://www.capital.bg/podcast/rss/?rubr=4896"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1136,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:32.138Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sl-news.sliven.net": {
+      "urls": [
+        "https://sl-news.sliven.net/rss.php",
+        "http://sl-news.sliven.net/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1722,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:29.186Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "borbabg.com": {
+      "urls": [
+        "https://www.borbabg.com/feed/",
+        "https://www.borbabg.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2452,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:18.023Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ndt1.eu": {
+      "urls": [
+        "https://ndt1.eu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 949,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:20.995Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "novinite.com": {
+      "urls": [
+        "https://www.novinite.com/services/news_rdf.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1085,
+        "category": "general",
+        "last_checked": "2026-01-31T19:59:33.224Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "burgasinfo.com": {
+      "urls": [
+        "https://www.burgasinfo.com/news/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1331,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:07.067Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "struma.com": {
+      "urls": [
+        "https://www.struma.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1458,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:19.720Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "pogled.info": {
+      "urls": [
+        "https://pogled.info/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1541,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:03.387Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haskovo.info": {
+      "urls": [
+        "http://haskovo.info/feed/",
+        "https://haskovo.info/feed",
+        "https://haskovo.info/feed/",
+        "https://haskovo.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:12.110Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "seenews.com": {
+      "urls": [
+        "https://seenews.com/companies/companies_feed/?term=&sections=companies&date=all",
+        "https://seenews.com/news/news_feed/?term=&sections=all&date=all&country=655",
+        "https://seenews.com/news/news_feed/?term=&sections=all&date=all&country=442",
+        "https://seenews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:44.298Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dnesbg.com": {
+      "urls": [
+        "https://www.dnesbg.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:00:18.171Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

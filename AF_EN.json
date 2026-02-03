@@ -1,0 +1,791 @@
+{
+  "country_code": "AF",
+  "language_code": "EN",
+  "total_domains": 33,
+  "total_feeds": 321,
+  "feeds": {
+    "ariananews.af": {
+      "urls": [
+        "https://www.ariananews.af/fa/feed/",
+        "https://www.ariananews.af/feed/",
+        "https://www.ariananews.af/ps/feed/",
+        "https://ariananews.af/feed/",
+        "https://www.ariananews.af/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1755,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:13.092Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "swn.af": {
+      "urls": [
+        "https://swn.af/feed/",
+        "https://swn.af/en/feed/",
+        "https://swn.af/comments/feed/",
+        "https://swn.af/en/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 919,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:57.573Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sputnik.af": {
+      "urls": [
+        "https://sputnik.af/export/rss2/archive/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 916,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:23.162Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rta.af": {
+      "urls": [
+        "https://rta.af/feed/",
+        "https://rta.af/fa/feed/",
+        "https://rta.af/ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:18.840Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bakhtarnews.af": {
+      "urls": [
+        "https://bakhtarnews.af/dr/feed/",
+        "https://bakhtarnews.af/feed/",
+        "https://bakhtarnews.af/dr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:27.266Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tkg.af": {
+      "urls": [
+        "https://tkg.af/feed/",
+        "https://tkg.af/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:53.622Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ipsnews.net": {
+      "urls": [
+        "https://www.ipsnews.net/feed/",
+        "https://www.ipsnews.net/news/regional-categories/feed/",
+        "https://www.ipsnews.net/news/terraviva-europe/feed/",
+        "https://www.ipsnews.net/subscribe/feed/",
+        "http://www.ipsnews.net/rss-feeds/feed/",
+        "https://www.ipsnews.net/news/arts/feed/",
+        "https://www.ipsnews.net/news/columns/feed/",
+        "https://www.ipsnews.net/news/multimedia/feed/",
+        "https://www.ipsnews.net/news/newsbriefs/feed/",
+        "https://www.ipsnews.net/2022/05/students-move-increasingly-complex-world-podcast/feed/",
+        "https://www.ipsnews.net/news/civil-society/world-social-forum/feed/",
+        "https://www.ipsnews.net/news/development-aid/humanitarian-emergencies/feed/",
+        "https://www.ipsnews.net/news/economy-trade/natural-resources/feed/",
+        "https://www.ipsnews.net/news/economy-trade/trade-investment/feed/",
+        "https://www.ipsnews.net/news/environment/biodiversity/feed/",
+        "https://www.ipsnews.net/news/environment/climate-change/feed/",
+        "https://www.ipsnews.net/news/environment/water-sanitation/feed/",
+        "https://www.ipsnews.net/news/gender/women-climate-change/feed/",
+        "https://www.ipsnews.net/news/human-rights/democracy/feed/",
+        "https://www.ipsnews.net/news/human-rights/indigenous-rights/feed/",
+        "https://www.ipsnews.net/news/multimedia/video/feed/",
+        "https://www.ipsnews.net/news/projects/active-citizens-projects/feed/",
+        "https://www.ipsnews.net/news/projects/africa-climate-wire/feed/",
+        "https://www.ipsnews.net/news/projects/caribbean-climate-wire/feed/",
+        "https://www.ipsnews.net/news/projects/changing-lives-making-research-real/feed/",
+        "https://www.ipsnews.net/news/projects/credible-future-can-micro-loans-make-a-macro-difference/feed/",
+        "https://www.ipsnews.net/news/projects/europe-in-the-world/feed/",
+        "https://www.ipsnews.net/news/projects/gggi-global-green-growth/feed/",
+        "https://www.ipsnews.net/news/projects/radio-for-the-21st-century/feed/",
+        "https://www.ipsnews.net/news/projects/reframing-rio/feed/",
+        "https://www.ipsnews.net/news/projects/yeosu-world-expo/feed/",
+        "https://www.ipsnews.net/news/regional-categories/latin-america-and-caribbean/feed/",
+        "https://www.ipsnews.net/news/south-south/g20/feed/",
+        "https://www.ipsnews.net/news/south-south/g77/feed/",
+        "https://www.ipsnews.net/news/south-south/regional-alliances/feed/",
+        "https://www.ipsnews.net/news/terraviva-aids-cape-town/extra-terraviva-aids-cape-town/feed/",
+        "https://www.ipsnews.net/news/terraviva-united-nations/extra-tvun/feed/",
+        "https://www.ipsnews.net/news/terraviva-united-nations/newsbrief/feed/",
+        "http://www.ipsnews.net/feed/",
+        "http://www.ipsnews.net/news/terraviva-fao38/feed/",
+        "https://www.ipsnews.net/news/projects/countdown-to-zero/terraviva-aids-cape-town-countdown-to-zero/feed/",
+        "https://www.ipsnews.net/news/projects/tierramerica/ecobrief/feed/",
+        "http://www.ipsnews.net/news/headlines/feed/",
+        "http://www.ipsnews.net/news/regional-categories/feed/",
+        "http://www.ipsnews.net/news/terraviva-united-nations/feed/",
+        "http://www.ipsnews.net/news/featured/feed/",
+        "http://www.ipsnews.net/news/economy-trade/feed/",
+        "http://www.ipsnews.net/news/global-governance/feed/",
+        "http://www.ipsnews.net/news/human-rights/feed/",
+        "https://www.ipsnews.net/news/gender/womens-health/feed/",
+        "http://www.ipsnews.net/news/arts/feed/",
+        "http://www.ipsnews.net/news/be2018/feed/",
+        "http://www.ipsnews.net/news/best-of-the-year/feed/",
+        "http://www.ipsnews.net/news/columns/feed/",
+        "http://www.ipsnews.net/news/development-aid/poverty-sdgs/feed/",
+        "http://www.ipsnews.net/news/editors-choice/feed/",
+        "http://www.ipsnews.net/news/extra-terraviva-aids-cape-town-2/feed/",
+        "http://www.ipsnews.net/news/fresh-ideas-from-the-classroom/feed/",
+        "http://www.ipsnews.net/news/g77headlines/feed/",
+        "http://www.ipsnews.net/news/gender/feed/",
+        "http://www.ipsnews.net/news/inequity/feed/",
+        "http://www.ipsnews.net/news/multimedia/feed/",
+        "http://www.ipsnews.net/news/newsbriefs/feed/",
+        "http://www.ipsnews.net/news/opinion/feed/",
+        "http://www.ipsnews.net/news/podcast/feed/",
+        "http://www.ipsnews.net/news/projects/feed/",
+        "http://www.ipsnews.net/news/south-south/feed/",
+        "http://www.ipsnews.net/news/special-report/feed/",
+        "http://www.ipsnews.net/news/sustainability/feed/",
+        "http://www.ipsnews.net/news/terraviva-abu-dhabi-sustainability-week-2013/feed/",
+        "http://www.ipsnews.net/news/terraviva-aids-cape-town/feed/",
+        "http://www.ipsnews.net/news/terraviva-fao38/extra-terraviva-fao38/feed/",
+        "http://www.ipsnews.net/news/thoughts-from-contemporary-thinkers/feed/",
+        "http://www.ipsnews.net/news/regional-categories/global/feed/",
+        "http://www.ipsnews.net/news/civil-society/active-citizens/feed/",
+        "http://www.ipsnews.net/news/civil-society/conferences/feed/",
+        "http://www.ipsnews.net/news/civil-society/world-social-forum/feed/",
+        "http://www.ipsnews.net/news/development-aid/aid/feed/",
+        "http://www.ipsnews.net/news/development-aid/education/feed/",
+        "http://www.ipsnews.net/news/development-aid/energy/feed/",
+        "http://www.ipsnews.net/news/development-aid/humanitarian-emergencies/feed/",
+        "http://www.ipsnews.net/news/development-aid/mercury/feed/",
+        "http://www.ipsnews.net/news/development-aid/population/feed/",
+        "http://www.ipsnews.net/news/economy-trade/cooperatives/feed/",
+        "http://www.ipsnews.net/news/economy-trade/financial-crisis/feed/",
+        "http://www.ipsnews.net/news/economy-trade/green-economy/feed/",
+        "http://www.ipsnews.net/news/economy-trade/labour/feed/",
+        "http://www.ipsnews.net/news/economy-trade/natural-resources/feed/",
+        "http://www.ipsnews.net/news/environment/advancing-deserts/feed/",
+        "http://www.ipsnews.net/news/environment/biodiversity/feed/",
+        "http://www.ipsnews.net/news/environment/climate-change/feed/",
+        "http://www.ipsnews.net/news/environment/water-sanitation/feed/",
+        "http://www.ipsnews.net/news/gender/gender-identity/feed/",
+        "http://www.ipsnews.net/news/gender/gender-violence/feed/",
+        "http://www.ipsnews.net/news/gender/women-climate-change/feed/",
+        "http://www.ipsnews.net/news/gender/women-economy/feed/",
+        "http://www.ipsnews.net/news/gender/women-in-politics/feed/",
+        "http://www.ipsnews.net/news/global-governance/civilisations-find-alliances/feed/",
+        "http://www.ipsnews.net/news/global-governance/eye-on-the-ifis/feed/",
+        "http://www.ipsnews.net/news/global-governance/global-geopolitics/feed/",
+        "http://www.ipsnews.net/news/global-governance/globalisation/feed/",
+        "http://www.ipsnews.net/news/global-governance/peace/feed/",
+        "http://www.ipsnews.net/news/global-governance/united-nations/feed/",
+        "http://www.ipsnews.net/news/human-rights/armed-conflicts/feed/",
+        "http://www.ipsnews.net/news/human-rights/crime-justice/feed/",
+        "http://www.ipsnews.net/news/human-rights/democracy/feed/",
+        "http://www.ipsnews.net/news/human-rights/indigenous-rights/feed/",
+        "http://www.ipsnews.net/news/human-rights/lgbtq/feed/",
+        "http://www.ipsnews.net/news/human-rights/migration-refugees/feed/",
+        "http://www.ipsnews.net/news/human-rights/religion/feed/",
+        "http://www.ipsnews.net/news/multimedia/infographic/feed/",
+        "http://www.ipsnews.net/news/multimedia/slideshow/feed/",
+        "http://www.ipsnews.net/news/projects/active-citizens-projects/feed/",
+        "http://www.ipsnews.net/news/projects/africa-climate-wire/feed/",
+        "http://www.ipsnews.net/news/projects/africa-young-farmers-seeding-the-future/feed/",
+        "http://www.ipsnews.net/news/projects/arabs-rise-for-rights/feed/",
+        "http://www.ipsnews.net/news/projects/bitter-pill-obstacles-to-affordable-medicine/feed/",
+        "http://www.ipsnews.net/news/projects/caribbean-climate-wire/feed/",
+        "http://www.ipsnews.net/news/projects/changing-lives-making-research-real/feed/",
+        "http://www.ipsnews.net/news/projects/children-on-the-frontline/feed/",
+        "http://www.ipsnews.net/news/projects/climate-south-developing-countries-coping-with-climate-change/feed/",
+        "http://www.ipsnews.net/news/projects/credible-future-can-micro-loans-make-a-macro-difference/feed/",
+        "http://www.ipsnews.net/news/projects/education-cannot-wait/feed/",
+        "http://www.ipsnews.net/news/projects/education-for-global-citizenship/feed/",
+        "http://www.ipsnews.net/news/projects/europe-in-the-world/feed/",
+        "http://www.ipsnews.net/news/projects/farming-crisis-filling-an-empty-plate-projects/feed/",
+        "http://www.ipsnews.net/news/projects/food-security-and-nutrition/feed/",
+        "http://www.ipsnews.net/news/projects/gggi-global-green-growth/feed/",
+        "http://www.ipsnews.net/news/projects/integration-and-development-brazilian-style-projects/feed/",
+        "http://www.ipsnews.net/news/projects/nuclear-weapons/feed/",
+        "http://www.ipsnews.net/news/projects/radio-for-the-21st-century/feed/",
+        "http://www.ipsnews.net/news/projects/reframing-rio/feed/",
+        "http://www.ipsnews.net/news/projects/the-southern-africa-water-wire/feed/",
+        "http://www.ipsnews.net/news/projects/tierramerica/feed/",
+        "http://www.ipsnews.net/news/projects/trade-and-poverty-facts-beyond-theory-projects/feed/",
+        "http://www.ipsnews.net/news/projects/yeosu-world-expo/feed/",
+        "http://www.ipsnews.net/news/regional-categories/africa/feed/",
+        "http://www.ipsnews.net/news/regional-categories/asia-pacific/feed/",
+        "http://www.ipsnews.net/news/regional-categories/europe/feed/",
+        "http://www.ipsnews.net/news/regional-categories/latin-america-and-caribbean/feed/",
+        "http://www.ipsnews.net/news/regional-categories/middle-east/feed/",
+        "http://www.ipsnews.net/news/south-south/g20/feed/",
+        "http://www.ipsnews.net/news/south-south/g77/feed/",
+        "http://www.ipsnews.net/news/south-south/ibsa/feed/",
+        "http://www.ipsnews.net/news/south-south/regional-alliances/feed/",
+        "http://www.ipsnews.net/news/south-south/southern-aid-trade/feed/",
+        "http://www.ipsnews.net/news/terraviva-aids-cape-town/extra-terraviva-aids-cape-town/feed/",
+        "http://www.ipsnews.net/news/terraviva-united-nations/extra-tvun/feed/",
+        "http://www.ipsnews.net/news/terraviva-united-nations/newsbrief/feed/",
+        "http://www.ipsnews.net/news/projects/countdown-to-zero/terraviva-aids-cape-town-countdown-to-zero/feed/",
+        "http://www.ipsnews.net/news/projects/tierramerica/ecobrief/feed/",
+        "http://www.ipsnews.net/news/development-aid/health/feed/",
+        "http://www.ipsnews.net/news/gender/womens-health/feed/",
+        "http://www.ipsnews.net/news/development-aid/feed/",
+        "http://www.ipsnews.net/news/terraviva-europe/feed/",
+        "http://www.ipsnews.net/news/civil-society/feed/",
+        "http://www.ipsnews.net/news/environment/feed/",
+        "http://www.ipsnews.net/news/development-aid/food-agriculture/feed/",
+        "http://www.ipsnews.net/news/economy-trade/trade-investment/feed/",
+        "http://www.ipsnews.net/news/human-rights/press-freedom/feed/",
+        "http://www.ipsnews.net/news/multimedia/video/feed/",
+        "http://www.ipsnews.net/news/projects/countdown-to-zero/feed/",
+        "http://www.ipsnews.net/news/projects/food-sustainability/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2059,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:17.212Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pajhwok.com": {
+      "urls": [
+        "https://www.pajhwok.com/dr/nodequeue/2/feed",
+        "https://www.pajhwok.com/en/nodequeue/2/feed",
+        "https://www.pajhwok.com/ps/nodequeue/2/feed",
+        "https://www.pajhwok.com/dr/nodequeue/1/feed",
+        "https://www.pajhwok.com/en/nodequeue/1/feed",
+        "https://www.pajhwok.com/ps/nodequeue/1/feed",
+        "https://pajhwok.com/fa/feed/atom/",
+        "https://www.pajhwok.com/dr/nodequeue/3/feed",
+        "https://www.pajhwok.com/en/nodequeue/3/feed",
+        "https://www.pajhwok.com/ps/nodequeue/3/feed",
+        "https://pajhwok.com/feed/atom/",
+        "https://pajhwok.com/ps/feed/atom/",
+        "https://pajhwok.com/fa/feed/",
+        "https://pajhwok.com/feed/",
+        "https://www.pajhwok.com/dr/photos/feed",
+        "https://pajhwok.com/ps/feed/",
+        "https://pajhwok.com/ps/photos/feed/",
+        "https://www.pajhwok.com/ps/photos/feed",
+        "https://www.pajhwok.com/en/photos/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/15/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/12/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/16/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/17/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/18/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/19/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/20/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/21/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/22/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/23/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/24/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/25/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/27/feed",
+        "https://www.pajhwok.com/dr/taxonomy/term/28/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/12/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/15/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/16/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/17/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/18/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/19/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/20/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/21/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/22/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/23/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/24/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/25/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/27/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/28/feed",
+        "https://www.pajhwok.com/en/taxonomy/term/650/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/12/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/15/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/16/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/17/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/18/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/19/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/20/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/21/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/22/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/23/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/24/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/25/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/27/feed",
+        "https://www.pajhwok.com/ps/taxonomy/term/28/feed",
+        "http://pajhwok.com/Pajhwok%20Afghan%20News"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1079,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:43.535Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 589,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:17.802Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "khaama.com": {
+      "urls": [
+        "https://www.khaama.com/feed/",
+        "https://www.khaama.com/persian/feed",
+        "https://www.khaama.com/category/afghanistan/feed/",
+        "https://www.khaama.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 545,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:18.361Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lemar.tv": {
+      "urls": [
+        "https://www.lemar.tv/en/rss.xml",
+        "https://www.lemar.tv/node/feed",
+        "http://lemar.tv/node/feed",
+        "http://www.lemar.tv/node/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 971,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:16.610Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aopnews.com": {
+      "urls": [
+        "https://www.aopnews.com/feed/",
+        "http://www.aopnews.com/feed/",
+        "https://www.aopnews.com/comments/feed/",
+        "http://www.aopnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1218,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:58.997Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "afghanistan.ru": {
+      "urls": [
+        "https://afghanistan.ru/feed",
+        "https://afghanistan.ru:443/feed",
+        "http://afghanistan.ru/feed",
+        "http://feeds2.feedburner.com/templatic"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1260,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:11.335Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "avapress.com": {
+      "urls": [
+        "http://www.avapress.com/rssb5.-er48r6--4qhfle2m.puirug.r.xml",
+        "https://cdn.avapress.com/rssb5.-er48r6--4qhfle2m.puirug.r.xml",
+        "https://www.avapress.com/rssb5.-er48r6--4qhfle2m.puirug.r.xml",
+        "https://cdn.avapress.com/rssdx.gmyefy,ggeltshmci.6emy2z.y.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2586,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:56.208Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "amu.tv": {
+      "urls": [
+        "https://amu.tv/feed/",
+        "https://amu.tv/fa/feed/",
+        "https://amu.tv/ps/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 250,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:17.020Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "etilaatroz.com": {
+      "urls": [
+        "https://www.etilaatroz.com/feed/",
+        "https://www.etilaatroz.com/category/news/afghanistan/feed/",
+        "https://www.etilaatroz.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 982,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:53.379Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jawedan.com": {
+      "urls": [
+        "http://jawedan.com/feed/",
+        "http://jawedan.com/comments/feed/",
+        "http://jawedan.com/homepage-blog-layout/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1732,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:30.332Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "8am.media": {
+      "urls": [
+        "https://8am.media/fa/feed/",
+        "https://8am.media/feed/",
+        "https://8am.media/eng/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4119,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:52.387Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hewaddaily.com": {
+      "urls": [
+        "https://hewaddaily.com/?feed=rss2",
+        "https://hewaddaily.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 610,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:42.306Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "farsi.ru": {
+      "urls": [
+        "http://farsi.ru/rss.xhtml",
+        "http://www.farsi.ru/rss.xhtml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 690,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:12.104Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thekabultimes.com": {
+      "urls": [
+        "https://thekabultimes.com/feed/",
+        "https://thekabultimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 714,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:41.695Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nunn.asia": {
+      "urls": [
+        "https://www.nunn.asia/feed/",
+        "https://www.nunn.asia/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1050,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:10.059Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pashtovoa.com": {
+      "urls": [
+        "https://www.pashtovoa.com/api/",
+        "https://www.pashtovoa.com/podcast/video.aspx/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1142,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:20.911Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "darivoa.com": {
+      "urls": [
+        "https://www.darivoa.com/api/",
+        "https://www.darivoa.com/podcast/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1172,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:22.246Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "armanemili.com": {
+      "urls": [
+        "http://www.armanemili.com/feed",
+        "https://armanemili.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1725,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:40.974Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "afintl.com": {
+      "urls": [
+        "https://www.afintl.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 413,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:43.948Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "afghanpaper.com": {
+      "urls": [
+        "http://www.afghanpaper.com/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 444,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:56.652Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "afghanislamicpress.com": {
+      "urls": [
+        "https://www.afghanislamicpress.com/en/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1333,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:28.599Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "shamshadtv.tv": {
+      "urls": [
+        "https://shamshadtv.tv/index.php?format=feed&type=atom",
+        "https://shamshadtv.tv/index.php?format=feed&type=rss",
+        "http://shamshadtv.tv/index.php?format=feed&type=atom",
+        "http://www.shamshadtv.tv/index.php?format=feed&type=atom",
+        "http://shamshadtv.tv/index.php?format=feed&type=rss",
+        "http://www.shamshadtv.tv/index.php?format=feed&type=rss",
+        "https://shamshadtv.tv/pashto/?format=feed&type=atom",
+        "https://shamshadtv.tv/pashto/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:15.383Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "benawa.com": {
+      "urls": [
+        "http://benawa.com/rss/24.xml",
+        "http://benawa.com/rss/26.xml",
+        "http://benawa.com/rss/32.xml",
+        "http://benawa.com/rss/4.xml",
+        "http://benawa.com/rss/44.xml",
+        "http://benawa.com/rss/8.xml",
+        "http://benawa.com/rss/9.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:14.949Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kabulpress.org": {
+      "urls": [
+        "https://kabulpress.org/spip.php?page=backend",
+        "https://www.kabulpress.org/spip.php?page=backend",
+        "https://www.kabulpress.org/spip.php?page=backend&id_rubrique=60"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:28.426Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "theafghantimes.com": {
+      "urls": [
+        "https://theafghantimes.com/feed/",
+        "https://theafghantimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:38.481Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "eslahonline.net": {
+      "urls": [
+        "https://www.eslahonline.net/feed/",
+        "https://www.eslahonline.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:09.007Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

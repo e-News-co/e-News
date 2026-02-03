@@ -1,0 +1,1260 @@
+{
+  "country_code": "BD",
+  "language_code": "EN",
+  "total_domains": 59,
+  "total_feeds": 426,
+  "feeds": {
+    "dailyprobaha.com.bd": {
+      "urls": [
+        "https://dailyprobaha.com.bd/feed/",
+        "https://dailyprobaha.com.bd/comments/feed/",
+        "http://dailyprobaha.com.bd/feed/",
+        "http://dailyprobaha.com.bd/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:47.696Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thedailystar.net": {
+      "urls": [
+        "https://www.thedailystar.net/taxonomy/term/1/rss.xml",
+        "https://www.thedailystar.net/top-news/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/3/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/2/rss.xml",
+        "https://www.thedailystar.net/sports/rss.xml",
+        "https://www.thedailystar.net/sports/cricket/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/38/rss.xml",
+        "https://www.thedailystar.net/most-popular-stories/rss.xml",
+        "https://www.thedailystar.net/business/rss.xml",
+        "https://www.thedailystar.net/historical/most-popular-stories/rss.xml",
+        "https://www.thedailystar.net/sports/football/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/36/rss.xml",
+        "https://www.thedailystar.net/world/rss.xml",
+        "https://www.thedailystar.net/editorial/rss.xml",
+        "https://www.thedailystar.net/frontpage/rss.xml",
+        "https://www.thedailystar.net/lifestyle/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/rss.xml",
+        "https://www.thedailystar.net/backpage/rss.xml",
+        "https://www.thedailystar.net/business/global-business/rss.xml",
+        "https://www.thedailystar.net/bytes/rss.xml",
+        "https://www.thedailystar.net/city/rss.xml",
+        "https://www.thedailystar.net/country/rss.xml",
+        "https://www.thedailystar.net/environment/rss.xml",
+        "https://www.thedailystar.net/in-focus/rss.xml",
+        "https://www.thedailystar.net/law-our-rights/rss.xml",
+        "https://www.thedailystar.net/letters/rss.xml",
+        "https://www.thedailystar.net/literature/rss.xml",
+        "https://www.thedailystar.net/next-step/rss.xml",
+        "https://www.thedailystar.net/science/rss.xml",
+        "https://www.thedailystar.net/shift/rss.xml",
+        "https://www.thedailystar.net/shout/rss.xml",
+        "https://www.thedailystar.net/showbiz/rss.xml",
+        "https://www.thedailystar.net/star-weekend/rss.xml",
+        "https://www.thedailystar.net/travel/rss.xml",
+        "https://www.thedailystar.net/wide-angle/rss.xml",
+        "https://www.thedailystar.net/business/banking/rss.xml",
+        "https://www.thedailystar.net/historical/front-page/rss.xml",
+        "https://www.thedailystar.net/sports/tennis/rss.xml",
+        "https://www.thedailystar.net/world/europe/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/arts/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/bollywood/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/dhallywood/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/event/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/exhibition/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/hollywood/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/interview/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/music/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/news-bytes/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/theatre/rss.xml",
+        "https://www.thedailystar.net/arts-entertainment/tv/rss.xml",
+        "https://www.thedailystar.net/business/export/rss.xml",
+        "https://www.thedailystar.net/business/interview/rss.xml",
+        "https://www.thedailystar.net/business/port-and-shipping/rss.xml",
+        "https://www.thedailystar.net/business/real-estate/rss.xml",
+        "https://www.thedailystar.net/business/retail/rss.xml",
+        "https://www.thedailystar.net/business/start-ups/rss.xml",
+        "https://www.thedailystar.net/business/tax-and-customs/rss.xml",
+        "https://www.thedailystar.net/business/telecom/rss.xml",
+        "https://www.thedailystar.net/business/tourism/rss.xml",
+        "https://www.thedailystar.net/bytes/apps/rss.xml",
+        "https://www.thedailystar.net/bytes/hands-review/rss.xml",
+        "https://www.thedailystar.net/bytes/interviews/rss.xml",
+        "https://www.thedailystar.net/bytes/new-product/rss.xml",
+        "https://www.thedailystar.net/bytes/tech-happening/rss.xml",
+        "https://www.thedailystar.net/environment/climate-change/rss.xml",
+        "https://www.thedailystar.net/environment/conservation/rss.xml",
+        "https://www.thedailystar.net/environment/forest/rss.xml",
+        "https://www.thedailystar.net/environment/pollution/rss.xml",
+        "https://www.thedailystar.net/environment/wild-life/rss.xml",
+        "https://www.thedailystar.net/historical/accessories/rss.xml",
+        "https://www.thedailystar.net/historical/auto-news/rss.xml",
+        "https://www.thedailystar.net/historical/back-page/rss.xml",
+        "https://www.thedailystar.net/historical/career-advice/rss.xml",
+        "https://www.thedailystar.net/historical/city/rss.xml",
+        "https://www.thedailystar.net/historical/collectibles/rss.xml",
+        "https://www.thedailystar.net/historical/country/rss.xml",
+        "https://www.thedailystar.net/historical/face/rss.xml",
+        "https://www.thedailystar.net/historical/features-0/rss.xml",
+        "https://www.thedailystar.net/historical/features/rss.xml",
+        "https://www.thedailystar.net/historical/how-tos/rss.xml",
+        "https://www.thedailystar.net/historical/motorcycles/rss.xml",
+        "https://www.thedailystar.net/historical/news-0/rss.xml",
+        "https://www.thedailystar.net/historical/project-cars/rss.xml",
+        "https://www.thedailystar.net/historical/science/rss.xml",
+        "https://www.thedailystar.net/historical/shift-garage/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/rss.xml",
+        "https://www.thedailystar.net/historical/travel/rss.xml",
+        "https://www.thedailystar.net/historical/wide-angle/rss.xml",
+        "https://www.thedailystar.net/lifestyle/check-it-out/rss.xml",
+        "https://www.thedailystar.net/lifestyle/cover-story/rss.xml",
+        "https://www.thedailystar.net/lifestyle/event/rss.xml",
+        "https://www.thedailystar.net/lifestyle/ls-pick/rss.xml",
+        "https://www.thedailystar.net/lifestyle/ls-suggest/rss.xml",
+        "https://www.thedailystar.net/lifestyle/pop/rss.xml",
+        "https://www.thedailystar.net/lifestyle/recipe/rss.xml",
+        "https://www.thedailystar.net/lifestyle/special-feature/rss.xml",
+        "https://www.thedailystar.net/lifestyle/spotlight/rss.xml",
+        "https://www.thedailystar.net/lifestyle/travelogue/rss.xml",
+        "https://www.thedailystar.net/next-step/allnews/rss.xml",
+        "https://www.thedailystar.net/next-step/career-advise/rss.xml",
+        "https://www.thedailystar.net/next-step/face/rss.xml",
+        "https://www.thedailystar.net/next-step/features/rss.xml",
+        "https://www.thedailystar.net/next-step/how-tos/rss.xml",
+        "https://www.thedailystar.net/science/biology/rss.xml",
+        "https://www.thedailystar.net/science/farming/rss.xml",
+        "https://www.thedailystar.net/science/genetics/rss.xml",
+        "https://www.thedailystar.net/science/innovation/rss.xml",
+        "https://www.thedailystar.net/science/medical-research/rss.xml",
+        "https://www.thedailystar.net/science/physics/rss.xml",
+        "https://www.thedailystar.net/science/reproduction/rss.xml",
+        "https://www.thedailystar.net/science/space-science/rss.xml",
+        "https://www.thedailystar.net/shift/accessories/rss.xml",
+        "https://www.thedailystar.net/shift/auto-news/rss.xml",
+        "https://www.thedailystar.net/shift/collectibles/rss.xml",
+        "https://www.thedailystar.net/shift/features/rss.xml",
+        "https://www.thedailystar.net/shift/motorcycles/rss.xml",
+        "https://www.thedailystar.net/shift/project-cars/rss.xml",
+        "https://www.thedailystar.net/shift/shift-garage/rss.xml",
+        "https://www.thedailystar.net/shift/test-drive/rss.xml",
+        "https://www.thedailystar.net/shout/album-review/rss.xml",
+        "https://www.thedailystar.net/shout/app-review/rss.xml",
+        "https://www.thedailystar.net/shout/fable-factory/rss.xml",
+        "https://www.thedailystar.net/shout/game-review/rss.xml",
+        "https://www.thedailystar.net/shout/horoscope/rss.xml",
+        "https://www.thedailystar.net/shout/movie-review/rss.xml",
+        "https://www.thedailystar.net/shout/overclock/rss.xml",
+        "https://www.thedailystar.net/showbiz/behind-the-scene/rss.xml",
+        "https://www.thedailystar.net/showbiz/cover-story/rss.xml",
+        "https://www.thedailystar.net/showbiz/glance/rss.xml",
+        "https://www.thedailystar.net/showbiz/grapevine/rss.xml",
+        "https://www.thedailystar.net/showbiz/int%E2%80%99l-film/rss.xml",
+        "https://www.thedailystar.net/showbiz/intl-film/rss.xml",
+        "https://www.thedailystar.net/showbiz/living-the-stars/rss.xml",
+        "https://www.thedailystar.net/showbiz/playlist-the-week/rss.xml",
+        "https://www.thedailystar.net/showbiz/playlist/rss.xml",
+        "https://www.thedailystar.net/sports/ban-vs-ind/rss.xml",
+        "https://www.thedailystar.net/sports/golf/rss.xml",
+        "https://www.thedailystar.net/star-weekend/1-minute-please/rss.xml",
+        "https://www.thedailystar.net/star-weekend/about-town/rss.xml",
+        "https://www.thedailystar.net/star-weekend/apple-day/rss.xml",
+        "https://www.thedailystar.net/star-weekend/campus/rss.xml",
+        "https://www.thedailystar.net/star-weekend/cover-story/rss.xml",
+        "https://www.thedailystar.net/star-weekend/endeavour/rss.xml",
+        "https://www.thedailystar.net/star-weekend/heritage/rss.xml",
+        "https://www.thedailystar.net/star-weekend/quirky-science/rss.xml",
+        "https://www.thedailystar.net/star-weekend/shutterstories/rss.xml",
+        "https://www.thedailystar.net/star-weekend/spotlight/rss.xml",
+        "https://www.thedailystar.net/star-weekend/star-people/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/701/rss.xml",
+        "https://www.thedailystar.net/world/africa/rss.xml",
+        "https://www.thedailystar.net/world/middle-east/rss.xml",
+        "https://www.thedailystar.net/world/south-asia/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/107/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/132/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/21/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/6/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/9463/rss.xml",
+        "https://www.thedailystar.net/culture/books/literature/rss.xml",
+        "https://www.thedailystar.net/historical/miscellaneous/africa-unused/rss.xml",
+        "https://www.thedailystar.net/historical/miscellaneous/south-asia-unused/rss.xml",
+        "https://www.thedailystar.net/historical/science/biology/rss.xml",
+        "https://www.thedailystar.net/historical/science/farming/rss.xml",
+        "https://www.thedailystar.net/historical/science/genetics/rss.xml",
+        "https://www.thedailystar.net/historical/science/innovation/rss.xml",
+        "https://www.thedailystar.net/historical/science/medical-research/rss.xml",
+        "https://www.thedailystar.net/historical/science/physics/rss.xml",
+        "https://www.thedailystar.net/historical/science/reproduction/rss.xml",
+        "https://www.thedailystar.net/historical/science/space-science/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/1-minute-please/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/about-town/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/apple-day/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/campus/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/cover-story/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/endeavour/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/heritage/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/quirky-science/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/shutterstories/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/spotlight/rss.xml",
+        "https://www.thedailystar.net/historical/star-weekend/star-people/rss.xml",
+        "https://www.thedailystar.net/news/world/europe/rss.xml",
+        "https://www.thedailystar.net/shout/review/album-review/rss.xml",
+        "https://www.thedailystar.net/shout/review/app-review/rss.xml",
+        "https://www.thedailystar.net/shout/review/game-review/rss.xml",
+        "https://www.thedailystar.net/shout/review/movie-review/rss.xml",
+        "https://www.thedailystar.net/sports/cricket/ban-vs-ind/rss.xml",
+        "https://www.thedailystar.net/sports/more-sports/golf/rss.xml",
+        "https://www.thedailystar.net/sports/more-sports/tennis/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/10/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/10183/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/108/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/109/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/11/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/110/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/111/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/112/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/113/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/114/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/129/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/130/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/133/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/134/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/15712/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/15715/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/15718/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/18/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/186/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/187/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/188/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/193/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/194/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/207/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/209/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/210/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/224/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/225/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/226/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/227/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/228/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/23/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/234/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/235/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/242/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/244/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/2535/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/309/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/31/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/310/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/312/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/313/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/314/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/32/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/321/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/323/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/324/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/325/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/326/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/327/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/328/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/329/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/33/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/330/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/331/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/332/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/333/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/334/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/338/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/34/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/340/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/341/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/342/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/343/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/37/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/3890/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/40/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/401/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/402/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/404/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/407/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/41/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/42/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/4241/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/43/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/432/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/435/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/438/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/4382/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/4398/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/44/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/440/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/442/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/4428/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/4437/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/4440/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/447/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/4617/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/48/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/49/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/5/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/51/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/52/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/53/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/5333/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/5335/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/55/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/56/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/631/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/642/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/643/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/644/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/645/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/646/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/647/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/690/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/7/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/7006/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/88/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/985/rss.xml",
+        "https://www.thedailystar.net/taxonomy/term/986/rss.xml",
+        "https://www.thedailystar.net/health/rss.xml",
+        "https://www.thedailystar.net/health/disease/rss.xml",
+        "https://www.thedailystar.net/health/health-alert/rss.xml",
+        "https://www.thedailystar.net/health/health-tips/rss.xml",
+        "https://www.thedailystar.net/health/interview/rss.xml",
+        "https://www.thedailystar.net/health/medical-breakthrough/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 507,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:46.245Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ctgtimes.com": {
+      "urls": [
+        "https://ctgtimes.com/feed",
+        "https://ctgtimes.com/feed/",
+        "http://ctgtimes.com/feed",
+        "http://ctgtimes.com/feed/",
+        "http://ctgtimes.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1532,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:02.338Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "coxsbazarnews.com": {
+      "urls": [
+        "https://www.coxsbazarnews.com/feed/json",
+        "https://www.coxsbazarnews.com/feed",
+        "http://www.coxsbazarnews.com/feed",
+        "https://www.coxsbazarnews.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 125,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:03.174Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mathabhanga.com": {
+      "urls": [
+        "https://mathabhanga.com/feed/",
+        "https://www.mathabhanga.com/feed/",
+        "https://mathabhanga.com/comments/feed/",
+        "https://www.mathabhanga.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1379,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:46.773Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "brahmanbaria24.com": {
+      "urls": [
+        "https://brahmanbaria24.com/feed/",
+        "http://brahmanbaria24.com/feed/",
+        "https://brahmanbaria24.com/comments/feed/",
+        "http://brahmanbaria24.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1535,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:38.786Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "onabil.net": {
+      "urls": [
+        "https://onabil.net/?feed=rss2",
+        "https://onabil.net/feed/",
+        "https://onabil.net/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 329,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:21.602Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jhenaidahnews.com": {
+      "urls": [
+        "http://www.jhenaidahnews.com/feed/",
+        "http://www.jhenaidahnews.com/comments/feed/",
+        "http://www.jhenaidahnews.com/homepage/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 613,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:51.075Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chilahatiweb.com": {
+      "urls": [
+        "https://www.chilahatiweb.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/761748852721868719/posts/default",
+        "https://www.chilahatiweb.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 874,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:26.805Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chapainawabganjnews.com": {
+      "urls": [
+        "http://www.chapainawabganjnews.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/2939905879627375405/posts/default",
+        "http://www.chapainawabganjnews.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1223,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:21.161Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailyrangamati.com": {
+      "urls": [
+        "https://dailyrangamati.com/feed/",
+        "https://dailyrangamati.com/comments/feed/",
+        "https://dailyrangamati.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2507,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:00.293Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "habiganjnews24.com": {
+      "urls": [
+        "https://www.habiganjnews24.com/feed/",
+        "https://www.habiganjnews24.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 270,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:15.037Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailykhowai.com": {
+      "urls": [
+        "https://dailykhowai.com/feed/",
+        "https://dailykhowai.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 291,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:10.354Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "purbanchal.com": {
+      "urls": [
+        "https://purbanchal.com/feed/",
+        "https://purbanchal.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 296,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:45.590Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "onenewsbd.com": {
+      "urls": [
+        "https://www.onenewsbd.com/feed",
+        "https://www.onenewsbd.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 349,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:51.691Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chandpurtimes.com": {
+      "urls": [
+        "https://chandpurtimes.com/feed/",
+        "https://chandpurtimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 389,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:43.907Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "beanibazartimes.com": {
+      "urls": [
+        "https://beanibazartimes.com/feed/",
+        "https://beanibazartimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 421,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:12.921Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ctgsun.com": {
+      "urls": [
+        "https://ctgsun.com/feed",
+        "https://ctgsun.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 493,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:07.577Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sonalisangbad.com": {
+      "urls": [
+        "https://sonalisangbad.com/feed/",
+        "https://sonalisangbad.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 504,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:17.591Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bograsangbad.com": {
+      "urls": [
+        "https://bograsangbad.com/feed",
+        "https://bograsangbad.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 617,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:18.210Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chandpurnews.com": {
+      "urls": [
+        "https://chandpurnews.com/feed/",
+        "https://chandpurnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 620,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:43.515Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "khulnanchal.com": {
+      "urls": [
+        "https://khulnanchal.com/feed/",
+        "https://khulnanchal.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 714,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:44.623Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailyprovatbela.com": {
+      "urls": [
+        "https://www.dailyprovatbela.com/feed/",
+        "https://www.dailyprovatbela.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 757,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:17.084Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mymensinghpratidin.com": {
+      "urls": [
+        "https://mymensinghpratidin.com/feed/",
+        "https://mymensinghpratidin.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 757,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:52.491Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sylhetreport.com": {
+      "urls": [
+        "https://sylhetreport.com/feed",
+        "https://sylhetreport.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 783,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:13.706Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bhorerkagoj.net": {
+      "urls": [
+        "https://www.bhorerkagoj.com/feed/",
+        "https://www.bhorerkagoj.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 817,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:45.239Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "maguranews.com": {
+      "urls": [
+        "https://www.maguranews.com/feed/",
+        "https://www.maguranews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 869,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:49.029Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jamalpurbarta.com": {
+      "urls": [
+        "https://jamalpurbarta.com/feed/",
+        "https://jamalpurbarta.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 945,
+        "category": "general",
+        "last_checked": "2026-01-31T19:12:03.466Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ctgpratidin.com": {
+      "urls": [
+        "https://ctgpratidin.com/feed/",
+        "https://ctgpratidin.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:54.043Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "crimesylhet.com": {
+      "urls": [
+        "https://www.crimesylhet.com/feed/",
+        "https://www.crimesylhet.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1034,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:14.757Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "khabarica24.com": {
+      "urls": [
+        "http://www.khabarica24.com/feed/",
+        "http://www.khabarica24.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1084,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:07.048Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "feninewsbd.com": {
+      "urls": [
+        "https://feninewsbd.com/feed/",
+        "https://feninewsbd.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1098,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:41.218Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dainikcoxsbazarekattor.com": {
+      "urls": [
+        "https://dainikcoxsbazarekattor.com/feed/",
+        "https://dainikcoxsbazarekattor.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1205,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:08.796Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "shatakantha.com": {
+      "urls": [
+        "https://www.shatakantha.com/?feed=rss2",
+        "https://www.shatakantha.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1220,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:19.432Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sunamganjpratidin.com": {
+      "urls": [
+        "https://sunamganjpratidin.com/feed/",
+        "https://sunamganjpratidin.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1282,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:16.325Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rangpur24.com": {
+      "urls": [
+        "https://rangpur24.com/feed/",
+        "https://rangpur24.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1298,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:25.476Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailycomillanews.com": {
+      "urls": [
+        "https://dailycomillanews.com/feed",
+        "https://dailycomillanews.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:40.118Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailyrangpur.com": {
+      "urls": [
+        "https://dailyrangpur.com/feed/",
+        "https://dailyrangpur.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1390,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:24.176Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "satkhiranews.com": {
+      "urls": [
+        "https://www.satkhiranews.com/feed/",
+        "https://www.satkhiranews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1430,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:50.461Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "raozannews.com": {
+      "urls": [
+        "https://raozannews.com/feed/",
+        "https://raozannews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1450,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:04.898Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lakshmipur24.com": {
+      "urls": [
+        "https://lakshmipur24.com/feed/",
+        "https://lakshmipur24.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1530,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:36.944Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bangladeshsun.com": {
+      "urls": [
+        "https://feeds.bangladeshsun.com/rss/ba01aa42514dc37d",
+        "http://feeds.bangladeshsun.com/rss/ba01aa42514dc37d"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1597,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:37.767Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chandpurdarpan.com": {
+      "urls": [
+        "https://chandpurdarpan.com/feed",
+        "https://chandpurdarpan.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1663,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:42.883Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "purbodesh.com": {
+      "urls": [
+        "https://purbodesh.com/feed/",
+        "https://purbodesh.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1915,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:52.814Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ittefaq.com": {
+      "urls": [
+        "https://www.ittefaq.com.bd/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 54,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:45.293Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailysylhetmirror.com": {
+      "urls": [
+        "http://dailysylhetmirror.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 349,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:10.053Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thebangladeshtoday.com": {
+      "urls": [
+        "https://thebangladeshtoday.com/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 474,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:43.907Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "paharbarta.com": {
+      "urls": [
+        "https://paharbarta.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 867,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:05.962Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dinajpurbarta24.com": {
+      "urls": [
+        "http://dinajpurbarta24.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 876,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:28.751Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailysylhetbani.com": {
+      "urls": [
+        "http://dailysylhetbani.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 908,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:09.704Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dainikporibesh.com": {
+      "urls": [
+        "http://dainikporibesh.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 932,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:22.534Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dinajpur24.com": {
+      "urls": [
+        "http://dinajpur24.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1070,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:27.875Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "amaderbrahmanbaria.com": {
+      "urls": [
+        "https://amaderbrahmanbaria.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3179,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:35.412Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "suprobhat.com": {
+      "urls": [
+        "https://suprobhat.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4396,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:50.641Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chakarianews.com": {
+      "urls": [
+        "https://chakarianews.com/?feed=rss2",
+        "https://chakarianews.com/feed/",
+        "http://chakarianews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:05.094Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kazirbazar.com": {
+      "urls": [
+        "https://kazirbazar.com/?feed=rss2",
+        "http://kazirbazar.com/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:12.477Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "comillarbarta.com": {
+      "urls": [
+        "https://comillarbarta.com/feed/",
+        "https://comillarbarta.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:11:32.233Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "netrokonanews24.com": {
+      "urls": [
+        "https://netrokonanews24.com/feed/",
+        "https://netrokonanews24.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:12:02.519Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dailynayadiganta.com": {
+      "urls": [
+        "https://www.dailynayadiganta.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:10:43.433Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

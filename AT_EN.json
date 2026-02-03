@@ -1,0 +1,802 @@
+{
+  "country_code": "AT",
+  "language_code": "EN",
+  "total_domains": 36,
+  "total_feeds": 290,
+  "feeds": {
+    "sn.at": {
+      "urls": [
+        "https://www.sn.at/xml/rss",
+        "https://www.sn.at/archiv/rss/",
+        "https://www.sn.at/leben/xml/rss",
+        "https://www.sn.at/leben/rss/",
+        "https://www.sn.at/podcasts/rss/",
+        "https://www.sn.at/podcasts/xml/rss",
+        "https://www.sn.at/salzburger-festspiele/xml/rss",
+        "https://www.sn.at/snin/rss/",
+        "https://www.sn.at/snin/xml/rss",
+        "https://www.sn.at/podcasts/fussball-aus-der-dose/rss/",
+        "https://www.sn.at/festspiele/salzburger-festspiele/xml/rss",
+        "https://www.sn.at/leben/gesundheit/xml/rss",
+        "https://www.sn.at/podcasts/abgefahren/xml/rss",
+        "https://www.sn.at/podcasts/die-gefragte-frau/rss/",
+        "https://www.sn.at/podcasts/gluecksmomente/rss/",
+        "https://www.sn.at/podcasts/hinter-den-schlagzeilen/rss/",
+        "https://www.sn.at/podcasts/mitgekocht/rss/",
+        "https://www.sn.at/podcasts/mitgekocht/xml/rss",
+        "https://www.sn.at/podcasts/salzburger-popcast/rss/",
+        "https://www.sn.at/podcasts/salzburger-popcast/xml/rss",
+        "https://www.sn.at/podcasts/schattenorte/rss/",
+        "https://www.sn.at/podcasts/schattenorte/xml/rss",
+        "https://www.sn.at/podcasts/tatort-salzburg/rss/",
+        "https://www.sn.at/snin/podcast/rss/",
+        "https://www.sn.at/snin/podcast/xml/rss",
+        "https://immo.sn.at/blog.atom",
+        "https://www.sn.at/podcasts/gewalt-gegen-frauen/rss/",
+        "https://diegefragtefrau.podigee.io/feed/mp3",
+        "https://meinegesundheit.podigee.io/feed/mp3"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 979,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:52.710Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kurier.at": {
+      "urls": [
+        "https://kurier.at/xml/rss",
+        "https://kurier.at/xml/rssd",
+        "https://kurier.at/layout/xml/rss",
+        "https://kurier.at/podcasts/xml/rss",
+        "https://kurier.at/stars-kultur/layout/xml/rss",
+        "https://kurier.at/podcasts/chefredakteur/xml/rss",
+        "https://kurier.at/podcasts/daily/xml/rss",
+        "https://kurier.at/podcasts/dunkle-spuren/xml/rss",
+        "https://kurier.at/podcasts/fakebusters/xml/rss",
+        "https://kurier.at/podcasts/ichweisswieesist/xml/rss",
+        "https://kurier.at/podcasts/layout/xml/rss",
+        "https://kurier.at/podcasts/milchbar/xml/rss",
+        "https://kurier.at/podcasts/nachspielzeit/xml/rss",
+        "https://kurier.at/podcasts/stadt-land-meer/xml/rss",
+        "https://kurier.at/podcasts/ziemlich-gut-veranlagt/xml/rss",
+        "https://kurier.at/podcasts/allesaussercorona/layout/xml/rss",
+        "https://kurier.at/podcasts/chefredakteur/layout/xml/rss",
+        "https://kurier.at/podcasts/daily/layout/xml/rss",
+        "https://kurier.at/podcasts/dunkle-spuren/layout/xml/rss",
+        "https://kurier.at/podcasts/fakebusters/layout/xml/rss",
+        "https://kurier.at/podcasts/ichweisswieesist/layout/xml/rss",
+        "https://kurier.at/podcasts/kuriertohear/layout/xml/rss",
+        "https://kurier.at/podcasts/milchbar/layout/xml/rss",
+        "https://kurier.at/podcasts/nachspielzeit/layout/xml/rss",
+        "https://kurier.at/podcasts/stadt-land-meer/layout/xml/rss",
+        "https://kurier.at/podcasts/ziemlich-gut-veranlagt/layout/xml/rss",
+        "http://feeds.feedburner.com/Kurier-sportpodcast"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 634,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:44.738Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "orf.at": {
+      "urls": [
+        "https://rss.orf.at/oesterreich.xml",
+        "https://rss.orf.at/news.xml",
+        "https://rss.orf.at/sport.xml",
+        "https://rss.orf.at/kaernten.xml",
+        "https://rss.orf.at/vorarlberg.xml",
+        "https://rss.orf.at/wien.xml",
+        "https://rss.orf.at/salzburg.xml",
+        "https://rss.orf.at/oe3.xml",
+        "https://rss.orf.at/noe.xml",
+        "https://rss.orf.at/ooe.xml",
+        "https://rss.orf.at/steiermark.xml",
+        "https://rss.orf.at/tirol.xml",
+        "https://rss.orf.at/burgenland.xml",
+        "https://rss.orf.at/fm4.xml",
+        "https://rss.orf.at/science.xml",
+        "https://rss.orf.at/kultur.xml",
+        "https://rss.orf.at/orf2.xml",
+        "https://rss.orf.at/orfeins.xml",
+        "https://rss.orf.at/untertitel.xml",
+        "https://rss.orf.at/help.xml",
+        "https://rss.orf.at/orfsport.xml",
+        "https://on.orf.at/feed/rss",
+        "https://tvthek.orf.at/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 778,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:00.814Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "profil.at": {
+      "urls": [
+        "https://www.profil.at/xml/rss",
+        "https://feeds.simplecast.com/nf6WZAL_",
+        "https://www.profil.at/layout/xml/rss",
+        "https://www.profil.at/podcasts/xml/rss",
+        "https://www.profil.at/podcasts/businessklasse/xml/rss",
+        "https://www.profil.at/podcasts/layout/xml/rss",
+        "https://www.profil.at/podcasts/vorsicht-heiss-der-klimapodcast/xml/rss",
+        "https://www.profil.at/podcasts/businessklasse/layout/xml/rss",
+        "https://www.profil.at/podcasts/nicht-zu-fassen-der-profil-investigativpodcast/layout/xml/rss",
+        "https://www.profil.at/podcasts/nicht-zu-fassen-putin/layout/xml/rss",
+        "https://www.profil.at/podcasts/nicht-zu-fassen-staffel-6-die-maedchen-des-is/layout/xml/rss",
+        "https://www.profil.at/podcasts/nicht-zu-fassen-staffel-7-sebastian-kurz/layout/xml/rss",
+        "https://www.profil.at/podcasts/nicht-zu-fassen-staffel-8-benko/layout/xml/rss",
+        "https://www.profil.at/podcasts/no-bullshit-der-profil-wissenschaftspodcast/layout/xml/rss",
+        "https://www.profil.at/podcasts/trump-oder-harris-der-profil-podcast-zur-us-wahl/layout/xml/rss",
+        "https://www.profil.at/podcasts/vorsicht-heiss-der-klimapodcast/layout/xml/rss",
+        "https://www.profil.at/podcasts/zur-frage-der-nation-der-profil-politikpodcast/layout/xml/rss",
+        "https://profil.podigee.io/feed/mp3"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 335,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:06.404Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ots.at": {
+      "urls": [
+        "https://www.ots.at/rss/index",
+        "https://www.ots.at/rss/kultur",
+        "https://www.ots.at/rss/medien",
+        "https://www.ots.at/rss/wirtschaft",
+        "https://www.ots.at/rss/politik",
+        "https://www.ots.at/rss/bilder",
+        "https://www.ots.at/rss/chronik",
+        "https://www.ots.at/rss/zitate",
+        "https://www.ots.at/rss/ORF",
+        "https://www.ots.at/rss/topthema",
+        "https://www.ots.at/rss/finanzen",
+        "https://www.ots.at/rss/karriere",
+        "https://www.ots.at/rss/audio",
+        "https://www.ots.at/rss/termine",
+        "https://www.ots.at/rss/video",
+        "https://www.ots.at/rss/personal/qu/KEFUVEFDSE1FTlQ9JCk=",
+        "https://www.ots.at/rss/personal/qu/KHN0PShwcmVzc2VzdGltbWVuIE9yIFZvcmF1c21lbGR1bmcpIE9yIERlcz0ocHJlc3Nlc3RpbW1lbiBPciBWb3JhdXNtZWxkdW5nKSk="
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 855,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:05.815Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "derstandard.at": {
+      "urls": [
+        "https://www.derstandard.at/rss/panorama",
+        "https://www.derstandard.at/rss",
+        "https://www.derstandard.at/rss/sport",
+        "https://www.derstandard.at/rss/podcast",
+        "https://bzw.podigee.io/feed/mp3",
+        "https://editionzukunft.podigee.io/feed/mp3",
+        "https://lohntsichdas.podigee.io/feed/mp3",
+        "https://serienreif.podigee.io/feed/mp3",
+        "https://themadestages.podigee.io/feed/mp3",
+        "https://derstandard.libsyn.com/rss",
+        "https://editionzukunft.libsyn.com/rss",
+        "https://themadestages.libsyn.com/rss",
+        "http://derstandard.libsyn.com/rss",
+        "http://editionzukunft.libsyn.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1650,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:39.466Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noen.at": {
+      "urls": [
+        "https://m.noen.at/xml/rss",
+        "https://www.noen.at/xml/rss",
+        "https://www.noen.at/collection/4530029/xml/rss",
+        "https://m.noen.at/neulengbach/xml/rss",
+        "https://www.noen.at/neulengbach/xml/rss",
+        "https://www.noen.at/purkersdorf/xml/rss",
+        "https://m.noen.at/blog/xml/rss",
+        "https://www.noen.at/blog/xml/rss",
+        "https://m.noen.at/collection/271657120/xml/rss",
+        "https://m.noen.at/collection/376781027/xml/rss",
+        "https://www.noen.at/collection/271657120/xml/rss",
+        "https://www.noen.at/collection/376781027/xml/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 416,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:45.161Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "medianet.at": {
+      "urls": [
+        "https://medianet.at/bizbook/user/10773/blog/feed",
+        "https://medianet.at/bizbook/user/12345/blog/feed",
+        "https://medianet.at/bizbook/user/12868/blog/feed",
+        "https://medianet.at/bizbook/user/15102/blog/feed",
+        "https://medianet.at/bizbook/user/1897/blog/feed",
+        "https://medianet.at/bizbook/user/1901/blog/feed",
+        "https://medianet.at/bizbook/user/2369/blog/feed",
+        "https://medianet.at/bizbook/user/5544/blog/feed",
+        "https://medianet.at/bizbook/user/5600/blog/feed",
+        "https://medianet.at/bizbook/user/5693/blog/feed",
+        "https://medianet.at/bizbook/user/6726/blog/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 677,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:53.543Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kleinezeitung.at": {
+      "urls": [
+        "https://www.kleinezeitung.at/rss/service/newsticker",
+        "https://www.kleinezeitung.at/rss/nachrichten_stmk",
+        "https://www.kleinezeitung.at/rss/nachrichten_kaernten",
+        "https://www.kleinezeitung.at/rss/steiermark",
+        "https://www.kleinezeitung.at/rss/kaernten",
+        "https://www.kleinezeitung.at/rss/hp_stmk",
+        "https://www.kleinezeitung.at/rss/lebensart",
+        "https://www.kleinezeitung.at/rss/politik",
+        "https://www.kleinezeitung.at/rss/sport/stmk_sport",
+        "https://www.kleinezeitung.at/rss/wirtschaft/stmk_wirtschaft"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1317,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:43.789Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nachrichten.at": {
+      "urls": [
+        "https://www.nachrichten.at/storage/rss/rss/nachrichten.xml",
+        "https://www.nachrichten.at/storage/rss/rss/oberoesterreich.xml",
+        "https://www.nachrichten.at/storage/rss/rss/politik.xml",
+        "https://www.nachrichten.at/storage/rss/rss/wirtschaft.xml",
+        "https://www.nachrichten.at/storage/rss/rss/meinung.xml",
+        "https://www.nachrichten.at/storage/rss/rss/sport.xml",
+        "https://www.nachrichten.at/storage/rss/rss/linz.xml",
+        "https://www.nachrichten.at/storage/rss/rss/essenundtrinken.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 852,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:46.136Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bvz.at": {
+      "urls": [
+        "https://www.bvz.at/xml/rss",
+        "https://www.bvz.at/collection/8911781/xml/rss",
+        "https://www.bvz.at/collection/271657142/xml/rss",
+        "https://www.bvz.at/collection/376781052/xml/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 422,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:57.524Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "meinbezirk.at": {
+      "urls": [
+        "https://www.meinbezirk.at/wien/rss",
+        "https://www.meinbezirk.at/rss",
+        "https://www.meinbezirk.at/braunau/rss",
+        "https://www.meinbezirk.at/murtal/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 733,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:02.363Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "oe24.at": {
+      "urls": [
+        "https://www.oe24.at/xml/rssImage",
+        "https://www.oe24.at:443/xml/rssImage",
+        "https://www.oe24.at/leute/xml/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 259,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:49.551Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "badenerzeitung.at": {
+      "urls": [
+        "https://www.badenerzeitung.at/feed",
+        "https://badenerzeitung.at/index.php?format=feed&type=atom",
+        "https://badenerzeitung.at/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1425,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:21.601Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "meinekirchenzeitung.at": {
+      "urls": [
+        "https://www.meinekirchenzeitung.at/rss",
+        "https://www.meinekirchenzeitung.at/wien-noe-ost-der-sonntag/rss",
+        "https://www.meinekirchenzeitung.at/tag/blog/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2041,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:00.034Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "krone.at": {
+      "urls": [
+        "https://www.krone.at/Nachrichten/rss.html",
+        "https://api.krone.at/v1/rss/rssfeed-google.xml?id=2311992"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 310,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:44.102Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thelocal.at": {
+      "urls": [
+        "https://feeds.thelocal.com/rss/builder/at",
+        "https://feeds.thelocal.com"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 672,
+        "category": "local",
+        "last_checked": "2026-01-31T18:26:57.095Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.at": {
+      "urls": [
+        "https://www.news.at/rss/home",
+        "https://www.news.at/rss/themen/podcast-ooe-ungefiltert"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 710,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:03.084Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "salzburg24.at": {
+      "urls": [
+        "https://www.salzburg24.at/xml/rss",
+        "https://www.salzburg24.at/storage/rss/rss/salzburg24.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1107,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:04.499Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "novice.at": {
+      "urls": [
+        "https://www.novice.at/feed/",
+        "https://www.novice.at/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1535,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:11.362Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "derennstaler.at": {
+      "urls": [
+        "https://www.derennstaler.at/rss.xml",
+        "https://ens.localpoint.ch/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1580,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:14.842Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "salzi.at": {
+      "urls": [
+        "https://www.salzi.at/feed/",
+        "https://www.salzi.at/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1606,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:08.288Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "falter.at": {
+      "urls": [
+        "https://cms.falter.at/blogs/feed/atom/",
+        "https://cms.falter.at/blogs/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1772,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:55.694Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "furche.at": {
+      "urls": [
+        "https://www.furche.at/xml/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 720,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:56.414Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "voez.at": {
+      "urls": [
+        "https://voez.at/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:22.931Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wienerbezirksblatt.at": {
+      "urls": [
+        "https://wienerbezirksblatt.at/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1536,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:09.825Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yenivatan.at": {
+      "urls": [
+        "https://www.yenivatan.at/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1739,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:13.101Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wienerzeitung.at": {
+      "urls": [
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/aktuelleberichte/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/politik/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/opinion/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/oesterreichalle/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/weltalle/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/meinung/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/sportalle/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/meinungen/gastkommentare/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/panorama/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/freitritt/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/wirtschaft/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/wissen/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/juedisch_leben/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/litblog/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/wirtschaft/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/wissen/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/wienalle/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/medien/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/corona/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/gnews/digital/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/meinungen/blogs/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/meinungen/glossen/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/meinungen/kommentare/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/meinungen/leitartikel/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/meinungen/leserbriefe/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/digital/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/kultur/index.rss",
+        "https://www.wienerzeitung.at/_export/rss/nachrichten/sport/index.rss",
+        "https://www.wienerzeitung.at/_em_daten/_module/10139.rss",
+        "https://www.wienerzeitung.at/_em_daten/_module/10001.rss",
+        "https://www.wienerzeitung.at/_em_daten/_module/10135.rss",
+        "https://www.wienerzeitung.at/_em_daten/_module/10137.rss",
+        "https://www.wienerzeitung.at/_em_daten/_module/10141.rss",
+        "https://www.wienerzeitung.at/rss.xml",
+        "http://www.wienerzeitung.at/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:49.289Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "neue.at": {
+      "urls": [
+        "https://service.neue.at/feed/",
+        "https://service.neue.at/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:50.782Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "volksblatt.at": {
+      "urls": [
+        "https://volksblatt.at/feed/",
+        "http://volksblatt.at/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:53.919Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ennsseiten.at": {
+      "urls": [
+        "http://www.ennsseiten.at/feed/",
+        "http://www.ennsseiten.at/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:18.225Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vol.at": {
+      "urls": [
+        "https://www.vol.at/rss.aspx/page/vol-article-index-rss-page/dc/tp:vol:vorarlberg"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:01.599Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diepresse.com": {
+      "urls": [
+        "https://www.diepresse.com/rss//home",
+        "https://www.diepresse.com/rss/Politik",
+        "https://www.diepresse.com/rss/home/",
+        "https://www.diepresse.com/rss",
+        "https://www.diepresse.com/rss/",
+        "https://www.diepresse.com/rss/Kultur",
+        "https://www.diepresse.com/rss//",
+        "https://www.diepresse.com/rss/Tech",
+        "https://www.diepresse.com/rss/Science",
+        "https://www.diepresse.com/rss/Wirtschaft",
+        "https://www.diepresse.com/rss/meinung/podcast",
+        "https://www.diepresse.com/rss/meinung/podcast/Der_letzte_Aufguss",
+        "https://www.diepresse.com/rss/meinung/podcast/Russland",
+        "https://www.diepresse.com/rss/meinung/podcast/eastsidestories",
+        "https://www.diepresse.com/rss/meinung/podcast/meingeld",
+        "https://www.diepresse.com/rss/meinung/podcast/waswichtigwird"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1276,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:42.074Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tt.com": {
+      "urls": [
+        "https://www.tt.com/rss/news.xml",
+        "https://www.tt.com/rss/tirol.xml",
+        "https://www.tt.com/rss/panorama.xml",
+        "https://www.tt.com/rss/politik.xml",
+        "https://www.tt.com/rss/sport.xml",
+        "https://www.tt.com/rss/lebensart.xml",
+        "https://www.tt.com/rss/landespolitik.xml",
+        "https://www.tt.com/rss/wirtschaft.xml",
+        "https://www.tt.com/rss/kultur.xml",
+        "https://www.tt.com/rss/arbeitsmarkt.xml",
+        "https://www.tt.com/rss/auto.xml",
+        "https://www.tt.com/rss/standorttirol.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 641,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:51.447Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "salzburg.com": {
+      "urls": [
+        "https://www.sn.at/xml/rss",
+        "https://www.sn.at/archiv/rss/",
+        "https://www.sn.at/podcasts/fussball-aus-der-dose/rss/",
+        "https://diegefragtefrau.podigee.io/feed/mp3",
+        "https://meinegesundheit.podigee.io/feed/mp3",
+        "https://www.sn.at/podcasts/die-gefragte-frau/rss/",
+        "https://www.sn.at/podcasts/hinter-den-schlagzeilen/rss/",
+        "https://www.sn.at/podcasts/salzburger-popcast/rss/",
+        "https://www.sn.at/podcasts/schattenorte/rss/",
+        "https://www.sn.at/podcasts/tatort-salzburg/rss/",
+        "https://www.sn.at/snin/podcast/xml/rss",
+        "https://www.sn.at/podcasts/gewalt-gegen-frauen/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1071,
+        "category": "general",
+        "last_checked": "2026-01-31T18:26:47.501Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dietagespresse.com": {
+      "urls": [
+        "https://dietagespresse.com/feed/",
+        "https://dietagespresse.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:27:06.581Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

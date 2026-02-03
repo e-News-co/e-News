@@ -1,0 +1,846 @@
+{
+  "country_code": "DZ",
+  "language_code": "EN",
+  "total_domains": 50,
+  "total_feeds": 138,
+  "feeds": {
+    "aps.dz": {
+      "urls": [
+        "https://www.aps.dz:443/algerie?format=feed",
+        "http://feeds.aps.dz/aps-algerie",
+        "https://www.aps.dz:443/economie?format=feed",
+        "http://feeds.aps.dz/aps-regions",
+        "http://feeds.aps.dz/aps-monde",
+        "http://feeds.aps.dz/aps-societe",
+        "http://feeds.aps.dz/APS-Sante-Science-Technologie",
+        "http://feeds.aps.dz/aps-culture",
+        "http://feeds.aps.dz/aps-economie",
+        "http://feeds.aps.dz/aps-sport"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.098Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "entv.dz": {
+      "urls": [
+        "https://www.entv.dz/feed/",
+        "https://www.entv.dz:443/feed/",
+        "https://www.entv.dz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.108Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "horizons.dz": {
+      "urls": [
+        "https://www.horizons.dz/feed/",
+        "https://www.horizons.dz/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.231Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "aljazairalyoum.dz": {
+      "urls": [
+        "https://www.aljazairalyoum.dz/feed/atom/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.076Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "al24news.dz": {
+      "urls": [
+        "https://al24news.dz/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.090Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eldjoumhouria.dz": {
+      "urls": [
+        "https://www.eldjoumhouria.dz/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.181Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lautomarche.com": {
+      "urls": [
+        "https://www.usinenouvelle.com/arc/outboundfeeds/rss/",
+        "https://www.usinenouvelle.com:443/arc/outboundfeeds/rss/",
+        "http://lautomarche.com/feed/",
+        "https://www.usinenouvelle.com/rss/",
+        "https://www.usinenouvelle.com:443/rss/",
+        "http://feeds.aps.dz/aps-economie",
+        "http://lautomarche.com/comments/feed/",
+        "https://www.usinenouvelle.com/rss/podcast/",
+        "https://www.usinenouvelle.com:443/rss/podcast/",
+        "https://www.usinenouvelle.com/rss/podcast/les-podcasts-de-la-redaction/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.045Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elheddaf.com": {
+      "urls": [
+        "https://feeds.feedburner.com/EditionPdf",
+        "https://feeds.feedburner.com/EditionPdfInt",
+        "https://feeds.feedburner.com/GVideo",
+        "https://feeds.feedburner.com/GalerieArtciles",
+        "http://feeds.feedburner.com/EditionPdf",
+        "http://feeds.feedburner.com/EditionPdfInt",
+        "http://feeds.feedburner.com/GVideo",
+        "http://feeds.feedburner.com/GalerieArtciles"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.050Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lebuteur.com": {
+      "urls": [
+        "https://feeds.feedburner.com/FEditionPdf",
+        "https://feeds.feedburner.com/GFVideo",
+        "https://feeds.feedburner.com/GalerieFArtciles",
+        "https://feeds.feedburner.com/GalerieFFlash",
+        "http://feeds.feedburner.com/FEditionPdf",
+        "http://feeds.feedburner.com/GFVideo",
+        "http://feeds.feedburner.com/GalerieFArtciles",
+        "http://feeds.feedburner.com/GalerieFFlash"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.056Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elmoudjahid.com": {
+      "urls": [
+        "https://www.elmoudjahid.com/fr/feed",
+        "http://www.elmoudjahid.com/fr/rss/videos",
+        "http://feeds.feedburner.com/ElmoudjahidFlash",
+        "http://feeds.feedburner.com/ElmoudjahidArticles"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:21.990Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "liberte-algerie.com": {
+      "urls": [
+        "https://www.liberte-algerie.com/article/feed",
+        "https://liberte-algerie.com/feed",
+        "https://www.liberte-algerie.com/feed",
+        "https://www.liberte-algerie.com/feeds/actualite"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.028Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "algerie-eco.com": {
+      "urls": [
+        "https://www.algerie-eco.com/feed/",
+        "https://algerie-eco.com/feed/",
+        "https://algerie-eco.com/comments/feed/",
+        "https://www.algerie-eco.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.038Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elbilad.net": {
+      "urls": [
+        "http://www.elbilad.net/feed/article",
+        "https://www.elbilad.net/feed",
+        "http://www.elbilad.net/feed/pdf",
+        "http://www.elbilad.net/feed/photo"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.066Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "algeriepatriotique.com": {
+      "urls": [
+        "https://www.algeriepatriotique.com/feed/",
+        "https://algeriepatriotique.com/feed/",
+        "https://www.algeriepatriotique.com/comments/feed/",
+        "https://algeriepatriotique.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.071Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dia-algerie.com": {
+      "urls": [
+        "https://dia-algerie.com/feed/",
+        "http://dia-algerie.com/feed/",
+        "https://dia-algerie.com/comments/feed/",
+        "http://dia-algerie.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.086Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "infosoir.com": {
+      "urls": [
+        "https://www.infosoir.com/feed/atom",
+        "https://www.infosoir.com/feed",
+        "https://www.infosoir.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.010Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lexpressiondz.com": {
+      "urls": [
+        "https://lexpressiondz.com/feeds/index.rssi",
+        "https://www.lexpressiondz.com/feeds/index.rssi",
+        "http://lexpressiondz.com/feeds/index.rssi"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.014Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "akhersaa-dz.com": {
+      "urls": [
+        "https://www.akhersaa-dz.com/feed/",
+        "https://akhersaa-dz.com/?feed=rss2",
+        "http://www.akhersaa-dz.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.032Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "algeriemaintenant.com": {
+      "urls": [
+        "https://algeriemaintenant.com/feed/",
+        "https://algeriemaintenant.com/category/blog-algerien/feed/",
+        "https://algeriemaintenant.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.041Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "north-africa.com": {
+      "urls": [
+        "https://north-africa.com/feed/",
+        "http://north-africa.com/feed/",
+        "https://anchor.fm/s/3d7544cc/podcast/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.047Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lematindz.net": {
+      "urls": [
+        "https://www.lematindz.net/feed/index.1.rss",
+        "https://www.lematindz.net/feed/index.rss",
+        "https://www.lematindz.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.063Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "observalgerie.com": {
+      "urls": [
+        "https://www.observalgerie.com/feed/",
+        "https://observalgerie.com/feed/",
+        "https://www.observalgerie.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.118Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ennaharonline.com": {
+      "urls": [
+        "https://www.ennaharonline.com/feed/",
+        "https://www.ennaharonline.com/fr/feed/",
+        "https://www.ennaharonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.165Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "reflexiondz.net": {
+      "urls": [
+        "https://www.reflexiondz.net/xml/atom.xml",
+        "https://www.reflexiondz.net/xml/syndication.rss",
+        "https://www.reflexiondz.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.225Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elkhabar.com": {
+      "urls": [
+        "https://www.elkhabar.com/feeds/",
+        "https://www.elkhabar.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:21.975Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "el-massa.com": {
+      "urls": [
+        "https://www.el-massa.com/dz/?format=feed&type=atom",
+        "https://www.el-massa.com/dz/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:21.985Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "horizons-dz.com": {
+      "urls": [
+        "https://horizons-dz.com/index.1.rss",
+        "https://horizons-dz.com/index.1.atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.003Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lnr-dz.com": {
+      "urls": [
+        "https://www.lnr-dz.com/feed/",
+        "https://www.lnr-dz.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.018Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "recettemaman.com": {
+      "urls": [
+        "https://www.recettemaman.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/8691215519130326242/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.021Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lejourdalgerie.com": {
+      "urls": [
+        "https://lejourdalgerie.com/feed/",
+        "https://www.lejourdalgerie.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.025Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "transactiondalgerie.com": {
+      "urls": [
+        "https://transactiondalgerie.com/feed/",
+        "http://www.transactiondalgerie.com/index.php?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.034Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dzfoot.com": {
+      "urls": [
+        "https://www.dzfoot.com/feed",
+        "http://www.dzfoot.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.053Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "algerie.football": {
+      "urls": [
+        "https://algerie.football/feed/",
+        "https://algerie.football/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T21:02:22.060Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dzayerinfo.com": {
+      "urls": [
+        "https://dzayerinfo.com/ar/feed/",
+        "https://dzayerinfo.com/ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.075Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lematindalgerie.com": {
+      "urls": [
+        "https://lematindalgerie.com/feed/",
+        "https://lematindalgerie.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.080Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "algerie-focus.com": {
+      "urls": [
+        "https://www.algerie-focus.com/feed/",
+        "https://www.algerie-focus.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.083Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "canadalgerie.info": {
+      "urls": [
+        "https://www.canadalgerie.info/feed/",
+        "https://www.canadalgerie.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.144Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "annasronline.com": {
+      "urls": [
+        "https://www.annasronline.com/?format=feed&type=atom",
+        "https://www.annasronline.com/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.176Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "alger-republicain.com": {
+      "urls": [
+        "http://alger-republicain.com/spip.php?page=backend",
+        "http://www.alger-republicain.com/spip.php?page=backend"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.227Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lecourrier-dalgerie.com": {
+      "urls": [
+        "http://lecourrier-dalgerie.com/feed/",
+        "http://lecourrier-dalgerie.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.233Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "new.anasr.org": {
+      "urls": [
+        "http://www.new.anasr.org/feed/",
+        "http://www.new.anasr.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.237Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elwatan.com": {
+      "urls": [
+        "https://www.elwatan.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:21.994Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "algerie360.com": {
+      "urls": [
+        "https://www.algerie360.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.068Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "algerie-dz.com": {
+      "urls": [
+        "https://www.algerie-dz.com/spip.php?page=backend"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.087Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dnalgerie.com": {
+      "urls": [
+        "https://dnalgerie.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.125Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "diasporadz.com": {
+      "urls": [
+        "https://www.diasporadz.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.130Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "echoroukonline.com": {
+      "urls": [
+        "https://www.echoroukonline.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.153Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lesoirdalgerie.com": {
+      "urls": [
+        "https://www.lesoirdalgerie.com/article/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.187Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "depechedekabylie.com": {
+      "urls": [
+        "https://www.depechedekabylie.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.190Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "jeune-independant.net": {
+      "urls": [
+        "https://www.jeune-independant.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:22.235Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

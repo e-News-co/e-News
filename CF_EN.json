@@ -1,0 +1,343 @@
+{
+  "country_code": "CF",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 181,
+  "feeds": {
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.868Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "allafrica.com": {
+      "urls": [
+        "https://allafrica.com/tools/headlines/rdf/nigeria/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/liberia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/kenya/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/uganda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ethiopia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/education/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ghana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/malawi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/namibia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/somalia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/rwanda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zimbabwe/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sudan/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tanzania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gambia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mozambique/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/morocco/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/senegal/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/botswana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/egypt/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tunisia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/angola/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/benin/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burundi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/capeverde/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/centralafricanrepublic/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/chad/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/commodities/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/comoros/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cotedivoire/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/djibouti/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/equatorialguinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eritrea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eswatini/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gabon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guineabissau/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/lesotho/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/libya/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/madagascar/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritius/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sierraleone/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/togo/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westernsahara/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zambia/headlines.rdf"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.845Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "jeuneafrique.com": {
+      "urls": [
+        "https://www.jeuneafrique.com/feed/",
+        "https://www.jeuneafrique.com/pays/afrique/feed/",
+        "https://www.jeuneafrique.com/rubriques/politique/feed/",
+        "https://www.jeuneafrique.com/pays/cote-divoire/feed/",
+        "https://www.jeuneafrique.com/personnalites/felix-tshisekedi/feed/",
+        "https://www.jeuneafrique.com/pays/afrique-du-sud/feed/",
+        "https://www.jeuneafrique.com/pays/algerie/feed/",
+        "https://www.jeuneafrique.com/pays/botswana/feed/",
+        "https://www.jeuneafrique.com/pays/burundi/feed/",
+        "https://www.jeuneafrique.com/pays/cap-vert/feed/",
+        "https://www.jeuneafrique.com/pays/comores/feed/",
+        "https://www.jeuneafrique.com/pays/espagne/feed/",
+        "https://www.jeuneafrique.com/pays/eswatini/feed/",
+        "https://www.jeuneafrique.com/pays/guinee-bissau/feed/",
+        "https://www.jeuneafrique.com/pays/guinee/feed/",
+        "https://www.jeuneafrique.com/pays/lesotho/feed/",
+        "https://www.jeuneafrique.com/pays/malawi/feed/",
+        "https://www.jeuneafrique.com/pays/mali/feed/",
+        "https://www.jeuneafrique.com/pays/nigeria/feed/",
+        "https://www.jeuneafrique.com/pays/somalie/feed/",
+        "https://www.jeuneafrique.com/pays/zambie/feed/",
+        "https://www.jeuneafrique.com/personnalites/alpha-conde/feed/",
+        "https://www.jeuneafrique.com/personnalites/bachar-al-assad/feed/",
+        "https://www.jeuneafrique.com/rubriques/societe/feed/",
+        "https://www.jeuneafrique.com/tags/islam/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.862Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "en.wikipedia.org": {
+      "urls": [
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=1&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Blog&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=RSS&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Category:Blogs&action=feedrecentchanges&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.865Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.854Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.851Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "icicemac.com": {
+      "urls": [
+        "https://www.icicemac.com/feed/",
+        "http://www.icicemac.com/feed/",
+        "https://www.icicemac.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.848Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "afriquecentrale.info": {
+      "urls": [
+        "https://www.afriquecentrale.info/feed/",
+        "https://www.afriquecentrale.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.842Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "journaldebangui.com": {
+      "urls": [
+        "https://www.journaldebangui.com/feed/",
+        "http://www.journaldebangui.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.857Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "afrik.com": {
+      "urls": [
+        "https://www.afrik.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.838Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "centrafrique.info": {
+      "urls": [
+        "http://www.centrafrique.info/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:47.858Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

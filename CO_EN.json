@@ -1,0 +1,273 @@
+{
+  "country_code": "CO",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 55,
+  "feeds": {
+    "lafm.com.co": {
+      "urls": [
+        "https://www.lafm.com.co/rss/rss.xml",
+        "https://www.lafm.com.co/rss/sociedad.xml",
+        "https://www.lafm.com.co/rss/colombia.xml",
+        "https://www.lafm.com.co/rss/economia.xml",
+        "https://www.lafm.com.co/rss/politica.xml",
+        "https://www.lafm.com.co/rss/actualidad.xml",
+        "https://www.lafm.com.co/rss/orden-publico.xml",
+        "https://www.lafm.com.co/rss/internacional.xml",
+        "https://www.lafm.com.co/rss/judicial.xml",
+        "https://www.lafm.com.co/rss/bogota.xml",
+        "https://www.lafm.com.co/rss/deportes.xml",
+        "https://www.lafm.com.co/rss/entretenimiento.xml",
+        "https://www.lafm.com.co/rss/estilo-de-vida.xml",
+        "https://www.lafm.com.co/rss/secretos-la-fm.xml",
+        "https://www.lafm.com.co/rss/carta-del-director.xml",
+        "https://www.lafm.com.co/rss/emisiones.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.561Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "las2orillas.co": {
+      "urls": [
+        "https://www.las2orillas.co/feed/",
+        "https://www.las2orillas.co/web-stories/feed/",
+        "https://www.las2orillas.co/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.544Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "revistaaxxis.com.co": {
+      "urls": [
+        "https://revistaaxxis.com.co/feed/",
+        "https://revistaaxxis.com.co/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.584Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rtvc.gov.co": {
+      "urls": [
+        "https://www.rtvc.gov.co/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.581Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lasillavacia.com": {
+      "urls": [
+        "https://www.lasillavacia.com/feed/",
+        "https://www.lasillavacia.com/category/en-vivo/feed/",
+        "https://www.lasillavacia.com/category/podcasts/ausencias/feed/",
+        "https://www.lasillavacia.com/category/podcasts/cauca-verde/feed/",
+        "https://www.lasillavacia.com/category/podcasts/deja-vu/feed/",
+        "https://www.lasillavacia.com/category/podcasts/el-futuro-del-futuro/feed/",
+        "https://www.lasillavacia.com/category/podcasts/el-pais-de-los-millenials/feed/",
+        "https://www.lasillavacia.com/category/podcasts/huevos-revueltos-con-politica/feed/",
+        "https://www.lasillavacia.com/category/podcasts/los-incomodos/feed/",
+        "https://www.lasillavacia.com/category/podcasts/on-the-record/feed/",
+        "https://www.lasillavacia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.554Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "rtvcnoticias.com": {
+      "urls": [
+        "https://www.rtvcnoticias.com/feed",
+        "https://www.rtvcnoticias.com/etiquetas/podcast-al-oido/feed",
+        "https://www.rtvcnoticias.com/etiquetas/podcast/feed",
+        "https://www.rtvcnoticias.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.566Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thecitypaperbogota.com": {
+      "urls": [
+        "https://thecitypaperbogota.com/feed/",
+        "http://thecitypaperbogota.com/feed",
+        "https://thecitypaperbogota.com/comments/feed/",
+        "http://thecitypaperbogota.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "local",
+        "last_checked": "2026-01-31T21:02:03.572Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "colombiareports.com": {
+      "urls": [
+        "https://colombiareports.com/feed/atom/",
+        "https://colombiareports.com/feed/",
+        "https://colombiareports.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.569Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "hsbnoticias.com": {
+      "urls": [
+        "https://hsbnoticias.com/rss.xml",
+        "https://www.hsbnoticias.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.548Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "minuto30.com": {
+      "urls": [
+        "https://www.minuto30.com/feed/",
+        "https://www.minuto30.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.551Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thebogotapost.com": {
+      "urls": [
+        "https://thebogotapost.com/feed/",
+        "https://thebogotapost.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.575Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "latinamericanpost.com": {
+      "urls": [
+        "https://latinamericanpost.com/feed/",
+        "https://latinamericanpost.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.579Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "actualidadpanamericana.com": {
+      "urls": [
+        "http://actualidadpanamericana.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.556Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "noticiascaracol.com": {
+      "urls": [
+        "https://www.noticiascaracol.com/index.atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.557Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elmalpensante.com": {
+      "urls": [
+        "http://elmalpensante.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:03.585Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

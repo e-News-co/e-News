@@ -1,0 +1,216 @@
+{
+  "country_code": "BB",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 40,
+  "feeds": {
+    "cbc.bb": {
+      "urls": [
+        "https://www.cbc.bb/cbctest/feed/",
+        "https://www.cbc.bb/feed/",
+        "https://www.cbc.bb/tag/animal-feed/feed/",
+        "https://www.cbc.bb/tag/pinnacle-feeds-limited/feed/",
+        "https://www.cbc.bb/tag/pinnacle-feeds/feed/",
+        "https://www.cbc.bb/comments/feed/",
+        "https://www.cbc.bb/cbctest/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3480,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:41.506Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "barbadostoday.bb": {
+      "urls": [
+        "https://barbadostoday.bb/feed/atom/",
+        "https://barbadostoday.bb/feed/",
+        "http://barbadostoday.bb/feed/",
+        "http://barbadostoday.bb/category/regional/feed/",
+        "https://barbadostoday.bb/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1735,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:30.755Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "barbadosunderground.net": {
+      "urls": [
+        "https://barbadosunderground.net/feed/",
+        "https://barbadosunderground.net/comments/feed/",
+        "https://barbadosunderground.net/2015/02/02/producing-local-food-to-feed-touristscan-we-do-it/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 388,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:37.513Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bajanreporter.com": {
+      "urls": [
+        "https://www.bajanreporter.com/feed/",
+        "https://www.bajanreporter.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1125,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:34.647Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "barbadosgazette.com": {
+      "urls": [
+        "https://barbadosgazette.com/feed/",
+        "http://www.barbadosgazette.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1687,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:36.796Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cananewsonline.com": {
+      "urls": [
+        "https://cananewsonline.com/main/feed/",
+        "http://cananewsonline.com/main/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2610,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:33.520Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "businessbarbados.com": {
+      "urls": [
+        "http://feeds.feedburner.com/businessbarbados/BmUZ"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 935,
+        "category": "business",
+        "last_checked": "2026-01-31T19:05:52.465Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sportingbarbados.com": {
+      "urls": [
+        "http://sportingbarbados.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1636,
+        "category": "sports",
+        "last_checked": "2026-01-31T19:05:55.740Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "barbadospropertynews.com": {
+      "urls": [
+        "http://barbadospropertynews.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1638,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:54.104Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nationnews.com": {
+      "urls": [
+        "https://www.nationnews.com/site/feed/",
+        "https://nationnews.com/feed/",
+        "https://www.nationnews.com/nationnews/news/feed/",
+        "https://www.nationnews.com/feed/rss",
+        "https://www.nationnews.com/feed",
+        "https://www.nationnews.com/feed/",
+        "https://www.nationnews.com/category/blogs/feed/",
+        "https://nationnews.com/comments/feed/",
+        "https://www.nationnews.com/nationnews/news/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:28.814Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "starcomnetwork.net": {
+      "urls": [
+        "https://starcomnetwork.net/feed/",
+        "https://starcomnetwork.net/feed/podcast/starcom-network/",
+        "https://starcomnetwork.net/radio-station-hosted-podcast/hott-fm/feed/",
+        "https://starcomnetwork.net/radio-station-hosted-podcast/life-fm/feed/",
+        "https://starcomnetwork.net/radio-station-hosted-podcast/the-beat-fm/feed/",
+        "https://starcomnetwork.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:51.530Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "barbadosadvocate.com": {
+      "urls": [
+        "https://www.barbadosadvocate.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T19:05:18.778Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

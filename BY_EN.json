@@ -1,0 +1,484 @@
+{
+  "country_code": "BY",
+  "language_code": "EN",
+  "total_domains": 25,
+  "total_feeds": 126,
+  "feeds": {
+    "zviazda.by": {
+      "urls": [
+        "https://zviazda.by/be/feed",
+        "https://zviazda.by/be/rss.xml",
+        "https://zviazda.by/be/taxonomy/term/133/feed",
+        "https://zviazda.by/en/taxonomy/term/133/feed",
+        "https://zviazda.by/ru/taxonomy/term/133/feed",
+        "https://zviazda.by/be/taxonomy/term/114742/feed",
+        "https://zviazda.by/be/taxonomy/term/84091/feed",
+        "https://zviazda.by/en/taxonomy/term/84091/feed",
+        "https://zviazda.by/ru/taxonomy/term/84091/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.475Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "belta.by": {
+      "urls": [
+        "https://belta.by/rss",
+        "https://belta.by/rss/",
+        "https://www.belta.by/rss",
+        "https://atom.belta.by/ru/rss_ru"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.459Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bdg.by": {
+      "urls": [
+        "https://bdg.by/rss",
+        "https://bdg.by:443/rss/",
+        "https://bdg.news/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.452Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "zvyazda.minsk.by": {
+      "urls": [
+        "https://zvyazda.minsk.by/rss.xml",
+        "https://zvyazda.minsk.by/rssturbo.xml",
+        "https://zvyazda.minsk.by/rssdzen.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.463Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vb.by": {
+      "urls": [
+        "https://vb.by/rss.xml",
+        "https://vb.by/feed",
+        "https://vb.by/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.507Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gs.by": {
+      "urls": [
+        "https://www.gs.by/feed/",
+        "https://www.gs.by/rss.xml",
+        "http://gs.by/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.512Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ecopress.by": {
+      "urls": [
+        "http://www.ecopress.by/rss/news.rss",
+        "https://www.ecopress.by/rss/news.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.484Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gp.by": {
+      "urls": [
+        "https://gp.by/feed/",
+        "https://gp.by/feed/comments/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.494Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "minsknews.by": {
+      "urls": [
+        "https://minsknews.by/news-list/main/feed/",
+        "https://minsknews.by/news-list/blog-post/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.498Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "neg.by": {
+      "urls": [
+        "https://neg.by/rss",
+        "https://neg.by/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.518Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sb.by": {
+      "urls": [
+        "https://www.sb.by/articles/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.454Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "belapan.by": {
+      "urls": [
+        "https://belapan.by/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.480Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "belmarket.by": {
+      "urls": [
+        "https://belmarket.by/news/news.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-01-31T21:01:36.486Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vgr.by": {
+      "urls": [
+        "https://vgr.by/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.509Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "aif.by": {
+      "urls": [
+        "https://aif.by/rss/all.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.514Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nashaniva.com": {
+      "urls": [
+        "https://nashaniva.com/rss-ca/707/",
+        "https://nashaniva.com/rss-ca/708/",
+        "https://nashaniva.com/rss-ca/709/",
+        "https://nashaniva.com/rss-ca/710/",
+        "https://nashaniva.com/rss-ca/711/",
+        "https://nashaniva.com/rss-ca/712/",
+        "https://nashaniva.com/rss-ca/713/",
+        "https://nashaniva.com/rss-ca/714/",
+        "https://nashaniva.com/rss-ca/715/",
+        "https://nashaniva.com/rss-ca/716/",
+        "https://nashaniva.com/rss-ca/717/",
+        "https://nashaniva.com/rss-ca/718/",
+        "https://nashaniva.com/ru/rss-rt/1/",
+        "https://nashaniva.com/rss-ca/615/",
+        "https://nashaniva.com/ru/rss-rt/3/",
+        "https://nashaniva.com/rss-ca/706/",
+        "https://nashaniva.com/ru/rss-rt/2/",
+        "https://nashaniva.com/rss-ca/584/",
+        "https://nashaniva.com/rss-ca/611/",
+        "https://nashaniva.com/rss-ca/566/",
+        "https://nashaniva.com/rss-ca/691/",
+        "https://nashaniva.com/rss-ca/619/",
+        "https://nashaniva.com/rss-ca/643/",
+        "https://nashaniva.com/rss-ca/602/",
+        "https://nashaniva.com/rss-ca/612/",
+        "https://nashaniva.com/rss-ca/622/",
+        "https://nashaniva.com/rss-ca/623/",
+        "https://nashaniva.com/rss-ca/624/",
+        "https://nashaniva.com/rss-ca/625/",
+        "https://nashaniva.com/rss-ca/629/",
+        "https://nashaniva.com/rss-ca/639/",
+        "https://nashaniva.com/rss-ca/640/",
+        "https://nashaniva.com/rss-ca/646/",
+        "https://nashaniva.com/rss-ca/647/",
+        "https://nashaniva.com/rss-ca/651/",
+        "https://nashaniva.com/rss-ca/652/",
+        "https://nashaniva.com/rss-ca/658/",
+        "https://nashaniva.com/rss-ca/672/",
+        "https://nashaniva.com/rss-ca/685/",
+        "https://nashaniva.com/rss-ca/700/",
+        "https://nashaniva.com/ru/rss-rt/4/",
+        "https://nashaniva.com/ru/rss-rt/5/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.478Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "charter97.org": {
+      "urls": [
+        "https://charter97.org/rss.php",
+        "https://charter97.org/ru/rss/all/",
+        "https://charter97.org/ru/rss/politics/",
+        "https://charter97.org/en/rss/all/",
+        "https://charter97.org/en/rss/politics/",
+        "https://charter97.org/ru/rss/society/",
+        "https://charter97.org/ru/rss/leisure/",
+        "https://charter97.org/ru/rss/economics/",
+        "https://charter97.org/ru/rss/events/",
+        "https://charter97.org/ru/rss/sport/",
+        "https://charter97.org/en/rss/economics/",
+        "https://charter97.org/en/rss/society/",
+        "https://charter97.org/ru/rss/auto/",
+        "https://charter97.org/ru/rss/hi-tech/",
+        "https://charter97.org/en/rss/events/",
+        "https://charter97.org/ru/rss/culture/",
+        "https://charter97.org/en/rss/auto/",
+        "https://charter97.org/en/rss/culture/",
+        "https://charter97.org/en/rss/hi-tech/",
+        "https://charter97.org/en/rss/history/",
+        "https://charter97.org/en/rss/interview/",
+        "https://charter97.org/en/rss/leisure/",
+        "https://charter97.org/en/rss/opinion/",
+        "https://charter97.org/en/rss/sport/",
+        "https://charter97.org/ru/rss/history/",
+        "https://charter97.org/ru/rss/interview/",
+        "https://charter97.org/ru/rss/opinion/",
+        "https://charter97.org/ru/rss/health/",
+        "https://charter97.org/en/rss/health/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.467Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "svaboda.org": {
+      "urls": [
+        "https://www.svaboda.org/api/",
+        "https://www.svaboda.org/api/zyvqp_eqoopy",
+        "https://www.svaboda.org/api/zvgrppeo_qpm",
+        "https://www.svaboda.org/podcast/",
+        "https://www.svaboda.org/podcast/video.aspx",
+        "http://svaboda.org/api/",
+        "http://svaboda.org/sitemap.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.448Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "novychas.org": {
+      "urls": [
+        "https://novychas.org/feed",
+        "https://novychas.org/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.471Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nv-online.info": {
+      "urls": [
+        "https://www.nv-online.info/feed",
+        "https://nv-online.info/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.502Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetaby.com": {
+      "urls": [
+        "https://gazetaby.com/rss/",
+        "http://feeds.feedburner.com/gazetabycom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.525Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "belarustoday.info": {
+      "urls": [
+        "http://belarustoday.info/rss/ru_rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.482Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bdg.news": {
+      "urls": [
+        "http://bdg.news/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.488Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "telegraf.news": {
+      "urls": [
+        "https://telegraf.news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.520Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "udf.name": {
+      "urls": [
+        "https://udf.name/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:36.522Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

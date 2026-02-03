@@ -1,0 +1,789 @@
+{
+  "country_code": "BA",
+  "language_code": "EN",
+  "total_domains": 39,
+  "total_feeds": 235,
+  "feeds": {
+    "slobodna-bosna.ba": {
+      "urls": [
+        "http://www.slobodna-bosna.ba/rss/100/sve_vijesti.html",
+        "https://www.slobodna-bosna.ba/rss/100/sve_vijesti.html",
+        "https://www.slobodna-bosna.ba/rss/14/vijesti.html",
+        "https://www.slobodna-bosna.ba/rss/3/hronika.html",
+        "https://www.slobodna-bosna.ba/rss/1/politika.html",
+        "https://www.slobodna-bosna.ba/rss/5/svijet.html",
+        "https://www.slobodna-bosna.ba/rss/16/regija.html",
+        "https://www.slobodna-bosna.ba/rss/2/ekonomija.html",
+        "https://www.slobodna-bosna.ba/rss/30/evropa.html",
+        "https://www.slobodna-bosna.ba/rss/12/drustvo.html",
+        "https://www.slobodna-bosna.ba/rss/4/mini_market.html",
+        "https://www.slobodna-bosna.ba/rss/7/sport.html",
+        "http://www.slobodna-bosna.ba/rss/16/regija.html",
+        "http://www.slobodna-bosna.ba/rss/14/vijesti.html",
+        "http://www.slobodna-bosna.ba/rss/5/svijet.html",
+        "https://www.slobodna-bosna.ba/rss/15/sareni_svijet.html",
+        "https://www.slobodna-bosna.ba/rss/18/zdravlje.html",
+        "https://www.slobodna-bosna.ba/rss/24/estrada.html",
+        "https://www.slobodna-bosna.ba/rss/26/jeste_li_znali.html",
+        "http://www.slobodna-bosna.ba/rss/1/politika.html",
+        "http://www.slobodna-bosna.ba/rss/12/drustvo.html",
+        "https://www.slobodna-bosna.ba/rss/10/auto.html",
+        "https://www.slobodna-bosna.ba/rss/13/show.html",
+        "https://www.slobodna-bosna.ba/rss/17/hitec.html",
+        "https://www.slobodna-bosna.ba/rss/21/gastro.html",
+        "https://www.slobodna-bosna.ba/rss/22/zabava.html",
+        "https://www.slobodna-bosna.ba/rss/28/zena.html",
+        "https://www.slobodna-bosna.ba/rss/31/intervjui.html",
+        "https://www.slobodna-bosna.ba/rss/6/kultura.html",
+        "https://www.slobodna-bosna.ba/rss/11/senad_ante_portal.html",
+        "https://www.slobodna-bosna.ba/rss/23/sex_i_grad.html",
+        "https://www.slobodna-bosna.ba/rss/25/frljoka.html",
+        "https://www.slobodna-bosna.ba/rss/27/drago_pilsel_moj_stav.html",
+        "https://www.slobodna-bosna.ba/rss/29/sjecanje.html",
+        "http://www.slobodna-bosna.ba/rss/3/hronika.html",
+        "http://www.slobodna-bosna.ba/rss/4/mini_market.html",
+        "http://www.slobodna-bosna.ba/rss/7/sport.html",
+        "http://www.slobodna-bosna.ba/rss/2/ekonomija.html",
+        "http://www.slobodna-bosna.ba/rss/18/zdravlje.html",
+        "http://www.slobodna-bosna.ba/rss/15/sareni_svijet.html",
+        "http://www.slobodna-bosna.ba/rss/24/estrada.html",
+        "http://www.slobodna-bosna.ba/rss/13/show.html",
+        "http://www.slobodna-bosna.ba/rss/6/kultura.html",
+        "http://www.slobodna-bosna.ba/rss/10/auto.html",
+        "http://www.slobodna-bosna.ba/rss/17/hitec.html",
+        "http://www.slobodna-bosna.ba/rss/21/gastro.html",
+        "http://www.slobodna-bosna.ba/rss/22/zabava.html",
+        "http://www.slobodna-bosna.ba/rss/26/jeste_li_znali.html",
+        "http://www.slobodna-bosna.ba/rss/11/senad_ante_portal.html",
+        "http://www.slobodna-bosna.ba/rss/23/sex_i_grad.html",
+        "http://www.slobodna-bosna.ba/rss/25/frljoka.html",
+        "http://www.slobodna-bosna.ba/rss/27/drago_pilsel_moj_stav.html"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1077,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:45.907Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haber.ba": {
+      "urls": [
+        "https://www.haber.ba/feed/atom",
+        "https://www.haber.ba/feed",
+        "https://www.haber.ba/vijesti/feed",
+        "https://www.haber.ba/zanimljivosti/feed",
+        "https://www.haber.ba/vijesti/svijet/feed",
+        "https://www.haber.ba/zanimljivosti/svastara/feed",
+        "https://www.haber.ba/lifestyle/feed",
+        "https://www.haber.ba/biznis/feed",
+        "https://www.haber.ba/lifestyle/zdravlje/feed",
+        "https://www.haber.ba/vijesti/bih/feed",
+        "https://www.haber.ba/showbiz/feed",
+        "https://www.haber.ba/sport/feed",
+        "https://www.haber.ba/autosvijet/feed",
+        "https://www.haber.ba/sci-tech/feed",
+        "https://www.haber.ba/biznis/biznews/feed",
+        "https://www.haber.ba/lifestyle/hrana-i-pice/feed",
+        "https://www.haber.ba/sport/fudbal/feed",
+        "https://www.haber.ba/vijesti/politika/feed",
+        "https://www.haber.ba/vijesti/region/feed",
+        "https://www.haber.ba/autosvijet/aktuelno/feed",
+        "https://www.haber.ba/autosvijet/noviteti/feed",
+        "https://www.haber.ba/biznis/energija/feed",
+        "https://www.haber.ba/biznis/posao/feed",
+        "https://www.haber.ba/lifestyle/bebe/feed",
+        "https://www.haber.ba/lifestyle/moda-i-ljepota/feed",
+        "https://www.haber.ba/sci-tech/internet/feed",
+        "https://www.haber.ba/sci-tech/kompjuteri-gadgeti/feed",
+        "https://www.haber.ba/sci-tech/mobiteli/feed",
+        "https://www.haber.ba/sci-tech/nauka/feed",
+        "https://www.haber.ba/showbiz/estrada/feed",
+        "https://www.haber.ba/showbiz/film-i-tv/feed",
+        "https://www.haber.ba/showbiz/muzika/feed",
+        "https://www.haber.ba/sport/automoto-sport/feed",
+        "https://www.haber.ba/sport/kosarka/feed",
+        "https://www.haber.ba/sport/ostali-sportovi/feed",
+        "https://www.haber.ba/sport/rukomet/feed",
+        "https://www.haber.ba/sport/tenis/feed",
+        "https://www.haber.ba/vijesti/crna-hronika/feed",
+        "https://www.haber.ba/vijesti/humanost/feed",
+        "https://www.haber.ba/vijesti/kultura/feed",
+        "https://www.haber.ba/zanimljivosti/luda-planeta/feed",
+        "https://www.haber.ba/zanimljivosti/misterije/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1780,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:01.907Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fokus.ba": {
+      "urls": [
+        "https://www.fokus.ba/feed/json/",
+        "https://www.fokus.ba/feed/atom/",
+        "https://www.fokus.ba/feed/",
+        "http://www.fokus.ba/feed/",
+        "https://www.fokus.ba/web-stories/feed/",
+        "https://www.fokus.ba/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3731,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:55.707Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vijesti.ba": {
+      "urls": [
+        "https://vijesti.ba/rss/svevijesti",
+        "https://www.vijesti.ba/rss/svevijesti",
+        "http://vijesti.ba/rss/svevijesti"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 756,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:48.158Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "krupljani.ba": {
+      "urls": [
+        "https://krupljani.ba/feed",
+        "https://krupljani.ba/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 965,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:19.111Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bhrt.ba": {
+      "urls": [
+        "https://bhrt.ba/feed/",
+        "https://bhrt.ba/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1022,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:24.684Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vecernji.ba": {
+      "urls": [
+        "https://www.vecernji.ba/feeds/latest",
+        "https://www.vecernji.ba/feeds/placeholder-head/most_read"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1058,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:51.676Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "biznis.ba": {
+      "urls": [
+        "https://biznis.ba/rss",
+        "http://biznis.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1127,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:31.751Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "svjetlorijeci.ba": {
+      "urls": [
+        "https://www.svjetlorijeci.ba/feed/atom/",
+        "https://www.svjetlorijeci.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1222,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:43.826Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "magazin.ba": {
+      "urls": [
+        "https://magazin.ba/feed/",
+        "https://magazin.ba/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1328,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:07.687Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "akta.ba": {
+      "urls": [
+        "http://www.akta.ba/rss",
+        "https://www.akta.ba/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1426,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:20.895Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "capital.ba": {
+      "urls": [
+        "https://capital.ba/feed/",
+        "https://capital.ba/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1483,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:22.381Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mondo.ba": {
+      "urls": [
+        "https://mondo.ba/rss/629/Naslovna"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 919,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:56.626Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "krajina.ba": {
+      "urls": [
+        "https://krajina.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 920,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:00.107Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "n1info.ba": {
+      "urls": [
+        "https://n1info.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1053,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:47.400Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nasarijec.ba": {
+      "urls": [
+        "https://nasarijec.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1068,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:12.957Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sportsport.ba": {
+      "urls": [
+        "https://sportsport.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1280,
+        "category": "sports",
+        "last_checked": "2026-01-31T18:59:23.661Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "radioljubuski.ba": {
+      "urls": [
+        "https://radioljubuski.ba/index.php/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1312,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:11.888Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "azra.ba": {
+      "urls": [
+        "https://azra.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1336,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:33.192Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pogled.ba": {
+      "urls": [
+        "https://pogled.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1434,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:09.121Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mojusk.ba": {
+      "urls": [
+        "https://mojusk.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2280,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:16.946Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tip.ba": {
+      "urls": [
+        "https://tip.ba/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2399,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:04.306Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "klix.ba": {
+      "urls": [
+        "https://www.klix.ba/rss/naslovnica",
+        "https://www.klix.ba/rss/svevijesti",
+        "https://www.klix.ba/rss/vijesti/eu-integracije",
+        "https://www.klix.ba/rss/vijesti",
+        "https://www.klix.ba/rss/vijesti/bih",
+        "https://www.klix.ba/rss",
+        "https://www.klix.ba/rss/sport",
+        "https://www.klix.ba/rss/sport/nogomet",
+        "https://www.klix.ba/rss/lifestyle",
+        "https://www.klix.ba/rss/vijesti/svijet",
+        "https://www.klix.ba/rss/biznis",
+        "https://www.klix.ba/rss/vijesti/regija",
+        "https://www.klix.ba/rss/magazin",
+        "https://www.klix.ba/rss/scitech",
+        "https://www.klix.ba/rss/auto",
+        "https://www.klix.ba/rss/lifestyle/zdravlje",
+        "https://www.klix.ba/rss/vijesti/crna-hronika",
+        "https://www.klix.ba/rss/biznis/privreda",
+        "https://www.klix.ba/rss/magazin/showbiz",
+        "https://www.klix.ba/rss/magazin/film-tv",
+        "https://www.klix.ba/rss/magazin/muzika",
+        "https://www.klix.ba/rss/magazin/zanimljivosti",
+        "https://www.klix.ba/rss/scitech/nauka",
+        "https://www.klix.ba/rss/scitech/tehnologija",
+        "https://www.klix.ba/rss/sport/kosarka",
+        "https://www.klix.ba/rss/auto/noviteti",
+        "https://www.klix.ba/rss/biznis/berza",
+        "https://www.klix.ba/rss/lifestyle/bebe",
+        "https://www.klix.ba/rss/lifestyle/gastro",
+        "https://www.klix.ba/rss/sport/tenis",
+        "https://www.klix.ba/rss/vijesti/kultura",
+        "https://www.klix.ba/rss/auto/koncepti",
+        "https://www.klix.ba/rss/auto/testovi",
+        "https://www.klix.ba/rss/auto/tuning",
+        "https://www.klix.ba/rss/biznis/finansije",
+        "https://www.klix.ba/rss/biznis/investicije",
+        "https://www.klix.ba/rss/biznis/posao",
+        "https://www.klix.ba/rss/biznis/smart-cash",
+        "https://www.klix.ba/rss/biznis/startupi",
+        "https://www.klix.ba/rss/lifestyle/kucaiured",
+        "https://www.klix.ba/rss/lifestyle/vezeiseks",
+        "https://www.klix.ba/rss/magazin/ljepotice",
+        "https://www.klix.ba/rss/sport/rukomet",
+        "https://www.klix.ba/rss/sport/skijanje",
+        "https://www.klix.ba/rss/vijesti/humanitarne-akcije"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:46.347Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dnevnik.ba": {
+      "urls": [
+        "https://www.dnevnik.ba/feed",
+        "https://www.dnevnik.ba/vijesti/feed",
+        "https://www.dnevnik.ba/sport/feed",
+        "https://www.dnevnik.ba/rss.xml",
+        "https://www.dnevnik.ba/crna-kronika/feed",
+        "https://www.dnevnik.ba/interview/feed",
+        "https://www.dnevnik.ba/lifestyle/feed",
+        "https://www.dnevnik.ba/teme/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:58.480Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dnevni-list.ba": {
+      "urls": [
+        "https://www.dnevni-list.ba/feed/",
+        "https://www.dnevni-list.ba/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:41.525Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "avaz.ba": {
+      "urls": [
+        "https://avaz.ba/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:31.485Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nezavisne.com": {
+      "urls": [
+        "https://www.nezavisne.com/rss/sport",
+        "https://www.nezavisne.com/rss/najnovije",
+        "https://feeds.feedburner.com/Sport-NezavisneNovine",
+        "https://www.nezavisne.com/rss/novosti",
+        "https://www.nezavisne.com/rss/ekonomija",
+        "https://www.nezavisne.com/rss/zivot-stil",
+        "https://www.nezavisne.com/rss/magazin",
+        "https://www.nezavisne.com/rss/kultura",
+        "https://www.nezavisne.com/rss/nauka-tehnologija",
+        "https://feeds.feedburner.com/NezavisneNovine",
+        "https://www.nezavisne.com/rss/automobili",
+        "https://feeds.feedburner.com/Posao-NezavisneNovine",
+        "https://feeds.feedburner.com/Novosti-NezavisneNovine",
+        "https://feeds.feedburner.com/ZivotIStil-NezavisneNovine",
+        "https://feeds.feedburner.com/Magazin-NezavisneNovine",
+        "https://feeds.feedburner.com/NaukaITehnologija-NezavisneNovine",
+        "https://feeds.feedburner.com/UmjetnostIZabava-NezavisneNovine",
+        "https://feeds.feedburner.com/Auto-NezavisneNovine",
+        "https://feeds.feedburner.com/Komentari-NezavisneNovine"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 763,
+        "category": "sports",
+        "last_checked": "2026-01-31T18:58:42.602Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "24sata.info": {
+      "urls": [
+        "https://24sata.info/feed/",
+        "http://24sata.info/feed/",
+        "https://24sata.info/comments/feed/",
+        "https://24sata.info/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 705,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:59.187Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "livno-online.com": {
+      "urls": [
+        "https://livno-online.com/?format=feed&type=atom",
+        "https://www.livno-online.com/?format=feed&type=atom",
+        "https://livno-online.com/?format=feed&type=rss",
+        "https://www.livno-online.com/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1176,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:18.144Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "spiritofbosnia.org": {
+      "urls": [
+        "https://www.spiritofbosnia.org/feed/",
+        "https://www.spiritofbosnia.org/comments/feed/",
+        "https://www.spiritofbosnia.org/current-issue/feed/",
+        "https://www.spiritofbosnia.org/wp-content/plugins/nextgen-gallery/src/Legacy/xml/media-rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1934,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:35.641Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "6yka.com": {
+      "urls": [
+        "https://6yka.com/feed/",
+        "https://6yka.com/kategorija/podcast/feed/",
+        "https://6yka.com/tag/buka-podcast/feed/",
+        "https://6yka.com/tag/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2321,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:50.583Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "palelive.com": {
+      "urls": [
+        "https://www.palelive.com/feed/",
+        "https://www.palelive.com/comments/feed/",
+        "http://www.palelive.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1282,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:14.251Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bh-index.com": {
+      "urls": [
+        "https://www.bh-index.com/feed/",
+        "https://www.bh-index.com/comments/feed/",
+        "https://www.bh-index.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1409,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:10.576Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "poskok.info": {
+      "urls": [
+        "https://poskok.info/feed/",
+        "https://poskok.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 408,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:14.666Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "glassrpske.com": {
+      "urls": [
+        "https://www.glassrpske.com/cir/rss/najnovije",
+        "https://www.glassrpske.com/lat/rss/najnovije"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 713,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:44.656Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hrvatskarijec.rs": {
+      "urls": [
+        "https://www.hrvatskarijec.rs/feed/",
+        "http://www.hrvatskarijec.rs/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1381,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:28.062Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rtrs.tv": {
+      "urls": [
+        "https://www.rtrs.tv/vijesti/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 820,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:25.504Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "balkans.aljazeera.net": {
+      "urls": [
+        "https://balkans.aljazeera.net/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:26.527Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zenicablog.com": {
+      "urls": [
+        "https://www.zenicablog.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2050,
+        "category": "general",
+        "last_checked": "2026-01-31T18:59:06.356Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

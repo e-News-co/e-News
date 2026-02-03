@@ -1,0 +1,2323 @@
+{
+  "country_code": "AR",
+  "language_code": "EN",
+  "total_domains": 86,
+  "total_feeds": 1111,
+  "feeds": {
+    "lanacion.com.ar": {
+      "urls": [
+        "https://www.lanacion.com.ar/arcio/rss/",
+        "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+        "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-origen=2",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=7773",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=7",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=120",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=131",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=272",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=30",
+        "https://audioboom.com/channels/4953134.rss",
+        "https://audioboom.com/channels/4963106.rss",
+        "https://audioboom.com/channels/4963108.rss",
+        "https://audioboom.com/channels/4963717.rss",
+        "https://audioboom.com/channels/4968703.rss",
+        "https://audioboom.com/channels/4969521.rss",
+        "https://audioboom.com/channels/4969741.rss",
+        "https://audioboom.com/channels/4976567.rss",
+        "https://audioboom.com/channels/4981260.rss",
+        "https://audioboom.com/channels/5020364.rss",
+        "https://audioboom.com/channels/5024507.rss",
+        "https://audioboom.com/channels/5054633.rss",
+        "https://audioboom.com/channels/5090626.rss",
+        "https://audioboom.com/channels/5118708.rss",
+        "https://blog.medium.com/feed",
+        "https://blog.audioboom.com/feed",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=28",
+        "https://anchor.fm/s/b94f100/podcast/rss",
+        "https://anchor.fm/s/107a8593c/podcast/rss",
+        "https://anchor.fm/s/1087861e0/podcast/rss",
+        "https://anchor.fm/s/3083178/podcast/rss",
+        "https://anchor.fm/s/c1c490c/podcast/rss",
+        "https://anchor.fm/s/e7a6328/podcast/rss",
+        "https://blog.anchor.fm/create/rss.xml",
+        "https://blog.anchor.fm/grow/rss.xml",
+        "https://blog.anchor.fm/hip/rss.xml",
+        "https://blog.anchor.fm/share/rss.xml",
+        "https://blog.anchor.fm/updates/rss.xml",
+        "https://br.blog.anchor.fm/create/rss.xml",
+        "https://br.blog.anchor.fm/grow/rss.xml",
+        "https://br.blog.anchor.fm/updates/rss.xml",
+        "https://de.blog.anchor.fm/create/rss.xml",
+        "https://de.blog.anchor.fm/grow/rss.xml",
+        "https://de.blog.anchor.fm/hip/rss.xml",
+        "https://de.blog.anchor.fm/share/rss.xml",
+        "https://de.blog.anchor.fm/updates/rss.xml",
+        "https://es.blog.anchor.fm/create/rss.xml",
+        "https://es.blog.anchor.fm/grow/rss.xml",
+        "https://es.blog.anchor.fm/share/rss.xml",
+        "https://es.blog.anchor.fm/updates/rss.xml",
+        "https://fr.blog.anchor.fm/create/rss.xml",
+        "https://fr.blog.anchor.fm/grow/rss.xml",
+        "https://fr.blog.anchor.fm/hip/rss.xml",
+        "https://fr.blog.anchor.fm/share/rss.xml",
+        "https://fr.blog.anchor.fm/updates/rss.xml",
+        "https://id.blog.anchor.fm/create/rss.xml",
+        "https://id.blog.anchor.fm/grow/rss.xml",
+        "https://id.blog.anchor.fm/hip/rss.xml",
+        "https://id.blog.anchor.fm/share/rss.xml",
+        "https://id.blog.anchor.fm/updates/rss.xml",
+        "https://it.blog.anchor.fm/create/rss.xml",
+        "https://it.blog.anchor.fm/hip/rss.xml",
+        "https://it.blog.anchor.fm/share/rss.xml",
+        "https://ja.blog.anchor.fm/create/rss.xml",
+        "https://ja.blog.anchor.fm/grow/rss.xml",
+        "https://ko.blog.anchor.fm/create/rss.xml",
+        "https://ko.blog.anchor.fm/grow/rss.xml",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=337",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=432",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=1312",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=1344",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=1363",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=347",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=371",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=421",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=494",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=504",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=6373",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-categoria_id=6734",
+        "http://contenidos.lanacion.com.ar/herramientas/rss-origen=1",
+        "https://feeds.megaphone.fm/GLT1158789509",
+        "https://feeds.megaphone.fm/TMGP2270700721",
+        "https://blog.spreaker.com/feed/",
+        "https://blog.spreaker.com/category/marketing/feed/",
+        "https://blog.spreaker.com/category/monetization/feed/",
+        "https://medium.com/feed/audioboom/tagged/audio",
+        "https://medium.com/feed/audioboom/tagged/best-practices",
+        "https://medium.com/feed/audioboom/tagged/buzzfeed",
+        "https://medium.com/feed/audioboom/tagged/editing",
+        "https://medium.com/feed/audioboom/tagged/embeddable-player",
+        "https://medium.com/feed/audioboom/tagged/huffington-post",
+        "https://medium.com/feed/audioboom/tagged/king-falls-am",
+        "https://medium.com/feed/audioboom/tagged/stock-market",
+        "https://www.spreaker.com/show/4244281/episodes/feed",
+        "https://blog.spreaker.com/9-steps-making-great-podcast-cover-art/feed/",
+        "https://blog.spreaker.com/comments/feed/",
+        "https://blog.spreaker.com/how-to-create-the-perfect-podcast-avatar/feed/",
+        "https://blog.spreaker.com/how-to-get-podcast-sponsors-the-ultimate-guide/feed/",
+        "https://blog.spreaker.com/how-to-start-a-podcast-a-beginners-guide/feed/",
+        "https://blog.spreaker.com/podcast-marketing-10-ways-get-more-listeners/feed/",
+        "https://blog.spreaker.com/podcast-monetization-programmatic/feed/",
+        "https://blog.spreaker.com/podcast-monetization-what-you-need-to-know/feed/",
+        "https://blog.spreaker.com/podcast-visual-identity/feed/",
+        "https://blog.spreaker.com/the-ultimate-guide-to-promote-your-podcast-part-1/feed/",
+        "https://www.spreaker.com/show/2778176/episodes/feed",
+        "https://www.spreaker.com/show/2321086/episodes/feed",
+        "https://www.spreaker.com/show/3101278/episodes/feed",
+        "https://www.spreaker.com/show/3588169/episodes/feed",
+        "https://www.spreaker.com/show/3677698/episodes/feed",
+        "https://www.spreaker.com/show/4251960/episodes/feed",
+        "https://www.spreaker.com/show/4719087/episodes/feed",
+        "https://www.spreaker.com/show/4723102/episodes/feed",
+        "https://www.spreaker.com/show/4723285/episodes/feed",
+        "https://www.spreaker.com/show/4723377/episodes/feed",
+        "https://www.spreaker.com/show/4723595/episodes/feed",
+        "https://www.spreaker.com/show/4723635/episodes/feed",
+        "https://www.spreaker.com/show/4723654/episodes/feed",
+        "https://www.spreaker.com/show/4724218/episodes/feed",
+        "https://www.spreaker.com/show/4724394/episodes/feed",
+        "https://www.spreaker.com/show/4724445/episodes/feed",
+        "https://www.spreaker.com/show/4724478/episodes/feed",
+        "https://www.spreaker.com/show/4724495/episodes/feed",
+        "https://www.spreaker.com/show/4725236/episodes/feed",
+        "https://www.spreaker.com/show/4725381/episodes/feed",
+        "https://www.spreaker.com/show/4725388/episodes/feed",
+        "https://www.spreaker.com/show/4725390/episodes/feed",
+        "https://www.spreaker.com/show/4725400/episodes/feed",
+        "https://www.spreaker.com/show/4725816/episodes/feed",
+        "https://www.spreaker.com/show/5182590/episodes/feed",
+        "https://www.spreaker.com/show/5742792/episodes/feed",
+        "https://www.spreaker.com/show/5782546/episodes/feed",
+        "https://www.spreaker.com/show/5828421/episodes/feed",
+        "https://www.spreaker.com/show/5928672/episodes/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1141,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:36.414Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elterritorio.com.ar": {
+      "urls": [
+        "https://www.elterritorio.com.ar/rss/noticias",
+        "https://www.elterritorio.com.ar/rss/misiones",
+        "https://www.elterritorio.com.ar/rss/policiales",
+        "https://www.elterritorio.com.ar/rss/deportes",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-informe-de-domingo",
+        "https://www.elterritorio.com.ar/rss/coronavirus",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-economia",
+        "https://www.elterritorio.com.ar/rss/pais-y-mundo",
+        "https://www.elterritorio.com.ar/rss/actualidad",
+        "https://www.elterritorio.com.ar/rss/cultura",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-deportes",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-foja-cero",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-opinion",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-sociedad",
+        "https://www.elterritorio.com.ar/rss/agro",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-agenda",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-el-pais-y-el-mundo",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-misiones-y-la-region",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-politica",
+        "https://www.elterritorio.com.ar/rss/territorio-fun",
+        "https://www.elterritorio.com.ar/rss/viajes-turismo",
+        "https://www.elterritorio.com.ar/rss/vida-estilo",
+        "https://www.elterritorio.com.ar/rss/charlas-el-territorio",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-gonzalo-peltzer",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-marca-de-los-dias",
+        "https://www.elterritorio.com.ar/rss/edicion-impresa-turismo",
+        "https://www.elterritorio.com.ar/rss/encarnacion",
+        "https://www.elterritorio.com.ar/rss/espectaculos-farandula",
+        "https://www.elterritorio.com.ar/rss/fiesta-del-inmigrante",
+        "https://www.elterritorio.com.ar/rss/infografias",
+        "https://www.elterritorio.com.ar/rss/la-region",
+        "https://www.elterritorio.com.ar/rss/metadata",
+        "https://www.elterritorio.com.ar/rss/misionero",
+        "https://www.elterritorio.com.ar/rss/tecno-ocio",
+        "https://www.elterritorio.com.ar/rss/tecnologia"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 942,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:37.678Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lavoz.com.ar": {
+      "urls": [
+        "https://www.lavoz.com.ar/rss/rss.xml",
+        "https://www.lavoz.com.ar/arc/outboundfeeds/feeds/rss/?outputType=xml",
+        "https://anchor.fm/s/9b2862c/podcast/rss",
+        "https://anchor.fm/s/9f057f4/podcast/rss",
+        "https://blog.anchor.fm/create/rss.xml",
+        "https://blog.anchor.fm/grow/rss.xml",
+        "https://blog.anchor.fm/hip/rss.xml",
+        "https://blog.anchor.fm/share/rss.xml",
+        "https://blog.anchor.fm/updates/rss.xml",
+        "https://de.blog.anchor.fm/create/rss.xml",
+        "https://de.blog.anchor.fm/grow/rss.xml",
+        "https://de.blog.anchor.fm/hip/rss.xml",
+        "https://de.blog.anchor.fm/share/rss.xml",
+        "https://de.blog.anchor.fm/updates/rss.xml",
+        "https://es.blog.anchor.fm/create/rss.xml",
+        "https://es.blog.anchor.fm/grow/rss.xml",
+        "https://es.blog.anchor.fm/hip/rss.xml",
+        "https://es.blog.anchor.fm/share/rss.xml",
+        "https://es.blog.anchor.fm/updates/rss.xml",
+        "https://fr.blog.anchor.fm/create/rss.xml",
+        "https://fr.blog.anchor.fm/grow/rss.xml",
+        "https://fr.blog.anchor.fm/hip/rss.xml",
+        "https://fr.blog.anchor.fm/share/rss.xml",
+        "https://fr.blog.anchor.fm/updates/rss.xml",
+        "https://id.blog.anchor.fm/create/rss.xml",
+        "https://id.blog.anchor.fm/grow/rss.xml",
+        "https://id.blog.anchor.fm/hip/rss.xml",
+        "https://id.blog.anchor.fm/share/rss.xml",
+        "https://id.blog.anchor.fm/updates/rss.xml",
+        "https://it.blog.anchor.fm/create/rss.xml",
+        "https://it.blog.anchor.fm/grow/rss.xml",
+        "https://it.blog.anchor.fm/hip/rss.xml",
+        "https://it.blog.anchor.fm/share/rss.xml",
+        "https://it.blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 289,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:28.008Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ahoramardelplata.com.ar": {
+      "urls": [
+        "https://ahoramardelplata.com.ar/rss/UltimasNoticiasAHORAMDP.xml",
+        "https://ahoramardelplata.com.ar/feed",
+        "https://ahoramardelplata.com.ar/rss/pages/policiales.xml",
+        "https://ahoramardelplata.com.ar/rss/pages/deportes.xml",
+        "https://ahoramardelplata.com.ar/rss/SociedadAHORAMDP.xml",
+        "https://ahoramardelplata.com.ar/rss/pages/politica.xml",
+        "https://ahoramardelplata.com.ar/rss/pages/economia.xml",
+        "https://ahoramardelplata.com.ar/rss/pages/espectaculos.xml",
+        "https://ahoramardelplata.com.ar/rss/pages/especial.xml",
+        "https://ahoramardelplata.com.ar/rss/pages/internacionales.xml",
+        "https://ahoramardelplata.com.ar/rss/pages/opinion.xml",
+        "https://ahoramardelplata.com.ar/rss/pages/pba.xml",
+        "https://ahoramardelplata.com.ar/rss/PoliticaAHORAMardelPlata.xml",
+        "https://ahoramardelplata.com.ar/rss/DeportesAHORAMDP.xml",
+        "https://ahoramardelplata.com.ar/rss/PolicialesAHORAMDP.xml",
+        "https://ahoramardelplata.com.ar/rss/EconomiaAHORAMDP.xml",
+        "https://ahoramardelplata.com.ar/rss/TitularesAHORAMDP.xml",
+        "https://ahoramardelplata.com.ar/rss/Viral.xml",
+        "https://ahoramardelplata.com.ar/rss/espectaculosAHORAMDP.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1611,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:29.880Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ole.com.ar": {
+      "urls": [
+        "https://www.ole.com.ar/rss/ultimas-noticias",
+        "https://www.ole.com.ar/rss/ultimas-noticias/",
+        "https://www.ole.com.ar/rss/futbol-primera/",
+        "https://www.ole.com.ar/rss/river-plate/",
+        "https://www.ole.com.ar/rss/boca-juniors/",
+        "https://www.ole.com.ar/rss/independiente/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1189,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:21.937Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lagaceta.com.ar": {
+      "urls": [
+        "https://feeds.feedburner.com/lgplay?format=xml",
+        "http://feeds.feedburner.com/lgplay?format=xml",
+        "https://feeds.feedburner.com/LaGaceta-General?format=xml",
+        "https://feeds.feedburner.com/LaGacetaUltimoMomento",
+        "https://feeds.feedburner.com/LaGacetaUltimoMomento?format=xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 952,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:27.632Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "enlineanoticias.com.ar": {
+      "urls": [
+        "https://enlineanoticias.com.ar/feed/",
+        "https://enlineanoticias.com.ar/web-stories/feed/",
+        "https://enlineanoticias.com.ar/webstories/feed/",
+        "https://enlineanoticias.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1104,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:38.800Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cronica.com.ar": {
+      "urls": [
+        "https://www.cronica.com.ar/feed/feed.xml",
+        "https://www.cronica.com.ar/files/rss/ultimas-noticias.xml",
+        "https://www.cronica.com.ar/diarioshow/feed/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2774,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:44.429Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "carasycaretas.org.ar": {
+      "urls": [
+        "https://carasycaretas.org.ar/feed/",
+        "https://carasycaretas.org.ar/webstories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 426,
+        "category": "general",
+        "last_checked": "2026-01-31T17:35:01.421Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "parati.com.ar": {
+      "urls": [
+        "https://www.parati.com.ar/feed/",
+        "https://www.parati.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 827,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:57.011Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "batimes.com.ar": {
+      "urls": [
+        "https://batimes.com.ar/feed",
+        "https://www.batimes.com.ar/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1004,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:22.487Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tn.com.ar": {
+      "urls": [
+        "https://tn.com.ar/arc/outboundfeeds/google-news-feed/?outputType=xml",
+        "https://tn.com.ar/arcio/google-news-feed/category/politica/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1228,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:50.940Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laverdadayacucho.com.ar": {
+      "urls": [
+        "https://laverdadayacucho.com.ar/feed/",
+        "https://laverdadayacucho.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1545,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:15.626Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "portaldenoticias.com.ar": {
+      "urls": [
+        "https://portaldenoticias.com.ar/feed/",
+        "https://portaldenoticias.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1666,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:54.008Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diarioarmenia.org.ar": {
+      "urls": [
+        "https://www.diarioarmenia.org.ar/feed/",
+        "http://www.diarioarmenia.org.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2343,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:55.965Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rionegro.com.ar": {
+      "urls": [
+        "https://www.rionegro.com.ar/feed/",
+        "https://www.rionegro.com.ar/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3103,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:25.654Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ahoramama.com.ar": {
+      "urls": [
+        "https://ahoramama.com.ar/feed/",
+        "https://ahoramama.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3720,
+        "category": "general",
+        "last_checked": "2026-01-31T17:35:00.988Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "larazondechivilcoy.com.ar": {
+      "urls": [
+        "https://www.larazondechivilcoy.com.ar/rss/feed.html",
+        "https://www.larazondechivilcoy.com.ar/rss/un_foto.html"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4094,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:13.681Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elgrafico.com.ar": {
+      "urls": [
+        "https://www.elgrafico.com.ar/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 338,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:27.607Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariodecuyo.com.ar": {
+      "urls": [
+        "https://www.diariodecuyo.com.ar/rss/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 614,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:22.551Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eldia.com.ar": {
+      "urls": [
+        "https://www.eldia.com/.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 849,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:34.146Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elchubut.com.ar": {
+      "urls": [
+        "https://www.elchubut.com.ar/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 991,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:01.597Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "po.org.ar": {
+      "urls": [
+        "https://po.org.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1014,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:16.022Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "billboard.ar": {
+      "urls": [
+        "https://billboard.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1294,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:33.712Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elsuburbanodigital.com.ar": {
+      "urls": [
+        "https://elsuburbanodigital.com.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1438,
+        "category": "technology",
+        "last_checked": "2026-01-31T17:34:07.748Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariolaciudadavellaneda.com.ar": {
+      "urls": [
+        "https://diariolaciudadavellaneda.com.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1478,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:09.226Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diarioel9dejulio.com.ar": {
+      "urls": [
+        "https://www.diarioel9dejulio.com.ar/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1535,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:57.500Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lacapital.com.ar": {
+      "urls": [
+        "https://www.lacapital.com.ar/rss/home.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1698,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:46.127Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pilardetodos.com.ar": {
+      "urls": [
+        "https://pilardetodosapiv3.eleco.com.ar/feed-notes"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1945,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:17.571Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "quedigital.com.ar": {
+      "urls": [
+        "https://quedigital.com.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3111,
+        "category": "technology",
+        "last_checked": "2026-01-31T17:34:21.480Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tiempoar.com.ar": {
+      "urls": [
+        "https://www.tiempoar.com.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3213,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:13.571Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pagina12.com.ar": {
+      "urls": [
+        "https://www.pagina12.com.ar/rss/suplementos/rosario12/notas",
+        "https://www.pagina12.com.ar/rss/edicion-impresa",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/edicion-impresa/",
+        "https://www.pagina12.com.ar/rss/secciones/universidad/notas",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/suplementos/rosario12/notas/",
+        "https://www.pagina12.com.ar/rss/secciones/sociedad/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/las12/notas",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/portada/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/sociedad/notas/",
+        "https://www.pagina12.com.ar/rss/suplementos/soy/notas",
+        "https://www.pagina12.com.ar/rss/portada",
+        "https://www.pagina12.com.ar/rss/secciones/deportes/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/cultura-y-espectaculos/notas",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/deportes/notas/",
+        "https://www.pagina12.com.ar/rss/secciones/el-pais/notas",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/economia/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/el-mundo/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/el-pais/notas/",
+        "https://www.pagina12.com.ar/rss/secciones/economia/notas",
+        "https://www.pagina12.com.ar/rss/secciones/el-mundo/notas",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/cultura-y-espectaculos/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/suplementos/cultura-y-espectaculos/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/suplementos/radar/notas/",
+        "https://www.pagina12.com.ar/rss/secciones/ajedrez/notas",
+        "https://www.pagina12.com.ar/rss/secciones/cartas-de-lectores/notas",
+        "https://www.pagina12.com.ar/rss/secciones/ciencia/notas",
+        "https://www.pagina12.com.ar/rss/secciones/cultura/notas",
+        "https://www.pagina12.com.ar/rss/secciones/dialogos/notas",
+        "https://www.pagina12.com.ar/rss/secciones/la-ventana/notas",
+        "https://www.pagina12.com.ar/rss/secciones/plastica/notas",
+        "https://www.pagina12.com.ar/rss/secciones/psicologia/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/cash/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/libero/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/m2/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/no/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/radar-libros/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/radar/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/satira12/notas",
+        "https://www.pagina12.com.ar/rss/suplementos/turismo/notas",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/suplementos/las12/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/ajedrez/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/ciencia/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/plastica/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/psicologia/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/secciones/universidad/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/suplementos/cash/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/suplementos/no/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/suplementos/radar-libros/notas/",
+        "https://www.pagina12.com.ar/arc/outboundfeeds/rss/suplementos/soy/notas/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:40.703Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "losandes.com.ar": {
+      "urls": [
+        "https://www.losandes.com.ar/rss/pages/funebres.xml",
+        "https://www.losandes.com.ar/rss/pages/guarda14-losandes.xml",
+        "https://www.losandes.com.ar/rss/pages/cuyo-minero.xml",
+        "https://www.losandes.com.ar/rss/pages/tintero.xml",
+        "https://www.losandes.com.ar/rss/pages/ultimas-noticias.xml",
+        "https://www.losandes.com.ar/arcio/rss/",
+        "https://www.losandes.com.ar/rss/pages/mas-deportes.xml",
+        "https://www.losandes.com.ar/arc/outboundfeeds/rss/category/mas-deportes/?outputType=xml",
+        "https://www.losandes.com.ar/rss/pages/por-las-redes.xml",
+        "https://www.losandes.com.ar/rss/pages/sociedad.xml",
+        "https://www.losandes.com.ar/rss/pages/espectaculos.xml",
+        "https://www.losandes.com.ar/rss/pages/economia.xml",
+        "https://www.losandes.com.ar/rss/pages/mundo.xml",
+        "https://www.losandes.com.ar/rss/pages/politica.xml",
+        "https://www.losandes.com.ar/rss/pages/policiales.xml",
+        "https://www.losandes.com.ar/arc/outboundfeeds/rss/category/sociedad/?outputType=xml",
+        "https://www.losandes.com.ar/rss/pages/opinion.xml",
+        "https://www.losandes.com.ar/rss/pages/viral.xml",
+        "https://www.losandes.com.ar/rss/pages/cultura.xml",
+        "https://www.losandes.com.ar/rss/pages/espacio-de-marca.xml",
+        "https://www.losandes.com.ar/rss/pages/espacio-institucional.xml",
+        "https://www.losandes.com.ar/rss/pages/estilo.xml",
+        "https://www.losandes.com.ar/rss/pages/fincas.xml",
+        "https://www.losandes.com.ar/rss/pages/muy-tecno.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:36.822Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pronto.com.ar": {
+      "urls": [
+        "https://www.pronto.com.ar/rss",
+        "https://www.pronto.com.ar/rss/famosos",
+        "https://www.pronto.com.ar/rss/informacion",
+        "https://www.pronto.com.ar/rss/magazine",
+        "https://www.pronto.com.ar/rss/curiosidades",
+        "https://www.pronto.com.ar/rss/espectaculos",
+        "https://www.pronto.com.ar/rss/bailando-2015",
+        "https://www.pronto.com.ar/rss/cocina",
+        "https://www.pronto.com.ar/rss/comunicados",
+        "https://www.pronto.com.ar/rss/fotos-de-hoy",
+        "https://www.pronto.com.ar/rss/looks",
+        "https://www.pronto.com.ar/rss/moda-pronto",
+        "https://www.pronto.com.ar/rss/mundial-2014",
+        "https://www.pronto.com.ar/rss/opinion",
+        "https://www.pronto.com.ar/rss/portadas",
+        "https://www.pronto.com.ar/rss/premios-pronto",
+        "https://www.pronto.com.ar/rss/premios-pronto-2012",
+        "https://www.pronto.com.ar/rss/pronto-tv",
+        "https://www.pronto.com.ar/rss/radio-pronto",
+        "https://www.pronto.com.ar/rss/retro",
+        "https://www.pronto.com.ar/rss/salud",
+        "https://www.pronto.com.ar/rss/tapas",
+        "https://www.pronto.com.ar/rss/author/dalia.hassan"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:55.666Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "laopinionline.ar": {
+      "urls": [
+        "https://www.laopinionline.ar/rss/pages/home.xml",
+        "https://www.laopinionline.ar/rss/pages/ultimas-noticias.xml",
+        "https://www.laopinionline.ar/rss/pages/region.xml",
+        "https://www.laopinionline.ar/rss/pages/policiales.xml",
+        "https://www.laopinionline.ar/rss/pages/san-nicolas.xml",
+        "https://www.laopinionline.ar/rss/pages/campo.xml",
+        "https://www.laopinionline.ar/rss/pages/cultura.xml",
+        "https://www.laopinionline.ar/rss/pages/pais.xml",
+        "https://www.laopinionline.ar/rss/pages/sports.xml",
+        "https://www.laopinionline.ar/rss/pages/arquitectura.xml",
+        "https://www.laopinionline.ar/rss/pages/edicion_impresa.xml",
+        "https://www.laopinionline.ar/rss/pages/editorial.xml",
+        "https://www.laopinionline.ar/rss/pages/gastronomia.xml",
+        "https://www.laopinionline.ar/rss/pages/perfiles.xml",
+        "https://www.laopinionline.ar/rss/pages/profesionales.xml",
+        "https://www.laopinionline.ar/rss/pages/salud.xml",
+        "https://www.laopinionline.ar/rss/pages/tendencias.xml",
+        "https://www.laopinionline.ar/rss/pages/turismo.xml",
+        "https://www.laopinionline.ar/rss/pages/zarate.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:13.875Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dib.com.ar": {
+      "urls": [
+        "https://dib.com.ar/rss/pages/ultimas-noticias.xml",
+        "https://dib.com.ar/feed/",
+        "https://dib.com.ar/rss/pages/sociedad.xml",
+        "https://dib.com.ar/rss/pages/policiales.xml",
+        "https://dib.com.ar/rss/pages/politica.xml",
+        "https://dib.com.ar/rss/pages/economia.xml",
+        "https://dib.com.ar/rss/pages/adn-bonaerense.xml",
+        "https://dib.com.ar/rss/pages/estilo-de-vida.xml",
+        "https://dib.com.ar/rss/pages/deportes.xml",
+        "https://dib.com.ar/rss/pages/diario-extra.xml",
+        "https://dib.com.ar/rss/pages/empresas.xml",
+        "https://dib.com.ar/rss/pages/mundo-motor.xml",
+        "https://dib.com.ar/rss/pages/opinion.xml",
+        "https://dib.com.ar/rss/pages/tranquera.xml",
+        "https://dib.com.ar/rss/pages/vida-y-salud-hoy.xml",
+        "https://dib.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:53.139Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elancasti.com.ar": {
+      "urls": [
+        "https://www.elancasti.com.ar/rss/pages/necrologicas.xml",
+        "https://www.elancasti.com.ar/rss/pages/noticias.xml",
+        "https://www.elancasti.com.ar/rss/pages/home.xml",
+        "https://www.elancasti.com.ar/rss/pages/edicion-impresa.xml",
+        "https://www.elancasti.com.ar/rss/pages/politica-economia.xml",
+        "https://www.elancasti.com.ar/rss/pages/ancasti-tv.xml",
+        "https://www.elancasti.com.ar/rss/pages/policiales.xml",
+        "https://www.elancasti.com.ar/rss/pages/deportes.xml",
+        "https://www.elancasti.com.ar/rss/pages/info-gral.xml",
+        "https://www.elancasti.com.ar/rss/pages/espectaculo.xml",
+        "https://www.elancasti.com.ar/rss/pages/internacional.xml",
+        "https://www.elancasti.com.ar/rss/pages/opinion.xml",
+        "https://www.elancasti.com.ar/rss/pages/cultura.xml",
+        "https://www.elancasti.com.ar/rss/pages/contenidos.xml",
+        "https://www.elancasti.com.ar/rss/pages/revista-express.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:00.606Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "puntal.com.ar": {
+      "urls": [
+        "https://www.puntal.com.ar/rss/economia.xml",
+        "https://www.puntal.com.ar/rss/rio-cuarto.xml",
+        "https://www.puntal.com.ar/rss/pais.xml",
+        "https://www.puntal.com.ar/rss/provincia.xml",
+        "https://www.puntal.com.ar/rss/mundo.xml",
+        "https://www.puntal.com.ar/rss/policiales.xml",
+        "https://www.puntal.com.ar/rss/politica.xml",
+        "https://www.puntal.com.ar/rss/espectaculos.xml",
+        "https://www.puntal.com.ar/rss/opinion.xml",
+        "https://www.puntal.com.ar/rss/region.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:18.040Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elsolnoticias.com.ar": {
+      "urls": [
+        "https://elsolnoticias.com.ar/feed/",
+        "https://elsolnoticias.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:50.333Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "el1digital.com.ar": {
+      "urls": [
+        "https://www.el1digital.com.ar/feed/",
+        "https://www.el1digital.com.ar/etiqueta/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-01-31T17:33:59.959Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eldiariodeescobar.com.ar": {
+      "urls": [
+        "https://www.eldiariodeescobar.com.ar/feed/",
+        "https://www.eldiariodeescobar.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:06.310Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "realpolitik.com.ar": {
+      "urls": [
+        "https://realpolitik.com.ar/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:54.150Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diariouno.com.ar": {
+      "urls": [
+        "https://www.diariouno.com.ar/servicios/rss/tecnologia.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:30.134Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diarioeltiempo.com.ar": {
+      "urls": [
+        "https://www.diarioeltiempo.com.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:32.178Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "veintitres.com.ar": {
+      "urls": [
+        "https://www.veintitres.com.ar/feed/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:40.546Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "prensaeconomica.com.ar": {
+      "urls": [
+        "https://prensaeconomica.com.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:52.587Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dyd.com.ar": {
+      "urls": [
+        "https://dyd.com.ar/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:35:11.443Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "theguardian.com": {
+      "urls": [
+        "https://www.theguardian.com/world/venezuela/rss",
+        "https://www.theguardian.com/breaking-news/rss",
+        "https://www.theguardian.com/us-news/rss",
+        "https://www.theguardian.com/world/rss",
+        "https://www.theguardian.com/politics/rss",
+        "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+        "https://www.theguardian.com/uk/london/rss",
+        "https://www.theguardian.com/us/money/rss",
+        "https://www.theguardian.com/artanddesign/rss",
+        "https://www.theguardian.com/au/rss",
+        "https://www.theguardian.com/australia-podcasts/rss",
+        "https://www.theguardian.com/education/rss",
+        "https://www.theguardian.com/europe/rss",
+        "https://www.theguardian.com/fashion/rss",
+        "https://www.theguardian.com/football/liverpool/rss",
+        "https://www.theguardian.com/football/rss",
+        "https://www.theguardian.com/football/womensfootball/rss",
+        "https://www.theguardian.com/games/rss",
+        "https://www.theguardian.com/international/rss",
+        "https://www.theguardian.com/music/rss",
+        "https://www.theguardian.com/podcasts/rss",
+        "https://www.theguardian.com/uk/rss",
+        "https://www.theguardian.com/us/rss",
+        "https://www.theguardian.com/world/animals/rss",
+        "https://www.theguardian.com/world/china/rss",
+        "https://www.theguardian.com/world/religion/rss",
+        "https://www.theguardian.com/education/higher-education/rss",
+        "https://www.theguardian.com/media/digital-media/rss",
+        "https://www.theguardian.com/society/transgender/rss",
+        "https://www.theguardian.com/sport/formulaone/rss",
+        "https://www.theguardian.com/us/commentisfree/rss",
+        "https://www.theguardian.com/us/culture/rss",
+        "https://www.theguardian.com/world/lgbt-rights/rss",
+        "https://www.theguardian.com/au/podcasts/rss",
+        "https://www.theguardian.com/australia-news/perth-news/rss",
+        "https://www.theguardian.com/australia-news/western-australia/rss",
+        "https://www.theguardian.com/crosswords/crossword-blog/rss",
+        "https://www.theguardian.com/education/fashion-and-textiles/rss",
+        "https://www.theguardian.com/education/sexeducation/rss",
+        "https://www.theguardian.com/environment/bike-blog/rss",
+        "https://www.theguardian.com/environment/climate-crisis/rss",
+        "https://www.theguardian.com/environment/renewableenergy/rss",
+        "https://www.theguardian.com/fashion/jimmy-choo/rss",
+        "https://www.theguardian.com/food/italian-food-and-drink/rss",
+        "https://www.theguardian.com/food/japanese/rss",
+        "https://www.theguardian.com/football/fulham/rss",
+        "https://www.theguardian.com/football/tottenham-hotspur/rss",
+        "https://www.theguardian.com/football/who-scored-blog/rss",
+        "https://www.theguardian.com/lifeandstyle/kylie-jenner/rss",
+        "https://www.theguardian.com/lifeandstyle/meditation/rss",
+        "https://www.theguardian.com/lifeandstyle/online-dating/rss",
+        "https://www.theguardian.com/news/blog/rss",
+        "https://www.theguardian.com/science/archaeology/rss",
+        "https://www.theguardian.com/society/depression/rss",
+        "https://www.theguardian.com/society/eating-disorders/rss",
+        "https://www.theguardian.com/sport/blog/rss",
+        "https://www.theguardian.com/sport/nhl/rss",
+        "https://www.theguardian.com/sport/wimbledon/rss",
+        "https://www.theguardian.com/stage/westend/rss",
+        "https://www.theguardian.com/technology/crowdfunding/rss",
+        "https://www.theguardian.com/technology/self-driving-cars/rss",
+        "https://www.theguardian.com/theguardian/from-the-archive-blog/rss",
+        "https://www.theguardian.com/tone/blog/rss",
+        "https://www.theguardian.com/travel/greece/rss",
+        "https://www.theguardian.com/travel/newyork/rss",
+        "https://www.theguardian.com/tv-and-radio/podcasts/rss",
+        "https://www.theguardian.com/tv-and-radio/true-crime--podcasts-/rss",
+        "https://www.theguardian.com/uk-news/cambridge/rss",
+        "https://www.theguardian.com/uk-news/gatwick-airport/rss",
+        "https://www.theguardian.com/uk-news/heathrow-airport/rss",
+        "https://www.theguardian.com/uk-news/hull/rss",
+        "https://www.theguardian.com/uk-news/southampton/rss",
+        "https://www.theguardian.com/uk-news/southend-on-sea/rss",
+        "https://www.theguardian.com/uk-news/stoke-on-trent/rss",
+        "https://www.theguardian.com/uk/birmingham/rss",
+        "https://www.theguardian.com/uk/bournemouth/rss",
+        "https://www.theguardian.com/uk/brighton/rss",
+        "https://www.theguardian.com/uk/bristol/rss",
+        "https://www.theguardian.com/uk/british-army/rss",
+        "https://www.theguardian.com/uk/carlisle/rss",
+        "https://www.theguardian.com/uk/glasgow/rss",
+        "https://www.theguardian.com/uk/greater-manchester/rss",
+        "https://www.theguardian.com/uk/hackney/rss",
+        "https://www.theguardian.com/uk/ipswich/rss",
+        "https://www.theguardian.com/uk/jersey/rss",
+        "https://www.theguardian.com/uk/leicester/rss",
+        "https://www.theguardian.com/uk/manchester/rss",
+        "https://www.theguardian.com/uk/northernireland/rss",
+        "https://www.theguardian.com/uk/rotherham/rss",
+        "https://www.theguardian.com/uk/sheffield/rss",
+        "https://www.theguardian.com/uk/sport/rss",
+        "https://www.theguardian.com/uk/technology/rss",
+        "https://www.theguardian.com/uk/wolverhampton/rss",
+        "https://www.theguardian.com/us-news/us-politics/rss",
+        "https://www.theguardian.com/us/business/rss",
+        "https://www.theguardian.com/us/environment/rss",
+        "https://www.theguardian.com/us/technology/rss",
+        "https://www.theguardian.com/us/travel/rss",
+        "https://www.theguardian.com/world/angola/rss",
+        "https://www.theguardian.com/world/argentina/rss",
+        "https://www.theguardian.com/world/buddhism/rss",
+        "https://www.theguardian.com/world/chechnya/rss",
+        "https://www.theguardian.com/world/chile/rss",
+        "https://www.theguardian.com/world/ecuador/rss",
+        "https://www.theguardian.com/world/el-salvador/rss",
+        "https://www.theguardian.com/world/hinduism/rss",
+        "https://www.theguardian.com/world/iraq/rss",
+        "https://www.theguardian.com/world/mexico/rss",
+        "https://www.theguardian.com/world/newzealand/rss",
+        "https://www.theguardian.com/world/north-korea/rss",
+        "https://www.theguardian.com/world/paraguay/rss",
+        "https://www.theguardian.com/world/uruguay/rss",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+        "https://www.theguardian.com/culture/series/theres-a-podcast-for-that/rss",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+        "https://www.theguardian.com/music/classical-music-and-opera+tone/albumreview/rss",
+        "https://www.theguardian.com/news/series/cotton-capital-podcast/rss",
+        "https://www.theguardian.com/news/series/guardian-australia-podcast-series/rss",
+        "https://www.theguardian.com/news/series/the-long-read/rss",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+        "https://www.theguardian.com/sport/series/the-final-word-ashes-podcast/rss",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+        "https://www.theguardian.com/technology/series/chips-with-everything/rss",
+        "https://www.theguardian.com/tv-and-radio/series/miranda-sawyer-on-podcasts-and-radio/rss",
+        "https://www.theguardian.com/australia-news/series/full-story/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/who-screwed-millennials/podcast.xml",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/australian-politics-live/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/common-ground/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/podcast.xml",
+        "https://www.theguardian.com/books/series/books/podcast.xml",
+        "https://www.theguardian.com/culture/series/thestart/podcast.xml",
+        "https://www.theguardian.com/environment/series/look-at-me/podcast.xml",
+        "https://www.theguardian.com/football/series/footballweekly/podcast.xml",
+        "https://www.theguardian.com/football/series/theguardianswomensfootballweekly/podcast.xml",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/comforteatingwithgracedent/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/weekend/podcast.xml",
+        "https://www.theguardian.com/music/series/reverberate/podcast.xml",
+        "https://www.theguardian.com/news/series/cotton-capital-podcast/podcast.xml",
+        "https://www.theguardian.com/news/series/guardian-australia-podcast-series/podcast.xml",
+        "https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml",
+        "https://www.theguardian.com/news/series/todayinfocus/podcast.xml",
+        "https://www.theguardian.com/politics/series/politics-weekly-america/podcast.xml",
+        "https://www.theguardian.com/politics/series/politicsweekly/podcast.xml",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/podcast.xml",
+        "https://www.theguardian.com/science/series/science/podcast.xml",
+        "https://www.theguardian.com/society/series/pop-culture-with-chante-joseph/podcast.xml",
+        "https://www.theguardian.com/sport/series/ashespodcast/podcast.xml",
+        "https://www.theguardian.com/sport/series/the-final-word-ashes-podcast/podcast.xml",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/podcast.xml",
+        "https://www.theguardian.com/technology/series/blackbox/podcast.xml",
+        "https://www.theguardian.com/technology/series/chips-with-everything/podcast.xml",
+        "https://www.theguardian.com/society/mens-health/rss",
+        "https://theguardian.engineering/blog/rss.xml",
+        "https://feeds.acast.com/public/shows/club-sandwich",
+        "https://feeds.acast.com/public/shows/fact-up"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 433,
+        "category": "world",
+        "last_checked": "2026-01-31T17:34:24.436Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reuters.com": {
+      "urls": [
+        "https://blogs.thomsonreuters.com/answerson/topic/academic-research/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/anti-corruption/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/anti-money-laundering/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/artificial-intelligence/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/asia-pacific/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/banks/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/beps/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/big-data/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/blockchain/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/breakingviews/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/brexit/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/commodities/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/company-culture/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/compliance/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/coronavirus/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/corporate-counsel/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/corporate-law-departments/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/corporate-responsibility-inclusion/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/corporate-tax-departments/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/covid-19/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/criminal-law/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/cryptocurrency/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/data-privacy/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/data-visualization/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/diversity-inclusion/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/emerging-markets/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/employee-development/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/energy/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/enterprise-risk-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/financial-fraud/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/fincen/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/forum-magazine/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/fraud/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/gender-parity/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/global-labor-market/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/global-trade-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/government/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/industry-trends/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/information-professionals/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/innovation/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/international-business-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/law-firm-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/legal-tech/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/middle-east/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/news-agency/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/news-graphics/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/newsmaker-interviews/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/oil-gas/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/operational-risk-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/partnership/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/podcasts/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/professional-well-being/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/real-estate/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/regtech/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/regulatory-intelligence/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/return-to-work/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/reuters-newsmaker/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/slavery/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/sustainability/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/tax-and-accounting/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/tax/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/the-hearing/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters-institute/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters-tax-accounting/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/united-kingdom/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/united-states/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/us-government/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/working-remotely/feed/",
+        "https://www.thomsonreuters.com/en-us/posts/topic/podcasts/feed/",
+        "https://blogs.thomsonreuters.com/answerson/feed/",
+        "https://www.thomsonreuters.com/en-us/posts/feed/",
+        "https://blogs.thomsonreuters.com/answerson/category/global-trade-supply-chain/feed/",
+        "https://www.thomsonreuters.com/en-us/posts/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1324,
+        "category": "science",
+        "last_checked": "2026-01-31T17:34:23.818Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 43,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:23.863Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cadena3.com": {
+      "urls": [
+        "https://www.cadena3.com/podcast-rss/seccion/el-drama-de-la-inseguridad/720",
+        "https://www.cadena3.com/podcast-rss/seccion/imprescindibles/722",
+        "https://www.cadena3.com/podcast-rss/seccion/la-ultima-muerte-de-nora/701",
+        "https://www.cadena3.com/podcast-rss/seccion/nano-serrat-no-se-va/736",
+        "https://www.cadena3.com/podcast-rss/sociedad/6",
+        "https://www.cadena3.com/podcast-rss/seccion/celebrando-cordoba/786/450-anos-de-cordoba/1304",
+        "https://www.cadena3.com/podcast-rss/seccion/radioinforme-3/3",
+        "https://www.cadena3.com/podcast-rss/seccion/siempre-juntos/587",
+        "https://www.cadena3.com/podcast-rss/seccion/cadena-3-en-chile/728",
+        "https://www.cadena3.com/podcast-rss/seccion/una-manana-para-todos/393",
+        "https://www.cadena3.com/podcast-rss/seccion/copa-mundial-femenina-2023/734",
+        "https://www.cadena3.com/podcast-rss/seccion/el-show-de-la-copa/732",
+        "https://www.cadena3.com/podcast-rss/seccion/la-cadena-mas-grande/580",
+        "https://www.cadena3.com/podcast-rss/seccion/la-tragedia-de-once/676",
+        "https://www.cadena3.com/podcast-rss/seccion/qatar-2022/652",
+        "https://www.cadena3.com/podcast-rss/seccion/tension-en-el-sur/731",
+        "https://www.cadena3.com/podcast-rss/seccion/tiempo-de-juego/59",
+        "https://www.cadena3.com/podcast-rss/seccion/turno-noche/332",
+        "https://www.cadena3.com/podcast-rss/seccion/deportes/45/belgrano/370",
+        "https://www.cadena3.com/podcast-rss/seccion/deportes/45/instituto/371",
+        "https://www.cadena3.com/podcast-rss/seccion/deportes/45/talleres/372",
+        "https://www.cadena3.com/podcast-rss/seccion/estadio-3/664/estadio-3-rosario/1121",
+        "https://www.cadena3.com/podcast-rss/seccion/informados-al-regreso/479/mesa-de-periodistas/1178",
+        "https://www.cadena3.com/podcast-rss/seccion/inolvidables/648/inolvidables/1095",
+        "https://www.cadena3.com/podcast-rss/seccion/la-argentina-hoy/620/inolvidables/1095",
+        "https://www.cadena3.com/podcast-rss/seccion/la-previa/328/al-divan/809",
+        "https://www.cadena3.com/podcast-rss/seccion/la-previa/328/perfiles/806",
+        "https://www.cadena3.com/podcast-rss/seccion/la-previa/594/contame-una-historia/863",
+        "https://www.cadena3.com/podcast-rss/seccion/la-previa/594/la-fama-es-puro-cuento/808",
+        "https://www.cadena3.com/podcast-rss/seccion/la-previa/594/perfiles/806",
+        "https://www.cadena3.com/podcast-rss/seccion/opinion/81/agenda-economica/752",
+        "https://www.cadena3.com/podcast-rss/seccion/temas/0/coronavirus/0",
+        "https://www.cadena3.com/podcast-rss/seccion/viva-la-radio/6/grandes-entrevistas-de-rony-vargas/814",
+        "https://www.cadena3.com/podcast-rss/seccion/viva-la-radio/6/rony-vargas/0",
+        "https://www.cadena3.com/podcast-rss/seccion/altavoces/623"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1036,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:40.300Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "en.mercopress.com": {
+      "urls": [
+        "https://en.mercopress.com/rss/",
+        "https://en.mercopress.com/rss/international",
+        "https://en.mercopress.com/rss/politics",
+        "https://en.mercopress.com/rss/economy",
+        "https://en.mercopress.com/rss/falkland-islands",
+        "https://en.mercopress.com/rss/united-states",
+        "https://en.mercopress.com/rss/venezuela",
+        "https://en.mercopress.com/rss/argentina",
+        "https://en.mercopress.com/rss/energy",
+        "https://en.mercopress.com/rss/agriculture",
+        "https://en.mercopress.com/rss/antarctica",
+        "https://en.mercopress.com/rss/brazil",
+        "https://en.mercopress.com/rss/chile",
+        "https://en.mercopress.com/rss/environment",
+        "https://en.mercopress.com/rss/fisheries",
+        "https://en.mercopress.com/rss/investments",
+        "https://en.mercopress.com/rss/latin-america",
+        "https://en.mercopress.com/rss/mercosur",
+        "https://en.mercopress.com/rss/paraguay",
+        "https://en.mercopress.com/rss/real-estate",
+        "https://en.mercopress.com/rss/tourism",
+        "https://en.mercopress.com/rss/unasur",
+        "https://en.mercopress.com/rss/uruguay",
+        "https://en.mercopress.com/rss/health-science"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1388,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:25.830Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "perfil.com": {
+      "urls": [
+        "https://www.perfil.com/feed",
+        "https://www.perfil.com/rss/ultimo-momento",
+        "https://www.perfil.com/feed/economia",
+        "https://www.perfil.com/feed/politica",
+        "https://www.perfil.com/rss/politica",
+        "https://www.perfil.com/feed/sociedad",
+        "https://www.perfil.com/rss/economia",
+        "https://www.perfil.com/feed/deportes",
+        "https://www.perfil.com/rss/columnistas",
+        "https://marieclaire.perfil.com/feed",
+        "https://www.perfil.com/feed/opinion",
+        "https://www.perfil.com/feed/columnistas",
+        "https://www.perfil.com/feed/policia",
+        "https://www.perfil.com/rss/tecnologia",
+        "https://radio.perfil.com/feed",
+        "https://www.perfil.com/feed/espectaculos",
+        "https://www.perfil.com/feed/ciencia",
+        "https://www.perfil.com/feed/salud",
+        "https://lunateen.perfil.com/feed/",
+        "https://www.perfil.com/feed/tecnologia",
+        "https://lunateen.perfil.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 406,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:41.478Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "infobae.com": {
+      "urls": [
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/borges-una-introduccion/",
+        "https://www.infobae.com/argentina-rss.xml",
+        "https://www.infobae.com/feeds/rss/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/argentina-insegura/",
+        "https://www.infobae.com/feeds/rss/sites/america/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/america/mundo/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/el-podcast-de-luis-novaresio/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/entre-el-cielo-y-la-tierra/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/fantasmas-en-los-algoritmos/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/fronteras/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/la-pasion-es-el-motor/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/love-bombing-likes-y-amor/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/malditas-pelis/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/malditas-series/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/maldito-anime/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/malditos-games/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/medio-siglo-de-periodismo/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/medio-siglo-de-teatro/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/nerdipedia/",
+        "https://www.infobae.com/arc/outboundfeeds/rss/category/podcasts/relatos-de-una-verdad-incomoda/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1743,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:48.994Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "eltribuno.com": {
+      "urls": [
+        "https://www.eltribuno.com/rss-new/portada.rss",
+        "https://www.eltribuno.com/salta/rss-new/portada.rss",
+        "https://www.eltribuno.com/rss-new/espectaculos.rss",
+        "https://www.eltribuno.com/rss-new/policiales.rss",
+        "https://www.eltribuno.com/rss-new/deportes.rss",
+        "https://www.eltribuno.com/rss-new/nacionales.rss",
+        "https://www.eltribuno.com/rss-new/salta.rss",
+        "https://www.eltribuno.com/rss-new/municipios.rss",
+        "https://www.eltribuno.com/rss-new/internacionales.rss",
+        "https://www.eltribuno.com/rss-new/futbol.rss",
+        "https://www.eltribuno.com/rss-new/politica.rss",
+        "https://www.eltribuno.com/rss-new/sociedad.rss",
+        "https://www.eltribuno.com/rss-new/vida-y-tendencia.rss",
+        "https://www.eltribuno.com/salta/rss-new/deportes.rss",
+        "https://www.eltribuno.com/salta/rss-new/policiales.rss",
+        "https://www.eltribuno.com/salta/rss-new/futbol.rss",
+        "https://www.eltribuno.com/salta/rss-new/espectaculos.rss",
+        "https://www.eltribuno.com/salta/rss-new/internacionales.rss",
+        "https://www.eltribuno.com/salta/rss-new/politica.rss",
+        "https://www.eltribuno.com/salta/rss-new/sociedad.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:26.679Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lapoliticaonline.com": {
+      "urls": [
+        "https://www.lapoliticaonline.com:443/files/rss/ultimasnoticias.xml",
+        "https://www.lapoliticaonline.com/files/rss/ultimasnoticias-mx.xml",
+        "https://www.lapoliticaonline.com:443/files/rss/politica.xml",
+        "https://www.lapoliticaonline.com/files/rss/latestnews-us.xml",
+        "https://www.lapoliticaonline.com/files/rss/politica-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/nuevoleon-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/politics-us.xml",
+        "https://www.lapoliticaonline.com:443/files/rss/economia.xml",
+        "https://www.lapoliticaonline.com/files/rss/border-us.xml",
+        "https://www.lapoliticaonline.com/files/rss/business-us.xml",
+        "https://www.lapoliticaonline.com/files/rss/ciudad-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/congreso-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/congress-us.xml",
+        "https://www.lapoliticaonline.com/files/rss/economia-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/edomex-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/entrevistas-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/internacionales-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/thehill-us.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 953,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:57.969Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "fortuna.perfil.com": {
+      "urls": [
+        "https://fortuna.perfil.com/feed",
+        "https://fortuna.perfil.com/feed/",
+        "https://fortuna.perfil.com/feed/deportes",
+        "https://fortuna.perfil.com/feed/economia",
+        "https://fortuna.perfil.com/feed/internacionales",
+        "https://fortuna.perfil.com/feed/opinion",
+        "https://fortuna.perfil.com/feed/sociedad",
+        "https://fortuna.perfil.com/feed/tecnologia",
+        "https://fortuna.perfil.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 709,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:20.534Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cronista.com": {
+      "urls": [
+        "http://www.cronista.com/files/rss/news.xml",
+        "https://www.cronista.com/files/rss/news.xml",
+        "https://www.cronista.com/rss/feed.xml",
+        "https://www.cronista.com/arc/outboundfeeds/news/",
+        "https://www.cronista.com/files/rss/it.xml",
+        "https://www.cronista.com/arc/outboundfeeds/rss/category/podcast/",
+        "https://www.cronista.com/files/rss/apertura.xml",
+        "https://www.cronista.com/arc/outboundfeeds/apertura/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 196,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:16.416Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "clarin.com": {
+      "urls": [
+        "https://www.clarin.com/rss/lo-ultimo/",
+        "https://www.clarin.com/rss/politica/",
+        "https://www.clarin.com/rss/mundo/",
+        "https://www.clarin.com/rss/sociedad/",
+        "https://www.clarin.com/rss/deportes",
+        "https://www.clarin.com/rss/economia/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 613,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:32.509Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "seprin.info": {
+      "urls": [
+        "http://www.seprin.com.ar/index.php/feed/",
+        "https://www.seprin.info/feed/",
+        "https://www.seprin.com.ar/feed/",
+        "https://www.seprin.info/comments/feed/",
+        "http://www.seprin.com.ar/index.php/comments/feed/",
+        "https://www.seprin.com.ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1117,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:15.008Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "caras.perfil.com": {
+      "urls": [
+        "https://caras.perfil.com/feed",
+        "https://caras.perfil.com/feed/deportes",
+        "https://caras.perfil.com/feed/espectaculos",
+        "https://caras.perfil.com/feed/salud",
+        "https://caras.perfil.com/feed/sociedad"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 394,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:34.121Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diarioveloz.com": {
+      "urls": [
+        "https://www.diarioveloz.com/feed/",
+        "https://www.diarioveloz.com/category/blog/feed/",
+        "https://www.diarioveloz.com/tag/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1680,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:57.015Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "baenegocios.com": {
+      "urls": [
+        "https://www.baenegocios.com/feed/feed.xml",
+        "https://www.baenegocios.com/feed/getfeed.xml",
+        "https://www.baenegocios.com/files/rss/ultimas-noticias.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3228,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:19.646Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elmarplatense.com": {
+      "urls": [
+        "https://elmarplatenseapiv3.eleco.com.ar/feed-notes",
+        "https://elmarplatensebackend.eleco.com.ar/feed-notes",
+        "https://elmarplatense.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4296,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:36.714Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elintransigente.com": {
+      "urls": [
+        "https://elintransigente.com/feed/",
+        "https://elintransigente.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 761,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:34.954Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "noticiasargentinas.com": {
+      "urls": [
+        "https://noticiasargentinas.com/atom.xml",
+        "https://noticiasargentinas.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 877,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:26.731Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diarioregistrado.com": {
+      "urls": [
+        "https://www.diarioregistrado.com/atom.xml",
+        "https://www.diarioregistrado.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 961,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:55.113Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lacapitalmdp.com": {
+      "urls": [
+        "https://www.lacapitalmdp.com/feed/",
+        "https://www.lacapitalmdp.com/temas/efe-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1113,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:47.251Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diagonales.com": {
+      "urls": [
+        "https://www.diagonales.com/atom.xml",
+        "https://www.diagonales.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1252,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:10.357Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "buenosairesherald.com": {
+      "urls": [
+        "https://buenosairesherald.com/feed/atom",
+        "https://buenosairesherald.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1658,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:31.894Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "periodismo.com": {
+      "urls": [
+        "https://www.periodismo.com/feed/",
+        "https://www.periodismo.com/category/noticias-locas/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1933,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:00.465Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "misionesonline.net": {
+      "urls": [
+        "https://misionesonline.net/feed/",
+        "https://misionesonline.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2051,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:52.800Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "megautos.com": {
+      "urls": [
+        "https://www.megautos.com/feed/",
+        "https://www.megautos.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4144,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:32.418Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "noticias.perfil.com": {
+      "urls": [
+        "https://noticias.perfil.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 466,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:27.198Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "revistagente.com": {
+      "urls": [
+        "https://www.revistagente.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 510,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:56.176Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diariohoy.net": {
+      "urls": [
+        "https://diariohoy.net/xml/general.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 788,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:33.297Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laizquierdadiario.com": {
+      "urls": [
+        "https://www.laizquierdadiario.com/spip.php?page=backend"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1094,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:52.340Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "parlamentario.com": {
+      "urls": [
+        "https://www.parlamentario.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2011,
+        "category": "general",
+        "last_checked": "2026-01-31T17:34:42.557Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "impulsonegocios.com": {
+      "urls": [
+        "https://www.impulsonegocios.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3384,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:08.861Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "urgente24.com": {
+      "urls": [
+        "https://urgente24.com/rss/pages/urgente24tv.xml",
+        "https://urgente24.com/rss/pages/especiales.xml",
+        "https://urgente24.com/rss/pages/deportes.xml",
+        "https://urgente24.com/rss/pages/historias-de-vida.xml",
+        "https://urgente24.com/rss/pages/home.xml",
+        "https://urgente24.com/rss/pages/los-especialistas.xml",
+        "https://urgente24.com/rss/pages/ultimas-noticias.xml",
+        "https://urgente24.com/rss/pages/actualidad.xml",
+        "https://urgente24.com/rss.xml",
+        "https://urgente24.com/rss/pages/politica.xml",
+        "https://urgente24.com/rss/pages/dinero.xml",
+        "https://urgente24.com/rss/pages/ocio.xml",
+        "https://urgente24.com/rss/pages/economia.xml",
+        "https://urgente24.com/rss/pages/medios.xml",
+        "https://urgente24.com/rss/pages/omni.xml",
+        "https://urgente24.com/rss/pages/show.xml",
+        "https://urgente24.com/rss/pages/radio-y-tv.xml",
+        "https://urgente24.com/rss/pages/sociedad.xml",
+        "https://urgente24.com/rss/pages/global.xml",
+        "https://urgente24.com/rss/pages/mundo.xml",
+        "https://urgente24.com/rss/pages/capital.xml",
+        "https://urgente24.com/rss/pages/cartelera.xml",
+        "https://urgente24.com/rss/pages/data.xml",
+        "https://urgente24.com/rss/pages/tecno.xml",
+        "https://urgente24.com/rss/pages/zona.xml",
+        "https://urgente24.com/rss/pages/analisis.xml",
+        "https://urgente24.com/rss/pages/argentina.xml",
+        "https://urgente24.com/rss/pages/ciencia.xml",
+        "https://urgente24.com/rss/pages/claves.xml",
+        "https://urgente24.com/rss/pages/foco.xml",
+        "https://urgente24.com/rss/pages/internet.xml",
+        "https://urgente24.com/rss/pages/juntos-bien.xml",
+        "https://urgente24.com/rss/pages/negocios.xml",
+        "https://urgente24.com/rss/pages/salud.xml",
+        "https://urgente24.com/rss/pages/agrobusiness.xml",
+        "https://urgente24.com/rss/pages/alimentarse.xml",
+        "https://urgente24.com/rss/pages/bio24.xml",
+        "https://urgente24.com/rss/pages/capital-social.xml",
+        "https://urgente24.com/rss/pages/competencia.xml",
+        "https://urgente24.com/rss/pages/confidencial.xml",
+        "https://urgente24.com/rss/pages/conspiraciones.xml",
+        "https://urgente24.com/rss/pages/debate.xml",
+        "https://urgente24.com/rss/pages/documentos.xml",
+        "https://urgente24.com/rss/pages/el-bonaerense.xml",
+        "https://urgente24.com/rss/pages/el-porteno.xml",
+        "https://urgente24.com/rss/pages/entrevista.xml",
+        "https://urgente24.com/rss/pages/equilibrios.xml",
+        "https://urgente24.com/rss/pages/exclusivo-24.xml",
+        "https://urgente24.com/rss/pages/futbol.xml",
+        "https://urgente24.com/rss/pages/gestion.xml",
+        "https://urgente24.com/rss/pages/investigacion.xml",
+        "https://urgente24.com/rss/pages/justicia.xml",
+        "https://urgente24.com/rss/pages/latinoamerica.xml",
+        "https://urgente24.com/rss/pages/memoria.xml",
+        "https://urgente24.com/rss/pages/mercados.xml",
+        "https://urgente24.com/rss/pages/motor.xml",
+        "https://urgente24.com/rss/pages/musica.xml",
+        "https://urgente24.com/rss/pages/obituario.xml",
+        "https://urgente24.com/rss/pages/opinion.xml",
+        "https://urgente24.com/rss/pages/panorama.xml",
+        "https://urgente24.com/rss/pages/periodismo.xml",
+        "https://urgente24.com/rss/pages/policiales.xml",
+        "https://urgente24.com/rss/pages/tendencias.xml",
+        "https://urgente24.com/rss/pages/tenis.xml",
+        "https://urgente24.com/rss/pages/u24-plus.xml",
+        "https://urgente24.com/rss/pages/vida-sana.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:58.145Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ambito.com": {
+      "urls": [
+        "https://www.ambito.com/rss/pages/edicion-impresa.xml",
+        "https://www.ambito.com/rss/pages/home.xml",
+        "https://www.ambito.com/rss/pages/informacion-general.xml",
+        "https://www.ambito.com/rss/pages/ultimas-noticias.xml",
+        "https://www.ambito.com/rss/home.xml",
+        "https://www.ambito.com/rss/economia.xml",
+        "https://www.ambito.com/rss/politica.xml",
+        "https://www.ambito.com/rss/pages/politica.xml",
+        "https://www.ambito.com/rss/pages/mundo.xml",
+        "https://www.ambito.com/rss/finanzas.xml",
+        "https://www.ambito.com/rss/copa-america.xml",
+        "https://www.ambito.com/rss/pages/finanzas.xml",
+        "https://www.ambito.com/rss/pages/deportes.xml",
+        "https://www.ambito.com/rss/pages/lifestyle.xml",
+        "https://www.ambito.com/rss/espectaculos.xml",
+        "https://www.ambito.com/rss/informacion-general.xml",
+        "https://www.ambito.com/rss/pages/autos.xml",
+        "https://www.ambito.com/rss/nacional.xml",
+        "https://www.ambito.com/rss/municipios.xml",
+        "https://www.ambito.com/rss/novedades-fiscales.xml",
+        "https://www.ambito.com/rss/pages/espectaculos.xml",
+        "https://www.ambito.com/rss/pages/tecnologia.xml",
+        "https://www.ambito.com/rss/pages/negocios.xml",
+        "https://www.ambito.com/rss/pages/ambito-biz.xml",
+        "https://www.ambito.com/rss/pages/municipios.xml",
+        "https://www.ambito.com/rss/pages/novedades-fiscales.xml",
+        "https://www.ambito.com/rss/mundo.xml",
+        "https://www.ambito.com/rss/pages/economia.xml",
+        "https://www.ambito.com/rss/edicion-impresa.xml",
+        "https://www.ambito.com/rss/negocios.xml",
+        "https://www.ambito.com/rss/autos.xml",
+        "https://www.ambito.com/rss/opinion.xml",
+        "https://www.ambito.com/rss/ambito-biz.xml",
+        "https://www.ambito.com/rss/estilo-a.xml",
+        "https://www.ambito.com/rss/pages/nacional.xml",
+        "https://www.ambito.com/rss/pages/opinion.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:16.215Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "bigbangnews.com": {
+      "urls": [
+        "https://www.bigbangnews.com/feed/",
+        "https://www.bigbangnews.com/rss/actualidad.xml",
+        "https://www.bigbangnews.com/rss/policiales.xml",
+        "https://www.bigbangnews.com/rss/politica.xml",
+        "https://www.bigbangnews.com/rss/deportes.xml",
+        "https://www.bigbangnews.com/rss/farandula.xml",
+        "https://www.bigbangnews.com/rss/mundo.xml",
+        "https://www.bigbangnews.com/rss/recetas.xml",
+        "https://www.bigbangnews.com/rss/tapas.xml",
+        "https://www.bigbangnews.com/rss/tecnologia.xml",
+        "https://www.bigbangnews.com/rss/television.xml",
+        "https://www.bigbangnews.com/feed/politica",
+        "https://www.bigbangnews.com/feed/policiales",
+        "https://www.bigbangnews.com/feed/actualidad",
+        "https://www.bigbangnews.com/feed/deportes",
+        "https://www.bigbangnews.com/feed/mundo",
+        "https://www.bigbangnews.com/feed/recetas",
+        "https://www.bigbangnews.com/feed/tecnologia"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:35:11.597Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "eldiariosur.com": {
+      "urls": [
+        "https://www.eldiariosur.com/rss/feed.html",
+        "https://www.eldiariosur.com/rss/un_foto.html",
+        "https://www.eldiariosur.com/rss/home.xml",
+        "https://www.eldiariosur.com/rss/almirante-brow.xml",
+        "https://www.eldiariosur.com/rss/nacionales.xml",
+        "https://www.eldiariosur.com/rss/espectaculos.xml",
+        "https://www.eldiariosur.com/rss/lomas-de-zamora.xml",
+        "https://www.eldiariosur.com/rss/esteban-echeverria.xml",
+        "https://www.eldiariosur.com/rss/san-vicente.xml",
+        "https://www.eldiariosur.com/rss/ezeiza.xml",
+        "https://www.eldiariosur.com/rss/provinciales.xml",
+        "https://www.eldiariosur.com/rss/columnistas.xml",
+        "https://www.eldiariosur.com/rss/countries.xml",
+        "https://www.eldiariosur.com/rss/lanus.xml",
+        "https://www.eldiariosur.com/rss/presidente-peron.xml",
+        "https://www.eldiariosur.com/rss/virales.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:32.314Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "c5n.com": {
+      "urls": [
+        "https://www.c5n.com/rss/pages/ultimas-noticias.xml",
+        "https://www.c5n.com/rss/pages/ratingcero.xml",
+        "https://www.c5n.com/rss/pages/sociedad.xml",
+        "https://www.c5n.com/rss/pages/home.xml",
+        "https://www.c5n.com/rss/pages/enfoque.xml",
+        "https://www.c5n.com/rss/pages/economia.xml",
+        "https://www.c5n.com/rss/pages/lifestyle.xml",
+        "https://www.c5n.com/rss/pages/politica.xml",
+        "https://www.c5n.com/rss/pages/deportes.xml",
+        "https://www.c5n.com/rss/pages/mundo.xml",
+        "https://www.c5n.com/rss/pages/astrologia.xml",
+        "https://www.c5n.com/rss/pages/tecnologia.xml",
+        "https://www.c5n.com/rss/pages/autos.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:58.530Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lanueva.com": {
+      "urls": [
+        "https://www.lanueva.com/news/rss/index?last_hour=1",
+        "https://www.lanueva.com/news/rss/index",
+        "https://www.lanueva.com/news/rss/category/1",
+        "https://www.lanueva.com/news/rss/category/4",
+        "https://www.lanueva.com/news/rss/category/7",
+        "https://www.lanueva.com/news/rss/category/10",
+        "https://www.lanueva.com/news/rss/category/3",
+        "https://www.lanueva.com/news/rss/category/5",
+        "https://www.lanueva.com/news/rss/category/6",
+        "https://www.lanueva.com/news/rss/category/2",
+        "https://www.lanueva.com/news/rss/category/9"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:33:28.111Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "mdzol.com": {
+      "urls": [
+        "https://www.mdzol.com/files/rss/todoslostitulos.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:32:51.246Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,2397 @@
+{
+  "country_code": "CZ",
+  "language_code": "EN",
+  "total_domains": 108,
+  "total_feeds": 877,
+  "feeds": {
+    "aktualne.cz": {
+      "urls": [
+        "https://www.aktualne.cz/rss/",
+        "https://zpravy.aktualne.cz/rss/",
+        "https://www.aktualne.cz/rss/sport",
+        "https://sport.aktualne.cz/rss/",
+        "https://zpravy.aktualne.cz/rss/sport",
+        "https://magazin.aktualne.cz/rss/",
+        "https://zpravy.aktualne.cz/rss/zahranici/",
+        "https://magazin.aktualne.cz/rss",
+        "https://www.aktualne.cz/rss/magazin",
+        "https://zpravy.aktualne.cz/rss/domaci/",
+        "https://zpravy.aktualne.cz/rss/magazin",
+        "https://www.aktualne.cz/rss/ekonomika",
+        "https://zpravy.aktualne.cz/rss/ekonomika",
+        "https://magazin.aktualne.cz/rss/kultura/",
+        "https://sport.aktualne.cz/rss/fotbal",
+        "https://sport.aktualne.cz/rss/hokej",
+        "https://sport.aktualne.cz/rss/ostatni-sporty",
+        "https://www.aktualne.cz/rss",
+        "https://www.aktualne.cz/rss/auto",
+        "https://www.aktualne.cz/rss/ostatni-sporty",
+        "https://zpravy.aktualne.cz/rss",
+        "https://nazory.aktualne.cz/rss/pro-ridice",
+        "https://sport.aktualne.cz/rss/fotbal/",
+        "https://sport.aktualne.cz/rss/hokej/",
+        "https://video.aktualne.cz/rss/",
+        "https://magazin.aktualne.cz/rss/doktore-poradte",
+        "https://magazin.aktualne.cz/rss/kultura",
+        "https://magazin.aktualne.cz/rss/nhl",
+        "https://nazory.aktualne.cz/rss/",
+        "https://nazory.aktualne.cz/rss/aktualne-pro-byznys",
+        "https://nazory.aktualne.cz/rss/cestovani",
+        "https://nazory.aktualne.cz/rss/doktore-poradte",
+        "https://nazory.aktualne.cz/rss/elektromobily",
+        "https://nazory.aktualne.cz/rss/historie-automobilu",
+        "https://nazory.aktualne.cz/rss/konferencni-liga",
+        "https://nazory.aktualne.cz/rss/moravskoslezsky",
+        "https://nazory.aktualne.cz/rss/novinky-z-trhu",
+        "https://nazory.aktualne.cz/rss/olomoucky",
+        "https://nazory.aktualne.cz/rss/pocasi",
+        "https://nazory.aktualne.cz/rss/praha",
+        "https://nazory.aktualne.cz/rss/redakcni-testy",
+        "https://nazory.aktualne.cz/rss/spotlight-terezy-engelove",
+        "https://nazory.aktualne.cz/rss/stredocesky",
+        "https://nazory.aktualne.cz/rss/technika-a-design",
+        "https://nazory.aktualne.cz/rss/ustecky",
+        "https://sport.aktualne.cz/rss/celebrity",
+        "https://sport.aktualne.cz/rss/dakar",
+        "https://sport.aktualne.cz/rss/divadlo",
+        "https://sport.aktualne.cz/rss/doktore-poradte",
+        "https://sport.aktualne.cz/rss/elektromobily",
+        "https://sport.aktualne.cz/rss/fotbalova-reprezentace",
+        "https://sport.aktualne.cz/rss/jihomoravsky",
+        "https://sport.aktualne.cz/rss/literatura",
+        "https://sport.aktualne.cz/rss/motorismus",
+        "https://sport.aktualne.cz/rss/podcasty",
+        "https://sport.aktualne.cz/rss/redakcni-testy",
+        "https://sport.aktualne.cz/rss/sjezdove-lyzovani",
+        "https://sport.aktualne.cz/rss/stredocesky",
+        "https://video.aktualne.cz/rss/divadlo",
+        "https://video.aktualne.cz/rss/stredocesky",
+        "https://www.aktualne.cz/rss/architektura",
+        "https://www.aktualne.cz/rss/atletika",
+        "https://www.aktualne.cz/rss/biatlon",
+        "https://www.aktualne.cz/rss/bydleni",
+        "https://www.aktualne.cz/rss/celebrity",
+        "https://www.aktualne.cz/rss/ceska-ekonomika",
+        "https://www.aktualne.cz/rss/elektromobily",
+        "https://www.aktualne.cz/rss/jihomoravsky",
+        "https://www.aktualne.cz/rss/nazory",
+        "https://www.aktualne.cz/rss/novinky-z-trhu",
+        "https://www.aktualne.cz/rss/ojeta-auta",
+        "https://www.aktualne.cz/rss/olomoucky",
+        "https://www.aktualne.cz/rss/spotlight-video",
+        "https://www.aktualne.cz/rss/technika-a-design",
+        "https://www.aktualne.cz/rss/video",
+        "https://www.aktualne.cz/rss/zahranici",
+        "https://www.aktualne.cz/rss/zajimavosti",
+        "https://www.aktualne.cz/rss/zlinsky",
+        "https://www.aktualne.cz/rss/zpravy",
+        "https://zpravy.aktualne.cz/rss/bydleni",
+        "https://zpravy.aktualne.cz/rss/dakar",
+        "https://zpravy.aktualne.cz/rss/doktore-poradte",
+        "https://zpravy.aktualne.cz/rss/domaci",
+        "https://zpravy.aktualne.cz/rss/ekonomika/",
+        "https://zpravy.aktualne.cz/rss/elektromobilita",
+        "https://zpravy.aktualne.cz/rss/fotbalova-reprezentace",
+        "https://zpravy.aktualne.cz/rss/historie-automobilu",
+        "https://zpravy.aktualne.cz/rss/hudba",
+        "https://zpravy.aktualne.cz/rss/konferencni-liga",
+        "https://zpravy.aktualne.cz/rss/motorismus",
+        "https://zpravy.aktualne.cz/rss/pocasi",
+        "https://zpravy.aktualne.cz/rss/praha",
+        "https://zpravy.aktualne.cz/rss/pro-ridice",
+        "https://zpravy.aktualne.cz/rss/regiony",
+        "https://zpravy.aktualne.cz/rss/spotlight-matyase-zrna",
+        "https://zpravy.aktualne.cz/rss/spotlight-zuzany-tvaruzkove",
+        "https://zpravy.aktualne.cz/rss/stredocesky",
+        "https://zpravy.aktualne.cz/rss/zahranici",
+        "https://zpravy.aktualne.cz/rss/zajimavosti",
+        "https://zpravy.aktualne.cz/rss/zimni-sporty",
+        "https://zpravy.aktualne.cz/rss/zlinsky",
+        "https://sport.aktualne.cz/rss/ostatni-sporty/",
+        "https://sport.aktualne.cz/rss/motorismus/",
+        "https://video.aktualne.cz/rss/dvtv/",
+        "https://zpravy.aktualne.cz/rss/finance/",
+        "https://zpravy.aktualne.cz/rss/pocasi/",
+        "https://zpravy.aktualne.cz/rss/regiony/",
+        "https://blog.aktualne.cz/export-all.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.437Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "echo24.cz": {
+      "urls": [
+        "https://echo24.cz/rss/s/homepage",
+        "https://echo24.cz/rss/s",
+        "https://echo24.cz/rss/s/kratke-zpravy",
+        "https://www.echo24.cz/rss/s/homepage",
+        "https://www.echo24.cz/rss/s",
+        "https://www.echo24.cz/rss/s/kratke-zpravy",
+        "https://echo24.cz/rss/s/svet",
+        "https://www.echo24.cz/rss/s/domov",
+        "https://www.echo24.cz/rss/s/svet",
+        "https://echo24.cz/rss/s/domov",
+        "https://echo24.cz/rss/s/panorama",
+        "https://www.echo24.cz/rss/s/panorama",
+        "https://www.echo24.cz/rss/s/tydenik",
+        "https://echo24.cz/rss/author/lenka-zlamalova",
+        "https://echo24.cz/rss/author/vaclav-cilek",
+        "https://echo24.cz/rss/s/blogy",
+        "https://echo24.cz/rss/s/echo-pavla-strunce",
+        "https://echo24.cz/rss/s/echoporada",
+        "https://echo24.cz/rss/s/echosalon",
+        "https://echo24.cz/rss/s/hrot-pavla-strunce",
+        "https://echo24.cz/rss/s/matrix-lenky-zlamalove",
+        "https://echo24.cz/rss/s/muzi-za-pultem",
+        "https://echo24.cz/rss/s/podcasty",
+        "https://echo24.cz/rss/s/pravda-neexistuje-tm",
+        "https://echo24.cz/rss/s/tydenik",
+        "https://echo24.cz/rss/s/vypravy-jiriho-penase",
+        "https://www.echo24.cz/rss/author/lenka-zlamalova",
+        "https://www.echo24.cz/rss/author/vaclav-cilek",
+        "https://www.echo24.cz/rss/s/blogy",
+        "https://www.echo24.cz/rss/s/echo-pavla-strunce",
+        "https://www.echo24.cz/rss/s/echo-prime-time",
+        "https://www.echo24.cz/rss/s/echoporada",
+        "https://www.echo24.cz/rss/s/echosalon",
+        "https://www.echo24.cz/rss/s/hej-slovane",
+        "https://www.echo24.cz/rss/s/hrot-pavla-strunce",
+        "https://www.echo24.cz/rss/s/matrix-lenky-zlamalove",
+        "https://www.echo24.cz/rss/s/mens-factor",
+        "https://www.echo24.cz/rss/s/minulost-neni-historie",
+        "https://www.echo24.cz/rss/s/muzi-za-pultem",
+        "https://www.echo24.cz/rss/s/podcasty",
+        "https://www.echo24.cz/rss/s/pravda-neexistuje-tm",
+        "https://www.echo24.cz/rss/s/vypravy-jiriho-penase"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.582Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "idnes.cz": {
+      "urls": [
+        "https://servis.idnes.cz/rss.aspx",
+        "https://blog.idnes.cz/?mode=rss",
+        "https://blog.idnes.cz/rss",
+        "https://blog.idnes.cz/rss.aspx",
+        "https://servis.idnes.cz/rss.aspx?c=technet",
+        "https://servis.idnes.cz/rss.aspx?c=bonusweb",
+        "https://servis.idnes.cz/rss.aspx?c=autokat",
+        "https://blog.idnes.cz/info?mode=rss",
+        "https://blog.idnes.cz/jaroslavflegr?mode=rss",
+        "https://blog.idnes.cz/lhotska?mode=rss",
+        "https://blog.idnes.cz/milansalek?mode=rss",
+        "https://blog.idnes.cz/richardneugebauer?mode=rss",
+        "https://blog.idnes.cz/sichtarova?mode=rss",
+        "https://blog.idnes.cz/zdechovsky?mode=rss",
+        "https://blog.idnes.cz/zdenkaortova?mode=rss",
+        "https://info.blog.idnes.cz/rss.aspx",
+        "https://jaroslavflegr.blog.idnes.cz/rss.aspx",
+        "https://lhotska.blog.idnes.cz/rss.aspx",
+        "https://milansalek.blog.idnes.cz/rss.aspx",
+        "https://nazoryakomentare.blog.idnes.cz/rss.aspx",
+        "https://richardneugebauer.blog.idnes.cz/rss.aspx",
+        "https://sichtarova.blog.idnes.cz/rss.aspx",
+        "https://zdechovsky.blog.idnes.cz/rss.aspx",
+        "https://zdenkaortova.blog.idnes.cz/rss.aspx",
+        "https://blog.idnes.cz/nazoryakomentare?mode=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.470Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "blesk.cz": {
+      "urls": [
+        "https://www.blesk.cz/rss",
+        "https://www.blesk.cz/rss/1",
+        "https://isport.blesk.cz/rss",
+        "https://isport.blesk.cz/rss/54",
+        "https://www.blesk.cz/rss/7",
+        "https://www.blesk.cz/rss/5",
+        "https://www.blesk.cz/rss/45",
+        "https://isport.blesk.cz/rss/203",
+        "https://www.blesk.cz/rss/32",
+        "https://www.blesk.cz/rss/2820",
+        "https://isport.blesk.cz/rss/7636",
+        "https://isport.blesk.cz/rss/8627",
+        "https://www.blesk.cz/rss/5435"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.443Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ceskenoviny.cz": {
+      "urls": [
+        "https://www.ceskenoviny.cz/sluzby/rss/zpravy.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/index.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/sport.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/cr.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/ekonomika.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/hokej.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/fotbal.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/magazin.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/kultura.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/tenis.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/autonaelektrinu.php",
+        "https://www.ceskenoviny.cz/sluzby/rss/svet.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.449Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "reflex.cz": {
+      "urls": [
+        "https://www.reflex.cz/rss",
+        "https://www.reflex.cz/rss/1444",
+        "https://www.reflex.cz/rss/7790",
+        "https://www.reflex.cz/rss/",
+        "https://www.reflex.cz/rss/6539",
+        "https://www.reflex.cz/rss/3025",
+        "https://www.reflex.cz/rss/3959",
+        "https://www.reflex.cz/rss/4394",
+        "https://www.reflex.cz/rss/7220",
+        "https://www.reflex.cz/rss/7807",
+        "https://www.reflex.cz/rss/9308",
+        "https://www.reflex.cz/kategorie/7790/reflex-podcast"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.577Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "moravskoslezsky.denik.cz": {
+      "urls": [
+        "https://moravskoslezsky.denik.cz/rss/magazin.html",
+        "https://moravskoslezsky.denik.cz/rss/server-original.html",
+        "https://moravskoslezsky.denik.cz/rss/z_regionu.html",
+        "https://moravskoslezsky.denik.cz/rss/zpravy_region.html",
+        "https://moravskoslezsky.denik.cz/rss/sport_region.html",
+        "https://moravskoslezsky.denik.cz/rss/volby-ps-2021.html",
+        "https://moravskoslezsky.denik.cz/rss/cerna_kronika.html",
+        "https://moravskoslezsky.denik.cz/rss/kultura_region.html",
+        "https://moravskoslezsky.denik.cz/rss/miminka.html",
+        "https://moravskoslezsky.denik.cz/rss/nazory_region.html",
+        "https://moravskoslezsky.denik.cz/rss/podnikani.html",
+        "https://moravskoslezsky.denik.cz/rss/z-regionu.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.711Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "english.radio.cz": {
+      "urls": [
+        "https://english.radio.cz/rcz-rss/en",
+        "https://english.radio.cz/rcz-rss/show/audio/8691446",
+        "https://english.radio.cz/rcz-rss/show/audio/8701900",
+        "https://english.radio.cz/rcz-rss/show/audio/8702571",
+        "https://english.radio.cz/rcz-rss/show/audio/8705331",
+        "https://english.radio.cz/rcz-rss/show/audio/8710117",
+        "https://english.radio.cz/rcz-rss/show/audio/8755562",
+        "https://english.radio.cz/rcz-rss/show/audio/8765630",
+        "https://english.radio.cz/rcz-rss/show/audio/8794382",
+        "https://english.radio.cz/rcz-rss/show/audio/8805989",
+        "https://english.radio.cz/rcz-rss/show/audio/8839563"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.794Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "denik.cz": {
+      "urls": [
+        "https://www.denik.cz/rss/server-original.html",
+        "https://www.denik.cz/rss/zpravy.html",
+        "https://www.denik.cz/rss/sport.html",
+        "https://www.denik.cz/rss/magazin.html",
+        "https://moravskoslezsky.denik.cz/rss/server-original.html",
+        "https://www.denik.cz/rss/z_domova.html",
+        "https://www.denik.cz/rss/volby-ps-2021.html",
+        "https://www.denik.cz/rss/nazory.html",
+        "https://www.denik.cz/rss/podnikani.html",
+        "https://www.denik.cz/rss/souteze.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.457Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "isport.blesk.cz": {
+      "urls": [
+        "https://isport.blesk.cz/rss",
+        "https://isport.blesk.cz/rss/54",
+        "https://isport.blesk.cz/rss/56",
+        "https://isport.blesk.cz/rss/203",
+        "https://isport.blesk.cz/rss/55",
+        "https://isport.blesk.cz/rss/8360",
+        "https://tv.isport.blesk.cz/rss",
+        "https://isport.blesk.cz/rss/98",
+        "https://isport.blesk.cz/rss/7636",
+        "https://tv.isport.blesk.cz/rss/7674"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T21:02:14.512Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ceskobudejovicky.denik.cz": {
+      "urls": [
+        "https://ceskobudejovicky.denik.cz/rss/magazin.html",
+        "https://ceskobudejovicky.denik.cz/rss/server-original.html",
+        "https://ceskobudejovicky.denik.cz/rss/sport_region.html",
+        "https://ceskobudejovicky.denik.cz/rss/z_regionu.html",
+        "https://ceskobudejovicky.denik.cz/rss/zpravy_region.html",
+        "https://ceskobudejovicky.denik.cz/rss/volby-ps-2021.html",
+        "https://ceskobudejovicky.denik.cz/rss/miminka.html",
+        "https://ceskobudejovicky.denik.cz/rss/nazory_region.html",
+        "https://ceskobudejovicky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.530Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "cnews.cz": {
+      "urls": [
+        "https://www.cnews.cz/vivaldi-test-postak-kalendar-rss/feed/",
+        "https://www.cnews.cz/rss/clanky/",
+        "https://www.cnews.cz/podcast-cnews-fm-284-posledni-epizoda/feed/",
+        "https://www.cnews.cz/feed/",
+        "https://www.cnews.cz/podcast-cnews-fm-281-jak-prezit-koronakrizi/feed/",
+        "https://www.cnews.cz/podcast-cnews-fm-282-sony-konci-dualshock/feed/",
+        "https://www.cnews.cz/podcast-cnews-fm-283-vyhodnost-bazarovych-komponent/feed/",
+        "https://www.cnews.cz/tagy/podcast/feed/",
+        "https://www.cnews.cz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.585Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "zlinsky.denik.cz": {
+      "urls": [
+        "https://zlinsky.denik.cz/rss/magazin.html",
+        "https://zlinsky.denik.cz/rss/server-original.html",
+        "https://zlinsky.denik.cz/rss/z_regionu.html",
+        "https://zlinsky.denik.cz/rss/sport_region.html",
+        "https://zlinsky.denik.cz/rss/volby-ps-2021.html",
+        "https://zlinsky.denik.cz/rss/zpravy_region.html",
+        "https://zlinsky.denik.cz/rss/miminka.html",
+        "https://zlinsky.denik.cz/rss/nazory_region.html",
+        "https://zlinsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.591Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "benesovsky.denik.cz": {
+      "urls": [
+        "https://benesovsky.denik.cz/rss/magazin.html",
+        "https://benesovsky.denik.cz/rss/server-original.html",
+        "https://benesovsky.denik.cz/rss/z_regionu.html",
+        "https://benesovsky.denik.cz/rss/volby-ps-2021.html",
+        "https://benesovsky.denik.cz/rss/zpravy_region.html",
+        "https://benesovsky.denik.cz/rss/sport_region.html",
+        "https://benesovsky.denik.cz/rss/miminka.html",
+        "https://benesovsky.denik.cz/rss/nazory_region.html",
+        "https://benesovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.616Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mostecky.denik.cz": {
+      "urls": [
+        "https://mostecky.denik.cz/rss/magazin.html",
+        "https://mostecky.denik.cz/rss/z_regionu.html",
+        "https://mostecky.denik.cz/rss/server-original.html",
+        "https://mostecky.denik.cz/rss/sport_region.html",
+        "https://mostecky.denik.cz/rss/zpravy_region.html",
+        "https://mostecky.denik.cz/rss/volby-ps-2021.html",
+        "https://mostecky.denik.cz/rss/miminka.html",
+        "https://mostecky.denik.cz/rss/nazory_region.html",
+        "https://mostecky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.655Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ustecky.denik.cz": {
+      "urls": [
+        "https://ustecky.denik.cz/rss/magazin.html",
+        "https://ustecky.denik.cz/rss/server-original.html",
+        "https://ustecky.denik.cz/rss/z_regionu.html",
+        "https://ustecky.denik.cz/rss/zpravy_region.html",
+        "https://ustecky.denik.cz/rss/sport_region.html",
+        "https://ustecky.denik.cz/rss/volby-ps-2021.html",
+        "https://ustecky.denik.cz/rss/miminka.html",
+        "https://ustecky.denik.cz/rss/nazory_region.html",
+        "https://ustecky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.661Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "olomoucky.denik.cz": {
+      "urls": [
+        "https://olomoucky.denik.cz/rss/magazin.html",
+        "https://olomoucky.denik.cz/rss/server-original.html",
+        "https://olomoucky.denik.cz/rss/z_regionu.html",
+        "https://olomoucky.denik.cz/rss/sport_region.html",
+        "https://olomoucky.denik.cz/rss/zpravy_region.html",
+        "https://olomoucky.denik.cz/rss/volby-ps-2021.html",
+        "https://olomoucky.denik.cz/rss/miminka.html",
+        "https://olomoucky.denik.cz/rss/nazory_region.html",
+        "https://olomoucky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.674Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "plzensky.denik.cz": {
+      "urls": [
+        "https://plzensky.denik.cz/rss/magazin.html",
+        "https://plzensky.denik.cz/rss/server-original.html",
+        "https://plzensky.denik.cz/rss/z_regionu.html",
+        "https://plzensky.denik.cz/rss/zpravy_region.html",
+        "https://plzensky.denik.cz/rss/sport_region.html",
+        "https://plzensky.denik.cz/rss/volby-ps-2021.html",
+        "https://plzensky.denik.cz/rss/miminka.html",
+        "https://plzensky.denik.cz/rss/nazory_region.html",
+        "https://plzensky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.702Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "karvinsky.denik.cz": {
+      "urls": [
+        "https://karvinsky.denik.cz/rss/magazin.html",
+        "https://karvinsky.denik.cz/rss/z_regionu.html",
+        "https://karvinsky.denik.cz/rss/server-original.html",
+        "https://karvinsky.denik.cz/rss/zpravy_region.html",
+        "https://karvinsky.denik.cz/rss/sport_region.html",
+        "https://karvinsky.denik.cz/rss/volby-ps-2021.html",
+        "https://karvinsky.denik.cz/rss/miminka.html",
+        "https://karvinsky.denik.cz/rss/nazory_region.html",
+        "https://karvinsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.721Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hradecky.denik.cz": {
+      "urls": [
+        "https://hradecky.denik.cz/rss/magazin.html",
+        "https://hradecky.denik.cz/rss/server-original.html",
+        "https://hradecky.denik.cz/rss/z_regionu.html",
+        "https://hradecky.denik.cz/rss/sport_region.html",
+        "https://hradecky.denik.cz/rss/zpravy_region.html",
+        "https://hradecky.denik.cz/rss/volby-ps-2021.html",
+        "https://hradecky.denik.cz/rss/miminka.html",
+        "https://hradecky.denik.cz/rss/nazory_region.html",
+        "https://hradecky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.736Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "breclavsky.denik.cz": {
+      "urls": [
+        "https://breclavsky.denik.cz/rss/magazin.html",
+        "https://breclavsky.denik.cz/rss/server-original.html",
+        "https://breclavsky.denik.cz/rss/z_regionu.html",
+        "https://breclavsky.denik.cz/rss/volby-ps-2021.html",
+        "https://breclavsky.denik.cz/rss/zpravy_region.html",
+        "https://breclavsky.denik.cz/rss/sport_region.html",
+        "https://breclavsky.denik.cz/rss/miminka.html",
+        "https://breclavsky.denik.cz/rss/nazory_region.html",
+        "https://breclavsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.766Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "chebsky.denik.cz": {
+      "urls": [
+        "https://chebsky.denik.cz/rss/magazin.html",
+        "https://chebsky.denik.cz/rss/sport_region.html",
+        "https://chebsky.denik.cz/rss/server-original.html",
+        "https://chebsky.denik.cz/rss/z_regionu.html",
+        "https://chebsky.denik.cz/rss/zpravy_region.html",
+        "https://chebsky.denik.cz/rss/miminka.html",
+        "https://chebsky.denik.cz/rss/nazory_region.html",
+        "https://chebsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.533Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sokolovsky.denik.cz": {
+      "urls": [
+        "https://sokolovsky.denik.cz/rss/magazin.html",
+        "https://sokolovsky.denik.cz/rss/sport_region.html",
+        "https://sokolovsky.denik.cz/rss/z_regionu.html",
+        "https://sokolovsky.denik.cz/rss/server-original.html",
+        "https://sokolovsky.denik.cz/rss/zpravy_region.html",
+        "https://sokolovsky.denik.cz/rss/miminka.html",
+        "https://sokolovsky.denik.cz/rss/nazory_region.html",
+        "https://sokolovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.536Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "karlovarsky.denik.cz": {
+      "urls": [
+        "https://karlovarsky.denik.cz/rss/magazin.html",
+        "https://karlovarsky.denik.cz/rss/server-original.html",
+        "https://karlovarsky.denik.cz/rss/sport_region.html",
+        "https://karlovarsky.denik.cz/rss/z_regionu.html",
+        "https://karlovarsky.denik.cz/rss/zpravy_region.html",
+        "https://karlovarsky.denik.cz/rss/miminka.html",
+        "https://karlovarsky.denik.cz/rss/nazory_region.html",
+        "https://karlovarsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.539Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "trebicsky.denik.cz": {
+      "urls": [
+        "https://trebicsky.denik.cz/rss/magazin.html",
+        "https://trebicsky.denik.cz/rss/z_regionu.html",
+        "https://trebicsky.denik.cz/rss/server-original.html",
+        "https://trebicsky.denik.cz/rss/sport_region.html",
+        "https://trebicsky.denik.cz/rss/zpravy_region.html",
+        "https://trebicsky.denik.cz/rss/miminka.html",
+        "https://trebicsky.denik.cz/rss/nazory_region.html",
+        "https://trebicsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.543Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "valassky.denik.cz": {
+      "urls": [
+        "https://valassky.denik.cz/rss/magazin.html",
+        "https://valassky.denik.cz/rss/server-original.html",
+        "https://valassky.denik.cz/rss/z_regionu.html",
+        "https://valassky.denik.cz/rss/zpravy_region.html",
+        "https://valassky.denik.cz/rss/sport_region.html",
+        "https://valassky.denik.cz/rss/miminka.html",
+        "https://valassky.denik.cz/rss/nazory_region.html",
+        "https://valassky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.595Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "slovacky.denik.cz": {
+      "urls": [
+        "https://slovacky.denik.cz/rss/magazin.html",
+        "https://slovacky.denik.cz/rss/server-original.html",
+        "https://slovacky.denik.cz/rss/sport_region.html",
+        "https://slovacky.denik.cz/rss/z_regionu.html",
+        "https://slovacky.denik.cz/rss/zpravy_region.html",
+        "https://slovacky.denik.cz/rss/miminka.html",
+        "https://slovacky.denik.cz/rss/nazory_region.html",
+        "https://slovacky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.598Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kromerizsky.denik.cz": {
+      "urls": [
+        "https://kromerizsky.denik.cz/rss/magazin.html",
+        "https://kromerizsky.denik.cz/rss/server-original.html",
+        "https://kromerizsky.denik.cz/rss/z_regionu.html",
+        "https://kromerizsky.denik.cz/rss/sport_region.html",
+        "https://kromerizsky.denik.cz/rss/zpravy_region.html",
+        "https://kromerizsky.denik.cz/rss/miminka.html",
+        "https://kromerizsky.denik.cz/rss/nazory_region.html",
+        "https://kromerizsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.601Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "zdarsky.denik.cz": {
+      "urls": [
+        "https://zdarsky.denik.cz/rss/magazin.html",
+        "https://zdarsky.denik.cz/rss/server-original.html",
+        "https://zdarsky.denik.cz/rss/z_regionu.html",
+        "https://zdarsky.denik.cz/rss/sport_region.html",
+        "https://zdarsky.denik.cz/rss/zpravy_region.html",
+        "https://zdarsky.denik.cz/rss/miminka.html",
+        "https://zdarsky.denik.cz/rss/nazory_region.html",
+        "https://zdarsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.604Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pelhrimovsky.denik.cz": {
+      "urls": [
+        "https://pelhrimovsky.denik.cz/rss/magazin.html",
+        "https://pelhrimovsky.denik.cz/rss/sport_region.html",
+        "https://pelhrimovsky.denik.cz/rss/z_regionu.html",
+        "https://pelhrimovsky.denik.cz/rss/server-original.html",
+        "https://pelhrimovsky.denik.cz/rss/zpravy_region.html",
+        "https://pelhrimovsky.denik.cz/rss/miminka.html",
+        "https://pelhrimovsky.denik.cz/rss/nazory_region.html",
+        "https://pelhrimovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.607Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "havlickobrodsky.denik.cz": {
+      "urls": [
+        "https://havlickobrodsky.denik.cz/rss/magazin.html",
+        "https://havlickobrodsky.denik.cz/rss/sport_region.html",
+        "https://havlickobrodsky.denik.cz/rss/z_regionu.html",
+        "https://havlickobrodsky.denik.cz/rss/server-original.html",
+        "https://havlickobrodsky.denik.cz/rss/zpravy_region.html",
+        "https://havlickobrodsky.denik.cz/rss/miminka.html",
+        "https://havlickobrodsky.denik.cz/rss/nazory_region.html",
+        "https://havlickobrodsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.610Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jihlavsky.denik.cz": {
+      "urls": [
+        "https://jihlavsky.denik.cz/rss/magazin.html",
+        "https://jihlavsky.denik.cz/rss/server-original.html",
+        "https://jihlavsky.denik.cz/rss/z_regionu.html",
+        "https://jihlavsky.denik.cz/rss/sport_region.html",
+        "https://jihlavsky.denik.cz/rss/zpravy_region.html",
+        "https://jihlavsky.denik.cz/rss/miminka.html",
+        "https://jihlavsky.denik.cz/rss/nazory_region.html",
+        "https://jihlavsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.613Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kladensky.denik.cz": {
+      "urls": [
+        "https://kladensky.denik.cz/rss/magazin.html",
+        "https://kladensky.denik.cz/rss/server-original.html",
+        "https://kladensky.denik.cz/rss/z_regionu.html",
+        "https://kladensky.denik.cz/rss/sport_region.html",
+        "https://kladensky.denik.cz/rss/zpravy_region.html",
+        "https://kladensky.denik.cz/rss/miminka.html",
+        "https://kladensky.denik.cz/rss/nazory_region.html",
+        "https://kladensky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.619Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kolinsky.denik.cz": {
+      "urls": [
+        "https://kolinsky.denik.cz/rss/magazin.html",
+        "https://kolinsky.denik.cz/rss/server-original.html",
+        "https://kolinsky.denik.cz/rss/z_regionu.html",
+        "https://kolinsky.denik.cz/rss/sport_region.html",
+        "https://kolinsky.denik.cz/rss/zpravy_region.html",
+        "https://kolinsky.denik.cz/rss/miminka.html",
+        "https://kolinsky.denik.cz/rss/nazory_region.html",
+        "https://kolinsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.623Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kutnohorsky.denik.cz": {
+      "urls": [
+        "https://kutnohorsky.denik.cz/rss/magazin.html",
+        "https://kutnohorsky.denik.cz/rss/z_regionu.html",
+        "https://kutnohorsky.denik.cz/rss/server-original.html",
+        "https://kutnohorsky.denik.cz/rss/sport_region.html",
+        "https://kutnohorsky.denik.cz/rss/zpravy_region.html",
+        "https://kutnohorsky.denik.cz/rss/miminka.html",
+        "https://kutnohorsky.denik.cz/rss/nazory_region.html",
+        "https://kutnohorsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.626Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "boleslavsky.denik.cz": {
+      "urls": [
+        "https://boleslavsky.denik.cz/rss/magazin.html",
+        "https://boleslavsky.denik.cz/rss/server-original.html",
+        "https://boleslavsky.denik.cz/rss/z_regionu.html",
+        "https://boleslavsky.denik.cz/rss/sport_region.html",
+        "https://boleslavsky.denik.cz/rss/zpravy_region.html",
+        "https://boleslavsky.denik.cz/rss/miminka.html",
+        "https://boleslavsky.denik.cz/rss/nazory_region.html",
+        "https://boleslavsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.632Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nymbursky.denik.cz": {
+      "urls": [
+        "https://nymbursky.denik.cz/rss/magazin.html",
+        "https://nymbursky.denik.cz/rss/server-original.html",
+        "https://nymbursky.denik.cz/rss/z_regionu.html",
+        "https://nymbursky.denik.cz/rss/sport_region.html",
+        "https://nymbursky.denik.cz/rss/zpravy_region.html",
+        "https://nymbursky.denik.cz/rss/miminka.html",
+        "https://nymbursky.denik.cz/rss/nazory_region.html",
+        "https://nymbursky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.635Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pribramsky.denik.cz": {
+      "urls": [
+        "https://pribramsky.denik.cz/rss/magazin.html",
+        "https://pribramsky.denik.cz/rss/server-original.html",
+        "https://pribramsky.denik.cz/rss/z_regionu.html",
+        "https://pribramsky.denik.cz/rss/zpravy_region.html",
+        "https://pribramsky.denik.cz/rss/sport_region.html",
+        "https://pribramsky.denik.cz/rss/miminka.html",
+        "https://pribramsky.denik.cz/rss/nazory_region.html",
+        "https://pribramsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.638Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rakovnicky.denik.cz": {
+      "urls": [
+        "https://rakovnicky.denik.cz/rss/magazin.html",
+        "https://rakovnicky.denik.cz/rss/server-original.html",
+        "https://rakovnicky.denik.cz/rss/z_regionu.html",
+        "https://rakovnicky.denik.cz/rss/zpravy_region.html",
+        "https://rakovnicky.denik.cz/rss/sport_region.html",
+        "https://rakovnicky.denik.cz/rss/miminka.html",
+        "https://rakovnicky.denik.cz/rss/nazory_region.html",
+        "https://rakovnicky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.642Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "chomutovsky.denik.cz": {
+      "urls": [
+        "https://chomutovsky.denik.cz/rss/magazin.html",
+        "https://chomutovsky.denik.cz/rss/server-original.html",
+        "https://chomutovsky.denik.cz/rss/z_regionu.html",
+        "https://chomutovsky.denik.cz/rss/sport_region.html",
+        "https://chomutovsky.denik.cz/rss/zpravy_region.html",
+        "https://chomutovsky.denik.cz/rss/miminka.html",
+        "https://chomutovsky.denik.cz/rss/nazory_region.html",
+        "https://chomutovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.645Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "litomericky.denik.cz": {
+      "urls": [
+        "https://litomericky.denik.cz/rss/magazin.html",
+        "https://litomericky.denik.cz/rss/server-original.html",
+        "https://litomericky.denik.cz/rss/z_regionu.html",
+        "https://litomericky.denik.cz/rss/sport_region.html",
+        "https://litomericky.denik.cz/rss/zpravy_region.html",
+        "https://litomericky.denik.cz/rss/miminka.html",
+        "https://litomericky.denik.cz/rss/nazory_region.html",
+        "https://litomericky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.651Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "teplicky.denik.cz": {
+      "urls": [
+        "https://teplicky.denik.cz/rss/magazin.html",
+        "https://teplicky.denik.cz/rss/server-original.html",
+        "https://teplicky.denik.cz/rss/z_regionu.html",
+        "https://teplicky.denik.cz/rss/sport_region.html",
+        "https://teplicky.denik.cz/rss/zpravy_region.html",
+        "https://teplicky.denik.cz/rss/miminka.html",
+        "https://teplicky.denik.cz/rss/nazory_region.html",
+        "https://teplicky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.658Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "prazsky.denik.cz": {
+      "urls": [
+        "https://prazsky.denik.cz/rss/magazin.html",
+        "https://prazsky.denik.cz/rss/server-original.html",
+        "https://prazsky.denik.cz/rss/z_regionu.html",
+        "https://prazsky.denik.cz/rss/sport_region.html",
+        "https://prazsky.denik.cz/rss/zpravy_region.html",
+        "https://prazsky.denik.cz/rss/miminka.html",
+        "https://prazsky.denik.cz/rss/nazory_region.html",
+        "https://prazsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.667Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sip.denik.cz": {
+      "urls": [
+        "https://sip.denik.cz/rss/celebrity.html",
+        "https://sip.denik.cz/rss/vse.html",
+        "https://sip.denik.cz/rss/cestovani.html",
+        "https://sip.denik.cz/rss/laska-a-vztahy.html",
+        "https://sip.denik.cz/rss/moda-a-zdravi.html",
+        "https://sip.denik.cz/rss/pribehy-a-udalosti.html",
+        "https://sip.denik.cz/rss/zabava-a-video.html",
+        "https://www.kafe.cz/rss/vse.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T21:02:14.670Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "prerovsky.denik.cz": {
+      "urls": [
+        "https://prerovsky.denik.cz/rss/magazin.html",
+        "https://prerovsky.denik.cz/rss/server-original.html",
+        "https://prerovsky.denik.cz/rss/z_regionu.html",
+        "https://prerovsky.denik.cz/rss/sport_region.html",
+        "https://prerovsky.denik.cz/rss/zpravy_region.html",
+        "https://prerovsky.denik.cz/rss/miminka.html",
+        "https://prerovsky.denik.cz/rss/nazory_region.html",
+        "https://prerovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.677Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sumpersky.denik.cz": {
+      "urls": [
+        "https://sumpersky.denik.cz/rss/magazin.html",
+        "https://sumpersky.denik.cz/rss/server-original.html",
+        "https://sumpersky.denik.cz/rss/z_regionu.html",
+        "https://sumpersky.denik.cz/rss/zpravy_region.html",
+        "https://sumpersky.denik.cz/rss/sport_region.html",
+        "https://sumpersky.denik.cz/rss/miminka.html",
+        "https://sumpersky.denik.cz/rss/nazory_region.html",
+        "https://sumpersky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.680Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "orlicky.denik.cz": {
+      "urls": [
+        "https://orlicky.denik.cz/rss/magazin.html",
+        "https://orlicky.denik.cz/rss/z_regionu.html",
+        "https://orlicky.denik.cz/rss/server-original.html",
+        "https://orlicky.denik.cz/rss/sport_region.html",
+        "https://orlicky.denik.cz/rss/zpravy_region.html",
+        "https://orlicky.denik.cz/rss/miminka.html",
+        "https://orlicky.denik.cz/rss/nazory_region.html",
+        "https://orlicky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.683Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "chrudimsky.denik.cz": {
+      "urls": [
+        "https://chrudimsky.denik.cz/rss/magazin.html",
+        "https://chrudimsky.denik.cz/rss/z_regionu.html",
+        "https://chrudimsky.denik.cz/rss/server-original.html",
+        "https://chrudimsky.denik.cz/rss/zpravy_region.html",
+        "https://chrudimsky.denik.cz/rss/sport_region.html",
+        "https://chrudimsky.denik.cz/rss/miminka.html",
+        "https://chrudimsky.denik.cz/rss/nazory_region.html",
+        "https://chrudimsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.686Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pardubicky.denik.cz": {
+      "urls": [
+        "https://pardubicky.denik.cz/rss/magazin.html",
+        "https://pardubicky.denik.cz/rss/server-original.html",
+        "https://pardubicky.denik.cz/rss/z_regionu.html",
+        "https://pardubicky.denik.cz/rss/zpravy_region.html",
+        "https://pardubicky.denik.cz/rss/sport_region.html",
+        "https://pardubicky.denik.cz/rss/miminka.html",
+        "https://pardubicky.denik.cz/rss/nazory_region.html",
+        "https://pardubicky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.689Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "svitavsky.denik.cz": {
+      "urls": [
+        "https://svitavsky.denik.cz/rss/magazin.html",
+        "https://svitavsky.denik.cz/rss/z_regionu.html",
+        "https://svitavsky.denik.cz/rss/server-original.html",
+        "https://svitavsky.denik.cz/rss/sport_region.html",
+        "https://svitavsky.denik.cz/rss/zpravy_region.html",
+        "https://svitavsky.denik.cz/rss/miminka.html",
+        "https://svitavsky.denik.cz/rss/nazory_region.html",
+        "https://svitavsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.692Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "domazlicky.denik.cz": {
+      "urls": [
+        "https://domazlicky.denik.cz/rss/magazin.html",
+        "https://domazlicky.denik.cz/rss/z_regionu.html",
+        "https://domazlicky.denik.cz/rss/server-original.html",
+        "https://domazlicky.denik.cz/rss/sport_region.html",
+        "https://domazlicky.denik.cz/rss/zpravy_region.html",
+        "https://domazlicky.denik.cz/rss/miminka.html",
+        "https://domazlicky.denik.cz/rss/nazory_region.html",
+        "https://domazlicky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.695Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "klatovsky.denik.cz": {
+      "urls": [
+        "https://klatovsky.denik.cz/rss/magazin.html",
+        "https://klatovsky.denik.cz/rss/z_regionu.html",
+        "https://klatovsky.denik.cz/rss/server-original.html",
+        "https://klatovsky.denik.cz/rss/sport_region.html",
+        "https://klatovsky.denik.cz/rss/zpravy_region.html",
+        "https://klatovsky.denik.cz/rss/miminka.html",
+        "https://klatovsky.denik.cz/rss/nazory_region.html",
+        "https://klatovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.698Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rokycansky.denik.cz": {
+      "urls": [
+        "https://rokycansky.denik.cz/rss/magazin.html",
+        "https://rokycansky.denik.cz/rss/z_regionu.html",
+        "https://rokycansky.denik.cz/rss/server-original.html",
+        "https://rokycansky.denik.cz/rss/sport_region.html",
+        "https://rokycansky.denik.cz/rss/zpravy_region.html",
+        "https://rokycansky.denik.cz/rss/miminka.html",
+        "https://rokycansky.denik.cz/rss/nazory_region.html",
+        "https://rokycansky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.705Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tachovsky.denik.cz": {
+      "urls": [
+        "https://tachovsky.denik.cz/rss/magazin.html",
+        "https://tachovsky.denik.cz/rss/z_regionu.html",
+        "https://tachovsky.denik.cz/rss/server-original.html",
+        "https://tachovsky.denik.cz/rss/zpravy_region.html",
+        "https://tachovsky.denik.cz/rss/sport_region.html",
+        "https://tachovsky.denik.cz/rss/miminka.html",
+        "https://tachovsky.denik.cz/rss/nazory_region.html",
+        "https://tachovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.708Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "opavsky.denik.cz": {
+      "urls": [
+        "https://opavsky.denik.cz/rss/magazin.html",
+        "https://opavsky.denik.cz/rss/z_regionu.html",
+        "https://opavsky.denik.cz/rss/server-original.html",
+        "https://opavsky.denik.cz/rss/zpravy_region.html",
+        "https://opavsky.denik.cz/rss/sport_region.html",
+        "https://opavsky.denik.cz/rss/miminka.html",
+        "https://opavsky.denik.cz/rss/nazory_region.html",
+        "https://opavsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.714Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "novojicinsky.denik.cz": {
+      "urls": [
+        "https://novojicinsky.denik.cz/rss/magazin.html",
+        "https://novojicinsky.denik.cz/rss/z_regionu.html",
+        "https://novojicinsky.denik.cz/rss/server-original.html",
+        "https://novojicinsky.denik.cz/rss/zpravy_region.html",
+        "https://novojicinsky.denik.cz/rss/sport_region.html",
+        "https://novojicinsky.denik.cz/rss/miminka.html",
+        "https://novojicinsky.denik.cz/rss/nazory_region.html",
+        "https://novojicinsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.718Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "fm.denik.cz": {
+      "urls": [
+        "https://fm.denik.cz/rss/magazin.html",
+        "https://fm.denik.cz/rss/z_regionu.html",
+        "https://fm.denik.cz/rss/server-original.html",
+        "https://fm.denik.cz/rss/zpravy_region.html",
+        "https://fm.denik.cz/rss/sport_region.html",
+        "https://fm.denik.cz/rss/miminka.html",
+        "https://fm.denik.cz/rss/nazory_region.html",
+        "https://fm.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.724Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bruntalsky.denik.cz": {
+      "urls": [
+        "https://bruntalsky.denik.cz/rss/magazin.html",
+        "https://bruntalsky.denik.cz/rss/z_regionu.html",
+        "https://bruntalsky.denik.cz/rss/zpravy_region.html",
+        "https://bruntalsky.denik.cz/rss/server-original.html",
+        "https://bruntalsky.denik.cz/rss/sport_region.html",
+        "https://bruntalsky.denik.cz/rss/miminka.html",
+        "https://bruntalsky.denik.cz/rss/nazory_region.html",
+        "https://bruntalsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.727Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jablonecky.denik.cz": {
+      "urls": [
+        "https://jablonecky.denik.cz/rss/magazin.html",
+        "https://jablonecky.denik.cz/rss/z_regionu.html",
+        "https://jablonecky.denik.cz/rss/server-original.html",
+        "https://jablonecky.denik.cz/rss/zpravy_region.html",
+        "https://jablonecky.denik.cz/rss/sport_region.html",
+        "https://jablonecky.denik.cz/rss/miminka.html",
+        "https://jablonecky.denik.cz/rss/nazory_region.html",
+        "https://jablonecky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.730Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ceskolipsky.denik.cz": {
+      "urls": [
+        "https://ceskolipsky.denik.cz/rss/magazin.html",
+        "https://ceskolipsky.denik.cz/rss/z_regionu.html",
+        "https://ceskolipsky.denik.cz/rss/server-original.html",
+        "https://ceskolipsky.denik.cz/rss/zpravy_region.html",
+        "https://ceskolipsky.denik.cz/rss/sport_region.html",
+        "https://ceskolipsky.denik.cz/rss/miminka.html",
+        "https://ceskolipsky.denik.cz/rss/nazory_region.html",
+        "https://ceskolipsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.733Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jicinsky.denik.cz": {
+      "urls": [
+        "https://jicinsky.denik.cz/rss/magazin.html",
+        "https://jicinsky.denik.cz/rss/server-original.html",
+        "https://jicinsky.denik.cz/rss/z_regionu.html",
+        "https://jicinsky.denik.cz/rss/sport_region.html",
+        "https://jicinsky.denik.cz/rss/zpravy_region.html",
+        "https://jicinsky.denik.cz/rss/miminka.html",
+        "https://jicinsky.denik.cz/rss/nazory_region.html",
+        "https://jicinsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.739Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nachodsky.denik.cz": {
+      "urls": [
+        "https://nachodsky.denik.cz/rss/magazin.html",
+        "https://nachodsky.denik.cz/rss/z_regionu.html",
+        "https://nachodsky.denik.cz/rss/server-original.html",
+        "https://nachodsky.denik.cz/rss/sport_region.html",
+        "https://nachodsky.denik.cz/rss/zpravy_region.html",
+        "https://nachodsky.denik.cz/rss/miminka.html",
+        "https://nachodsky.denik.cz/rss/nazory_region.html",
+        "https://nachodsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.742Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rychnovsky.denik.cz": {
+      "urls": [
+        "https://rychnovsky.denik.cz/rss/magazin.html",
+        "https://rychnovsky.denik.cz/rss/z_regionu.html",
+        "https://rychnovsky.denik.cz/rss/server-original.html",
+        "https://rychnovsky.denik.cz/rss/zpravy_region.html",
+        "https://rychnovsky.denik.cz/rss/sport_region.html",
+        "https://rychnovsky.denik.cz/rss/miminka.html",
+        "https://rychnovsky.denik.cz/rss/nazory_region.html",
+        "https://rychnovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.745Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "krkonossky.denik.cz": {
+      "urls": [
+        "https://krkonossky.denik.cz/rss/magazin.html",
+        "https://krkonossky.denik.cz/rss/server-original.html",
+        "https://krkonossky.denik.cz/rss/z_regionu.html",
+        "https://krkonossky.denik.cz/rss/sport_region.html",
+        "https://krkonossky.denik.cz/rss/zpravy_region.html",
+        "https://krkonossky.denik.cz/rss/miminka.html",
+        "https://krkonossky.denik.cz/rss/nazory_region.html",
+        "https://krkonossky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.749Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ceskokrumlovsky.denik.cz": {
+      "urls": [
+        "https://ceskokrumlovsky.denik.cz/rss/magazin.html",
+        "https://ceskokrumlovsky.denik.cz/rss/sport_region.html",
+        "https://ceskokrumlovsky.denik.cz/rss/server-original.html",
+        "https://ceskokrumlovsky.denik.cz/rss/z_regionu.html",
+        "https://ceskokrumlovsky.denik.cz/rss/zpravy_region.html",
+        "https://ceskokrumlovsky.denik.cz/rss/miminka.html",
+        "https://ceskokrumlovsky.denik.cz/rss/nazory_region.html",
+        "https://ceskokrumlovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.752Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pisecky.denik.cz": {
+      "urls": [
+        "https://pisecky.denik.cz/rss/magazin.html",
+        "https://pisecky.denik.cz/rss/sport_region.html",
+        "https://pisecky.denik.cz/rss/server-original.html",
+        "https://pisecky.denik.cz/rss/z_regionu.html",
+        "https://pisecky.denik.cz/rss/zpravy_region.html",
+        "https://pisecky.denik.cz/rss/miminka.html",
+        "https://pisecky.denik.cz/rss/nazory_region.html",
+        "https://pisecky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.755Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "taborsky.denik.cz": {
+      "urls": [
+        "https://taborsky.denik.cz/rss/magazin.html",
+        "https://taborsky.denik.cz/rss/server-original.html",
+        "https://taborsky.denik.cz/rss/sport_region.html",
+        "https://taborsky.denik.cz/rss/z_regionu.html",
+        "https://taborsky.denik.cz/rss/zpravy_region.html",
+        "https://taborsky.denik.cz/rss/miminka.html",
+        "https://taborsky.denik.cz/rss/nazory_region.html",
+        "https://taborsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.758Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "blanensky.denik.cz": {
+      "urls": [
+        "https://blanensky.denik.cz/rss/magazin.html",
+        "https://blanensky.denik.cz/rss/z_regionu.html",
+        "https://blanensky.denik.cz/rss/server-original.html",
+        "https://blanensky.denik.cz/rss/zpravy_region.html",
+        "https://blanensky.denik.cz/rss/sport_region.html",
+        "https://blanensky.denik.cz/rss/miminka.html",
+        "https://blanensky.denik.cz/rss/nazory_region.html",
+        "https://blanensky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.761Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hodoninsky.denik.cz": {
+      "urls": [
+        "https://hodoninsky.denik.cz/rss/magazin.html",
+        "https://hodoninsky.denik.cz/rss/server-original.html",
+        "https://hodoninsky.denik.cz/rss/z_regionu.html",
+        "https://hodoninsky.denik.cz/rss/zpravy_region.html",
+        "https://hodoninsky.denik.cz/rss/sport_region.html",
+        "https://hodoninsky.denik.cz/rss/miminka.html",
+        "https://hodoninsky.denik.cz/rss/nazory_region.html",
+        "https://hodoninsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.769Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vyskovsky.denik.cz": {
+      "urls": [
+        "https://vyskovsky.denik.cz/rss/magazin.html",
+        "https://vyskovsky.denik.cz/rss/z_regionu.html",
+        "https://vyskovsky.denik.cz/rss/server-original.html",
+        "https://vyskovsky.denik.cz/rss/zpravy_region.html",
+        "https://vyskovsky.denik.cz/rss/sport_region.html",
+        "https://vyskovsky.denik.cz/rss/miminka.html",
+        "https://vyskovsky.denik.cz/rss/nazory_region.html",
+        "https://vyskovsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.772Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "znojemsky.denik.cz": {
+      "urls": [
+        "https://znojemsky.denik.cz/rss/magazin.html",
+        "https://znojemsky.denik.cz/rss/z_regionu.html",
+        "https://znojemsky.denik.cz/rss/server-original.html",
+        "https://znojemsky.denik.cz/rss/zpravy_region.html",
+        "https://znojemsky.denik.cz/rss/sport_region.html",
+        "https://znojemsky.denik.cz/rss/miminka.html",
+        "https://znojemsky.denik.cz/rss/nazory_region.html",
+        "https://znojemsky.denik.cz/rss/podnikani.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.775Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "regionalninovinky.cz": {
+      "urls": [
+        "http://www.regionalninovinky.cz/repository/rss/zpravy_all_cs.xml",
+        "http://www.regionalninovinky.cz/repository/rss/zpravy_regiony_regiony_cs.xml",
+        "http://www.regionalninovinky.cz/repository/rss/zpravy_regiony_cs.xml",
+        "http://www.regionalninovinky.cz/repository/rss/zpravy_politika_cs.xml",
+        "http://www.regionalninovinky.cz/repository/rss/zpravy_zpravy_cs.xml",
+        "http://www.regionalninovinky.cz/repository/rss/zpravy_regiony_sport_cs.xml",
+        "http://www.regionalninovinky.cz/repository/rss/zpravy_sport_cs.xml",
+        "http://www.regionalninovinky.cz/repository/rss/zpravy_byznys_cs.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "local",
+        "last_checked": "2026-01-31T21:02:14.788Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "e15.cz": {
+      "urls": [
+        "https://www.e15.cz/rss",
+        "https://www.e15.cz/rss/612",
+        "https://www.e15.cz/rss/783",
+        "https://www.e15.cz/rss/vse",
+        "https://www.e15.cz/rss/6089",
+        "https://www.e15.cz/rss/6970",
+        "https://www.e15.cz/rss/8887"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.519Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "plzenskenovinky.cz": {
+      "urls": [
+        "http://www.plzenskenovinky.cz/repository/rss/zpravy_all_cs.xml",
+        "http://www.plzenskenovinky.cz/repository/rss/zpravy_politika_cs.xml",
+        "http://www.plzenskenovinky.cz/repository/rss/zpravy_zpravy_cs.xml",
+        "http://www.plzenskenovinky.cz/repository/rss/zpravy_plzensky_sport_cs.xml",
+        "http://www.plzenskenovinky.cz/repository/rss/zpravy_sport_cs.xml",
+        "http://www.plzenskenovinky.cz/repository/rss/zpravy_byznys_cs.xml",
+        "http://www.plzenskenovinky.cz/repository/rss/zpravy_plzensky_regiony_cs.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.556Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jihoceskenovinky.cz": {
+      "urls": [
+        "http://www.jihoceskenovinky.cz/repository/rss/zpravy_all_cs.xml",
+        "http://www.jihoceskenovinky.cz/repository/rss/zpravy_politika_cs.xml",
+        "http://www.jihoceskenovinky.cz/repository/rss/zpravy_zpravy_cs.xml",
+        "http://www.jihoceskenovinky.cz/repository/rss/zpravy_jizni_sport_cs.xml",
+        "http://www.jihoceskenovinky.cz/repository/rss/zpravy_sport_cs.xml",
+        "http://www.jihoceskenovinky.cz/repository/rss/zpravy_byznys_cs.xml",
+        "http://www.jihoceskenovinky.cz/repository/rss/zpravy_jizni_regiony_cs.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.565Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "usteckenovinky.cz": {
+      "urls": [
+        "http://www.usteckenovinky.cz/repository/rss/zpravy_all_cs.xml",
+        "http://www.usteckenovinky.cz/repository/rss/zpravy_politika_cs.xml",
+        "http://www.usteckenovinky.cz/repository/rss/zpravy_zpravy_cs.xml",
+        "http://www.usteckenovinky.cz/repository/rss/zpravy_sport_cs.xml",
+        "http://www.usteckenovinky.cz/repository/rss/zpravy_ustecky_sport_cs.xml",
+        "http://www.usteckenovinky.cz/repository/rss/zpravy_byznys_cs.xml",
+        "http://www.usteckenovinky.cz/repository/rss/zpravy_ustecky_regiony_cs.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.569Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jihomoravskenovinky.cz": {
+      "urls": [
+        "http://www.jihomoravskenovinky.cz/repository/rss/zpravy_all_cs.xml",
+        "http://www.jihomoravskenovinky.cz/repository/rss/zpravy_politika_cs.xml",
+        "http://www.jihomoravskenovinky.cz/repository/rss/zpravy_zpravy_cs.xml",
+        "http://www.jihomoravskenovinky.cz/repository/rss/zpravy_jihomoravsky_sport_cs.xml",
+        "http://www.jihomoravskenovinky.cz/repository/rss/zpravy_sport_cs.xml",
+        "http://www.jihomoravskenovinky.cz/repository/rss/zpravy_byznys_cs.xml",
+        "http://www.jihomoravskenovinky.cz/repository/rss/zpravy_jihomoravsky_regiony_cs.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.786Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "blisty.cz": {
+      "urls": [
+        "https://blisty.cz/feeds/interviews.rss",
+        "https://blisty.cz/rss",
+        "https://blisty.cz/rss2.rb?all=1",
+        "https://www.blisty.cz/rss2.rb?all=1",
+        "http://blisty.cz/rss2.rb?all=1"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.588Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "novinky.cz": {
+      "urls": [
+        "https://www.novinky.cz/rss/domaci",
+        "https://www.novinky.cz/rss/ekonomika",
+        "https://www.novinky.cz/rss/internet-a-pc",
+        "https://www.novinky.cz/rss/zahranicni"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.495Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vecernikpv.cz": {
+      "urls": [
+        "https://www.vecernikpv.cz/?format=feed&type=atom",
+        "https://www.vecernikpv.cz/?format=feed&type=rss",
+        "https://www.vecernikpv.cz/blog-redaktora?format=feed&type=atom",
+        "https://www.vecernikpv.cz/blog-redaktora?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.554Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lidovky.cz": {
+      "urls": [
+        "https://servis.lidovky.cz/rss.aspx",
+        "https://servis.idnes.cz/rss.aspx",
+        "https://neviditelnypes.lidovky.cz/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.482Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "parlamentnilisty.cz": {
+      "urls": [
+        "https://www.parlamentnilisty.cz/export/rss.aspx",
+        "http://www.parlamentnilisty.cz/export/rss.aspx",
+        "https://www.parlamentnilisty.cz/export/rss-ugc.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.506Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "homerlive.cz": {
+      "urls": [
+        "http://www.homerlive.cz/feed/",
+        "https://www.e-region.cz/rss",
+        "http://www.homerlive.cz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.560Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pragerzeitung.cz": {
+      "urls": [
+        "https://www.pragerzeitung.cz/feed/",
+        "http://www.pragerzeitung.cz/feed/",
+        "https://www.pragerzeitung.cz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.563Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ceskapozice.lidovky.cz": {
+      "urls": [
+        "https://servis.lidovky.cz/rss.aspx",
+        "https://servis.idnes.cz/rss.aspx",
+        "https://neviditelnypes.lidovky.cz/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.568Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "newstin.cz": {
+      "urls": [
+        "https://www.newstin.cz/feed/",
+        "http://www.newstin.cz/feed/",
+        "https://www.newstin.cz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.572Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "neviditelnypes.lidovky.cz": {
+      "urls": [
+        "https://servis.idnes.cz/rss.aspx",
+        "https://neviditelnypes.lidovky.cz/rss.aspx",
+        "https://neviditelnypes.lidovky.cz/rss.aspx?c=pes_neviditelny"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.778Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "oiktv.cz": {
+      "urls": [
+        "https://www.oiktv.cz/feed/",
+        "http://www.oiktv.cz/feed/",
+        "https://www.oiktv.cz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.783Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "landesecho.cz": {
+      "urls": [
+        "https://landesecho.cz/index.php?format=feed&type=atom",
+        "https://landesecho.cz/index.php?format=feed&type=rss",
+        "https://landesecho.cz/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.791Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "metro.cz": {
+      "urls": [
+        "https://servis.metro.cz/rss.aspx",
+        "https://servis.metro.cz/rss.aspx?c=metroh"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.463Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ihned.cz": {
+      "urls": [
+        "https://ihned.cz/?p=000000_rss",
+        "https://hn.cz/?p=000000_rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.476Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ahaonline.cz": {
+      "urls": [
+        "https://www.ahaonline.cz/rss",
+        "https://www.ahaonline.cz/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.525Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "melnicky.denik.cz": {
+      "urls": [
+        "https://melnicky.denik.cz/rss/server-original.html",
+        "https://melnicky.denik.cz/rss/zpravy_region.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.629Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "decinsky.denik.cz": {
+      "urls": [
+        "https://decinsky.denik.cz/rss/server-original.html",
+        "https://decinsky.denik.cz/rss/zpravy_region.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.648Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "zatecky.denik.cz": {
+      "urls": [
+        "https://zatecky.denik.cz/rss/server-original.html",
+        "https://zatecky.denik.cz/rss/zpravy_region.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.664Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "znojemsko.cz": {
+      "urls": [
+        "http://www.znojemsko.cz/feed/",
+        "http://www.znojemsko.cz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.784Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mafra.cz": {
+      "urls": [
+        "https://servis.idnes.cz/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.489Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "regiony.impuls.cz": {
+      "urls": [
+        "https://regiony.impuls.cz/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "local",
+        "last_checked": "2026-01-31T21:02:14.544Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ctk.cz": {
+      "urls": [
+        "https://www.ctk.cz/rss/novinky/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.546Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "melnicko.cz": {
+      "urls": [
+        "https://melnicko.cz/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.557Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tiscali.cz": {
+      "urls": [
+        "https://feeds.feedburner.com/tiscali-zpravy-box"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.574Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tyden.cz": {
+      "urls": [
+        "https://www.tyden.cz/rss/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.579Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ibrno.cz": {
+      "urls": [
+        "https://www.ibrno.cz/component/ninjarsssyndicator/?feed_id=1&format=raw"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.780Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pbj.cz": {
+      "urls": [
+        "https://www.pbj.cz/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.796Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sport.cz": {
+      "urls": [
+        "https://www.sport.cz/rss2/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T21:02:14.798Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "praguemonitor.com": {
+      "urls": [
+        "https://praguemonitor.com/feed/",
+        "http://praguemonitor.com/rss.xml",
+        "http://praguemonitor.com/rss/1+11+12+13+14+19+143/feed",
+        "http://praguemonitor.com/rss/2+15/feed",
+        "http://praguemonitor.com/rss/22/feed",
+        "http://praguemonitor.com/rss/23/feed",
+        "http://praguemonitor.com/rss/24/feed",
+        "http://praguemonitor.com/rss/25/feed",
+        "http://praguemonitor.com/rss/26/feed",
+        "http://praguemonitor.com/rss/3+27/feed",
+        "http://praguemonitor.com/rss/4+16+17+18+23+25+26+5/feed",
+        "http://praguemonitor.com/rss/8+24/feed",
+        "https://praguemonitor.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.549Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "praguepost.com": {
+      "urls": [
+        "https://www.praguepost.com/feed",
+        "https://www.praguepost.com/blog/feed",
+        "https://www.praguepost.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.501Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "glos.live": {
+      "urls": [
+        "https://glos.live/rss/all.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:14.551Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

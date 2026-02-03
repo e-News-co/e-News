@@ -1,0 +1,688 @@
+{
+  "country_code": "AE",
+  "language_code": "EN",
+  "total_domains": 25,
+  "total_feeds": 330,
+  "feeds": {
+    "alkhaleej.ae": {
+      "urls": [
+        "https://www.alkhaleej.ae/section/1344/rss.xml",
+        "https://www.alkhaleej.ae/section/1110/rss.xml",
+        "https://www.alkhaleej.ae/section/1111/rss.xml",
+        "https://www.alkhaleej.ae/section/966/rss.xml",
+        "https://www.alkhaleej.ae/section/6555/rss.xml",
+        "https://www.alkhaleej.ae/section/964/rss.xml",
+        "https://www.alkhaleej.ae/section/1288/rss.xml",
+        "https://www.alkhaleej.ae/section/1335/rss.xml",
+        "https://www.alkhaleej.ae/section/1177/rss.xml",
+        "http://www.alkhaleej.ae/Feed/cf8eb612-a3d0-462f-aa7b-87b3e8002198/1ff1b2a0-8a1f-49c7-998a-cc7b4403dd2d/rss",
+        "http://www.alkhaleej.ae/Feed/e0b6b2b9-3a59-4bee-8561-1299420ba41e/0fca78a4-8c60-4776-b297-ae030cf97476/rss",
+        "http://www.alkhaleej.ae/Feed/e0b6b2b9-3a59-4bee-8561-1299420ba41e/b0b7c0ab-f168-4c9b-9078-74ae15fcea9f/rss",
+        "http://www.alkhaleej.ae/Feed/8a0e42ec-a2ea-4895-9bbf-659404139cdd/bafaf229-3fcf-4527-a984-6560fc448667/rss",
+        "https://www.alkhaleej.ae/section/979/rss.xml",
+        "https://www.alkhaleej.ae/section/1156/rss.xml",
+        "https://www.alkhaleej.ae/section/1142/rss.xml",
+        "https://www.alkhaleej.ae/section/1105/rss.xml",
+        "http://www.alkhaleej.ae/Feed/bad49ca9-d6ba-46ef-afff-bd0d9f5a23f7/5b62d0d2-eb19-4553-98bf-d7033125e6ad/rss",
+        "http://www.alkhaleej.ae/Feed/8a0e42ec-a2ea-4895-9bbf-659404139cdd/55e93846-eb4c-4a79-a4f2-41f1bc5d42fe/rss",
+        "https://www.alkhaleej.ae/section/1165/rss.xml",
+        "http://www.alkhaleej.ae/Feed/3b4f4fec-0a53-4327-a8ed-c8241e8327d2/edd54100-8fdd-4c3e-a0f9-1ab9b025f0c7/rss",
+        "https://www.alkhaleej.ae/section/6557/rss.xml",
+        "https://www.alkhaleej.ae/section/1173/rss.xml",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/d60bca08-eb1f-4c6d-b4d8-7b20658bb47d/rss",
+        "https://www.alkhaleej.ae/section/991/rss.xml",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/82c31400-28a9-46da-9de4-f0a83df40887/rss",
+        "http://www.alkhaleej.ae/Feed/bad49ca9-d6ba-46ef-afff-bd0d9f5a23f7/d48ef62f-fb9c-417b-92f8-8de0165e3e4e/rss",
+        "https://www.alkhaleej.ae/section/1027/rss.xml",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/8a9d48a1-90d3-447a-85b4-51f328a9d65e/rss",
+        "http://www.alkhaleej.ae/Feed/bad49ca9-d6ba-46ef-afff-bd0d9f5a23f7/95d6323e-2e7e-47d8-9adc-cd06cdffb407/rss",
+        "https://www.alkhaleej.ae/section/1004/rss.xml",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/18cc2d69-f42d-459c-947b-bc8843d3a2cc/rss",
+        "https://www.alkhaleej.ae/section/1116/rss.xml",
+        "https://www.alkhaleej.ae/section/968/rss.xml",
+        "https://www.alkhaleej.ae/section/1022/rss.xml",
+        "https://www.alkhaleej.ae/section/1129/rss.xml",
+        "https://www.alkhaleej.ae/section/1275/rss.xml",
+        "https://www.alkhaleej.ae/section/1334/rss.xml",
+        "http://www.alkhaleej.ae/Feed/8a0e42ec-a2ea-4895-9bbf-659404139cdd/eed5feac-5ebe-40b2-b9b9-f047836573f9/rss",
+        "https://www.alkhaleej.ae/section/1140/rss.xml",
+        "https://www.alkhaleej.ae/section/1213/rss.xml",
+        "https://www.alkhaleej.ae/section/1270/rss.xml",
+        "https://www.alkhaleej.ae/section/1312/rss.xml",
+        "https://www.alkhaleej.ae/section/1357/rss.xml",
+        "https://www.alkhaleej.ae/section/6556/rss.xml",
+        "https://www.alkhaleej.ae/section/993/rss.xml",
+        "http://www.alkhaleej.ae/Feed/0cc7cdc6-11d0-41d3-8d60-ea5bf30ae755/d5d9a61e-6fe3-4646-bb45-f4ef4d378bf3/rss",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/4f611f4e-b7c4-4ab3-9a4f-902a28964882/rss",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/a2816962-55a2-41e2-8726-484e57dd63fe/rss",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/b34554aa-1819-4e98-94f1-88581d252933/rss",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/f63c67e0-361c-42bd-a08b-abf2c9339049/rss",
+        "http://www.alkhaleej.ae/Feed/7b2a647f-e1fd-470a-90f8-5d776f308f7e/06a7a866-32a9-470b-b8b1-a7135fba7c1f/rss",
+        "http://www.alkhaleej.ae/Feed/8a0e42ec-a2ea-4895-9bbf-659404139cdd/edcdd7a4-0e2e-4c90-b36a-b86de8ba903c/rss",
+        "http://www.alkhaleej.ae/Feed/9de03345-af57-4775-8169-2eac0c4bca2f/45bb5366-8374-4e48-bc83-b022cc1f4c6d/rss",
+        "http://www.alkhaleej.ae/Feed/a08a5d80-220a-4931-bd25-5105e34791b5/ac8cac97-26ce-4b10-b187-2fb0e56e349f/rss",
+        "http://www.alkhaleej.ae/Feed/e0b6b2b9-3a59-4bee-8561-1299420ba41e/899aaf4b-5f9c-4234-a968-474263261e2c/rss",
+        "http://www.alkhaleej.ae/Feed/e0b6b2b9-3a59-4bee-8561-1299420ba41e/f59665a0-4d35-4ea2-bd56-6be588d98091/rss",
+        "http://www.alkhaleej.ae/Feed/eb25df9a-f1fa-4c92-a2c9-60ad7bde7f01/01949347-9cb2-42c3-ba3d-ff5bc7180811/rss",
+        "http://www.alkhaleej.ae/Feed/eb9ec956-55e5-4b16-a16d-0f698d7ebfb8/07ffa774-2083-46fe-9749-121c99b575bd/rss",
+        "http://www.alkhaleej.ae/Feed/eb9ec956-55e5-4b16-a16d-0f698d7ebfb8/5c880ab0-f615-4eda-890c-84fd9f00cf48/rss",
+        "http://www.alkhaleej.ae/Feed/eb9ec956-55e5-4b16-a16d-0f698d7ebfb8/b8688fc9-304b-4462-894e-4fd97f649dd1/rss",
+        "http://www.alkhaleej.ae/Feed/eb9ec956-55e5-4b16-a16d-0f698d7ebfb8/c8074c7b-c296-4ae5-bcbe-8c43b256ab9c/rss",
+        "http://www.alkhaleej.ae/Feed/eb9ec956-55e5-4b16-a16d-0f698d7ebfb8/c8965fa9-ab77-4e83-bd57-136bbd093601/rss",
+        "http://www.alkhaleej.ae/Feed/eb9ec956-55e5-4b16-a16d-0f698d7ebfb8/ec4ce084-e1e9-4323-a80d-9907d07c24c3/rss",
+        "http://www.alkhaleej.ae/Feed/eb9ec956-55e5-4b16-a16d-0f698d7ebfb8/fdbe7df4-be0a-4aa1-aaad-7541dbdbb849/rss",
+        "http://www.alkhaleej.ae/Feed/2605a7b1-424e-4a7b-bf6d-43afcedb1c53/78d30b81-141d-4031-ac3f-f8172faa007e/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 769,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:52.539Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "24.ae": {
+      "urls": [
+        "https://24.ae/rss.aspx",
+        "https://24.ae/rss.aspx?pageId=8",
+        "https://24.ae/rss.aspx?pageId=30",
+        "https://24.ae/rss.aspx?pageId=31",
+        "https://24.ae/rss.aspx?pageId=9",
+        "https://video.24.ae/rss.aspx",
+        "https://blog.spreaker.com/feed/",
+        "https://blog.spreaker.com/category/launch-your-podcast/feed/",
+        "https://blog.spreaker.com/category/marketing/feed/",
+        "https://blog.spreaker.com/comments/feed/",
+        "https://blog.spreaker.com/how-to-power-up-your-marketing-funnel-with-podcasting/feed/",
+        "https://www.spreaker.com/show/5700337/episodes/feed",
+        "https://www.spreaker.com/show/2321086/episodes/feed",
+        "https://www.spreaker.com/show/3101278/episodes/feed",
+        "https://www.spreaker.com/show/3647242/episodes/feed",
+        "https://www.spreaker.com/show/4186920/episodes/feed",
+        "https://www.spreaker.com/show/4395072/episodes/feed",
+        "https://www.spreaker.com/show/5879414/episodes/feed",
+        "https://www.spreaker.com/show/5928672/episodes/feed",
+        "https://www.spreaker.com/show/5928697/episodes/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 754,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:01.451Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "healthmagazine.ae": {
+      "urls": [
+        "https://healthmagazine.ae/feed/",
+        "https://healthmagazine.ae/comments/feed/",
+        "https://healthmagazine.ae/homepage/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 844,
+        "category": "health",
+        "last_checked": "2026-01-31T17:27:11.409Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fujairahtoday.ae": {
+      "urls": [
+        "https://fujairahtoday.ae/feed/",
+        "https://fujairahtoday.ae/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1450,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:03.026Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alwahda.ae": {
+      "urls": [
+        "https://alwahda.ae/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1401,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:54.135Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wam.ae": {
+      "urls": [
+        "http://wam.ae/ar/rss/album",
+        "http://www.wam.ae/ar/rss/album",
+        "https://wam.ae/ar/rss/world",
+        "https://www.wam.ae/ar/rss/world",
+        "http://wam.ae/ar/rss/emirates",
+        "http://www.wam.ae/ar/rss/emirates",
+        "http://wam.ae/ar/rss/business",
+        "http://www.wam.ae/ar/rss/business",
+        "https://wam.ae/ar/rss/album",
+        "https://wam.ae/ar/rss/emirates",
+        "https://wam.ae/en/rss/emirates",
+        "https://wam.ae/ar/rss/sports",
+        "https://www.wam.ae/ar/rss/sports",
+        "https://wam.ae/ar/rss/business",
+        "https://www.wam.ae/ar/rss/business",
+        "http://wam.ae/en/rss/emirates",
+        "https://wam.ae/ar/rss/UAE-China-week",
+        "https://www.wam.ae/ar/rss/UAE-China-week",
+        "https://wam.ae/ar/rss/reports",
+        "https://wam.ae/ar/rss/video",
+        "https://www.wam.ae/ar/rss/reports",
+        "https://www.wam.ae/ar/rss/video",
+        "http://wam.ae/ar/rss/sports",
+        "http://www.wam.ae/ar/rss/sports",
+        "https://wam.ae/ar/rss/local_news",
+        "https://www.wam.ae/ar/rss/local_news",
+        "https://wam.ae/ar/rss/Al-Hodeidah-Updates",
+        "https://wam.ae/ar/rss/Graphics",
+        "https://wam.ae/ar/rss/News_of_Youth",
+        "https://wam.ae/ar/rss/Zayed_Video_Library",
+        "https://wam.ae/ar/rss/happiness",
+        "https://www.wam.ae/ar/rss/Al-Hodeidah-Updates",
+        "https://www.wam.ae/ar/rss/Graphics",
+        "https://www.wam.ae/ar/rss/Zayed_Video_Library",
+        "https://www.wam.ae/ar/rss/happiness",
+        "http://wam.ae/ar/rss/video",
+        "http://wam.ae/ar/rss/world",
+        "http://www.wam.ae/ar/rss/video",
+        "http://www.wam.ae/ar/rss/world",
+        "http://wam.ae/ar/rss/UAE-China-week",
+        "http://www.wam.ae/ar/rss/UAE-China-week",
+        "http://wam.ae/ar/rss/local_news",
+        "http://wam.ae/ar/rss/reports",
+        "http://www.wam.ae/ar/rss/local_news",
+        "http://www.wam.ae/ar/rss/reports",
+        "http://wam.ae/ar/rss/Al-Hodeidah-Updates",
+        "http://wam.ae/ar/rss/Graphics",
+        "http://wam.ae/ar/rss/News_of_Youth",
+        "http://wam.ae/ar/rss/Zayed_Video_Library",
+        "http://wam.ae/ar/rss/happiness",
+        "http://www.wam.ae/ar/rss/Al-Hodeidah-Updates",
+        "http://www.wam.ae/ar/rss/Graphics",
+        "http://www.wam.ae/ar/rss/News_of_Youth",
+        "http://www.wam.ae/ar/rss/Zayed_Video_Library",
+        "http://www.wam.ae/ar/rss/happiness"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:06.871Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "albayan.ae": {
+      "urls": [
+        "https://www.albayan.ae/cmlink/mobile-breaking-news-1.1831253",
+        "https://www.albayan.ae/cmlink/latest-news-1.4875427",
+        "https://www.albayan.ae/cmlink/mobile-sports-1.1742118",
+        "https://www.albayan.ae/cmlink/mobile-one-world-1.1742121",
+        "https://www.albayan.ae/cmlink/1.452",
+        "https://www.albayan.ae/cmlink/mobile-economy-1.1742120",
+        "https://www.albayan.ae/1.450?ot=ot.AjaxPageLayout",
+        "https://www.albayan.ae/cmlink/1.450",
+        "https://www.albayan.ae/1.447?ot=ot.AjaxPageLayout",
+        "https://www.albayan.ae/cmlink/1.447",
+        "https://www.albayan.ae/cmlink/1.447?localLinksEnabled=false",
+        "https://www.albayan.ae/1.448?ot=ot.AjaxPageLayout",
+        "https://www.albayan.ae/cmlink/1.448",
+        "https://www.albayan.ae/cmlink/mobile-flash-news-1.1742116",
+        "https://www.albayan.ae/cmlink/socialflow-economy-uae-1.4769514",
+        "https://www.albayan.ae/cmlink/mobile-across-the-uae-1.1742117",
+        "https://www.albayan.ae/cmlink/mobile-opinions-1.1742125",
+        "https://www.albayan.ae/1.451?ot=ot.AjaxPageLayout",
+        "https://www.albayan.ae/cmlink/mobile-5-senses-1.1742123",
+        "https://www.albayan.ae/cmlink/1.451",
+        "https://www.albayan.ae/cmlink/mobile-technology-1.1742122",
+        "https://www.albayan.ae/cmlink/1.2547363",
+        "https://www.albayan.ae/cmlink/1.3165164",
+        "https://www.albayan.ae/cmlink/mobile-automobile-1.1742119",
+        "https://www.albayan.ae/cmlink/mobile-editors-choice-1.1742124",
+        "https://www.albayan.ae/cmlink/moblie-most-shared-1.3874646",
+        "https://www.albayan.ae/cmlink/mobile-varieties-1.4741518",
+        "https://www.albayan.ae/cmlink/1.1919813",
+        "https://www.albayan.ae/cmlink/1.2567946",
+        "https://www.albayan.ae/cmlink/1.1900507",
+        "https://www.albayan.ae/cmlink/1.2232058",
+        "https://www.albayan.ae/cmlink/1.2267549",
+        "https://www.albayan.ae/cmlink/mobile-cop28-1.4741520",
+        "https://www.albayan.ae/cmlink/mobile-expo2020-1.3750178",
+        "https://www.albayan.ae/cmlink/mobile-sustainability-1.4364270",
+        "https://www.albayan.ae/cmlink/tv-1.1949233"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:50.742Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "emirates247.com": {
+      "urls": [
+        "https://www.emirates247.com/cmlink/izooto-1.712150",
+        "https://www.emirates247.com/cmlink/dubai-chamber-featured-news-1.517982?localLinksEnabled=false",
+        "https://www.emirates247.com/cmlink/newstand-feed-1.679820",
+        "https://www.emirates247.com/cmlink/dubai-chamber-featured-news-1.517982",
+        "https://www.emirates247.com/cmlink/rss-feed-1.4268",
+        "https://www.emirates247.com/cmlink/rss-feed-1.4268?ot=ot.AjaxPageLayout",
+        "https://www.emirates247.com/cmlink/mobile-uae-1.708763",
+        "https://www.emirates247.com/cmlink/mobile-business-1.512830",
+        "https://www.emirates247.com/cmlink/widevision-business-1.552417",
+        "https://www.emirates247.com/cmlink/facebook-instant-articles-1.673865",
+        "https://www.emirates247.com/cmlink/mobile-arts-and-culture-1.708766",
+        "https://www.emirates247.com/cmlink/mobile-climate-1.708778",
+        "https://www.emirates247.com/cmlink/mobile-law-and-order-1.635430",
+        "https://www.emirates247.com/cmlink/mobile-lifestyle-1.708770",
+        "https://www.emirates247.com/cmlink/mobile-middle-east-1.635431",
+        "https://www.emirates247.com/cmlink/mobile-sports-1.499780",
+        "https://www.emirates247.com/cmlink/mobile-technology-1.512834",
+        "https://www.emirates247.com/cmlink/mobile-varieties-1.708781",
+        "https://www.emirates247.com/cmlink/mobile-world-1.708765",
+        "https://www.emirates247.com/cmlink/widevision-business-1.552417?ot=ot.AjaxPageLayout",
+        "https://www.emirates247.com/cmlink/emirates-24-7-news-1.4268",
+        "https://www.emirates247.com/cmlink/mobile-health-1.708773",
+        "https://www.emirates247.com/cmlink/business-24-7-1.260938",
+        "https://www.emirates247.com/cmlink/business-24-7-1.260938?localLinksEnabled=false",
+        "http://emirates247.com/cmlink/izooto-1.712150",
+        "http://emirates247.com/cmlink/mobile-varieties-1.708781",
+        "http://emirates247.com/cmlink/mobile-uae-1.708763",
+        "http://emirates247.com/cmlink/mobile-world-1.708765",
+        "http://emirates247.com/cmlink/mobile-arts-and-culture-1.708766",
+        "http://emirates247.com/cmlink/mobile-business-1.512830",
+        "http://emirates247.com/cmlink/mobile-sports-1.499780",
+        "http://emirates247.com/cmlink/mobile-lifestyle-1.708770",
+        "http://emirates247.com/cmlink/mobile-technology-1.512834",
+        "http://emirates247.com/cmlink/mobile-health-1.708773",
+        "http://emirates247.com/cmlink/mobile-climate-1.708778",
+        "http://emirates247.com/cmlink/newstand-feed-1.679820",
+        "http://emirates247.com/cmlink/mobile-middle-east-1.635431",
+        "http://emirates247.com/cmlink/mobile-law-and-order-1.635430",
+        "http://emirates247.com/cmlink/emirates-24-7-news-1.4268",
+        "http://emirates247.com/cmlink/facebook-instant-articles-1.673865"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 225,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:56.291Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thenationalnews.com": {
+      "urls": [
+        "https://www.thenationalnews.com/cmlink/latest-news-from-the-national-1.1163707",
+        "https://www.thenationalnews.com/cmlink/the-national-news-1.1114267",
+        "https://www.thenationalnews.com/cmlink/latest-news-from-the-gulf-middle-east-and-world-1.1163609",
+        "https://www.thenationalnews.com/cmlink/latest-news-from-uk-world-and-middle-east-and-events-1.1163700",
+        "https://www.thenationalnews.com/cmlink/latest-mena-news-today-1.1163696",
+        "https://www.thenationalnews.com/cmlink/business-latest-news-interviews-and-insights-1.1163620",
+        "https://www.thenationalnews.com/cmlink/uae-latest-news-from-abu-dhabi-dubai-and-other-emirates-1.1163576",
+        "https://www.thenationalnews.com/cmlink/latest-from-us-world-and-middle-east-news-and-events-1.1163701",
+        "https://www.thenationalnews.com/cmlink/latest-sport-news-football-results-and-opinion-1.1163642",
+        "https://www.thenationalnews.com/cmlink/latest-film-news-music-art-tv-news-book-reviews-1.1163628",
+        "https://www.thenationalnews.com/cmlink/latest-fashion-travel-guides-and-motoring-news-1.1163631",
+        "https://www.thenationalnews.com/cmlink/latest-news-across-the-gulf-1.1163694",
+        "https://www.thenationalnews.com/cmlink/frontpage-newsletter-feed-1.861465",
+        "https://www.thenationalnews.com/cmlink/latest-comment-editorial-and-the-national-cartoon-1.1163622",
+        "https://www.thenationalnews.com/cmlink/mena-newsletter-feed-1.1150275",
+        "https://www.thenationalnews.com/cmlink/weekly-newsletter-feed-1.745131",
+        "https://www.thenationalnews.com/cmlink/latest-podcasts-1.1163649",
+        "https://www.thenationalnews.com/cmlink/facebook-instant-articles-1.1153669",
+        "https://www.thenationalnews.com/cmlink/newsletter-article-1.713086"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 100,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:56.021Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "skynewsarabia.com": {
+      "urls": [
+        "https://www.skynewsarabia.com/rss.xml",
+        "https://www.skynewsarabia.com/web/rss/world.xml",
+        "https://www.skynewsarabia.com/web/rss/middle-east.xml",
+        "https://www.skynewsarabia.com/web/rss/sport.xml",
+        "https://asset1.skynewsarabia.com/rss/blogs.xml",
+        "https://www.skynewsarabia.com/rss/blogs.xml",
+        "https://www.skynewsarabia.com/web/rss/varieties.xml",
+        "https://www.skynewsarabia.com/web/rss/technology.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/asdaa_culture_show.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/atheer_alkora.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/biography.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/cinema.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/engines.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/flashback.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/hayatouna.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/safahat.xml",
+        "https://www.skynewsarabia.com/rss/apple/podcasts/wallet.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 280,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:03.502Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "khaleejtimes.com": {
+      "urls": [
+        "https://www.khaleejtimes.com/rss.xml",
+        "https://www.khaleejtimes.com/api/v1/collections/world.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/sports.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/top-section.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/uae.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/entertainment.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/lifestyle.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/business.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/jobs.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/life-and-living.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/long-reads.rss",
+        "https://www.khaleejtimes.com/api/v1/collections/space.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 761,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:50.183Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "emaratalyoum.com": {
+      "urls": [
+        "https://www.emaratalyoum.com/public-life-1.533089?ot=ot.AjaxPageLayout",
+        "https://www.emaratalyoum.com/public-local-1.533091?ot=ot.AjaxPageLayout",
+        "https://www.emaratalyoum.com/public-sports-1.533088?ot=ot.AjaxPageLayout",
+        "https://www.emaratalyoum.com/public-business-1.533092?ot=ot.AjaxPageLayout",
+        "https://www.emaratalyoum.com/public-politics-1.533090?ot=ot.AjaxPageLayout"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 193,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:52.733Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thearabianpost.com": {
+      "urls": [
+        "https://thearabianpost.com/feed/",
+        "https://thearabianpost.com/feed/json/",
+        "https://thearabianpost.com/news/sections/featured-blogs/feed/",
+        "https://thearabianpost.com/news/sections/featured-blogs/feed/json/",
+        "https://thearabianpost.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1068,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:05.506Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zawya.com": {
+      "urls": [
+        "https://www.zawya.com/sitemaps/en/rss",
+        "https://www.zawya.com/sitemaps/ar/rss",
+        "https://www.zawya.com/rssfeeds/regional.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 34,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:50.239Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "alaan.tv": {
+      "urls": [
+        "https://www.alaan.tv/feed",
+        "https://www.alaan.tv/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 280,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:03.807Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "filipinotimes.net": {
+      "urls": [
+        "https://filipinotimes.net/feed/",
+        "https://filipinotimes.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3486,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:00.463Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hiamag.com": {
+      "urls": [
+        "https://www.hiamag.com/%3Cfront%3E"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 61,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:06.932Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sport360.com": {
+      "urls": [
+        "http://sport360.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 149,
+        "category": "sports",
+        "last_checked": "2026-01-31T17:27:05.655Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "emirateswoman.com": {
+      "urls": [
+        "https://emirateswoman.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 522,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:10.562Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gulfnews.com": {
+      "urls": [
+        "https://prod-qt-images.s3.amazonaws.com/production/gulfnews/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:49.166Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "communicateonline.me": {
+      "urls": [
+        "https://communicateonline.me/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2240,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:10.040Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "alarabiya.net": {
+      "urls": [
+        "https://www.alarabiya.net/.mrss/ar.xml",
+        "https://www.alarabiya.net/feed/rss2/ar.xml",
+        "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml",
+        "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml",
+        "https://www.alarabiya.net/.mrss/ar/arab-and-world.xml",
+        "https://www.alarabiya.net/.mrss/ar/sport.xml",
+        "https://www.alarabiya.net/feed/rss2/ar/technology.xml",
+        "https://www.alarabiya.net/feed/rss2/ar/variety.xml",
+        "https://www.alarabiya.net/.mrss/ar/last-page.xml",
+        "https://www.alarabiya.net/.mrss/ar/culture-and-art.xml",
+        "https://www.alarabiya.net/.mrss/ar/technology.xml",
+        "https://www.alarabiya.net/.mrss/ar/medicine-and-health.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/alarabiya-from-russia.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/242-business.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/asl-w-fasl.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/events-characters.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/jamaat.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/mamdouh-interview.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/memories.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/mohammed-bin-salman-interviews.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/movies.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/rattel.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/say-dont-say.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/story-of-a-voice.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/their-life.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:26:51.070Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "arabianbusiness.com": {
+      "urls": [
+        "https://www.arabianbusiness.com/feed",
+        "https://www.arabianbusiness.com/feed/industries/technology/feed.xml",
+        "https://www.arabianbusiness.com/podcast/feed",
+        "https://www.arabianbusiness.com/web-stories/feed",
+        "https://www.arabianbusiness.com/industries/technology/feed",
+        "https://www.arabianbusiness.com/tags/ab-majlis-podcast/feed",
+        "https://www.arabianbusiness.com/tags/audio-podcast/feed",
+        "https://www.arabianbusiness.com/tags/podcast/feed",
+        "https://www.arabianbusiness.com/tags/podcasts/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-01-31T17:27:04.047Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "uaestylemagazine.com": {
+      "urls": [
+        "https://www.uaestylemagazine.com/feed",
+        "https://uaestylemagazine.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:07.800Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "timeoutdubai.com": {
+      "urls": [
+        "https://www.timeoutdubai.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:27:01.554Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

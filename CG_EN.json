@@ -1,0 +1,94 @@
+{
+  "country_code": "CG",
+  "language_code": "EN",
+  "total_domains": 5,
+  "total_feeds": 16,
+  "feeds": {
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:49.685Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "congopage.com": {
+      "urls": [
+        "http://congopage.com/spip.php?page=backend",
+        "http://www.congopage.com/backend.php",
+        "http://www.congopage.com/spip.php?page=backend",
+        "https://feeds.feedburner.com/congopage"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:49.679Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "icicemac.com": {
+      "urls": [
+        "https://www.icicemac.com/feed/",
+        "http://www.icicemac.com/feed/",
+        "https://www.icicemac.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:49.682Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "afriquecentrale.info": {
+      "urls": [
+        "https://www.afriquecentrale.info/feed/",
+        "https://www.afriquecentrale.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:49.677Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lechoc.info": {
+      "urls": [
+        "https://lechoc.info/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:49.687Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "country_code": "DM",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 13,
+  "feeds": {
+    "dominicanewsonline.com": {
+      "urls": [
+        "https://dominicanewsonline.com/news/feed/",
+        "https://feeds.feedburner.com/DominicaNewsOnline/",
+        "http://feeds.feedburner.com/DominicaNewsOnline/",
+        "https://dominicanewsonline.com/news/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.477Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dominica-weekly.com": {
+      "urls": [
+        "https://www.dominica-weekly.com/feed/",
+        "http://www.dominica-weekly.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.472Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "emonewsdm.com": {
+      "urls": [
+        "https://emonewsdm.com/feed/",
+        "https://emonewsdm.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.481Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "avirtualdominica.com": {
+      "urls": [
+        "https://www.avirtualdominica.com/feed/",
+        "https://www.avirtualdominica.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.485Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "discoverdominica.com": {
+      "urls": [
+        "https://discoverdominica.com/feed/",
+        "https://discoverdominica.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.488Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thedominican.net": {
+      "urls": [
+        "https://www.thedominican.net/dominicanews.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.474Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "country_code": "AW",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 54,
+  "feeds": {
+    "awemainta.com": {
+      "urls": [
+        "https://www.awemainta.com/?feed=rss2",
+        "https://awemainta.info/feed/",
+        "https://awemainta.info/category/awemainta-blogs/feed/",
+        "https://awemainta.com/feed/",
+        "https://awemainta.info/category/awemainta-blogs/noticia-internacional/feed/",
+        "https://awemainta.info/category/awemainta-blogs/problema-social/feed/",
+        "https://awemainta.info/category/awemainta-blogs/bonaire/feed/",
+        "https://awemainta.info/category/awemainta-blogs/ciencia/feed/",
+        "https://awemainta.info/category/awemainta-blogs/clima-naturalesa/feed/",
+        "https://awemainta.info/category/awemainta-blogs/corsou/feed/",
+        "https://awemainta.info/category/awemainta-blogs/cuido-salud/feed/",
+        "https://awemainta.info/category/awemainta-blogs/economia/feed/",
+        "https://awemainta.info/category/awemainta-blogs/educacion/feed/",
+        "https://awemainta.info/category/awemainta-blogs/farandula/feed/",
+        "https://awemainta.info/category/awemainta-blogs/motivacion/feed/",
+        "https://awemainta.info/category/awemainta-blogs/politica/feed/",
+        "https://awemainta.info/category/awemainta-blogs/relacion/feed/",
+        "https://awemainta.info/category/awemainta-blogs/salud-mental/feed/",
+        "https://awemainta.info/category/awemainta-blogs/salud/feed/",
+        "https://awemainta.info/category/awemainta-blogs/tecnologia/feed/",
+        "https://awemainta.info/category/awemainta-blogs/turismo/feed/",
+        "https://awemainta.com/comments/feed/",
+        "https://awemainta.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1695,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:41.760Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "coolaruba.com": {
+      "urls": [
+        "https://coolaruba.com/podcast/feed/",
+        "https://coolaruba.com/feed/",
+        "https://coolaruba.com/podcast-cat/music-art/feed/",
+        "https://coolaruba.com/podcast-cat/music-channel/feed/",
+        "https://coolaruba.com/podcast-cat/music-podcast/feed/",
+        "https://coolaruba.com/podcast-cat/podcast-art/feed/",
+        "http://coolaruba.com/feed/",
+        "https://coolaruba.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2258,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:50.595Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "arubanative.com": {
+      "urls": [
+        "https://www.arubanative.com/feed/atom/",
+        "https://www.arubanative.com/feed/",
+        "https://arubanative.com/feed/",
+        "https://arubanative.com/feed/atom/",
+        "https://arubanative.com/comments/feed/",
+        "https://www.arubanative.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1019,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:48.326Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "awe24.com": {
+      "urls": [
+        "https://www.awe24.com/feed",
+        "https://awe24.com/feed/",
+        "https://www.awe24.com/comments/feed",
+        "https://awe24.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3034,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:46.583Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "solodipueblo.com": {
+      "urls": [
+        "https://solodipueblo.com/feed/",
+        "http://solodipueblo.com/feed/",
+        "http://solodipueblo.com/comments/feed/",
+        "https://solodipueblo.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3761,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:39.459Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "noticiacla.com": {
+      "urls": [
+        "https://noticiacla.com/rss",
+        "https://www.noticiacla.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 682,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:42.606Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "masnoticia.com": {
+      "urls": [
+        "https://masnoticia.com/feed/",
+        "https://masnoticia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 716,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:47.302Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bondia.com": {
+      "urls": [
+        "https://www.bondia.com/feed/",
+        "https://www.bondia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1482,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:33.680Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "24ora.com": {
+      "urls": [
+        "https://24ora.com/feed/",
+        "https://24ora.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:41.913Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "arubatoday.com": {
+      "urls": [
+        "https://www.arubatoday.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:32.043Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

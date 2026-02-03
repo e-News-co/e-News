@@ -1,0 +1,567 @@
+{
+  "country_code": "DO",
+  "language_code": "EN",
+  "total_domains": 33,
+  "total_feeds": 97,
+  "feeds": {
+    "elnuevodiario.com.do": {
+      "urls": [
+        "https://elnuevodiario.com.do/feed/",
+        "https://elnuevodiario.com.do/podcast/feed/",
+        "https://elnuevodiario.com.do/categoria-podcast/deportes/feed/",
+        "https://elnuevodiario.com.do/categoria-podcast/economia/feed/",
+        "https://elnuevodiario.com.do/categoria-podcast/emprendedurismo/feed/",
+        "https://elnuevodiario.com.do/categoria-podcast/finanzas-personales/feed/",
+        "https://elnuevodiario.com.do/categoria-podcast/negocios/feed/",
+        "https://elnuevodiario.com.do/categoria-podcast/politica/feed/",
+        "https://elnuevodiario.com.do/categoria-podcast/rd-es-bienestar/feed/",
+        "https://elnuevodiario.com.do/categoria-podcast/salud/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/alborotando-el-diario/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/camara-de-comercio/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/circulo-de-cultura-democratica/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/con-la-ropa-puesta/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/ecopolitica/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/el-nuevo-diario-podcast/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/negocios-lo-que-no-te-cuentan/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/politica-chevere/feed/",
+        "https://elnuevodiario.com.do/programa-podcast/sin-prigilio/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.512Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elnacional.com.do": {
+      "urls": [
+        "https://elnacional.com.do/feed",
+        "https://elnacional.com.do/feed/",
+        "https://elnacional.com.do/etiquetas/podcast/feed/",
+        "https://elnacional.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.508Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elviajero.com.do": {
+      "urls": [
+        "https://elviajero.com.do/index.php/feed/",
+        "https://www.elviajero.com.do/feed/",
+        "https://www.elviajero.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.516Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hoy.com.do": {
+      "urls": [
+        "https://hoy.com.do/feed/",
+        "https://hoy.com.do/rss/home.xml",
+        "https://hoy.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.519Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ensegundos.do": {
+      "urls": [
+        "https://ensegundos.do/feed/",
+        "https://ensegundos.do/category/entretenimiento/feed/",
+        "https://ensegundos.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.553Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elcaribe.com.do": {
+      "urls": [
+        "https://www.elcaribe.com.do/feed",
+        "https://www.elcaribe.com.do/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.501Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eldia.com.do": {
+      "urls": [
+        "https://eldia.com.do/feed/",
+        "https://eldia.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.504Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "acento.com.do": {
+      "urls": [
+        "https://acento.com.do/inicio/feed/",
+        "https://acento.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.534Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "minutoaminuto.com.do": {
+      "urls": [
+        "https://minutoaminuto.com.do/feed/",
+        "https://minutoaminuto.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.546Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elinformante.com.do": {
+      "urls": [
+        "https://elinformante.com.do/feed/",
+        "https://elinformante.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.550Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eljacaguero.com.do": {
+      "urls": [
+        "https://eljacaguero.com.do/feed/",
+        "https://eljacaguero.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.580Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "periodicoelfaro.com.do": {
+      "urls": [
+        "https://periodicoelfaro.com.do/feed/",
+        "http://periodicoelfaro.com.do/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.592Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "colmena.intec.edu.do": {
+      "urls": [
+        "https://colmena.intec.edu.do/feed/",
+        "https://colmena.intec.edu.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.597Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diariolibre.com": {
+      "urls": [
+        "https://www.diariolibre.com/rss/revista.xml",
+        "https://www.diariolibre.com/rss/actualidad.xml",
+        "https://www.diariolibre.com/rss/deportes.xml",
+        "https://www.diariolibre.com/rss/dl-usa.xml",
+        "https://www.diariolibre.com/rss/mundo.xml",
+        "https://www.diariolibre.com/rss/portada.xml",
+        "https://www.diariolibre.com/rss/economia.xml",
+        "https://www.diariolibre.com/rss/planeta.xml",
+        "https://www.diariolibre.com/rss/politica.xml",
+        "https://www.diariolibre.com/rss/opinion.xml",
+        "https://www.diariolibre.com/rss/videos.xml",
+        "https://www.diariolibre.com/rss/estilos.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.492Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "diariodigitalrd.com": {
+      "urls": [
+        "https://diariodigitalrd.com/feed/",
+        "https://www.diariodigital.com.do/feed/",
+        "https://diariodigitalrd.com/comments/feed/",
+        "https://www.diariodigital.com.do/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-01-31T21:02:20.543Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "eljaya.com": {
+      "urls": [
+        "https://www.eljaya.com/feed/",
+        "https://eljaya.com/feed/",
+        "https://eljaya.com/comments/feed/",
+        "https://www.eljaya.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.561Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "diario55.com": {
+      "urls": [
+        "https://diario55.com/feed/atom/",
+        "https://diario55.com/feed/",
+        "https://diario55.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.573Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "noticiassin.com": {
+      "urls": [
+        "https://feeds.feedburner.com/noticiassin1",
+        "https://noticiassin.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.524Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "remolacha.net": {
+      "urls": [
+        "https://remolacha.net/feed/",
+        "https://remolacha.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.528Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "cachicha.com": {
+      "urls": [
+        "http://www.cachicha.com/feed/",
+        "https://www.cachicha.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.536Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gentetuya.com": {
+      "urls": [
+        "http://gentetuya.com/feed/",
+        "https://gentetuya.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.539Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "primicias.net": {
+      "urls": [
+        "https://primicias.net/web/feed/",
+        "https://primicias.net/web/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.557Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elsoldesantiago.com": {
+      "urls": [
+        "https://elsoldesantiago.com/feed/",
+        "https://elsoldesantiago.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.565Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elgranerodelsur.com": {
+      "urls": [
+        "https://elgranerodelsur.com/feed/",
+        "https://elgranerodelsur.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.568Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elfogondesanjuan.com": {
+      "urls": [
+        "https://www.elfogondesanjuan.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/1693132077457051398/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.577Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ciudadoriental.com": {
+      "urls": [
+        "https://ciudadoriental.com/feed/",
+        "https://ciudadoriental.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.585Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "delazonaoriental.net": {
+      "urls": [
+        "https://www.delazonaoriental.net/feed/",
+        "http://www.delazonaoriental.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.587Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dominicantoday.com": {
+      "urls": [
+        "https://dominicantoday.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.494Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "almomento.net": {
+      "urls": [
+        "https://almomento.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.521Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "costaverdedr.com": {
+      "urls": [
+        "https://costaverdedr.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.570Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lalupadelsur.com": {
+      "urls": [
+        "https://lalupadelsur.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.582Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "puertoplatahabla.com": {
+      "urls": [
+        "https://puertoplatahabla.com/pp/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.589Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dr1.com": {
+      "urls": [
+        "https://dr1.com/forums/index.php?forums/-/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.593Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

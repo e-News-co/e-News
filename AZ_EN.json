@@ -1,0 +1,474 @@
+{
+  "country_code": "AZ",
+  "language_code": "EN",
+  "total_domains": 25,
+  "total_feeds": 116,
+  "feeds": {
+    "banker.az": {
+      "urls": [
+        "https://banker.az/feed/",
+        "https://banker.az/category/blog/feed/",
+        "https://banker.az/category/blog/%C9%99li-dadaszad%C9%99/feed/",
+        "https://banker.az/category/blog/aliy%C9%99-nuruyeva/feed/",
+        "https://banker.az/category/blog/anar-bayramov/feed/",
+        "https://banker.az/category/blog/camid-movsumov/feed/",
+        "https://banker.az/category/blog/cavid-abasov/feed/",
+        "https://banker.az/category/blog/elman-sadiqov/feed/",
+        "https://banker.az/category/blog/f%C9%99xri-agayev/feed/",
+        "https://banker.az/category/blog/fariz-huseynli/feed/",
+        "https://banker.az/category/blog/ilham-saban/feed/",
+        "https://banker.az/category/blog/leyla-%C9%99kb%C9%99rova/feed/",
+        "https://banker.az/category/blog/natiq-c%C9%99f%C9%99rli/feed/",
+        "https://banker.az/category/blog/nicat-novruzov/feed/",
+        "https://banker.az/category/blog/nigar-c%C9%99brayilova/feed/",
+        "https://banker.az/category/blog/orxan-m%C9%99mm%C9%99dli/feed/",
+        "https://banker.az/category/blog/rovs%C9%99n-agayev/feed/",
+        "https://banker.az/category/blog/s%C9%99hriyar-h%C9%99bilov/feed/",
+        "https://banker.az/category/blog/samir-%C9%99liyev/feed/",
+        "https://banker.az/category/blog/sukur-huseynov/feed/",
+        "https://banker.az/category/blog/vuqar-bayramov/feed/",
+        "https://banker.az/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1534,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:15.872Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "azernews.az": {
+      "urls": [
+        "https://www.azernews.az/feeds/index.rss",
+        "https://www.azernews.az/feed.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 971,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:59.979Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "minval.az": {
+      "urls": [
+        "https://minval.az/feed",
+        "https://minval.az/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:04.916Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "azerbaijan-news.az": {
+      "urls": [
+        "https://azerbaijan-news.az/az/feed",
+        "https://www.azerbaijan-news.az/az/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1035,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:59.005Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gapp.az": {
+      "urls": [
+        "https://gapp.az/feed/",
+        "https://gapp.az/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1433,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:12.594Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zerkalo.az": {
+      "urls": [
+        "https://zerkalo.az/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 974,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:00.953Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "en.apa.az": {
+      "urls": [
+        "https://en.apa.az/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1003,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:17.898Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "apasport.az": {
+      "urls": [
+        "https://apasport.az/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1022,
+        "category": "sports",
+        "last_checked": "2026-01-31T18:58:16.894Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tezadlar.az": {
+      "urls": [
+        "https://tezadlar.az/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1210,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:27.338Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sia.az": {
+      "urls": [
+        "https://sia.az/feed.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1226,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:06.142Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "trend.az": {
+      "urls": [
+        "https://www.trend.az/feeds/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1233,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:13.827Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "milli.az": {
+      "urls": [
+        "https://www.milli.az/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1272,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:02.558Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "day.az": {
+      "urls": [
+        "https://news.day.az/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:08.805Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "publika.az": {
+      "urls": [
+        "https://publika.az/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1331,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:03.889Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "olaylar.az": {
+      "urls": [
+        "https://olaylar.az/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1333,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:07.475Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "medianews.az": {
+      "urls": [
+        "https://medianews.az/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2354,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:11.159Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "azerbaijantoday.az": {
+      "urls": [
+        "https://azerbaijantoday.az/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3994,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:31.332Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "report.az": {
+      "urls": [
+        "https://report.az/rss",
+        "https://report.az/rss/",
+        "https://report.az/ru/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:14.336Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "echo.az": {
+      "urls": [
+        "https://ru.echo.az/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:57.951Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "oxu.az": {
+      "urls": [
+        "https://oxu.az/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:01.286Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "anspress.com": {
+      "urls": [
+        "https://anspress.com/rss/latest-posts",
+        "https://www.anspress.com/rss/latest-posts",
+        "https://anspress.com/rss/category/qonsular",
+        "https://www.anspress.com/rss/category/h%C9%99rbi",
+        "https://anspress.com/rss/category/bugununxulasesi",
+        "https://www.anspress.com/rss/category/qayidis",
+        "https://anspress.com/rss/category/ans-press-serhsiz",
+        "https://anspress.com/rss/category/anspresspanorama",
+        "https://anspress.com/rss/category/cop29",
+        "https://anspress.com/rss/category/diaspora",
+        "https://anspress.com/rss/category/din",
+        "https://anspress.com/rss/category/documentary",
+        "https://anspress.com/rss/category/dunya",
+        "https://anspress.com/rss/category/educational",
+        "https://anspress.com/rss/category/ekologiya",
+        "https://anspress.com/rss/category/felaket",
+        "https://anspress.com/rss/category/iqtisadiyyat",
+        "https://anspress.com/rss/category/maliyye",
+        "https://anspress.com/rss/category/medeniyyet",
+        "https://anspress.com/rss/category/mehkeme",
+        "https://anspress.com/rss/category/movies",
+        "https://anspress.com/rss/category/musahibe",
+        "https://anspress.com/rss/category/parlament",
+        "https://anspress.com/rss/category/qalmaqal",
+        "https://anspress.com/rss/category/reportaj",
+        "https://anspress.com/rss/category/resmi",
+        "https://anspress.com/rss/category/s%C9%99yah%C9%99t",
+        "https://anspress.com/rss/category/saglamliq",
+        "https://anspress.com/rss/category/secki",
+        "https://anspress.com/rss/category/social-political",
+        "https://anspress.com/rss/category/sosial-sebekeler",
+        "https://anspress.com/rss/category/tehsil",
+        "https://anspress.com/rss/category/turizm",
+        "https://anspress.com/rss/category/verilis",
+        "https://anspress.com/rss/category/verlishler",
+        "https://anspress.com/rss/category/videocarx-klip",
+        "https://anspress.com/rss/category/yaddash",
+        "https://www.anspress.com/rss/category/ans-press-s%C9%99rhsiz",
+        "https://www.anspress.com/rss/category/anspresspanorama",
+        "https://www.anspress.com/rss/category/bugununxulasesi",
+        "https://www.anspress.com/rss/category/diaspora",
+        "https://www.anspress.com/rss/category/din",
+        "https://www.anspress.com/rss/category/documentary",
+        "https://www.anspress.com/rss/category/dunya",
+        "https://www.anspress.com/rss/category/educational",
+        "https://www.anspress.com/rss/category/ekologiya",
+        "https://www.anspress.com/rss/category/gold-found",
+        "https://www.anspress.com/rss/category/idman",
+        "https://www.anspress.com/rss/category/iqtisadiyyat",
+        "https://www.anspress.com/rss/category/m%C9%99d%C9%99niyy%C9%99t",
+        "https://www.anspress.com/rss/category/maliyy%C9%99",
+        "https://www.anspress.com/rss/category/movies",
+        "https://www.anspress.com/rss/category/qalmaqal",
+        "https://www.anspress.com/rss/category/r%C9%99smi",
+        "https://www.anspress.com/rss/category/reportaj",
+        "https://www.anspress.com/rss/category/s%C9%99yah%C9%99t",
+        "https://www.anspress.com/rss/category/saglamliq",
+        "https://www.anspress.com/rss/category/secki",
+        "https://www.anspress.com/rss/category/social-political",
+        "https://www.anspress.com/rss/category/t%C9%99hsil",
+        "https://www.anspress.com/rss/category/turizm",
+        "https://www.anspress.com/rss/category/videocarx-klip"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1634,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:52.762Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "araznews.org": {
+      "urls": [
+        "https://araznews.org/en/feed",
+        "https://araznews.org/en/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1312,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:19.213Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "azadliq.info": {
+      "urls": [
+        "https://www.azadliq.info/feed",
+        "https://www.azadliq.info/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3260,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:23.651Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yeniazerbaycan.com": {
+      "urls": [
+        "https://yeniazerbaycan.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 940,
+        "category": "general",
+        "last_checked": "2026-01-31T18:58:26.128Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "musavat.com": {
+      "urls": [
+        "https://www.musavat.com/rss.xml",
+        "https://musavat.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:55.885Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

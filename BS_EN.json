@@ -1,0 +1,237 @@
+{
+  "country_code": "BS",
+  "language_code": "EN",
+  "total_domains": 13,
+  "total_feeds": 47,
+  "feeds": {
+    "ournews.bs": {
+      "urls": [
+        "https://ournews.bs/feed/",
+        "https://ournews.bs/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.481Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bahamasb2b.com": {
+      "urls": [
+        "https://www.bahamasb2b.com/feed/",
+        "https://www.bahamasb2b.com/blog/feed/",
+        "https://www.bahamasb2b.com/news/feed",
+        "https://www.bahamasb2b.com/comments/feed/",
+        "https://www.bahamasb2b.com/blog/all-we-are-saying-is-give-pc-a-chance/feed/",
+        "https://www.bahamasb2b.com/blog/are-red-gold-and-green-making-you-blue/feed/",
+        "https://www.bahamasb2b.com/blog/btc-back-in-government-hands-oh-the-horror/feed/",
+        "https://www.bahamasb2b.com/blog/citizenship-for-votes/feed/",
+        "https://www.bahamasb2b.com/blog/houses-of-straw-and-bales-of-hate/feed/",
+        "https://www.bahamasb2b.com/blog/if-obama-had-a-son-might-he-look-like-antonio-santiago/feed/",
+        "https://www.bahamasb2b.com/blog/putting-bahamians-back-to-work/feed/",
+        "https://www.bahamasb2b.com/blog/role-models/feed/",
+        "https://www.bahamasb2b.com/blog/the-bahamas-39-years/feed/",
+        "https://www.bahamasb2b.com/blog/the-folly-of-fools/feed/",
+        "https://www.bahamasb2b.com/blog/the-three-stooges-of-bahamian-business/feed/",
+        "https://www.bahamasb2b.com/blog/the-voice-of-the-people-is-not-the-voice-of-god/feed/",
+        "https://www.bahamasb2b.com/blog/why-the-fnm-lost-the-2012-election/feed/",
+        "https://www.bahamasb2b.com/blog/will-national-lottery-cure-what-ails-us/feed/",
+        "https://www.bahamasb2b.com/news/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.515Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "tribune242.com": {
+      "urls": [
+        "https://www.tribune242.com/rss/headlines/",
+        "http://www.tribune242.com/rss/headlines/",
+        "https://www.tribune242.com/rss/headlines/opinion/podcasts/",
+        "http://www.tribune242.com/rss/headlines/opinion/podcasts/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.472Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "nassaupunch.com": {
+      "urls": [
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://nassaupunch.com/feed/",
+        "http://nassaupunch.com/feed/",
+        "http://feeds.bbci.co.uk/news/world/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "world",
+        "last_checked": "2026-01-31T21:00:25.528Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thenassauguardian.com": {
+      "urls": [
+        "https://thenassauguardian.com/feed/",
+        "https://thenassauguardian.com/feed/podcast",
+        "https://thenassauguardian.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.469Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thebahamasweekly.com": {
+      "urls": [
+        "https://www.thebahamasweekly.com/publish/rss.xml",
+        "http://thebahamasweekly.com/publish/rss.xml",
+        "http://www.thebahamasweekly.com/publish/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.490Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "bahamasuncensored.com": {
+      "urls": [
+        "http://www.bahamasuncensored.com/feed/",
+        "http://www.bahamasuncensored.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.458Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "jonesbahamas.com": {
+      "urls": [
+        "https://jonesbahamas.com/feed/",
+        "http://jonesbahamas.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.463Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "znsbahamas.com": {
+      "urls": [
+        "https://znsbahamas.com/feed/",
+        "https://znsbahamas.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.476Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "bahamasnational.com": {
+      "urls": [
+        "https://bahamasnational.com/feed/",
+        "https://bahamasnational.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.502Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "bahamasspectator.com": {
+      "urls": [
+        "https://bahamasspectator.com/feed/",
+        "http://www.bahamasspectator.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.537Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "freeport.nassauguardian.net": {
+      "urls": [
+        "https://nassauguardian.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.465Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bahamasnewsmabey.com": {
+      "urls": [
+        "https://www.bahamasnewsmabey.com/blog-feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:00:25.543Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

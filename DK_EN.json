@@ -1,0 +1,964 @@
+{
+  "country_code": "DK",
+  "language_code": "EN",
+  "total_domains": 39,
+  "total_feeds": 410,
+  "feeds": {
+    "berlingske.dk": {
+      "urls": [
+        "https://www.berlingske.dk/content/rss",
+        "https://www.berlingske.dk/next-api/feeds/alle",
+        "https://www.berlingske.dk/content/2/rss",
+        "https://www.berlingske.dk/content/40427/rss",
+        "https://www.berlingske.dk/next-api/feeds/kategori/samfund",
+        "https://www.berlingske.dk/content/3/rss",
+        "https://www.berlingske.dk/content/66/rss",
+        "https://www.berlingske.dk/content/176/rss",
+        "https://www.berlingske.dk/next-api/feeds/kategori/business",
+        "https://www.berlingske.dk/content/85/rss",
+        "https://www.berlingske.dk/content/21838/rss",
+        "https://www.berlingske.dk/content/21/rss",
+        "https://www.berlingske.dk/content/40014/rss",
+        "https://www.berlingske.dk/content/23/rss",
+        "https://www.berlingske.dk/content/69/rss",
+        "https://www.berlingske.dk/content/21823/rss",
+        "https://www.berlingske.dk/content/133/rss",
+        "https://www.berlingske.dk/content/20/rss",
+        "https://www.berlingske.dk/content/42826/rss",
+        "https://www.berlingske.dk/content/171/rss",
+        "https://www.berlingske.dk/content/21889/rss",
+        "https://www.berlingske.dk/content/2855/rss",
+        "https://www.berlingske.dk/content/29/rss",
+        "https://www.berlingske.dk/content/39746/rss",
+        "https://www.berlingske.dk/content/40437/rss",
+        "https://www.berlingske.dk/content/40541/rss",
+        "https://www.berlingske.dk/content/41157/rss",
+        "https://www.berlingske.dk/content/41789/rss",
+        "https://www.berlingske.dk/content/49/rss",
+        "https://www.berlingske.dk/content/99/rss",
+        "https://www.berlingske.dk/content/1110/rss",
+        "https://www.berlingske.dk/content/112/rss",
+        "https://www.berlingske.dk/content/1365/rss",
+        "https://www.berlingske.dk/content/191/rss",
+        "https://www.berlingske.dk/content/192/rss",
+        "https://www.berlingske.dk/content/21802/rss",
+        "https://www.berlingske.dk/content/21803/rss",
+        "https://www.berlingske.dk/content/21811/rss",
+        "https://www.berlingske.dk/content/21815/rss",
+        "https://www.berlingske.dk/content/21817/rss",
+        "https://www.berlingske.dk/content/21818/rss",
+        "https://www.berlingske.dk/content/21822/rss",
+        "https://www.berlingske.dk/content/21846/rss",
+        "https://www.berlingske.dk/content/21851/rss",
+        "https://www.berlingske.dk/content/21852/rss",
+        "https://www.berlingske.dk/content/21854/rss",
+        "https://www.berlingske.dk/content/21857/rss",
+        "https://www.berlingske.dk/content/21868/rss",
+        "https://www.berlingske.dk/content/21879/rss",
+        "https://www.berlingske.dk/content/21880/rss",
+        "https://www.berlingske.dk/content/21882/rss",
+        "https://www.berlingske.dk/content/21886/rss",
+        "https://www.berlingske.dk/content/21896/rss",
+        "https://www.berlingske.dk/content/21897/rss",
+        "https://www.berlingske.dk/content/21903/rss",
+        "https://www.berlingske.dk/content/21905/rss",
+        "https://www.berlingske.dk/content/21908/rss",
+        "https://www.berlingske.dk/content/2292/rss",
+        "https://www.berlingske.dk/content/2617/rss",
+        "https://www.berlingske.dk/content/2856/rss",
+        "https://www.berlingske.dk/content/39582/rss",
+        "https://www.berlingske.dk/content/39699/rss",
+        "https://www.berlingske.dk/content/39752/rss",
+        "https://www.berlingske.dk/content/40002/rss",
+        "https://www.berlingske.dk/content/40005/rss",
+        "https://www.berlingske.dk/content/40006/rss",
+        "https://www.berlingske.dk/content/40007/rss",
+        "https://www.berlingske.dk/content/40008/rss",
+        "https://www.berlingske.dk/content/40044/rss",
+        "https://www.berlingske.dk/content/40045/rss",
+        "https://www.berlingske.dk/content/40325/rss",
+        "https://www.berlingske.dk/content/40349/rss",
+        "https://www.berlingske.dk/content/40385/rss",
+        "https://www.berlingske.dk/content/40387/rss",
+        "https://www.berlingske.dk/content/40388/rss",
+        "https://www.berlingske.dk/content/40431/rss",
+        "https://www.berlingske.dk/content/40488/rss",
+        "https://www.berlingske.dk/content/40515/rss",
+        "https://www.berlingske.dk/content/40526/rss",
+        "https://www.berlingske.dk/content/40529/rss",
+        "https://www.berlingske.dk/content/40530/rss",
+        "https://www.berlingske.dk/content/40531/rss",
+        "https://www.berlingske.dk/content/40532/rss",
+        "https://www.berlingske.dk/content/40533/rss",
+        "https://www.berlingske.dk/content/40534/rss",
+        "https://www.berlingske.dk/content/40535/rss",
+        "https://www.berlingske.dk/content/40536/rss",
+        "https://www.berlingske.dk/content/40537/rss",
+        "https://www.berlingske.dk/content/40538/rss",
+        "https://www.berlingske.dk/content/40956/rss",
+        "https://www.berlingske.dk/content/40959/rss",
+        "https://www.berlingske.dk/content/41050/rss",
+        "https://www.berlingske.dk/content/41154/rss",
+        "https://www.berlingske.dk/content/414/rss",
+        "https://www.berlingske.dk/content/41462/rss",
+        "https://www.berlingske.dk/content/41470/rss",
+        "https://www.berlingske.dk/content/41569/rss",
+        "https://www.berlingske.dk/content/41720/rss",
+        "https://www.berlingske.dk/content/42239/rss",
+        "https://www.berlingske.dk/content/42898/rss",
+        "https://www.berlingske.dk/content/465/rss",
+        "https://www.berlingske.dk/content/626/rss",
+        "https://www.berlingske.dk/content/6454/rss",
+        "https://www.berlingske.dk/content/667/rss",
+        "https://www.berlingske.dk/content/68/rss",
+        "https://www.berlingske.dk/content/6946/rss",
+        "https://www.berlingske.dk/content/715/rss",
+        "https://www.berlingske.dk/content/8861/rss",
+        "https://www.berlingske.dk/content/910/rss",
+        "https://www.berlingske.dk/next-api/feeds/kategori/opinion",
+        "https://www.berlingske.dk/next-api/feeds/kategori/kultur",
+        "https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/efbb3059-460a-4fec-859d-ad2e00f0ecb2/3f9a927d-2ab4-411b-b435-ad2e00f0ecbc/podcast.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.355Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "information.dk": {
+      "urls": [
+        "https://feed.podbean.com/informationsbefrielse/feed.xml",
+        "https://www.information.dk/feed",
+        "https://www.information.dk/taxonomy/term/91272/feed",
+        "https://www.information.dk/taxonomy/term/91864/feed",
+        "https://feed.podbean.com/litteratur/feed.xml",
+        "https://feed.podbean.com/bornafsolen/feed.xml",
+        "https://feed.podbean.com/detstoreperspektiv/feed.xml",
+        "https://feed.podbean.com/deutschstunde/feed.xml",
+        "https://feed.podbean.com/europaeiskeideer/feed.xml",
+        "https://feed.podbean.com/genopdragelsen/feed.xml",
+        "https://feed.podbean.com/graenseland/feed.xml",
+        "https://feed.podbean.com/icivilisationensnavn/feed.xml",
+        "https://feed.podbean.com/informationforklarerklimaet/feed.xml",
+        "https://feed.podbean.com/informationsforsamlingshus/feed.xml",
+        "https://feed.podbean.com/informationviden/feed.xml",
+        "https://feed.podbean.com/instruks/feed.xml",
+        "https://feed.podbean.com/klima/feed.xml",
+        "https://feed.podbean.com/lykkebergogcorydon/feed.xml",
+        "https://feed.podbean.com/maskinstorm/feed.xml",
+        "https://feed.podbean.com/moderneideer/feed.xml",
+        "https://feed.podbean.com/moderneideeroplaest/feed.xml",
+        "https://feed.podbean.com/naturvidenskab/feed.xml",
+        "https://feed.podbean.com/radioinformation/feed.xml",
+        "https://feed.podbean.com/rusland/feed.xml",
+        "https://feed.podbean.com/samtaleromusa/feed.xml",
+        "https://feed.podbean.com/samtidskunst/feed.xml",
+        "https://feed.podbean.com/shakespearesommer/feed.xml",
+        "https://feed.podbean.com/sixtynineren/feed.xml",
+        "https://www.information.dk/taxonomy/term/37563/feed",
+        "https://www.information.dk/taxonomy/term/37725/feed",
+        "https://www.information.dk/taxonomy/term/38070/feed",
+        "https://www.information.dk/taxonomy/term/38533/feed",
+        "https://www.information.dk/taxonomy/term/38535/feed",
+        "https://www.information.dk/taxonomy/term/39915/feed",
+        "https://www.information.dk/taxonomy/term/40492/feed",
+        "https://www.information.dk/taxonomy/term/40590/feed",
+        "https://www.information.dk/taxonomy/term/40778/feed",
+        "https://www.information.dk/taxonomy/term/40806/feed",
+        "https://www.information.dk/taxonomy/term/40880/feed",
+        "https://www.information.dk/taxonomy/term/40897/feed",
+        "https://www.information.dk/taxonomy/term/40904/feed",
+        "https://www.information.dk/taxonomy/term/41027/feed",
+        "https://www.information.dk/taxonomy/term/41428/feed",
+        "https://www.information.dk/taxonomy/term/41824/feed",
+        "https://www.information.dk/taxonomy/term/41874/feed",
+        "https://www.information.dk/taxonomy/term/42005/feed",
+        "https://www.information.dk/taxonomy/term/42049/feed",
+        "https://www.information.dk/taxonomy/term/89801/feed",
+        "https://www.information.dk/taxonomy/term/90324/feed",
+        "https://www.information.dk/taxonomy/term/90443/feed",
+        "https://www.information.dk/taxonomy/term/91450/feed",
+        "https://www.information.dk/taxonomy/term/91929/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.363Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "weekendavisen.dk": {
+      "urls": [
+        "https://www.weekendavisen.dk/content/rss",
+        "https://www.weekendavisen.dk/content/11/rss",
+        "https://www.weekendavisen.dk/content/157/rss",
+        "https://www.weekendavisen.dk/content/158/rss",
+        "https://www.weekendavisen.dk/content/2/rss",
+        "https://www.weekendavisen.dk/content/246/rss",
+        "https://www.weekendavisen.dk/content/248/rss",
+        "https://www.weekendavisen.dk/content/249/rss",
+        "https://www.weekendavisen.dk/content/25/rss",
+        "https://www.weekendavisen.dk/content/250/rss",
+        "https://www.weekendavisen.dk/content/258/rss",
+        "https://www.weekendavisen.dk/content/259/rss",
+        "https://www.weekendavisen.dk/content/269/rss",
+        "https://www.weekendavisen.dk/content/417/rss",
+        "https://www.weekendavisen.dk/content/419/rss",
+        "https://www.weekendavisen.dk/content/435/rss",
+        "https://www.weekendavisen.dk/content/461/rss",
+        "https://www.weekendavisen.dk/content/7/rss",
+        "https://www.weekendavisen.dk/content/8/rss",
+        "https://www.weekendavisen.dk/content/9/rss",
+        "https://www.weekendavisen.dk/api/feeds/alle",
+        "https://www.weekendavisen.dk/api/feeds/kategori/samfund",
+        "https://www.weekendavisen.dk/api/feeds/kategori/kultur",
+        "https://www.weekendavisen.dk/api/feeds/kategori/boeger",
+        "https://www.weekendavisen.dk/api/feeds/kategori/ideer"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.382Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bt.dk": {
+      "urls": [
+        "https://www.bt.dk/next-api/feeds/alle",
+        "https://www.bt.dk/krimi/seneste/rss",
+        "https://www.bt.dk/bt/seneste/rss",
+        "https://www.bt.dk/nyheder/seneste/rss",
+        "https://www.bt.dk/underholdning/top/rss",
+        "https://www.bt.dk/krimi/top/rss",
+        "https://www.bt.dk/underholdning/seneste/rss",
+        "https://www.bt.dk/next-api/feeds/kategori/underholdning",
+        "https://www.bt.dk/politik/top/rss",
+        "https://www.bt.dk/biler/top/rss",
+        "https://www.bt.dk/bt/top/rss",
+        "https://www.bt.dk/digital/top/rss",
+        "https://www.bt.dk/forbrug/top/rss",
+        "https://www.bt.dk/nyheder/top/rss",
+        "https://www.bt.dk/sundhed/top/rss",
+        "https://www.bt.dk/utroligt/top/rss",
+        "https://www.bt.dk/politik/seneste/rss",
+        "https://www.bt.dk/sundhed/seneste/rss",
+        "https://www.bt.dk/biler/seneste/rss",
+        "https://www.bt.dk/digital/seneste/rss",
+        "https://www.bt.dk/forbrug/seneste/rss",
+        "https://www.bt.dk/musik/seneste/rss",
+        "https://www.bt.dk/utroligt/seneste/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.351Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "borsen.dk": {
+      "urls": [
+        "https://borsen.dk/rss",
+        "https://borsen.dk/rss/udland",
+        "https://borsen.dk/rss/virksomheder",
+        "https://borsen.dk/rss/finans",
+        "https://borsen.dk/rss/markedsberetninger",
+        "https://borsen.dk/rss/investor",
+        "https://borsen.dk/rss/politik",
+        "https://borsen.dk/rss/opinion",
+        "https://borsen.dk:443/rss/investor/",
+        "https://borsen.dk/rss/pleasure",
+        "https://borsen.dk/rss/okonomi",
+        "https://borsen.dk/rss/baeredygtig",
+        "https://borsen.dk/rss/breaking",
+        "https://borsen.dk/rss/ejendomme",
+        "https://borsen.dk/rss/executive",
+        "https://borsen.dk/rss/longread",
+        "https://borsen.dk/rss/penge",
+        "https://borsen.dk/rss/tech",
+        "https://feed.pod.space/topchefernesstrategimednielslunde",
+        "https://feed.podbean.com/topchefernesstrategi/feed.xml",
+        "https://feed.pod.space/tilbordsmedoletroelso",
+        "https://feed.podbean.com/tilbordsmed/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.359Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sportnyt.dk": {
+      "urls": [
+        "https://www.fodbold-transfers.dk/feed/",
+        "https://www.fodbold-transfers.dk/blog-10-mega-handler-kan-ske-sommer/feed/",
+        "https://www.fodbold-transfers.dk/blog-10-spaendende-talenter-lige-nu/feed/",
+        "https://www.fodbold-transfers.dk/blog-15-unge-spillere-em-2016/feed/",
+        "https://www.fodbold-transfers.dk/blog-fodboldens-hylde-1/feed/",
+        "https://www.fodbold-transfers.dk/blog-hold-oeje-disse-u20-vm/feed/",
+        "https://www.fodbold-transfers.dk/blog-hvem-overtager-ballon-dor-trofaeet/feed/",
+        "https://www.fodbold-transfers.dk/blog-hvornaar-faar-premier-league-igen-ballon-dor-vinder/feed/",
+        "https://www.fodbold-transfers.dk/blog-italiensk-fodbolds-talentmasse/feed/",
+        "https://www.fodbold-transfers.dk/blog-masser-gratis-arbejdskraft-sommer/feed/",
+        "https://www.fodbold-transfers.dk/blog-messis-barca-forlaengelse-kedelig/feed/",
+        "https://www.fodbold-transfers.dk/blog-mulige-transfers-sommeren-2022/feed/",
+        "https://www.fodbold-transfers.dk/blog-status-paa-transfervinduet/feed/",
+        "https://www.fodbold-transfers.dk/em-2020-blog-aakjaers-favoritter-til-guldet/feed/",
+        "https://www.fodbold-transfers.dk/category/blogs/feed/",
+        "https://feeds.services.tv2.dk/api/feeds/sport/rss",
+        "https://www.fodbold-transfers.dk/category/em-2020/blogs-em-2020/feed/",
+        "https://www.fodbold-transfers.dk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.457Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jv.dk": {
+      "urls": [
+        "https://jv.dk/feed/responsys",
+        "https://jv.dk/feed/esbjerg",
+        "https://jv.dk/feed/kolding",
+        "https://jv.dk/feed/forside",
+        "https://jv.dk/feed/soenderborg",
+        "https://jv.dk/feed/erhverv",
+        "https://jv.dk/feed/haderslev",
+        "https://jv.dk/feed/aabenraa",
+        "https://jv.dk/feed/toender",
+        "https://jv.dk/feed/varde",
+        "https://jv.dk/feed/billund",
+        "https://jv.dk/feed/vejen",
+        "https://jv.dk/feed/sport",
+        "https://jv.dk/feed/danmark",
+        "https://jv.dk/feed/soenderjyske",
+        "https://jv.dk/feed/esbjerg-fb"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.407Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nordjyske.dk": {
+      "urls": [
+        "https://nordjyske.dk/rss/danmark",
+        "https://nordjyske.dk/rss/verden",
+        "https://nordjyske.dk/rss/vesthimmerland",
+        "https://nordjyske.dk/rss/thisted",
+        "https://nordjyske.dk/rss/aalborg",
+        "https://nordjyske.dk/rss/erhverv",
+        "https://nordjyske.dk/rss/hjoerring",
+        "https://nordjyske.dk/rss/sport",
+        "https://nordjyske.dk/rss/broenderslev",
+        "https://nordjyske.dk/rss/frederikshavn",
+        "https://nordjyske.dk/rss/jammerbugt",
+        "https://nordjyske.dk/rss/mariagerfjord",
+        "https://nordjyske.dk/rss/mors",
+        "https://nordjyske.dk/rss/nyheder",
+        "https://nordjyske.dk/rss/rebild"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.403Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "fyens.dk": {
+      "urls": [
+        "https://fyens.dk/feed/odense",
+        "https://fyens.dk/feed/forside",
+        "https://fyens.dk/feed/erhverv",
+        "https://fyens.dk/feed/kerteminde",
+        "https://fyens.dk/feed/nordfyn",
+        "https://fyens.dk/feed/nyborg",
+        "https://fyens.dk/feed/faaborg-midtfyn",
+        "https://fyens.dk/feed/sport",
+        "https://fyens.dk/feed/middelfart",
+        "https://fyens.dk/feed/assens",
+        "https://fyens.dk/feed/ob",
+        "https://fyens.dk/feed/sydfyn",
+        "https://fyens.dk/feed/danmark"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.410Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kristeligt-dagblad.dk": {
+      "urls": [
+        "https://www.kristeligt-dagblad.dk/feed/rss/latest",
+        "https://www.kristeligt-dagblad.dk/rss/nyheder",
+        "https://www.kristeligt-dagblad.dk/rss/danmark",
+        "https://www.kristeligt-dagblad.dk/rss/debat",
+        "https://www.kristeligt-dagblad.dk/rss/kirke",
+        "https://www.kristeligt-dagblad.dk/rss/kultur",
+        "https://www.kristeligt-dagblad.dk/rss/liv",
+        "https://www.kristeligt-dagblad.dk/rss/artikler",
+        "https://www.kristendom.dk/rss/nyheder",
+        "https://www.religion.dk/rss/nyheder"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.369Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dr.dk": {
+      "urls": [
+        "https://www.dr.dk/nyheder/service/feeds/allenyheder",
+        "https://www.dr.dk/nyheder/service/feeds/senestenyt",
+        "https://api.dr.dk/podcasts/v1/feeds/radioavisen",
+        "https://www.dr.dk/nyheder/service/feeds/indland",
+        "https://www.dr.dk/nyheder/service/feeds/udland",
+        "https://www.dr.dk/nyheder/service/feeds/sporten",
+        "https://www.dr.dk/nyheder/service/feeds/viden",
+        "https://api.dr.dk/podcasts/v1/feeds/genstart",
+        "https://api.dr.dk/podcasts/v1/feeds/mads-monopolet-podcast"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.385Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jyllands-posten.dk": {
+      "urls": [
+        "https://jyllands-posten.dk/?service=rssfeed",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/latestNewsRss/jyllands-posten.dk?count=10",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/top-stories/jyllands-posten.dk?service=rssfeed",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/mostReadRss/jyllands-posten.dk",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/top-stories/jyllands-posten.dk",
+        "https://feeds.jp.dk/jp/topnyheder",
+        "https://feeds.jp.dk/jp/seneste",
+        "https://feeds.jp.dk/jp/mest-laeste"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.379Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jp.dk": {
+      "urls": [
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/latestNewsRss/jyllands-posten.dk?count=10",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/mostReadRss/jyllands-posten.dk",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/top-stories/jyllands-posten.dk",
+        "https://feeds.jp.dk/jp/topnyheder",
+        "https://feeds.jp.dk/jp/seneste",
+        "https://feeds.jp.dk/jp/mest-laeste"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.366Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "stiften.dk": {
+      "urls": [
+        "https://stiften.dk/feed/stiften",
+        "https://stiften.dk/feed/aarhus",
+        "https://stiften.dk/feed/forside",
+        "https://stiften.dk/feed/sport",
+        "https://stiften.dk/feed/erhverv",
+        "https://stiften.dk/feed/danmark"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.414Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dinavis.dk": {
+      "urls": [
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/top-stories/dinavis.dk",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/mostReadRss/dinavis.dk",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/latestNewsRss/dinavis.dk?count=10",
+        "https://feeds.dinavis.dk/topnyheder",
+        "https://feeds.dinavis.dk/seneste",
+        "https://feeds.dinavis.dk/mest-laeste"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.429Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "finans.dk": {
+      "urls": [
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/latestNewsRss/finans.dk?count=10",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/mostReadRss/finans.dk",
+        "https://newsletter-proxy.aws.jyllands-posten.dk/v1/top-stories/finans.dk?count=12",
+        "https://feeds.finans.dk/topnyheder",
+        "https://feeds.finans.dk/seneste",
+        "https://feeds.finans.dk/mest-laeste"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.445Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "cphpost.dk": {
+      "urls": [
+        "https://cphpost.dk/feed/",
+        "https://cphpost.dk/?feed=rss2",
+        "http://cphpost.dk/?feed=rss2",
+        "http://cphpost.dk/feed/",
+        "https://cphpost.dk/category/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.375Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hsfo.dk": {
+      "urls": [
+        "https://hsfo.dk/feed/forside",
+        "https://hsfo.dk/feed/danmark",
+        "https://hsfo.dk/feed/erhverv",
+        "https://hsfo.dk/feed/sport",
+        "https://hsfo.dk/feed/ac-horsens"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.424Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kbh.dk": {
+      "urls": [
+        "https://kbh.dk/blogs/feed/",
+        "https://kbh.dk/web-stories/feed/",
+        "https://kbh.dk/feed/",
+        "https://kbh.dk/category/blogs/feed/",
+        "https://kbh.dk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.434Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "amtsavisen.dk": {
+      "urls": [
+        "https://amtsavisen.dk/feed/randers-fc",
+        "https://amtsavisen.dk/feed/sport",
+        "https://faa.dk/feed/forside",
+        "https://faa.dk/feed/erhverv",
+        "https://faa.dk/feed/danmark"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.442Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dagens.dk": {
+      "urls": [
+        "https://www.dagens.dk/rss.xml",
+        "https://www.dagens.dk/rss",
+        "https://www.dagens.dk/feed",
+        "https://www.dagens.dk/feeds/rss/articles/latest-news/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.394Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vafo.dk": {
+      "urls": [
+        "https://vafo.dk/feed/forside",
+        "https://vafo.dk/feed/erhverv",
+        "https://vafo.dk/feed/sport",
+        "https://vafo.dk/feed/danmark"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.417Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "helsingordagblad.dk": {
+      "urls": [
+        "https://helsingordagblad.dk/feed/forside",
+        "https://helsingordagblad.dk/feed/erhverv",
+        "https://helsingordagblad.dk/feed/sport",
+        "https://helsingordagblad.dk/feed/danmark"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.420Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "netavisen-sjaelland.dk": {
+      "urls": [
+        "https://netavisen-sjaelland.dk/feed/",
+        "http://netavisen-sjaelland.dk/feed/",
+        "https://netavisen-sjaelland.dk/comments/feed/",
+        "http://netavisen-sjaelland.dk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.426Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "altinget.dk": {
+      "urls": [
+        "https://www.altinget.dk/rss.aspx",
+        "https://www.altinget.dk/eu/rss.aspx",
+        "https://www.altinget.dk/sundhed/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.391Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "news.dk": {
+      "urls": [
+        "https://news.dk/feed/",
+        "https://news.dk/comments/feed/",
+        "https://news.dk/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.400Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ib.dk": {
+      "urls": [
+        "https://ib.dk/feed/",
+        "https://ib.dk/comments/feed/",
+        "https://ib.dk/eksempel-side/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.448Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "thelocal.dk": {
+      "urls": [
+        "https://feeds.thelocal.com/rss/builder/dk",
+        "https://feeds.thelocal.com/rss/dk/premium",
+        "https://feeds.thelocal.com"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "local",
+        "last_checked": "2026-01-31T21:02:20.460Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "politiken.dk": {
+      "urls": [
+        "http://politiken.dk/rss/senestenyt.rss",
+        "https://politiken.dk/rss/senestenyt.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.372Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sn.dk": {
+      "urls": [
+        "https://www.sn.dk/feed/",
+        "https://sn.dk/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.437Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bold.dk": {
+      "urls": [
+        "https://bold.dk/feed/rss/articles/google/rss2.xml",
+        "https://www.bold.dk/feed/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.452Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "avisen.dk": {
+      "urls": [
+        "https://www.avisen.dk/Handlers/GetFeed.ashx?type=articles&format=rss&"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.348Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "180grader.dk": {
+      "urls": [
+        "https://180grader.dk/feeds/rss/articles/latest-news/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.396Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "galtenfolkeblad.dk": {
+      "urls": [
+        "http://galtenfolkeblad.dk/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.430Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "folketidende.dk": {
+      "urls": [
+        "https://folketidende.dk/rss-nyhedsbrev.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.439Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tipsbladet.dk": {
+      "urls": [
+        "https://www.tipsbladet.dk/news/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.454Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "thedanishpioneer.com": {
+      "urls": [
+        "https://thedanishpioneer.com/feed/",
+        "https://thedanishpioneer.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.466Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "fla.de": {
+      "urls": [
+        "https://www.fla.de/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.462Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thedanishdream.com": {
+      "urls": [
+        "https://thedanishdream.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:20.468Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

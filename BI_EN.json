@@ -1,0 +1,57 @@
+{
+  "country_code": "BI",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 7,
+  "feeds": {
+    "en.wikipedia.org": {
+      "urls": [
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 321,
+        "category": "general",
+        "last_checked": "2026-01-31T20:08:55.374Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "burundi24.wordpress.com": {
+      "urls": [
+        "https://burundi24.wordpress.com/feed/",
+        "https://burundi24.wordpress.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 493,
+        "category": "general",
+        "last_checked": "2026-01-31T20:08:55.048Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jeuneafrique.com": {
+      "urls": [
+        "http://jeuneafrique.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 592,
+        "category": "general",
+        "last_checked": "2026-01-31T20:08:55.966Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

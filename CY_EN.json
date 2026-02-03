@@ -1,0 +1,554 @@
+{
+  "country_code": "CY",
+  "language_code": "EN",
+  "total_domains": 32,
+  "total_feeds": 98,
+  "feeds": {
+    "omegalive.com.cy": {
+      "urls": [
+        "https://omegalive.com.cy/athlhtika-feed.xml",
+        "https://omegalive.com.cy/lifestyle-feed.xml",
+        "https://omegalive.com.cy/kosmos-feed.xml",
+        "https://omegalive.com.cy/kypros-feed.xml",
+        "https://omegalive.com.cy/astynomika-feed.xml",
+        "https://omegalive.com.cy/ellada-feed.xml",
+        "https://omegalive.com.cy/oikonomia-feed.xml",
+        "https://omegalive.com.cy/politikh-feed.xml",
+        "https://omegalive.com.cy/videos-feed.xml",
+        "https://omegalive.com.cy/ygeia-feed.xml",
+        "https://omegalive.com.cy/blogs/feed/",
+        "https://omegalive.com.cy/tag/tolkers-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.265Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "politis.com.cy": {
+      "urls": [
+        "https://politis.com.cy/rss",
+        "https://politis.com.cy/feed",
+        "https://politis.com.cy/feed/",
+        "https://www.politis.com.cy/feed",
+        "https://www.politis.com.cy/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.224Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ykp.org.cy": {
+      "urls": [
+        "https://www.ykp.org.cy/feed/",
+        "https://www.ykp.org.cy/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.244Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gnomionline.com.cy": {
+      "urls": [
+        "https://gnomionline.com.cy/feed/",
+        "https://gnomionline.com.cy/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.255Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "artsakank.com.cy": {
+      "urls": [
+        "http://www.artsakank.com.cy/hy/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "entertainment",
+        "last_checked": "2026-01-31T21:02:11.182Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dialogos.com.cy": {
+      "urls": [
+        "https://dialogos.com.cy/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.221Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "24h.com.cy": {
+      "urls": [
+        "https://24h.com.cy/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.262Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "typos.com.cy": {
+      "urls": [
+        "https://typos.com.cy/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.267Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ekonomikibris.com": {
+      "urls": [
+        "https://www.ekonomikibris.com/sondakika.xml",
+        "https://www.ekonomikibris.com/rss_is-ilanlari_70.xml",
+        "http://www.ekonomikibris.com/rss_kibris-egitim-haberleri_72.xml",
+        "https://www.ekonomikibris.com/rss_kibris-haberleri_8.xml",
+        "https://www.ekonomikibris.com/rss_e-dergi_67.xml",
+        "https://www.ekonomikibris.com/rss_ekonomi-haberleri_1.xml",
+        "https://www.ekonomikibris.com/rss_emlak-haberleri_10.xml",
+        "https://www.ekonomikibris.com/rss_gundem-haberleri_5.xml",
+        "https://www.ekonomikibris.com/rss_kibris-egitim-haberleri_72.xml",
+        "https://www.ekonomikibris.com/rss_kibris-ekonomi_63.xml",
+        "https://www.ekonomikibris.com/rss_kibris-emlak-haberleri_65.xml",
+        "https://www.ekonomikibris.com/rss_kripto-paralar_73.xml",
+        "https://www.ekonomikibris.com/rss_saglik-haberleri_9.xml",
+        "https://www.ekonomikibris.com/rss_siyaset-haberleri_71.xml",
+        "https://www.ekonomikibris.com/rss_spor-haberleri_4.xml",
+        "http://www.ekonomikibris.com/rss.xml",
+        "http://www.ekonomikibris.com/rss_kibris-haberleri_8.xml",
+        "http://www.ekonomikibris.com/rss_gundem-haberleri_5.xml",
+        "http://www.ekonomikibris.com/rss_ekonomi-haberleri_1.xml",
+        "http://www.ekonomikibris.com/rss_is-ilanlari_70.xml",
+        "http://www.ekonomikibris.com/rss_emlak-haberleri_10.xml",
+        "http://www.ekonomikibris.com/rss_kibris-ekonomi_63.xml",
+        "http://www.ekonomikibris.com/rss_kibris-emlak-haberleri_65.xml",
+        "http://www.ekonomikibris.com/rss_kripto-paralar_73.xml",
+        "http://www.ekonomikibris.com/rss_saglik-haberleri_9.xml",
+        "http://www.ekonomikibris.com/rss_siyaset-haberleri_71.xml",
+        "http://www.ekonomikibris.com/rss_spor-haberleri_4.xml",
+        "https://www.ekonomikibris.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.281Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "halkinsesikibris.com": {
+      "urls": [
+        "https://www.halkinsesikibris.com/rss.php",
+        "http://www.halkinsesikibris.com/rss.php",
+        "https://www.halkinsesikibris.com/rss",
+        "http://www.halkinsesikibris.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.233Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "northcyprusfreepress.com": {
+      "urls": [
+        "https://northcyprusfreepress.com/feed/",
+        "http://northcyprusfreepress.com/feed/",
+        "https://northcyprusfreepress.com/comments/feed/",
+        "http://northcyprusfreepress.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.277Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cyprus-mail.com": {
+      "urls": [
+        "https://cyprus-mail.com/feed",
+        "https://cyprus-mail.com/category/cyprus/feed",
+        "https://cyprus-mail.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.185Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "haberalkibrisli.net": {
+      "urls": [
+        "https://haberalkibrisli.net/feed/",
+        "http://haberalkibrisli.net/feed/",
+        "http://www.haberalkibrisli.net/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.241Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sigmalive.com": {
+      "urls": [
+        "http://www.sigmalive.com/rss",
+        "https://www.sigmalive.com/rss",
+        "https://www.sigmalive.com/rss/simerini"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.258Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "actioninsports.com": {
+      "urls": [
+        "https://www.actioninsports.com/feed/",
+        "https://www.actioninsports.com/category/videos/podcast/feed/",
+        "https://www.actioninsports.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-01-31T21:02:11.284Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "financialmirror.com": {
+      "urls": [
+        "https://www.financialmirror.com/feed/",
+        "https://www.financialmirror.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.193Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kibrisgazetesi.com": {
+      "urls": [
+        "https://kibrisgazetesi.com/feed/",
+        "https://kibrisgazetesi.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.210Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "yeniduzen.com": {
+      "urls": [
+        "https://www.yeniduzen.com/rss/",
+        "http://www.yeniduzen.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.217Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "simerini.sigmalive.com": {
+      "urls": [
+        "https://simerini.sigmalive.com/rss-feed/latest/",
+        "http://simerini.sigmalive.com/rss-feed/latest/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.227Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "havadiskibris.com": {
+      "urls": [
+        "https://www.havadiskibris.com/feed/",
+        "https://www.havadiskibris.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.230Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "detaykibris.com": {
+      "urls": [
+        "https://www.detaykibris.com/rss/",
+        "http://www.detaykibris.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.247Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lgcnews.com": {
+      "urls": [
+        "https://lgcnews.com/feed/",
+        "https://www.lgcnews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.275Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "omonoianews.com": {
+      "urls": [
+        "https://omonoianews.com/feed/",
+        "https://cyprusnews.eu/rss.feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.287Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "in-cyprus.com": {
+      "urls": [
+        "https://in-cyprus.philenews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.206Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "kibrispostasi.com": {
+      "urls": [
+        "https://www.kibrispostasi.com/rss.xml?cat=35"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.212Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "philenews.com": {
+      "urls": [
+        "https://www.philenews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.214Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gundemkibris.com": {
+      "urls": [
+        "https://www.gundemkibris.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.236Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "haberkibris.com": {
+      "urls": [
+        "https://haberkibris.com/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.238Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "diyaloggazetesi.com": {
+      "urls": [
+        "https://www.diyaloggazetesi.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.251Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "in-cyprus.philenews.com": {
+      "urls": [
+        "https://in-cyprus.philenews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.260Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "paideia-news.com": {
+      "urls": [
+        "https://paideia-news.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.269Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "pafospress.com": {
+      "urls": [
+        "https://pafospress.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:11.271Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

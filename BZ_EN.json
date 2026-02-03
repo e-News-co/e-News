@@ -1,0 +1,232 @@
+{
+  "country_code": "BZ",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 84,
+  "feeds": {
+    "amandala.com.bz": {
+      "urls": [
+        "https://amandala.com.bz/news/feed/",
+        "http://amandala.com.bz/news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.091Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sanpedrosun.com": {
+      "urls": [
+        "https://www.sanpedrosun.com/feed/",
+        "https://www.sanpedrosun.com/accidents-and-disasters/feed/",
+        "https://www.sanpedrosun.com/arts-culture/feed/",
+        "https://www.sanpedrosun.com/business-and-economy/feed/",
+        "https://www.sanpedrosun.com/community-and-society/feed/",
+        "https://www.sanpedrosun.com/conservation/feed/",
+        "https://www.sanpedrosun.com/crime-and-violence/feed/",
+        "https://www.sanpedrosun.com/crime/feed/",
+        "https://www.sanpedrosun.com/dr-love/feed/",
+        "https://www.sanpedrosun.com/education/feed/",
+        "https://www.sanpedrosun.com/entertainment/feed/",
+        "https://www.sanpedrosun.com/environment/feed/",
+        "https://www.sanpedrosun.com/fashion/feed/",
+        "https://www.sanpedrosun.com/festivals/feed/",
+        "https://www.sanpedrosun.com/girl-power/feed/",
+        "https://www.sanpedrosun.com/government/feed/",
+        "https://www.sanpedrosun.com/obituary/feed/",
+        "https://www.sanpedrosun.com/pageants-beauty/feed/",
+        "https://www.sanpedrosun.com/pets-animals/feed/",
+        "https://www.sanpedrosun.com/police-news/feed/",
+        "https://www.sanpedrosun.com/politics-and-government/feed/",
+        "https://www.sanpedrosun.com/religious/feed/",
+        "https://www.sanpedrosun.com/sports/feed/",
+        "https://www.sanpedrosun.com/sun-news/feed/",
+        "https://www.sanpedrosun.com/traffic/feed/",
+        "https://www.sanpedrosun.com/travel-and-tourism/feed/",
+        "https://www.sanpedrosun.com/weather/feed/",
+        "https://www.sanpedrosun.com/wolfes-woofers/feed/",
+        "https://www.sanpedrosun.com/youth/feed/",
+        "https://www.sanpedrosun.com/business-and-economy/media/feed/",
+        "https://www.sanpedrosun.com/community-and-society/obituary-community-and-society/feed/",
+        "https://www.sanpedrosun.com/community-and-society/pets-and-animals/feed/",
+        "https://www.sanpedrosun.com/conservation/conservation-highlight/feed/",
+        "https://www.sanpedrosun.com/police-news/police-report-police-news/feed/",
+        "https://www.sanpedrosun.com/health/feed/",
+        "https://www.sanpedrosun.com/health/beauty/feed/",
+        "https://feeds.feedburner.com/TheSanPedroSun"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.137Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ambergristoday.com": {
+      "urls": [
+        "https://www.ambergristoday.com/taxonomy/term/30/feed",
+        "https://ambergristoday.com/feed/",
+        "https://ambergristoday.com/blog/feed/",
+        "https://ambergristoday.com/editorial-blog/feed/",
+        "https://follow.it/ambergris-today/rss",
+        "https://follow.it/followit-blog/rss",
+        "https://ambergristoday.com/comments/feed/",
+        "https://feeds.feedburner.com/iTravelBelize",
+        "https://ambergristoday.com/blog/2023/12/18/love-fm-christmas-parade/feed/",
+        "https://ambergristoday.com/blog/2024/01/15/embracing-rising-coffee-culture/feed/",
+        "https://ambergristoday.com/blog/2024/04/08/relocation-rc-school/feed/",
+        "https://ambergristoday.com/blog/2024/06/09/traffic-issues-construction-trucks/feed/",
+        "https://ambergristoday.com/blog/2024/07/31/jaguars-temple-demolishion/feed/",
+        "https://ambergristoday.com/blog/2024/11/20/marine-biologist-bianca-narvaez/feed/",
+        "https://ambergristoday.com/blog/2024/11/22/2024-thanksgiving-menus/feed/",
+        "https://ambergristoday.com/blog/2025/02/10/business-booming-ambergris/feed/",
+        "https://ambergristoday.com/blog/2025/02/26/podcast-interview-anniversary/feed/",
+        "https://ambergristoday.com/blog/2025/04/16/bucket-brigade-fire-fighters/feed/",
+        "https://ambergristoday.com/blog/2025/05/02/belize-airways-limited/feed/",
+        "https://ambergristoday.com/blog/2025/05/14/kids-fishing-tournament/feed/",
+        "https://ambergristoday.com/blog/2025/09/30/public-transportation-san-pedro/feed/",
+        "https://ambergristoday.com/blog/2025/10/14/san-pedro-city/feed/",
+        "https://ambergristoday.com/blog/2025/11/28/beautiful-san-pedro-sign/feed/",
+        "https://ambergristoday.com/blog/2025/11/30/70-years-of-miss-san-pedro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.099Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "edition.channel5belize.com": {
+      "urls": [
+        "https://www.greaterbelize.com/feed/atom/",
+        "https://www.greaterbelize.com/feed/",
+        "https://edition.channel5belize.com/feed/atom",
+        "https://edition.channel5belize.com/feed",
+        "https://edition.channel5belize.com/feed/atom/",
+        "https://edition.channel5belize.com/feed/",
+        "https://edition.channel5belize.com/rss-feed",
+        "https://edition.channel5belize.com/comments/feed",
+        "https://www.greaterbelize.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.113Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "breakingbelizenews.com": {
+      "urls": [
+        "https://www.breakingbelizenews.com/feed/",
+        "https://www.breakingbelizenews.com/home-5/feed/",
+        "https://www.breakingbelizenews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.144Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "belizean.com": {
+      "urls": [
+        "https://belizean.com/feed/",
+        "https://belizean.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.106Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "7newsbelize.com": {
+      "urls": [
+        "https://7newsbelize.com/rss.php",
+        "https://www.7newsbelize.com/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.122Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lovefm.com": {
+      "urls": [
+        "https://lovefm.com/feed/atom/",
+        "https://lovefm.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.150Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "greaterbelize.com": {
+      "urls": [
+        "https://www.greaterbelize.com/feed/",
+        "https://www.greaterbelize.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.154Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "sanpedrodaily.com": {
+      "urls": [
+        "https://sanpedrodaily.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:37.125Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

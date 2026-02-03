@@ -1,0 +1,619 @@
+{
+  "country_code": "BO",
+  "language_code": "EN",
+  "total_domains": 23,
+  "total_feeds": 289,
+  "feeds": {
+    "opinion.com.bo": {
+      "urls": [
+        "https://www.opinion.com.bo/rss",
+        "https://www.opinion.com.bo/rss/author/denilson-fabricio-bustamante-brito/",
+        "https://www.opinion.com.bo/rss/",
+        "https://www.opinion.com.bo/rss/pais",
+        "https://www.opinion.com.bo/rss/deportes",
+        "https://www.opinion.com.bo/rss/pais/",
+        "https://www.opinion.com.bo/rss/noticias",
+        "https://www.opinion.com.bo/rss/cochabamba",
+        "https://www.opinion.com.bo/rss/cultura",
+        "https://www.opinion.com.bo/rss/mundo",
+        "https://www.opinion.com.bo/rss/policial",
+        "https://www.opinion.com.bo/rss/anuario-2020",
+        "https://www.opinion.com.bo/rss/olimpiadas-tokio-2020",
+        "https://www.opinion.com.bo/rss/anuario-2020/",
+        "https://www.opinion.com.bo/rss/deportes/",
+        "https://www.opinion.com.bo/rss/adios-maradona",
+        "https://www.opinion.com.bo/rss/catar",
+        "https://www.opinion.com.bo/rss/olimpiadas-tokio-2020/",
+        "https://www.opinion.com.bo/rss/opinion",
+        "https://www.opinion.com.bo/rss/opinon-en-la-feria",
+        "https://www.opinion.com.bo/rss/feria-internacional-2021",
+        "https://www.opinion.com.bo/rss/adios-maradona/",
+        "https://www.opinion.com.bo/rss/catar/",
+        "https://www.opinion.com.bo/rss/cochabamba/",
+        "https://www.opinion.com.bo/rss/opinon-en-la-feria/",
+        "https://www.opinion.com.bo/rss/revista-asi",
+        "https://www.opinion.com.bo/rss/tendencias",
+        "https://www.opinion.com.bo/rss/video",
+        "https://www.opinion.com.bo/rss/album",
+        "https://www.opinion.com.bo/rss/automotores",
+        "https://www.opinion.com.bo/rss/avisos-necrologicos",
+        "https://www.opinion.com.bo/rss/buena-noche",
+        "https://www.opinion.com.bo/rss/catar-2020",
+        "https://www.opinion.com.bo/rss/ciencia",
+        "https://www.opinion.com.bo/rss/clasificados",
+        "https://www.opinion.com.bo/rss/cobocitos",
+        "https://www.opinion.com.bo/rss/colibrito",
+        "https://www.opinion.com.bo/rss/coronavirus",
+        "https://www.opinion.com.bo/rss/cultura/",
+        "https://www.opinion.com.bo/rss/educacion-cooperativa1",
+        "https://www.opinion.com.bo/rss/escena-del-crimen",
+        "https://www.opinion.com.bo/rss/escenario-politico1",
+        "https://www.opinion.com.bo/rss/especiales",
+        "https://www.opinion.com.bo/rss/feria-internacional-2021/",
+        "https://www.opinion.com.bo/rss/guerra-en-ucrania",
+        "https://www.opinion.com.bo/rss/guia-medica",
+        "https://www.opinion.com.bo/rss/informe-especial",
+        "https://www.opinion.com.bo/rss/inmuebles",
+        "https://www.opinion.com.bo/rss/internacional-cultura",
+        "https://www.opinion.com.bo/rss/medio-ambiente",
+        "https://www.opinion.com.bo/rss/migrantes",
+        "https://www.opinion.com.bo/rss/mundo/",
+        "https://www.opinion.com.bo/rss/noticias-falsas",
+        "https://www.opinion.com.bo/rss/policial/",
+        "https://www.opinion.com.bo/rss/portadas",
+        "https://www.opinion.com.bo/rss/ramona",
+        "https://www.opinion.com.bo/rss/revista-as-iacute",
+        "https://www.opinion.com.bo/rss/salud",
+        "https://www.opinion.com.bo/rss/salud3",
+        "https://www.opinion.com.bo/rss/sin-categoria",
+        "https://www.opinion.com.bo/rss/tecnologia",
+        "https://www.opinion.com.bo/rss/temas-destacados",
+        "https://www.opinion.com.bo/rss/verificado",
+        "https://www.opinion.com.bo/rss/vida-de-hoy2",
+        "https://www.opinion.com.bo/rss/virales",
+        "https://www.opinion.com.bo/rss/yapame-case",
+        "https://www.opinion.com.bo/rss/opinion/",
+        "https://www.opinion.com.bo/rss/video/buenanoche",
+        "https://www.opinion.com.bo/rss/album/",
+        "https://www.opinion.com.bo/rss/album/cochabamba",
+        "https://www.opinion.com.bo/rss/album/cultura",
+        "https://www.opinion.com.bo/rss/album/deportes",
+        "https://www.opinion.com.bo/rss/album/pais",
+        "https://www.opinion.com.bo/rss/album/portadas",
+        "https://www.opinion.com.bo/rss/album/sin-categoria",
+        "https://www.opinion.com.bo/rss/author/betcon",
+        "https://www.opinion.com.bo/rss/author/betty-condori",
+        "https://www.opinion.com.bo/rss/author/devin-beaulieu",
+        "https://www.opinion.com.bo/rss/author/ernesto-maldonado-v",
+        "https://www.opinion.com.bo/rss/author/estela-herbas-b",
+        "https://www.opinion.com.bo/rss/author/juan-lanchipa-p",
+        "https://www.opinion.com.bo/rss/author/karen-rodriguez-quintanilla",
+        "https://www.opinion.com.bo/rss/author/melania-fernandez-bautista",
+        "https://www.opinion.com.bo/rss/author/monica-novillo-g",
+        "https://www.opinion.com.bo/rss/author/opiniones",
+        "https://www.opinion.com.bo/rss/author/paokarenrod",
+        "https://www.opinion.com.bo/rss/author/roger-banegas-r",
+        "https://www.opinion.com.bo/rss/author/sandra-arias-lazcano",
+        "https://www.opinion.com.bo/rss/automotores/",
+        "https://www.opinion.com.bo/rss/avisos-necrologicos/",
+        "https://www.opinion.com.bo/rss/catar-2020/",
+        "https://www.opinion.com.bo/rss/ciencia/",
+        "https://www.opinion.com.bo/rss/clasificados/",
+        "https://www.opinion.com.bo/rss/cobocitos/",
+        "https://www.opinion.com.bo/rss/colibrito/",
+        "https://www.opinion.com.bo/rss/coronavirus/",
+        "https://www.opinion.com.bo/rss/educacion-cooperativa1/",
+        "https://www.opinion.com.bo/rss/escena-del-crimen/",
+        "https://www.opinion.com.bo/rss/escenario-politico1/",
+        "https://www.opinion.com.bo/rss/especiales/",
+        "https://www.opinion.com.bo/rss/guerra-en-ucrania/",
+        "https://www.opinion.com.bo/rss/guia-medica/",
+        "https://www.opinion.com.bo/rss/informe-especial/",
+        "https://www.opinion.com.bo/rss/inmuebles/",
+        "https://www.opinion.com.bo/rss/internacional-cultura/",
+        "https://www.opinion.com.bo/rss/medio-ambiente/",
+        "https://www.opinion.com.bo/rss/migrantes/",
+        "https://www.opinion.com.bo/rss/noticias/",
+        "https://www.opinion.com.bo/rss/portadas/",
+        "https://www.opinion.com.bo/rss/ramona/",
+        "https://www.opinion.com.bo/rss/revista-as-iacute/",
+        "https://www.opinion.com.bo/rss/revista-asi/",
+        "https://www.opinion.com.bo/rss/salud/",
+        "https://www.opinion.com.bo/rss/salud3/",
+        "https://www.opinion.com.bo/rss/sin-categoria/",
+        "https://www.opinion.com.bo/rss/tecnologia/",
+        "https://www.opinion.com.bo/rss/temas-destacados/",
+        "https://www.opinion.com.bo/rss/tendencias/",
+        "https://www.opinion.com.bo/rss/verificado/",
+        "https://www.opinion.com.bo/rss/vida-de-hoy2/",
+        "https://www.opinion.com.bo/rss/video/",
+        "https://www.opinion.com.bo/rss/video/cochabamba",
+        "https://www.opinion.com.bo/rss/video/cultura",
+        "https://www.opinion.com.bo/rss/video/deportes",
+        "https://www.opinion.com.bo/rss/video/mundo",
+        "https://www.opinion.com.bo/rss/video/pais",
+        "https://www.opinion.com.bo/rss/video/policial",
+        "https://www.opinion.com.bo/rss/video/sin-categoria",
+        "https://www.opinion.com.bo/rss/video/tendencias",
+        "https://www.opinion.com.bo/rss/video/yapame-case",
+        "https://www.opinion.com.bo/rss/virales/",
+        "https://www.opinion.com.bo/rss/yapame-case/",
+        "https://www.opinion.com.bo/rss/album/cochabamba/",
+        "https://www.opinion.com.bo/rss/album/cultura/",
+        "https://www.opinion.com.bo/rss/album/deportes/",
+        "https://www.opinion.com.bo/rss/album/pais/",
+        "https://www.opinion.com.bo/rss/album/portadas/",
+        "https://www.opinion.com.bo/rss/album/sin-categoria/",
+        "https://www.opinion.com.bo/rss/album/tendencias/",
+        "https://www.opinion.com.bo/rss/author/betty-condori/",
+        "https://www.opinion.com.bo/rss/author/briana-quiroz-flores/",
+        "https://www.opinion.com.bo/rss/author/devin-beaulieu/",
+        "https://www.opinion.com.bo/rss/author/ernesto-maldonado-v/",
+        "https://www.opinion.com.bo/rss/author/estela-herbas-b/",
+        "https://www.opinion.com.bo/rss/author/gonzalo-colque/",
+        "https://www.opinion.com.bo/rss/author/juan-lanchipa-p/",
+        "https://www.opinion.com.bo/rss/author/karen-rodriguez-quintanilla/",
+        "https://www.opinion.com.bo/rss/author/melania-fernandez-bautista/",
+        "https://www.opinion.com.bo/rss/author/monica-novillo-g/",
+        "https://www.opinion.com.bo/rss/author/opiniones/",
+        "https://www.opinion.com.bo/rss/author/roberto-leonardo-gutierrez-miguel/",
+        "https://www.opinion.com.bo/rss/author/roger-banegas-r/",
+        "https://www.opinion.com.bo/rss/author/sandra-arias-lazcano/",
+        "https://www.opinion.com.bo/rss/video/buenanoche/",
+        "https://www.opinion.com.bo/rss/video/cochabamba/",
+        "https://www.opinion.com.bo/rss/video/cultura/",
+        "https://www.opinion.com.bo/rss/video/deportes/",
+        "https://www.opinion.com.bo/rss/video/mundo/",
+        "https://www.opinion.com.bo/rss/video/pais/",
+        "https://www.opinion.com.bo/rss/video/policial/",
+        "https://www.opinion.com.bo/rss/video/sin-categoria/",
+        "https://www.opinion.com.bo/rss/video/tendencias/",
+        "https://www.opinion.com.bo/rss/video/yapame-case/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2975,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:05.963Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elperiodico.com.bo": {
+      "urls": [
+        "https://elperiodico.com.bo/feed/",
+        "https://elperiodico.com.bo/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 559,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:08.062Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eldeber.com.bo": {
+      "urls": [
+        "https://eldeber.com.bo/rss/feed",
+        "https://eldeber.com.bo/rss/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 808,
+        "category": "general",
+        "last_checked": "2026-01-31T20:33:55.044Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "la-epoca.com.bo": {
+      "urls": [
+        "https://www.la-epoca.com.bo/feed/",
+        "https://www.la-epoca.com.bo/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 887,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:10.001Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "urgente.bo": {
+      "urls": [
+        "https://urgente.bo/rss.xml",
+        "https://www.urgente.bo/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1516,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:16.235Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornada.com.bo": {
+      "urls": [
+        "https://jornada.com.bo/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1030,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:09.092Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eldia.com.bo": {
+      "urls": [
+        "https://www.eldia.com.bo/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1101,
+        "category": "general",
+        "last_checked": "2026-01-31T20:33:57.569Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elmundo.com.bo": {
+      "urls": [
+        "https://elmundo.com.bo/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1178,
+        "category": "general",
+        "last_checked": "2026-01-31T20:33:56.467Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 45,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:27.484Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "english.elpais.com": {
+      "urls": [
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/usa",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/international",
+        "https://fapi-top.prisasd.com/podcast/elpais/que_de_el_pais_in_english.xml",
+        "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/culture",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/economy-and-business",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/people",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/podcasts",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/science-tech",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/brasil_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/podcast_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/uruguay_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/podcasts/subsection/que"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 719,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:28.216Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lostiempos.com": {
+      "urls": [
+        "https://www.lostiempos.com/rss/ultimas",
+        "https://lostiempos.com/rss/ultimas",
+        "https://lostiempos.com/rss/actualidad",
+        "https://lostiempos.com/rss/portada",
+        "https://www.lostiempos.com/rss/actualidad",
+        "https://www.lostiempos.com/rss/portada",
+        "https://lostiempos.com/rss/tendencias",
+        "https://www.lostiempos.com/rss/tendencias"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1596,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:01.654Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ultimasnoticiasbolivia.com": {
+      "urls": [
+        "https://www.ultimasnoticiasbolivia.com/feed/",
+        "https://ultimasnoticiasbolivia.com/feed/",
+        "https://www.ultimasnoticiasbolivia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3692,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:26.104Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lapatriaenlinea.com": {
+      "urls": [
+        "https://lapatriaenlinea.com/feed/",
+        "https://www.lapatriaenlinea.com/blog?format=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1049,
+        "category": "general",
+        "last_checked": "2026-01-31T20:33:59.787Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "eju.tv": {
+      "urls": [
+        "https://eju.tv/feed/",
+        "http://eju.tv/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4263,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:14.268Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "todanoticia.com": {
+      "urls": [
+        "https://todanoticia.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1097,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:07.060Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "correodelsur.net": {
+      "urls": [
+        "http://www.correodelsur.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1295,
+        "category": "general",
+        "last_checked": "2026-01-31T20:33:54.231Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "boliviabella.com": {
+      "urls": [
+        "https://www.boliviabella.com/facts.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1355,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:32.116Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "monteronoticias.com": {
+      "urls": [
+        "https://monteronoticias.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1698,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:21.587Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "eabolivia.com": {
+      "urls": [
+        "https://www.eabolivia.com/blogs.feed?type=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2005,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:19.888Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "datos-bo.com": {
+      "urls": [
+        "https://datos-bo.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2545,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:30.761Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "apnews.com": {
+      "urls": [
+        "https://apnews.com/index.rss",
+        "https://apnews.com/us-news.rss",
+        "https://apnews.com/entertainment.rss",
+        "https://apnews.com/world-news.rss",
+        "https://apnews.com/education.rss",
+        "https://apnews.com/science.rss",
+        "https://apnews.com/technology.rss",
+        "https://apnews.com:443/climate-and-environment.rss",
+        "https://apnews.com:443/technology.rss",
+        "https://apnews.com/hub/photography.rss",
+        "https://apnews.com/hub/ap-top-news.rss",
+        "https://apnews.com/hub/houthis.rss",
+        "https://apnews.com/hub/middle-east.rss",
+        "https://apnews.com/health.rss",
+        "https://apnews.com:443/health.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:27.437Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "eldiario.net": {
+      "urls": [
+        "https://www.eldiario.net/portal/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:33:55.289Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hoybolivia.com": {
+      "urls": [
+        "https://www.hoybolivia.com/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:34:17.883Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

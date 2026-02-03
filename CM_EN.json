@@ -1,0 +1,387 @@
+{
+  "country_code": "CM",
+  "language_code": "EN",
+  "total_domains": 22,
+  "total_feeds": 71,
+  "feeds": {
+    "camer.be": {
+      "urls": [
+        "https://camer.be/rss",
+        "https://www.camer.be/rss",
+        "http://camer.be/rss",
+        "https://camer.be/societe",
+        "https://www.camer.be/societe",
+        "https://camer.be/economie",
+        "https://camer.be/pointdevue",
+        "https://camer.be/politique",
+        "https://www.camer.be/economie",
+        "https://www.camer.be/pointdevue",
+        "https://www.camer.be/politique"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.341Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lebledparle.com": {
+      "urls": [
+        "https://www.lebledparle.com/feed/",
+        "https://www.lebledparle.com/fr/?format=feed&type=atom",
+        "https://www.lebledparle.com/fr/?format=feed&type=rss",
+        "https://www.lebledparle.com/en/feed/",
+        "https://www.lebledparle.com/comments/feed/",
+        "https://www.lebledparle.com/en/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.355Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "yaoundeinfo.com": {
+      "urls": [
+        "http://www.yaoundeinfo.com/feed/",
+        "https://yaoundeinfo.com/feed/",
+        "http://yaoundeinfo.com/feed/",
+        "http://www.yaoundeinfo.com/comments/feed/",
+        "https://yaoundeinfo.com/comments/feed/",
+        "http://yaoundeinfo.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.391Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cameroonnewsline.com": {
+      "urls": [
+        "https://www.cameroonnewsline.com/?feed=rss2",
+        "http://www.cameroonnewsline.com/feed/",
+        "http://www.cameroonnewsline.com/?feed=rss2",
+        "http://www.cameroonnewsline.com/comments/feed/",
+        "http://www.cameroonnewsline.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.402Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "quotidienlejour.com": {
+      "urls": [
+        "https://www.quotidienlejour.com/feed/",
+        "https://www.ipinlaser.com/feed",
+        "https://cmschoice.org/feed",
+        "https://www.oasidelleanime.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.350Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "camfoot.com": {
+      "urls": [
+        "https://www.camfoot.com/feed",
+        "https://www.camfoot.com/web-stories/feed",
+        "https://www.camfoot.com/spip.php?page=backend",
+        "https://www.camfoot.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.360Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cameroononline.org": {
+      "urls": [
+        "https://www.cameroononline.org/feed/",
+        "http://www.cameroononline.org/feed/",
+        "https://www.cameroononline.org/comments/feed/",
+        "http://www.cameroononline.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.372Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "germinalnewspaper.com": {
+      "urls": [
+        "https://germinalnewspaper.com/index.php?format=feed&type=atom",
+        "https://germinalnewspaper.com/index.php?format=feed&type=rss",
+        "http://germinalnewspaper.com/index.php?format=feed&type=atom",
+        "http://germinalnewspaper.com/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.400Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "icicemac.com": {
+      "urls": [
+        "https://www.icicemac.com/feed/",
+        "http://www.icicemac.com/feed/",
+        "https://www.icicemac.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.346Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "237actu.com": {
+      "urls": [
+        "https://237actu.com/feed/",
+        "https://237actu.com/content/feed",
+        "https://237actu.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.364Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "camerounliberty.fr": {
+      "urls": [
+        "https://camerounliberty.fr/feed/",
+        "https://camerounliberty.fr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.344Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "237online.com": {
+      "urls": [
+        "https://www.237online.com/feed/",
+        "https://www.237online.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.367Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cameroonvoice.com": {
+      "urls": [
+        "https://cameroonvoice.com/feed/",
+        "https://cameroonvoice.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.370Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lavoixdupaysan.net": {
+      "urls": [
+        "https://www.lavoixdupaysan.net/feed/",
+        "https://www.lavoixdupaysan.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.379Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lequatriemepouvoir.com": {
+      "urls": [
+        "https://lequatriemepouvoir.com/feed/",
+        "https://lequatriemepouvoir.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.385Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "newsducamer.com": {
+      "urls": [
+        "https://www.newsducamer.com/feed/",
+        "https://www.newsducamer.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.388Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cameroonnewsagency.com": {
+      "urls": [
+        "https://cameroonnewsagency.com/feed/",
+        "http://cameroonnewsagency.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.393Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cameroonconcordnews.com": {
+      "urls": [
+        "https://www.cameroonconcordnews.com/feed/",
+        "https://www.cameroonconcordnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.397Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lattaquant.com": {
+      "urls": [
+        "https://www.lattaquant.com/feed/",
+        "https://www.lattaquant.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.408Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "fr.journalducameroun.com": {
+      "urls": [
+        "https://fr.journalducameroun.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.351Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "actucameroun.com": {
+      "urls": [
+        "https://actucameroun.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.356Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "bonaberi.com": {
+      "urls": [
+        "https://www.bonaberi.com/berimedia.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:02:00.381Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

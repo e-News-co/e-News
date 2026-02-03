@@ -1,0 +1,39 @@
+{
+  "country_code": "AI",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 3,
+  "feeds": {
+    "theanguillian.com": {
+      "urls": [
+        "https://theanguillian.com/feed/",
+        "https://theanguillian.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:46.819Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "anguillanews.com": {
+      "urls": [
+        "https://axanewz.com/e-news/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:44.977Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

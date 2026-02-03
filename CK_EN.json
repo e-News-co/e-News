@@ -1,0 +1,73 @@
+{
+  "country_code": "CK",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 23,
+  "feeds": {
+    "en.wikipedia.org": {
+      "urls": [
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=1&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Blog&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=RSS&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Category:Blogs&action=feedrecentchanges&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:56.960Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nzherald.co.nz": {
+      "urls": [
+        "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/business/?outputType=xml&_website=nzh",
+        "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/news/?outputType=xml&_website=bay-of-plenty-times",
+        "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/entertainment/?outputType=xml",
+        "https://rss.nzherald.co.nz/rss/xml/nzhtsrsscid_000000698.xml",
+        "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/news/?outputType=xml&_website=the-country",
+        "http://rss.nzherald.co.nz/rss/xml/nzhrsscid_000000003.xml",
+        "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/news/?outputType=xml&_website=hawkes-bay-today",
+        "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/lifestyle/?outputType=xml",
+        "http://rss.nzherald.co.nz/rss/xml/nzhtsrsscid_000000698.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-01-31T21:01:56.956Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cookislandsnews.com": {
+      "urls": [
+        "https://www.cookislandsnews.com/news/general/subscribe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T21:01:56.952Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

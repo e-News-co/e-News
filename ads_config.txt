@@ -1,0 +1,44 @@
+# Ads Configuration
+# Enable/Disable specific providers
+ENABLED=true
+ADMOB_ENABLED=false
+META_ENABLED=false
+ADSENSE_ENABLED=false
+CUSTOM_ADS_ENABLED=true
+
+# Provider priority
+PRIMARY_PROVIDER=admob
+SECONDARY_PROVIDER=custom
+REFRESH_RATE=60
+
+[admob]
+APP_ID=ca-app-pub-3714401773375720~3437419142
+BANNER_ID=ca-app-pub-3714401773375720/6655443571
+NATIVE_ID=ca-app-pub-3714401773375720/2078560858
+TEST_MODE=false
+
+# Targeted AdMob IDs (optional)
+# Format: ADMOB_AD=COUNTRY|LANGUAGE|BANNER_ID|NATIVE_ID
+# ADMOB_AD=US|ALL|ca-app-pub-XXXXX/BANNER_US|ca-app-pub-XXXXX/NATIVE_US
+# ADMOB_AD=GB|EN|ca-app-pub-XXXXX/BANNER_GB|ca-app-pub-XXXXX/NATIVE_GB
+
+[meta]
+PLACEMENT_ID=YOUR_META_PLACEMENT_ID
+IS_TESTING=true
+
+[adsense]
+PUBLISHER_ID=ca-pub-3714401773375720
+SLOT_ID=XXXXXXXXXX
+
+[custom_targeting]
+# Format: CUSTOM_AD=COUNTRY|LANGUAGE|AD_TYPE|IMAGE_URL|LINK_URL|HEADLINE|DESCRIPTION|CTA
+# AD_TYPE: BANNER or CARD
+
+#CUSTOM_AD=GLOBAL|ALL|CARD|https://via.placeholder.com/600x400.png?text=Custom+Card+Ad|https://github.com|Global News|Stay updated with world news|View Now
+#CUSTOM_AD=GLOBAL|ALL|BANNER|https://via.placeholder.com/320x50.png?text=Custom+Banner+Ad|https://github.com|Global Ad|Click to see more|Open
+CUSTOM_AD=GLOBAL|ALL|CARD|https://raw.githubusercontent.com/e-News-co/e-News/refs/heads/main/i-News.jpg|https://github.com|Adds with i-News|enail : shajijohnsh@gmail|Conttect Now
+CUSTOM_AD=GLOBAL|ALL|BANNER|https://raw.githubusercontent.com/e-News-co/e-News/refs/heads/main/i-News.jpg|https://github.com|i-News Ad|Mail us shajijohnsh@gmail|Open
+
+
+
+

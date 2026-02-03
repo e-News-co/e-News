@@ -1,0 +1,23 @@
+{
+  "country_code": "AU",
+  "language_code": "ZH",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "acd.com.au": {
+      "urls": [
+        "https://www.acd.com.au/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T18:57:29.816Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,837 @@
+{
+  "country_code": "AL",
+  "language_code": "EN",
+  "total_domains": 50,
+  "total_feeds": 129,
+  "feeds": {
+    "konica.al": {
+      "urls": [
+        "https://konica.al/feed/",
+        "http://konica.al/feed/",
+        "https://botimetnazarko.al/feed/",
+        "https://botimetnazarko.al/comments/feed/",
+        "https://botimetnazarko.al/blog/meri-popins/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1360,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:53.827Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "standard.al": {
+      "urls": [
+        "http://www.standard.al/feed/",
+        "https://www.standard.al/feed/",
+        "https://standard.al/feed/",
+        "https://www.standard.al/comments/feed/",
+        "http://www.standard.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2802,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:09.070Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "shekulli.com.al": {
+      "urls": [
+        "http://shekulli.com.al/feed/",
+        "https://shekulli.com.al/feed/",
+        "http://shekulli.com.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1139,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:04.533Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "abcnews.al": {
+      "urls": [
+        "https://abcnews.al/feed/",
+        "https://abcnews.al/kategoria/sport/feed/",
+        "https://abcnews.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2308,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:16.308Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "monitor.al": {
+      "urls": [
+        "http://feeds.feedburner.com/monitor/QnFd",
+        "https://www.monitor.al/feed/",
+        "https://monitor.al/monitor-video/podcast-monitor-business-plus/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2653,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:49.039Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tvklan.al": {
+      "urls": [
+        "http://tvklan.al/feed/",
+        "https://gliterin-admin.tvklan.al/feed",
+        "https://tvklan.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3586,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:26.038Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "opinion.al": {
+      "urls": [
+        "https://opinion.al/feed/",
+        "https://opinion.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 718,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:52.458Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "intervista.al": {
+      "urls": [
+        "https://intervista.al/web/feed/",
+        "https://intervista.al/web/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1082,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:36.135Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news24.al": {
+      "urls": [
+        "https://www.news24.al/feed/",
+        "https://www.news24.al/category/emisione/podcast-eduvision/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1126,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:17.435Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "panorama.com.al": {
+      "urls": [
+        "https://www.panorama.com.al/feed/",
+        "http://www.panorama.com.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1240,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:53.200Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lexo.al": {
+      "urls": [
+        "https://lexo.al/feed/",
+        "http://lexo.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1382,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:33.216Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "javanews.al": {
+      "urls": [
+        "https://javanews.al/feed/",
+        "https://javanews.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1420,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:31.620Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kombetare.al": {
+      "urls": [
+        "http://kombetare.al/feed",
+        "http://kombetare.al/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1627,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:11.196Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "euronews.al": {
+      "urls": [
+        "https://euronews.al/feed/",
+        "https://euronews.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1946,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:12.937Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rdnews.al": {
+      "urls": [
+        "https://rdnews.al/index.php/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1018,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:13.551Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "faktoje.al": {
+      "urls": [
+        "https://faktoje.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1266,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:50.305Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "telegraf.al": {
+      "urls": [
+        "https://telegraf.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1337,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:12.533Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "businessmag.al": {
+      "urls": [
+        "https://businessmag.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1417,
+        "category": "business",
+        "last_checked": "2026-01-31T17:30:17.014Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "360grade.al": {
+      "urls": [
+        "https://360grade.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1707,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:06.244Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tiranaobserver.al": {
+      "urls": [
+        "https://www.tiranaobserver.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2291,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:38.426Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bota.al": {
+      "urls": [
+        "https://bota.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3350,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:57.178Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lapsi.al": {
+      "urls": [
+        "https://lapsi.al/feed/",
+        "http://lapsi.al/feed/",
+        "https://lapsi.al/kategoria/blog/feed/",
+        "https://lapsi.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:28.442Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "exit.al": {
+      "urls": [
+        "https://exit.al/en/feed/",
+        "https://exit.al/feed/",
+        "https://exit.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:51.739Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sot.com.al": {
+      "urls": [
+        "https://sot.com.al/feed/",
+        "https://sot.com.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:04.692Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetashqiptare.al": {
+      "urls": [
+        "http://gazetashqiptare.al/feed/",
+        "http://gazetashqiptare.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:05.374Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lajmifundit.al": {
+      "urls": [
+        "https://lajmifundit.al/feed/",
+        "https://lajmifundit.al/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:31.725Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetadita.al": {
+      "urls": [
+        "http://www.gazetadita.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:05.841Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "academicus.edu.al": {
+      "urls": [
+        "https://www.academicus.edu.al/current.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:15.597Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "shqiperia.com": {
+      "urls": [
+        "https://www.shqiperia.com/blog/feed/",
+        "https://www.shqiperia.com/blog/author/kurt/feed/",
+        "https://www.shqiperia.com/blog/category/njoftime-shtypi/feed/",
+        "https://www.shqiperia.com/blog/category/blogu-i-udhetarit/feed/",
+        "https://www.shqiperia.com/feed/rss/kat/1016",
+        "https://www.shqiperia.com/blog/category/politika/feed/",
+        "https://www.shqiperia.com/blog/category/shoqerore/feed/",
+        "https://www.shqiperia.com/blog/category/histori/feed/",
+        "https://www.shqiperia.com/blog/author/adibrani/feed/",
+        "https://www.shqiperia.com/blog/author/shqiperia/feed/",
+        "https://www.shqiperia.com/blog/category/arte/feed/",
+        "https://www.shqiperia.com/blog/category/kultura/feed/",
+        "https://www.shqiperia.com/blog/category/press-releases/feed/",
+        "https://www.shqiperia.com/blog/category/trashegimi-kulturore/feed/",
+        "https://www.shqiperia.com/blog/comments/feed/",
+        "https://www.shqiperia.com/blog/contact/feed/",
+        "https://www.shqiperia.com/blog/foto-e-rralle-sarajet-e-firmetarit-te-pavaresise-hajredin-cakrani/feed/",
+        "https://www.shqiperia.com/blog/liber-fundamental-tregimet-e-mocme-shqiptare-mitrush-kutelit/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1709,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:35.050Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sportekspres.com": {
+      "urls": [
+        "http://sportekspres.com/feed/",
+        "https://sportekspres.com/feed/",
+        "https://sportekspres.com/comments/feed/",
+        "http://sportekspres.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1040,
+        "category": "sports",
+        "last_checked": "2026-01-31T17:30:08.775Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tiranatimes.com": {
+      "urls": [
+        "https://tiranatimes.com/?feed=rss2",
+        "https://www.tiranatimes.com/?feed=rss2",
+        "https://www.tiranatimes.com/feed/",
+        "https://www.tiranatimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2213,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:10.990Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "24-ore.com": {
+      "urls": [
+        "http://24-ore.com/?feed=rss2",
+        "https://24-ore.com/feed/",
+        "http://24-ore.com/?feed=comments-rss2",
+        "https://24-ore.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2331,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:49.283Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "scan-tv.com": {
+      "urls": [
+        "https://www.scan-tv.com/feed/",
+        "http://www.scan-tv.com/feed/",
+        "https://scantv.al/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1060,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:07.610Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "balkanweb.com": {
+      "urls": [
+        "https://www.balkanweb.com/feed/",
+        "https://www.balkanweb.com/kategoria/emisionet/podcast/feed/",
+        "https://www.balkanweb.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1374,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:51.939Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tvkoha.tv": {
+      "urls": [
+        "http://tvkoha.tv/feed/instant-articles",
+        "http://tvkoha.tv/feed/",
+        "http://tvkoha.tv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2004,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:43.770Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "revistakuvendi.org": {
+      "urls": [
+        "https://revistakuvendi.org/?feed=rss2",
+        "https://revistakuvendi.org/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 779,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:17.817Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vizionplus.tv": {
+      "urls": [
+        "https://www.vizionplus.tv/feed/",
+        "https://www.vizionplus.tv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1279,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:27.780Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "shqiptari.net": {
+      "urls": [
+        "https://shqiptari.net/feed/",
+        "https://shqiptari.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1577,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:40.044Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "epokaere.com": {
+      "urls": [
+        "https://www.epokaere.com/feed/",
+        "https://www.epokaere.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1927,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:59.214Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "fierisot.com": {
+      "urls": [
+        "https://fierisot.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 990,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:44.760Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "albeu.com": {
+      "urls": [
+        "https://albeu.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1075,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:29.517Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vetevendosje.org": {
+      "urls": [
+        "https://www.vetevendosje.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2603,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:01.986Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "albanianews.it": {
+      "urls": [
+        "https://www.albanianews.al/feed",
+        "https://www.albanianews.al/podcast/feed",
+        "https://www.albanianews.al/podcast/series/cultura/feed",
+        "https://www.albanianews.al/podcast/series/politica/feed",
+        "https://www.albanianews.al/podcast/series/storia/feed",
+        "https://www.albanianews.al/podcast/series/turismo/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:28:50.253Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gazetatema.net": {
+      "urls": [
+        "http://www.gazetatema.net/feed/",
+        "https://www.gazetatema.net/comments/feed/",
+        "http://www.gazetatema.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:04.952Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kohajone.com": {
+      "urls": [
+        "https://kohajone.com/feed/",
+        "https://kohajone.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:03.236Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gazeta-shqip.com": {
+      "urls": [
+        "https://www.gazeta-shqip.com/feed/",
+        "https://www.gazeta-shqip.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:06.200Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gazetablic.com": {
+      "urls": [
+        "https://gazetablic.com/feed/",
+        "https://gazetablic.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:59.383Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "revistapsikologji.com": {
+      "urls": [
+        "http://revistapsikologji.com/feed/atom/",
+        "http://revistapsikologji.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:17.927Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gazetaexpress.com": {
+      "urls": [
+        "https://www.gazetaexpress.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:03.389Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "top-channel.tv": {
+      "urls": [
+        "https://top-channel.tv/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:29:13.897Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

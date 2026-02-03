@@ -1,0 +1,23 @@
+{
+  "country_code": "CH",
+  "language_code": "RU",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "business-swiss.ch": {
+      "urls": [
+        "https://business-swiss.ch/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-01-31T21:01:56.908Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

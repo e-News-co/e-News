@@ -1,0 +1,857 @@
+{
+  "country_code": "AM",
+  "language_code": "EN",
+  "total_domains": 36,
+  "total_feeds": 345,
+  "feeds": {
+    "armenpress.am": {
+      "urls": [
+        "https://armenpress.am/hy/rss/articles",
+        "https://armenpress.am/ru/rss/articles",
+        "https://www.armenpress.am/arm/rss/news/diaspora/",
+        "https://www.armenpress.am/arm/rss/news/inovation/",
+        "https://www.armenpress.am/arm/rss/news/life/",
+        "https://www.armenpress.am/arm/rss/news/politics/",
+        "https://www.armenpress.am/arm/rss/news/projects/",
+        "https://armenpress.am/arm/rss/news/partner-news/",
+        "https://www.armenpress.am/arm/rss/news/analytical/",
+        "https://www.armenpress.am/arm/rss/news/artshakh/",
+        "https://www.armenpress.am/arm/rss/news/culture/",
+        "https://www.armenpress.am/arm/rss/news/economy/",
+        "https://www.armenpress.am/arm/rss/news/international/",
+        "https://www.armenpress.am/arm/rss/news/partner-news/",
+        "https://www.armenpress.am/arm/rss/news/regional/",
+        "https://www.armenpress.am/arm/rss/news/society/",
+        "https://www.armenpress.am/arm/rss/news/sport/",
+        "https://www.armenpress.am/arm/rss/news/opinions/",
+        "https://www.armenpress.am/arm/rss/news/",
+        "https://armenpress.am/eng/rss/news/economy/",
+        "https://www.armenpress.am/eng/rss/news/",
+        "https://armenpress.am/eng/rss/news/STARMUS/",
+        "https://armenpress.am/eng/rss/news/official/",
+        "https://www.armenpress.am/eng/rss/news/factwithcomment/",
+        "https://armenpress.am/rus/rss/news/",
+        "https://armenpress.am/arm/rss/news/",
+        "https://armenpress.am/rus/rss/news/STARMUS/",
+        "https://armenpress.am/rus/rss/news/analytical/",
+        "https://armenpress.am/rus/rss/news/artshakh/",
+        "https://armenpress.am/rus/rss/news/beijing/",
+        "https://armenpress.am/rus/rss/news/culture/",
+        "https://armenpress.am/rus/rss/news/diaspora/",
+        "https://armenpress.am/rus/rss/news/economy/",
+        "https://armenpress.am/rus/rss/news/factwithcomment/",
+        "https://armenpress.am/rus/rss/news/inovation/",
+        "https://armenpress.am/rus/rss/news/international/",
+        "https://armenpress.am/rus/rss/news/interviews/",
+        "https://armenpress.am/rus/rss/news/life/",
+        "https://armenpress.am/rus/rss/news/official/",
+        "https://armenpress.am/rus/rss/news/opinions/",
+        "https://armenpress.am/rus/rss/news/partner-news/",
+        "https://armenpress.am/rus/rss/news/politics/",
+        "https://armenpress.am/rus/rss/news/projects/",
+        "https://armenpress.am/rus/rss/news/regional/",
+        "https://armenpress.am/rus/rss/news/society/",
+        "https://armenpress.am/rus/rss/news/sport/",
+        "https://armenpress.am/arm/rss/news/STARMUS/",
+        "https://armenpress.am/arm/rss/news/analytical/",
+        "https://armenpress.am/arm/rss/news/announcements/",
+        "https://armenpress.am/arm/rss/news/artshakh/",
+        "https://armenpress.am/arm/rss/news/beijing/",
+        "https://armenpress.am/arm/rss/news/culture/",
+        "https://armenpress.am/arm/rss/news/diaspora/",
+        "https://armenpress.am/arm/rss/news/economy/",
+        "https://armenpress.am/arm/rss/news/factwithcomment/",
+        "https://armenpress.am/arm/rss/news/inovation/",
+        "https://armenpress.am/arm/rss/news/international/",
+        "https://armenpress.am/arm/rss/news/interviews/",
+        "https://armenpress.am/arm/rss/news/life/",
+        "https://armenpress.am/arm/rss/news/official/",
+        "https://armenpress.am/arm/rss/news/opinions/",
+        "https://armenpress.am/arm/rss/news/politics/",
+        "https://armenpress.am/arm/rss/news/projects/",
+        "https://armenpress.am/arm/rss/news/regional/",
+        "https://armenpress.am/arm/rss/news/society/",
+        "https://armenpress.am/arm/rss/news/sport/",
+        "https://www.armenpress.am/arm/rss/news/factwithcomment/",
+        "https://www.armenpress.am/arm/rss/news/interviews/",
+        "https://www.armenpress.am/arm/rss/news/official/",
+        "https://armenpress.am/eng/rss/news/",
+        "https://armenpress.am/eng/rss/news/artshakh/",
+        "https://armenpress.am/eng/rss/news/culture/",
+        "https://armenpress.am/eng/rss/news/diaspora/",
+        "https://armenpress.am/eng/rss/news/factwithcomment/",
+        "https://armenpress.am/eng/rss/news/inovation/",
+        "https://armenpress.am/eng/rss/news/international/",
+        "https://armenpress.am/eng/rss/news/interviews/",
+        "https://armenpress.am/eng/rss/news/life/",
+        "https://armenpress.am/eng/rss/news/opinions/",
+        "https://armenpress.am/eng/rss/news/partner-news/",
+        "https://armenpress.am/eng/rss/news/politics/",
+        "https://armenpress.am/eng/rss/news/projects/",
+        "https://armenpress.am/eng/rss/news/regional/",
+        "https://armenpress.am/eng/rss/news/society/",
+        "https://armenpress.am/eng/rss/news/sport/",
+        "https://www.armenpress.am/eng/rss/news/interviews/",
+        "https://www.armenpress.am/eng/rss/news/opinions/",
+        "https://www.armenpress.am/eng/rss/news/projects/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 840,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:46.365Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.am": {
+      "urls": [
+        "https://news.am/arm/rss/",
+        "https://news.am/rus/rss/",
+        "https://www.news.am/rus/rss/",
+        "https://news.am/eng/rss/",
+        "https://style.news.am/arm/rss/news",
+        "https://style.news.am/rus/rss/news",
+        "https://style.news.am/arm/rss/news/",
+        "https://style.news.am/eng/rss/news",
+        "https://style.news.am/arm/rss/photos",
+        "https://style.news.am/arm/rss/videos",
+        "https://style.news.am/eng/rss/photos",
+        "https://style.news.am/eng/rss/videos",
+        "https://style.news.am/rus/rss/photos",
+        "https://style.news.am/rus/rss/videos"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 659,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:32.793Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "azatutyun.am": {
+      "urls": [
+        "https://www.azatutyun.am/api/",
+        "https://www.azatutyun.am/rss/?count=50",
+        "https://www.azatutyun.am/podcast/",
+        "http://azatutyun.am/api/",
+        "http://azatutyun.am/sitemap.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 306,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:50.425Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hetq.am": {
+      "urls": [
+        "https://hetq.am/hy/rss",
+        "https://hetq.am/en/rss",
+        "https://hetq.am/ru/rss",
+        "https://hetq.am/hy/rss/podcast"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1026,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:01.064Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sport.news.am": {
+      "urls": [
+        "https://sport.news.am/arm/rss/news",
+        "https://sport.news.am/arm/rss/photos",
+        "https://sport.news.am/arm/rss/videos"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 677,
+        "category": "sports",
+        "last_checked": "2026-01-31T17:31:35.043Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "arminfo.am": {
+      "urls": [
+        "https://arminfo.info/feeds/russian_rss.xml",
+        "https://arminfo.info/feeds/armenian_rss.xml",
+        "https://arminfo.info/feeds/english_rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 873,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:47.240Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "asekose.am": {
+      "urls": [
+        "http://asekose.am/am/recent.atom",
+        "http://asekose.am/en/recent.atom",
+        "http://asekose.am/ru/recent.atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 952,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:29.100Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tert.am": {
+      "urls": [
+        "https://www.tert.am/am/news/rss",
+        "https://www.tert.am/en/news/rss",
+        "https://www.tert.am/ru/news/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1225,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:18.473Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sport.mediamax.am": {
+      "urls": [
+        "https://sport.mediamax.am/am/index.rss",
+        "https://sport.mediamax.am/en/index.rss",
+        "https://sport.mediamax.am/ru/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1296,
+        "category": "sports",
+        "last_checked": "2026-01-31T17:31:36.387Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "azg.am": {
+      "urls": [
+        "https://azg.am/feed/",
+        "https://www.azg.am/rss/azg_AM.xml",
+        "https://azg.am/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2741,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:57.894Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nv.am": {
+      "urls": [
+        "http://nv.am/feed/",
+        "https://nv.am/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1287,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:02.805Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hhpress.am": {
+      "urls": [
+        "https://hhpress.am/feed/",
+        "https://hhpress.am/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1894,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:17.246Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "b24.am": {
+      "urls": [
+        "https://b24.am/feed/index.rss",
+        "https://b24.am/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1992,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:31.990Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "golosarmenii.am": {
+      "urls": [
+        "https://www.golosarmenii.am/feed/",
+        "https://www.golosarmenii.am/arm/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2040,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:00.037Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aravot.am": {
+      "urls": [
+        "https://www.aravot.am/feed/",
+        "https://www.aravot.am/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2247,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:42.016Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "301.am": {
+      "urls": [
+        "https://www.301.am/feed/",
+        "https://www.301.am/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2574,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:14.993Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "irates.am": {
+      "urls": [
+        "https://www.irates.am/rss.php?rsslang=1",
+        "http://www.irates.am/rss.php?rsslang=1"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3917,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:12.417Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yn.am": {
+      "urls": [
+        "https://yn.am/?subdomain=index&rss&l=am"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 322,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:28.108Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mamul.am": {
+      "urls": [
+        "https://mamul.am/am/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 604,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:21.329Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsarmenia.am": {
+      "urls": [
+        "https://newsarmenia.am/rss_news/?lang=ru"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 802,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:46.025Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hraparak.am": {
+      "urls": [
+        "https://hraparak.am/rss/posts"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1168,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:05.264Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "abnews.am": {
+      "urls": [
+        "https://abnews.am/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1422,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:34.215Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "en.168.am": {
+      "urls": [
+        "https://en.168.am/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1501,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:47.526Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "armlur.am": {
+      "urls": [
+        "https://armlur.am/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3037,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:08.302Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "arka.am": {
+      "urls": [
+        "http://arka.am/rss_news.php?lang=en&section=",
+        "http://arka.am/rus/rss/",
+        "http://arka.am/rss_news.php?lang=am&section="
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:44.494Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "panorama.am": {
+      "urls": [
+        "https://www.panorama.am/am/news/rss",
+        "https://www.panorama.am/ru/news/rss",
+        "https://www.panorama.am/en/news/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:03.684Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "panarmenian.net": {
+      "urls": [
+        "https://stickers.panarmenian.net/feeds/arm_news.rss",
+        "https://stickers.panarmenian.net/feeds/eng_news.rss",
+        "https://stickers.panarmenian.net/feeds/rus_news.rss",
+        "https://stickers.panarmenian.net/feeds/arm_news_politics.rss",
+        "https://stickers.panarmenian.net/feeds/arm_news_society.rss",
+        "https://stickers.panarmenian.net/feeds/eng_news_politics.rss",
+        "https://stickers.panarmenian.net/feeds/eng_news_society.rss",
+        "https://stickers.panarmenian.net/feeds/rus_news_politics.rss",
+        "https://stickers.panarmenian.net/feeds/arm_news_economy.rss",
+        "https://stickers.panarmenian.net/feeds/rus_news_society.rss",
+        "https://www.panarmenian.net/stickers/news/news_eng.rss",
+        "https://www.panarmenian.net/stickers/news/news_rus.rss",
+        "https://stickers.panarmenian.net/feeds/arm_news_world.rss",
+        "https://stickers.panarmenian.net/feeds/rus_news_economy.rss",
+        "https://stickers.panarmenian.net/feeds/rus_news_world.rss",
+        "https://stickers.panarmenian.net/feeds/eng_news_economy.rss",
+        "https://stickers.panarmenian.net/feeds/eng_news_world.rss",
+        "https://stickers.panarmenian.net/feeds/arm_details.rss",
+        "https://stickers.panarmenian.net/feeds/arm_details_culture.rss",
+        "https://stickers.panarmenian.net/feeds/arm_details_economy.rss",
+        "https://stickers.panarmenian.net/feeds/arm_details_it.rss",
+        "https://stickers.panarmenian.net/feeds/arm_details_politics.rss",
+        "https://stickers.panarmenian.net/feeds/arm_details_society.rss",
+        "https://stickers.panarmenian.net/feeds/arm_details_sport.rss",
+        "https://stickers.panarmenian.net/feeds/arm_details_world.rss",
+        "https://stickers.panarmenian.net/feeds/arm_interviews.rss",
+        "https://stickers.panarmenian.net/feeds/arm_interviews_culture.rss",
+        "https://stickers.panarmenian.net/feeds/arm_interviews_economy.rss",
+        "https://stickers.panarmenian.net/feeds/arm_interviews_it.rss",
+        "https://stickers.panarmenian.net/feeds/arm_interviews_politics.rss",
+        "https://stickers.panarmenian.net/feeds/arm_interviews_society.rss",
+        "https://stickers.panarmenian.net/feeds/arm_interviews_sport.rss",
+        "https://stickers.panarmenian.net/feeds/arm_interviews_world.rss",
+        "https://stickers.panarmenian.net/feeds/arm_news_culture.rss",
+        "https://stickers.panarmenian.net/feeds/arm_news_it.rss",
+        "https://stickers.panarmenian.net/feeds/arm_news_sport.rss",
+        "https://stickers.panarmenian.net/feeds/eng_details.rss",
+        "https://stickers.panarmenian.net/feeds/eng_details_culture.rss",
+        "https://stickers.panarmenian.net/feeds/eng_details_economy.rss",
+        "https://stickers.panarmenian.net/feeds/eng_details_it.rss",
+        "https://stickers.panarmenian.net/feeds/eng_details_politics.rss",
+        "https://stickers.panarmenian.net/feeds/eng_details_society.rss",
+        "https://stickers.panarmenian.net/feeds/eng_details_sport.rss",
+        "https://stickers.panarmenian.net/feeds/eng_details_world.rss",
+        "https://stickers.panarmenian.net/feeds/eng_interviews.rss",
+        "https://stickers.panarmenian.net/feeds/eng_interviews_culture.rss",
+        "https://stickers.panarmenian.net/feeds/eng_interviews_economy.rss",
+        "https://stickers.panarmenian.net/feeds/eng_interviews_it.rss",
+        "https://stickers.panarmenian.net/feeds/eng_interviews_politics.rss",
+        "https://stickers.panarmenian.net/feeds/eng_interviews_society.rss",
+        "https://stickers.panarmenian.net/feeds/eng_interviews_sport.rss",
+        "https://stickers.panarmenian.net/feeds/eng_interviews_world.rss",
+        "https://stickers.panarmenian.net/feeds/eng_news_culture.rss",
+        "https://stickers.panarmenian.net/feeds/eng_news_it.rss",
+        "https://stickers.panarmenian.net/feeds/eng_news_sport.rss",
+        "https://stickers.panarmenian.net/feeds/rus_details.rss",
+        "https://stickers.panarmenian.net/feeds/rus_details_culture.rss",
+        "https://stickers.panarmenian.net/feeds/rus_details_economy.rss",
+        "https://stickers.panarmenian.net/feeds/rus_details_it.rss",
+        "https://stickers.panarmenian.net/feeds/rus_details_politics.rss",
+        "https://stickers.panarmenian.net/feeds/rus_details_society.rss",
+        "https://stickers.panarmenian.net/feeds/rus_details_sport.rss",
+        "https://stickers.panarmenian.net/feeds/rus_details_world.rss",
+        "https://stickers.panarmenian.net/feeds/rus_interviews.rss",
+        "https://stickers.panarmenian.net/feeds/rus_interviews_culture.rss",
+        "https://stickers.panarmenian.net/feeds/rus_interviews_economy.rss",
+        "https://stickers.panarmenian.net/feeds/rus_interviews_it.rss",
+        "https://stickers.panarmenian.net/feeds/rus_interviews_politics.rss",
+        "https://stickers.panarmenian.net/feeds/rus_interviews_society.rss",
+        "https://stickers.panarmenian.net/feeds/rus_interviews_sport.rss",
+        "https://stickers.panarmenian.net/feeds/rus_interviews_world.rss",
+        "https://stickers.panarmenian.net/feeds/rus_news_culture.rss",
+        "https://stickers.panarmenian.net/feeds/rus_news_it.rss",
+        "https://stickers.panarmenian.net/feeds/rus_news_sport.rss",
+        "http://stickers.panarmenian.net/feeds/arm/news",
+        "http://stickers.panarmenian.net/feeds/rus/news",
+        "http://stickers.panarmenian.net/feeds/arm/news/",
+        "http://stickers.panarmenian.net/feeds/eng/news",
+        "http://stickers.panarmenian.net/feeds/rus/news/",
+        "http://stickers.panarmenian.net/feeds/eng/news/",
+        "http://stickers.panarmenian.net/feeds/arm/news/society",
+        "http://stickers.panarmenian.net/feeds/arm/news/world",
+        "http://stickers.panarmenian.net/feeds/rus/news/world",
+        "http://stickers.panarmenian.net/feeds/eng/news/society",
+        "http://stickers.panarmenian.net/feeds/rus/news/society",
+        "http://stickers.panarmenian.net/feeds/eng/news/world",
+        "http://stickers.panarmenian.net/feeds/arm/news/economy",
+        "http://stickers.panarmenian.net/feeds/arm/details",
+        "http://stickers.panarmenian.net/feeds/arm/interviews",
+        "http://stickers.panarmenian.net/feeds/eng/details",
+        "http://stickers.panarmenian.net/feeds/eng/interviews",
+        "http://stickers.panarmenian.net/feeds/rus/details",
+        "http://stickers.panarmenian.net/feeds/rus/interviews",
+        "http://stickers.panarmenian.net/feeds/arm/news/politics",
+        "http://stickers.panarmenian.net/feeds/arm/details/",
+        "http://stickers.panarmenian.net/feeds/arm/details/culture",
+        "http://stickers.panarmenian.net/feeds/arm/details/economy",
+        "http://stickers.panarmenian.net/feeds/arm/details/it",
+        "http://stickers.panarmenian.net/feeds/arm/details/politics",
+        "http://stickers.panarmenian.net/feeds/arm/details/society",
+        "http://stickers.panarmenian.net/feeds/arm/details/sport",
+        "http://stickers.panarmenian.net/feeds/arm/details/world",
+        "http://stickers.panarmenian.net/feeds/arm/interviews/",
+        "http://stickers.panarmenian.net/feeds/arm/interviews/culture",
+        "http://stickers.panarmenian.net/feeds/arm/interviews/economy",
+        "http://stickers.panarmenian.net/feeds/arm/interviews/it",
+        "http://stickers.panarmenian.net/feeds/arm/interviews/politics",
+        "http://stickers.panarmenian.net/feeds/arm/interviews/society",
+        "http://stickers.panarmenian.net/feeds/arm/interviews/sport",
+        "http://stickers.panarmenian.net/feeds/arm/interviews/world",
+        "http://stickers.panarmenian.net/feeds/arm/news/culture",
+        "http://stickers.panarmenian.net/feeds/arm/news/it",
+        "http://stickers.panarmenian.net/feeds/arm/news/sport",
+        "http://stickers.panarmenian.net/feeds/eng/details/",
+        "http://stickers.panarmenian.net/feeds/eng/details/culture",
+        "http://stickers.panarmenian.net/feeds/eng/details/economy",
+        "http://stickers.panarmenian.net/feeds/eng/details/it",
+        "http://stickers.panarmenian.net/feeds/eng/details/politics",
+        "http://stickers.panarmenian.net/feeds/eng/details/society",
+        "http://stickers.panarmenian.net/feeds/eng/details/sport",
+        "http://stickers.panarmenian.net/feeds/eng/details/world",
+        "http://stickers.panarmenian.net/feeds/eng/interviews/",
+        "http://stickers.panarmenian.net/feeds/eng/interviews/culture",
+        "http://stickers.panarmenian.net/feeds/eng/interviews/economy",
+        "http://stickers.panarmenian.net/feeds/eng/interviews/it",
+        "http://stickers.panarmenian.net/feeds/eng/interviews/politics",
+        "http://stickers.panarmenian.net/feeds/eng/interviews/society",
+        "http://stickers.panarmenian.net/feeds/eng/interviews/sport",
+        "http://stickers.panarmenian.net/feeds/eng/interviews/world",
+        "http://stickers.panarmenian.net/feeds/eng/news/culture",
+        "http://stickers.panarmenian.net/feeds/eng/news/economy",
+        "http://stickers.panarmenian.net/feeds/eng/news/it",
+        "http://stickers.panarmenian.net/feeds/eng/news/politics",
+        "http://stickers.panarmenian.net/feeds/eng/news/sport",
+        "http://stickers.panarmenian.net/feeds/rus/details/",
+        "http://stickers.panarmenian.net/feeds/rus/details/culture",
+        "http://stickers.panarmenian.net/feeds/rus/details/economy",
+        "http://stickers.panarmenian.net/feeds/rus/details/it",
+        "http://stickers.panarmenian.net/feeds/rus/details/politics",
+        "http://stickers.panarmenian.net/feeds/rus/details/society",
+        "http://stickers.panarmenian.net/feeds/rus/details/sport",
+        "http://stickers.panarmenian.net/feeds/rus/details/world",
+        "http://stickers.panarmenian.net/feeds/rus/interviews/",
+        "http://stickers.panarmenian.net/feeds/rus/interviews/culture",
+        "http://stickers.panarmenian.net/feeds/rus/interviews/economy",
+        "http://stickers.panarmenian.net/feeds/rus/interviews/it",
+        "http://stickers.panarmenian.net/feeds/rus/interviews/politics",
+        "http://stickers.panarmenian.net/feeds/rus/interviews/society",
+        "http://stickers.panarmenian.net/feeds/rus/interviews/sport",
+        "http://stickers.panarmenian.net/feeds/rus/interviews/world",
+        "http://stickers.panarmenian.net/feeds/rus/news/culture",
+        "http://stickers.panarmenian.net/feeds/rus/news/economy",
+        "http://stickers.panarmenian.net/feeds/rus/news/it",
+        "http://stickers.panarmenian.net/feeds/rus/news/politics",
+        "http://stickers.panarmenian.net/feeds/rus/news/sport",
+        "https://stickers.panarmenian.net/feeds/eng/news/",
+        "https://stickers.panarmenian.net/feeds/eng/details/",
+        "https://stickers.panarmenian.net/feeds/eng/interviews/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 612,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:03.419Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "iravaban.net": {
+      "urls": [
+        "https://iravaban.net/feed",
+        "https://blog.iravaban.net/feed",
+        "https://blog.iravaban.net/category/check-your-knowledge/feed",
+        "https://blog.iravaban.net/category/lawyers-opinion/feed",
+        "https://blog.iravaban.net/category/mosaic/feed",
+        "https://blog.iravaban.net/category/check-your-knowledge/for-lawyers/feed",
+        "https://blog.iravaban.net/category/check-your-knowledge/for-non-lawyers/feed",
+        "https://blog.iravaban.net/category/mosaic/interesting-laws/feed",
+        "https://blog.iravaban.net/category/mosaic/people/feed",
+        "https://iravaban.net/en/feed",
+        "https://iravaban.net/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1445,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:22.774Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hairenikweekly.com": {
+      "urls": [
+        "https://hairenikweekly.com/?feed=rss2",
+        "https://hairenikweekly.com/feed/",
+        "https://hairenikweekly.com/?feed=comments-rss2",
+        "https://hairenikweekly.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1039,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:38.254Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aztagdaily.com": {
+      "urls": [
+        "https://www.aztagdaily.com/feed",
+        "http://www.aztagdaily.com/feed",
+        "http://www.aztagdaily.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 832,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:43.326Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ianyanmag.com": {
+      "urls": [
+        "http://www.ianyanmag.com/feed/",
+        "http://www.ianyanmag.com/comments/feed/",
+        "http://www.ianyanmag.com/home-page/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 953,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:48.481Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "armenianow.com": {
+      "urls": [
+        "https://www.armenianow.com/en/feed/",
+        "http://feeds.feedburner.com/armenianow/home"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 569,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:45.499Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "azator.gr": {
+      "urls": [
+        "https://azator.gr/feed/",
+        "https://azator.gr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1884,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:45.223Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "arm.sputniknews.ru": {
+      "urls": [
+        "https://arm.sputniknews.ru/export/rss2/archive/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2252,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:20.725Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "horizonweekly.ca": {
+      "urls": [
+        "https://horizonweekly.ca/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4082,
+        "category": "general",
+        "last_checked": "2026-01-31T17:31:42.336Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "asbarez.com": {
+      "urls": [
+        "https://asbarez.com/feed/",
+        "https://www.asbarez.com/feed/",
+        "https://asbarez.com/comments/feed/",
+        "https://www.asbarez.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T17:30:49.142Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

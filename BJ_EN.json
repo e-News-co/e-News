@@ -1,0 +1,341 @@
+{
+  "country_code": "BJ",
+  "language_code": "EN",
+  "total_domains": 16,
+  "total_feeds": 109,
+  "feeds": {
+    "leconomistebenin.bj": {
+      "urls": [
+        "https://leconomistebenin.bj/feed/",
+        "https://leconomistebenin.bj/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1076,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:55.518Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lematinal.bj": {
+      "urls": [
+        "https://lematinal.bj/feed/",
+        "https://lematinal.bj/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2936,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:40.750Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "banouto.bj": {
+      "urls": [
+        "https://www.banouto.bj/rss-actualites"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1288,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:43.073Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gouv.bj": {
+      "urls": [
+        "https://www.gouv.bj/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:57.556Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 64,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:57.627Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "en.wikipedia.org": {
+      "urls": [
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=1&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Blog&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=RSS&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Category:Blogs&action=feedrecentchanges&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1250,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:58.894Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "l-integration.com": {
+      "urls": [
+        "https://l-integration.com/feed/",
+        "http://www.l-integration.com/feed/",
+        "https://l-integration.com/comments/feed/",
+        "http://www.l-integration.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 645,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:54.434Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "24haubenin.info": {
+      "urls": [
+        "https://www.24haubenin.info/spip.php?page=backend",
+        "http://24haubenin.info/spip.php?page=backend",
+        "http://www.24haubenin.info/spip.php?page=backend"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 972,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:41.785Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lanouvelletribune.info": {
+      "urls": [
+        "https://lanouvelletribune.info/feed/",
+        "https://lanouvelletribune.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 754,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:36.699Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "beninsite.net": {
+      "urls": [
+        "http://beninsite.net/feed/",
+        "http://beninsite.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1322,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:47.702Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "afrik.com": {
+      "urls": [
+        "https://www.afrik.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 372,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:30.746Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "fraternitebj.info": {
+      "urls": [
+        "https://www.fraternitebj.info/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 972,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:44.045Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "matinlibre.com": {
+      "urls": [
+        "https://matinlibre.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1090,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:37.790Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "laraignee.org": {
+      "urls": [
+        "https://www.laraignee.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1574,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:34.881Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "benininfo.com": {
+      "urls": [
+        "https://www.benininfo.com/feed/",
+        "https://www.benininfo.com/focus-sur-le-benin?format=rss",
+        "https://www.benininfo.com/materiel?format=rss",
+        "https://www.benininfo.com/necrologie?format=rss",
+        "https://www.benininfo.com/pag?format=rss",
+        "https://www.benininfo.com/personnalite?format=rss",
+        "https://www.benininfo.com/promo?format=rss",
+        "https://www.benininfo.com/tourisme?format=rss",
+        "https://benininfo.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:33.307Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "visages-du-benin.com": {
+      "urls": [
+        "https://visages-du-benin.com/feed/",
+        "https://visages-du-benin.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-01-31T20:21:46.325Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}
