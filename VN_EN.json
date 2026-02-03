@@ -1,0 +1,892 @@
+{
+  "country_code": "VN",
+  "language_code": "EN",
+  "total_domains": 29,
+  "total_feeds": 478,
+  "feeds": {
+    "danviet.vn": {
+      "urls": [
+        "https://danviet.vn/rss/home.rss",
+        "https://danviet.vn/rss/nha-nong-1009.rss",
+        "https://danviet.vn/nha-nong.rss",
+        "https://danviet.vn/rss/tin-tuc-1001.rss",
+        "https://danviet.vn/dv-tin-tuc.rss",
+        "https://danviet.vn/the-thao.rss",
+        "https://danviet.vn/chuyen-dong-sai-gon.rss",
+        "https://danviet.vn/kinh-te.rss",
+        "https://danviet.vn/rss/the-gioi-tiep-thi-1232.rss",
+        "https://danviet.vn/rss/chuyen-dong-sai-gon-1264.rss",
+        "https://danviet.vn/rss/the-thao-1035.rss",
+        "https://danviet.vn/rss/diem-nong-1061.rss",
+        "https://danviet.vn/tin-nong-nghiep.rss",
+        "https://danviet.vn/rss/media-1111.rss",
+        "https://danviet.vn/an-ninh-trat-tu.rss",
+        "https://danviet.vn/diem-nong.rss",
+        "https://danviet.vn/dong-tay-kim-co.rss",
+        "https://danviet.vn/dv-gia-dinh.rss",
+        "https://danviet.vn/rss/dong-tay-kim-co-1116.rss",
+        "https://danviet.vn/xa-hoi.rss",
+        "https://danviet.vn/ban-doc.rss",
+        "https://danviet.vn/chuyen-nhuong.rss",
+        "https://danviet.vn/dv-chinh-tri.rss",
+        "https://danviet.vn/rss/tin-nong-nghiep-1012.rss",
+        "https://danviet.vn/rss/giao-duc-1196.rss",
+        "https://danviet.vn/giao-duc.rss",
+        "https://danviet.vn/khuyen-nong.rss",
+        "https://danviet.vn/rss/chuyen-dong-so-1218.rss",
+        "https://danviet.vn/rss/gia-dinh-1023.rss",
+        "https://danviet.vn/rss/khuyen-nong-1094.rss",
+        "https://danviet.vn/dv-dau-tu-tai-chinh.rss",
+        "https://danviet.vn/dv-doanh-nghiep.rss",
+        "https://danviet.vn/moi-truong-xanh.rss",
+        "https://danviet.vn/rss/doanh-nghiep-1048.rss",
+        "https://danviet.vn/tam-hon-lang-viet.rss",
+        "https://danviet.vn/danh-nhan-lich-su.rss",
+        "https://danviet.vn/dv-video.rss",
+        "https://danviet.vn/hoi-va-cuoc-song.rss",
+        "https://danviet.vn/rss/an-ninh-trat-tu-1068.rss",
+        "https://danviet.vn/rss/hoi-nong-dan-1225.rss",
+        "https://danviet.vn/rss/kinh-te-1004.rss",
+        "https://danviet.vn/rss/tam-hon-lang-viet-1208.rss",
+        "https://danviet.vn/rss/xa-hoi-1003.rss",
+        "https://danviet.vn/thi-truong-nong-san.rss",
+        "https://danviet.vn/thoi-su-tgtt.rss",
+        "https://danviet.vn/doanh-nghiep.rss",
+        "https://danviet.vn/rss/dau-tu-tai-chinh-1070.rss",
+        "https://danviet.vn/rss/mon-ngon-nha-dep-1024.rss",
+        "https://danviet.vn/shopping.rss",
+        "https://danviet.vn/tiep-thi-ban-hang.rss",
+        "https://danviet.vn/tri-thuc-dan-gian.rss",
+        "https://danviet.vn/bi-an-khoa-hoc.rss",
+        "https://danviet.vn/cac-mon-khac.rss",
+        "https://danviet.vn/cong-dong-viet.rss",
+        "https://danviet.vn/do-thi-dia-oc.rss",
+        "https://danviet.vn/du-hoc.rss",
+        "https://danviet.vn/goc-nhin-thi-truong.rss",
+        "https://danviet.vn/ho-so-tu-lieu-doc-quyen.rss",
+        "https://danviet.vn/lang-viet-xua-va-nay.rss",
+        "https://danviet.vn/mon-an.rss",
+        "https://danviet.vn/nang-luong-moi.rss",
+        "https://danviet.vn/ngan-hang.rss",
+        "https://danviet.vn/phat-trien-cung-thu-do.rss",
+        "https://danviet.vn/quan-su.rss",
+        "https://danviet.vn/rss/aff-cup-2020-1269.rss",
+        "https://danviet.vn/rss/thoi-su-1233.rss",
+        "https://danviet.vn/rss/tri-thuc-dan-gian-1217.rss",
+        "https://danviet.vn/song-tre.rss",
+        "https://danviet.vn/song-vui.rss",
+        "https://danviet.vn/thegioitiepthi.rss",
+        "https://danviet.vn/theo-dong-su-kien.rss",
+        "https://danviet.vn/tot-doi-dep-dao.rss",
+        "https://danviet.vn/vu-khi-quan-su.rss",
+        "https://danviet.vn/xe-so.rss",
+        "https://danviet.vn/rss/danh-nhan-lich-su-1117.rss",
+        "https://danviet.vn/rss/doanh-nghiep-1246.rss",
+        "https://danviet.vn/rss/doi-song-1192.rss",
+        "https://danviet.vn/rss/song-vui-1267.rss",
+        "https://danviet.vn/rss/360-do-sao-1145.rss",
+        "https://danviet.vn/rss/bi-an-khoa-hoc-1119.rss",
+        "https://danviet.vn/rss/chuyen-dong-ha-noi-1210.rss",
+        "https://danviet.vn/rss/chuyen-pho-chuyen-lang-1211.rss",
+        "https://danviet.vn/rss/dien-thoai-may-tinh-1033.rss",
+        "https://danviet.vn/rss/du-hoc-1199.rss",
+        "https://danviet.vn/rss/giai-tri-1258.rss",
+        "https://danviet.vn/rss/goc-nhin-chuyen-gia-1127.rss",
+        "https://danviet.vn/rss/guong-sang-1200.rss",
+        "https://danviet.vn/rss/ky-su-ha-thanh-1212.rss",
+        "https://danviet.vn/rss/lang-viet-xua-va-nay-1215.rss",
+        "https://danviet.vn/rss/ma-1252.rss",
+        "https://danviet.vn/rss/meo-vat-1180.rss",
+        "https://danviet.vn/rss/ngan-hang-1251.rss",
+        "https://danviet.vn/rss/nong-nghiep-so-1220.rss",
+        "https://danviet.vn/rss/nong-san-doc-la-the-gioi-1149.rss",
+        "https://danviet.vn/rss/phong-su-ghi-chep-1182.rss",
+        "https://danviet.vn/rss/quy-hoach-1247.rss",
+        "https://danviet.vn/rss/so-hoa-1255.rss",
+        "https://danviet.vn/rss/song-khoe-1022.rss",
+        "https://danviet.vn/rss/song-tre-1201.rss",
+        "https://danviet.vn/rss/theo-dong-su-kien-1214.rss",
+        "https://danviet.vn/rss/tot-doi-dep-dao-1216.rss",
+        "https://danviet.vn/rss/tuyen-truyen-phong-chong-ma-tuy-2020-1181.rss",
+        "https://danviet.vn/rss/video-cong-nghe-1078.rss",
+        "https://danviet.vn/rss/xa-hoi-so-1221.rss",
+        "https://danviet.vn/rss/cac-mon-khac-1037.rss",
+        "https://danviet.vn/rss/thi-truong-nong-san-1123.rss",
+        "https://danviet.vn/rss/chinh-tri-1002.rss",
+        "https://danviet.vn/rss/ban-doc-1043.rss",
+        "https://danviet.vn/rss/chuyen-nhuong-1064.rss",
+        "https://danviet.vn/rss/tiep-thi-ban-hang-1235.rss",
+        "https://danviet.vn/rss/ban-tin-thoi-tiet-1174.rss",
+        "https://danviet.vn/rss/diem-den-1259.rss",
+        "https://danviet.vn/rss/do-thi-dia-oc-1236.rss",
+        "https://danviet.vn/rss/goc-nhin-thi-truong-1242.rss",
+        "https://danviet.vn/rss/moi-truong-xanh-1129.rss",
+        "https://danviet.vn/rss/o-to-xe-may-1253.rss",
+        "https://danviet.vn/rss/tieu-dung-1245.rss",
+        "https://danviet.vn/rss/tu-van-tieu-dung-1257.rss",
+        "https://danviet.vn/rss/xa-hoi-1244.rss",
+        "https://danviet.vn/rss/xe-so-1238.rss",
+        "https://danviet.vn/rss/bi-mat-quan-su-1120.rss",
+        "https://danviet.vn/rss/cong-dong-viet-1042.rss",
+        "https://danviet.vn/rss/lang-cuoi-24h-1029.rss",
+        "https://danviet.vn/rss/shopping-1239.rss",
+        "https://danviet.vn/rss/thit-lon-an-toan-1143.rss",
+        "https://danviet.vn/rss/vu-khi-quan-su-1031.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 375,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:56.361Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nongnghiepmoitruong.vn": {
+      "urls": [
+        "https://nongnghiepmoitruong.vn/thoi-su.rss",
+        "https://nongnghiepmoitruong.vn/kinh-te.rss",
+        "https://nongnghiepmoitruong.vn/van-hoa-the-thao.rss",
+        "https://nongnghiepmoitruong.vn/doi-song.rss",
+        "https://nongnghiepmoitruong.vn/moi-truong.rss",
+        "https://nongnghiepmoitruong.vn/nnvn--ban-doc.rss",
+        "https://nongnghiepmoitruong.vn/nn-the-thao.rss",
+        "https://nongnghiepmoitruong.vn/dat-dai.rss",
+        "https://nongnghiepmoitruong.vn/doanh-nghiep-doanh-nhan.rss",
+        "https://nongnghiepmoitruong.vn/phong-su-truyen-hinh.rss",
+        "https://nongnghiepmoitruong.vn/nong-thon-moi.rss",
+        "https://nongnghiepmoitruong.vn/bien-doi-khi-hau-moitruong.rss",
+        "https://nongnghiepmoitruong.vn/radio-thoi-su.rss",
+        "https://nongnghiepmoitruong.vn/tai-nguyen.rss",
+        "https://nongnghiepmoitruong.vn/van-hoa.rss",
+        "https://nongnghiepmoitruong.vn/suc-khoe-gia-dinh.rss",
+        "https://nongnghiepmoitruong.vn/bat-dong-san-nong-thon.rss",
+        "https://nongnghiepmoitruong.vn/bien-dao.rss",
+        "https://nongnghiepmoitruong.vn/canh-sat-moi-truong.rss",
+        "https://nongnghiepmoitruong.vn/cuoc-song-muon-mau.rss",
+        "https://nongnghiepmoitruong.vn/doanh-nghiep.rss",
+        "https://nongnghiepmoitruong.vn/doanh-nong.rss",
+        "https://nongnghiepmoitruong.vn/doi-thoai.rss",
+        "https://nongnghiepmoitruong.vn/khoa-hoc---cong-nghe.rss",
+        "https://nongnghiepmoitruong.vn/khoa-hoc-cong-nghe.rss",
+        "https://nongnghiepmoitruong.vn/khoang-san.rss",
+        "https://nongnghiepmoitruong.vn/khuyen-nong.rss",
+        "https://nongnghiepmoitruong.vn/nhin-ra-the-gioi.rss",
+        "https://nongnghiepmoitruong.vn/nhung-manh-doi-bat-hanh.rss",
+        "https://nongnghiepmoitruong.vn/nong-san-the-gioi.rss",
+        "https://nongnghiepmoitruong.vn/nong-san-viet.rss",
+        "https://nongnghiepmoitruong.vn/phong-su.rss",
+        "https://nongnghiepmoitruong.vn/quan-ly-chat-thai-ran.rss",
+        "https://nongnghiepmoitruong.vn/san-vat-dia-phuong.rss",
+        "https://nongnghiepmoitruong.vn/song-gio-gia-dinh.rss",
+        "https://nongnghiepmoitruong.vn/tai-co-cau-nong-nghiep.rss",
+        "https://nongnghiepmoitruong.vn/tai-nguyen-nuoc.rss",
+        "https://nongnghiepmoitruong.vn/talk.rss",
+        "https://nongnghiepmoitruong.vn/thuc-an-chan-nuoi.rss",
+        "https://nongnghiepmoitruong.vn/thuoc-bao-ve-thuc-vat.rss",
+        "https://nongnghiepmoitruong.vn/tieu-duong.rss",
+        "https://nongnghiepmoitruong.vn/tim-mach.rss",
+        "https://nongnghiepmoitruong.vn/tin-tuc.rss",
+        "https://nongnghiepmoitruong.vn/tu-van-phap-luat.rss",
+        "https://nongnghiepmoitruong.vn/vat-tu-nong-nghiep.rss",
+        "https://nongnghiepmoitruong.vn/vu-khi.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 816,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:04.549Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vietnamnews.vn": {
+      "urls": [
+        "https://vietnamnews.vn/rss/life-style.rss",
+        "https://vietnamnews.vn/rss/politics-laws.rss",
+        "https://vietnamnews.vn/rss/economy.rss",
+        "https://vietnamnews.vn/rss/society.rss",
+        "https://vietnamnews.vn/rss/opinion.rss",
+        "https://vietnamnews.vn/rss/sports.rss",
+        "https://vietnamnews.vn/rss/world.rss",
+        "https://vietnamnews.vn/rss/a-twist-in-the-tale.rss",
+        "https://vietnamnews.vn/rss/agriculture.rss",
+        "https://vietnamnews.vn/rss/bizhub.rss",
+        "https://vietnamnews.vn/rss/brandinfo.rss",
+        "https://vietnamnews.vn/rss/domestic-press-highlights.rss",
+        "https://vietnamnews.vn/rss/english-through-the-news.rss",
+        "https://vietnamnews.vn/rss/environment.rss",
+        "https://vietnamnews.vn/rss/industries.rss",
+        "https://vietnamnews.vn/rss/ovietnam.rss",
+        "https://vietnamnews.vn/rss/sunday.rss",
+        "https://vietnamnews.vn/rss/talk-around-town.rss",
+        "https://vietnamnews.vn/rss/travel.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 247,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:59.265Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vietnamnews.vnagency.com.vn": {
+      "urls": [
+        "https://vietnamnews.vn/rss/life-style.rss",
+        "https://vietnamnews.vn/rss/politics-laws.rss",
+        "https://vietnamnews.vn/rss/economy.rss",
+        "https://vietnamnews.vn/rss/society.rss",
+        "https://vietnamnews.vn/rss/opinion.rss",
+        "https://vietnamnews.vn/rss/sports.rss",
+        "https://vietnamnews.vn/rss/world.rss",
+        "https://vietnamnews.vn/rss/a-twist-in-the-tale.rss",
+        "https://vietnamnews.vn/rss/agriculture.rss",
+        "https://vietnamnews.vn/rss/bizhub.rss",
+        "https://vietnamnews.vn/rss/brandinfo.rss",
+        "https://vietnamnews.vn/rss/domestic-press-highlights.rss",
+        "https://vietnamnews.vn/rss/english-through-the-news.rss",
+        "https://vietnamnews.vn/rss/environment.rss",
+        "https://vietnamnews.vn/rss/industries.rss",
+        "https://vietnamnews.vn/rss/ovietnam.rss",
+        "https://vietnamnews.vn/rss/sunday.rss",
+        "https://vietnamnews.vn/rss/talk-around-town.rss",
+        "https://vietnamnews.vn/rss/travel.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 639,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:53.427Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "daidoanket.vn": {
+      "urls": [
+        "https://daidoanket.vn/rss/tin-moi.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/chinh-tri/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/mat-tran/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/van-hoa/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/xa-hoi/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/kinh-te/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/phap-luat/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/suc-khoe/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/giao-duc/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/giao-thong/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/multimedia/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/bat-dong-san/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/cong-nghe/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/quoc-te/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/thong-tin-doanh-nghiep/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/do-thi/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/goc-nhin-dai-doan-ket/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/tieng-dan/feed.xml",
+        "https://daidoanket.vn/rss/chuyen-muc/tinh-hoa-viet/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 895,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:57.258Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "docnhanh.vn": {
+      "urls": [
+        "https://docnhanh.vn/rss/trang-chu.rss",
+        "https://docnhanh.vn/rss/loi-song.rss",
+        "https://docnhanh.vn/rss/the-gioi.rss",
+        "https://docnhanh.vn/rss/xa-hoi.rss",
+        "https://docnhanh.vn/rss/the-thao.rss",
+        "https://docnhanh.vn/rss/gioi-tre.rss",
+        "https://docnhanh.vn/rss/giai-tri.rss",
+        "https://docnhanh.vn/rss/sao-360.rss",
+        "https://docnhanh.vn/rss/phap-luat.rss",
+        "https://docnhanh.vn/rss/kinh-te.rss",
+        "https://docnhanh.vn/rss/cong-nghe.rss",
+        "https://docnhanh.vn/rss/o-to-xe-may.rss",
+        "https://docnhanh.vn/rss/an-choi.rss",
+        "https://docnhanh.vn/rss/phong-cach.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 646,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:07.395Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laodong.vn": {
+      "urls": [
+        "https://laodong.vn/rss/home.rss",
+        "https://laodong.vn/rss/xa-hoi.rss",
+        "https://laodong.vn/rss/the-thao.rss",
+        "https://laodong.vn/rss/kinh-doanh.rss",
+        "https://laodong.vn/rss/suc-khoe.rss",
+        "https://laodong.vn/rss/van-hoa-giai-tri.rss",
+        "https://laodong.vn/rss/cong-doan.rss",
+        "https://laodong.vn/rss/thoi-su.rss",
+        "https://laodong.vn/rss/ban-doc.rss",
+        "https://laodong.vn/rss/phap-luat.rss",
+        "https://laodong.vn/rss/bat-dong-san.rss",
+        "https://laodong.vn/rss/the-gioi.rss",
+        "https://laodong.vn/rss/xe.rss",
+        "https://laodong.vn/rss/tam-long-vang.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2075,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:55.947Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "doisongphapluat.com.vn": {
+      "urls": [
+        "https://doisongphapluat.com.vn/rss/phap-luat.rss",
+        "https://doisongphapluat.com.vn/rss/tin-moi-hom-nay.rss",
+        "https://doisongphapluat.com.vn/rss/tin-tuc.rss",
+        "https://doisongphapluat.com.vn/rss/kinh-doanh.rss",
+        "https://doisongphapluat.com.vn/rss/doi-song.rss",
+        "https://doisongphapluat.com.vn/rss/feed.rss",
+        "https://doisongphapluat.com.vn/rss/giao-duc.rss",
+        "https://doisongphapluat.com.vn/rss/tin-the-gioi.rss",
+        "https://doisongphapluat.com.vn/rss/van-hoa.rss",
+        "https://doisongphapluat.com.vn/rss/media.rss",
+        "https://doisongphapluat.com.vn/rss/the-thao.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 536,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:07.958Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kenh14.vn": {
+      "urls": [
+        "https://kenh14.vn/rss/home.rss",
+        "https://kenh14.vn/xa-hoi.rss",
+        "https://kenh14.vn/doi-song.rss",
+        "https://kenh14.vn/star.rss",
+        "https://kenh14.vn/kham-pha.rss",
+        "https://kenh14.vn/home.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1007,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:06.448Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "baodautu.vn": {
+      "urls": [
+        "https://baodautu.vn/trang-chu.rss",
+        "https://baodautu.vn/tieu-dung.rss",
+        "https://baodautu.vn/tai-chinh-chung-khoan.rss",
+        "https://baodautu.vn/khong-gian-khoi-nghiep.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 566,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:02.172Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tuoitrenews.vn": {
+      "urls": [
+        "https://tuoitrenews.vn/rss/rss/daily",
+        "https://news.tuoitre.vn/home.rss",
+        "https://news.tuoitre.vn/rss?category=POLITICS"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 566,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:01.386Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "en.vietnamplus.vn": {
+      "urls": [
+        "https://en.vietnamplus.vn/rss/news.rss",
+        "https://en.vietnamplus.vn/rss/home.rss",
+        "https://en.vietnamplus.vn/rss/podcast-369.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 659,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:15.974Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "congan.com.vn": {
+      "urls": [
+        "https://congan.com.vn/rss/tin-chinh"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 312,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:22.141Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nhandan.vn": {
+      "urls": [
+        "https://nhandan.vn/rss/home.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 430,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:53.858Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cand.com.vn": {
+      "urls": [
+        "https://cand.com.vn/rssfeed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 559,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:16.533Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nhandan.com.vn": {
+      "urls": [
+        "https://nhandan.vn/rss/home.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 688,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:52.769Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "congthuong.vn": {
+      "urls": [
+        "https://congthuong.vn/rss_feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 728,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:03.720Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thoibaotaichinhvietnam.vn": {
+      "urls": [
+        "https://thoibaotaichinhvietnam.vn/rss_feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 818,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:02.991Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hoahoctro.tienphong.vn": {
+      "urls": [
+        "https://hoahoctro.tienphong.vn/rss/hoa-hoc-tro-315.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 905,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:09.135Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "baocantho.com.vn": {
+      "urls": [
+        "https://baocantho.com.vn/rss/home"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 922,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:12.979Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "1thegioi.vn": {
+      "urls": [
+        "https://1thegioi.vn/rss/the-gioi",
+        "https://1thegioi.vn/rss/trang-chu",
+        "https://1thegioi.vn/rss/ban-tin-tnmt",
+        "https://1thegioi.vn/rss/xa-hoi",
+        "https://1thegioi.vn/rss/thoi-su",
+        "https://1thegioi.vn/rss/thoi-su-tnmt",
+        "https://1thegioi.vn/rss/thoi-tiet",
+        "https://1thegioi.vn/rss/khoa-hoc-cong-nghe",
+        "https://1thegioi.vn/rss/kinh-te-dau-tu-du-an",
+        "https://1thegioi.vn/rss/su-kien",
+        "https://1thegioi.vn/rss/khoa-hoc-cong-nghe/nhip-dap-khoa-hoc",
+        "https://1thegioi.vn/rss/quoc-te",
+        "https://1thegioi.vn/rss/van-hoa",
+        "https://1thegioi.vn/rss/khoa-hoc-cong-nghe/the-gioi-so",
+        "https://1thegioi.vn/rss/thong-tin-y-hoc",
+        "https://1thegioi.vn/rss/phap-luat",
+        "https://1thegioi.vn/rss/thong-tin-va-phat-trien",
+        "https://1thegioi.vn/rss/su-kien/theo-dong-thoi-su",
+        "https://1thegioi.vn/rss/video",
+        "https://1thegioi.vn/rss/xe",
+        "https://1thegioi.vn/rss/kinh-te-dau-tu-du-an/kinh-te-so",
+        "https://1thegioi.vn/rss/thong-tin-va-phat-trien/thong-tin-doanh-nghiep",
+        "https://1thegioi.vn/rss/khoa-hoc-cong-nghe/kien-thuc-hoc-thuat",
+        "https://1thegioi.vn/rss/khoa-hoc-cong-nghe/the-gioi-gia-dinh",
+        "https://1thegioi.vn/rss/kinh-te-dau-tu-du-an/ha-tang-va-bat-dong-san",
+        "https://1thegioi.vn/rss/kinh-te-dau-tu-du-an/tai-chinh-va-dau-tu",
+        "https://1thegioi.vn/rss/kinh-te-dau-tu-du-an/thi-truong-va-chinh-sach",
+        "https://1thegioi.vn/rss/phap-luat/tra-loi-ban-doc",
+        "https://1thegioi.vn/rss/quoc-te/chuyen-dong",
+        "https://1thegioi.vn/rss/quoc-te/goc-nhin",
+        "https://1thegioi.vn/rss/quoc-te/ho-so",
+        "https://1thegioi.vn/rss/su-kien/bao-ve-moi-truong",
+        "https://1thegioi.vn/rss/su-kien/chan-dung-va-doi-thoai",
+        "https://1thegioi.vn/rss/su-kien/giao-duc",
+        "https://1thegioi.vn/rss/su-kien/goc-binh-luan",
+        "https://1thegioi.vn/rss/su-kien/nhip-cau-nhan-ai",
+        "https://1thegioi.vn/rss/thong-tin-va-phat-trien/nhip-cau-ket-noi",
+        "https://1thegioi.vn/rss/thong-tin-y-hoc/am-thuc-va-dinh-duong",
+        "https://1thegioi.vn/rss/thong-tin-y-hoc/cau-chuyen-nganh-y",
+        "https://1thegioi.vn/rss/thong-tin-y-hoc/goc-khoe-dep",
+        "https://1thegioi.vn/rss/thong-tin-y-hoc/kinh-nghiem-y-hoc",
+        "https://1thegioi.vn/rss/thong-tin-y-hoc/tien-bo-y-hoc",
+        "https://1thegioi.vn/rss/van-hoa/cau-chuyen-van-hoa",
+        "https://1thegioi.vn/rss/van-hoa/dien-anh-am-nhac",
+        "https://1thegioi.vn/rss/van-hoa/du-lich",
+        "https://1thegioi.vn/rss/van-hoa/phong-cach-loi-song",
+        "https://1thegioi.vn/rss/van-hoa/the-thao"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:08.230Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "baoquangninh.vn": {
+      "urls": [
+        "https://baoquangninh.vn/rss/news/phong-chong-dich-covid-19.rss",
+        "https://baoquangninh.vn/rss/news/an-toan-giao-thong.rss",
+        "https://baoquangninh.vn/rss/news/phap-luat.rss",
+        "https://baoquangninh.vn/rss/news/doi-song.rss",
+        "https://baoquangninh.vn/rss/news/du-lich.rss",
+        "https://baoquangninh.vn/rss/news/khoa-hoc-cong-nghe.rss",
+        "https://baoquangninh.vn/rss/news/quoc-te.rss",
+        "https://baoquangninh.vn/rss/news/van-hoa.rss",
+        "https://baoquangninh.vn/rss/news/video.rss",
+        "https://baoquangninh.vn/rss/news/xa-hoi.rss",
+        "https://baoquangninh.vn/rss/news/ban-doc.rss",
+        "https://baoquangninh.vn/rss/news/chinh-tri.rss",
+        "https://baoquangninh.vn/rss/news/dich-vu-thuong-mai.rss",
+        "https://baoquangninh.vn/rss/news/kinh-te.rss",
+        "https://baoquangninh.vn/rss/news/multimedia.rss",
+        "https://baoquangninh.vn/rss/news/nhip-cau-nhan-ai.rss",
+        "https://baoquangninh.vn/rss/news/nong-nghiep-nong-thon.rss",
+        "https://baoquangninh.vn/rss/news/podcast.rss",
+        "https://baoquangninh.vn/rss/news/the-thao.rss",
+        "https://baoquangninh.vn/rss/news/y-te.rss",
+        "https://baoquangninh.vn/rss/news/60-nam-thanh-lap-tinh.rss",
+        "https://baoquangninh.vn/rss/news/bao-ve-moi-truong.rss",
+        "https://baoquangninh.vn/rss/news/chuyen-doi-so.rss",
+        "https://baoquangninh.vn/rss/news/cong-nghiep-ha-tang.rss",
+        "https://baoquangninh.vn/rss/news/cuoc-song-qua-anh.rss",
+        "https://baoquangninh.vn/rss/news/dat-va-nguoi-quang-ninh.rss",
+        "https://baoquangninh.vn/rss/news/diem-den-bon-mua.rss",
+        "https://baoquangninh.vn/rss/news/diem-den-tron-ven.rss",
+        "https://baoquangninh.vn/rss/news/giao-duc.rss",
+        "https://baoquangninh.vn/rss/news/hoc-lam-theo-bac.rss",
+        "https://baoquangninh.vn/rss/news/lay-y-kien-gop-y.rss",
+        "https://baoquangninh.vn/rss/news/nhip-song-tre.rss",
+        "https://baoquangninh.vn/rss/news/phong-chong-tham-nhung.rss",
+        "https://baoquangninh.vn/rss/news/phong-su.rss",
+        "https://baoquangninh.vn/rss/news/quang-tay.rss",
+        "https://baoquangninh.vn/rss/news/quoc-phong-toan-dan.rss",
+        "https://baoquangninh.vn/rss/news/so-ban-nganh-voi-cu-tri.rss",
+        "https://baoquangninh.vn/rss/news/song-tre.rss",
+        "https://baoquangninh.vn/rss/news/tam-long-nhan-ai.rss",
+        "https://baoquangninh.vn/rss/news/than-khoang-san.rss",
+        "https://baoquangninh.vn/rss/news/theo-dong-thu-ban-doc.rss",
+        "https://baoquangninh.vn/rss/news/thuc-hien-NQ57-ve-KHCN.rss",
+        "https://baoquangninh.vn/rss/news/trai-nghiem-kham-pha.rss",
+        "https://baoquangninh.vn/rss/news/van-hoa-nghe-thuat.rss",
+        "https://baoquangninh.vn/rss/news/xay-dung-dang.rss",
+        "https://baoquangninh.vn/rss/news/xu-huong-du-lich.rss",
+        "https://baoquangninh.vn/rss/news/xuc-tien-dau-tu.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:10.961Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vnanet.vn": {
+      "urls": [
+        "https://vnanet.vn/en/rss/disaster-and-accident-422.rss",
+        "https://vnanet.vn/vi/rss/kinh-te-4.rss",
+        "https://vnanet.vn/vi/rss/the-thao-15.rss",
+        "https://vnanet.vn/vi/rss/xa-hoi-14.rss",
+        "https://vnanet.vn/vi/rss/nghe-thuat-van-hoa-va-giai-tri-1.rss",
+        "https://vnanet.vn/vi/rss/toi-pham-2.rss",
+        "https://vnanet.vn/en/rss/politics-1004.rss",
+        "https://vnanet.vn/en/rss/lifestyle-1003.rss",
+        "https://vnanet.vn/en/rss/economy-423.rss",
+        "https://vnanet.vn/fr/rss/politique-1046.rss",
+        "https://vnanet.vn/en/rss/society-1007.rss",
+        "https://vnanet.vn/vi/rss/khoa-hoc-cong-nghe-13.rss",
+        "https://vnanet.vn/vi/rss/thien-tai-3.rss",
+        "https://vnanet.vn/fr/rss/societe-1018.rss",
+        "https://vnanet.vn/vi/rss/chinh-tri-11.rss",
+        "https://vnanet.vn/vi/rss/suc-khoe-7.rss",
+        "https://vnanet.vn/vi/rss/moi-truong-6.rss",
+        "https://vnanet.vn/vi/rss/giao-duc-5.rss",
+        "https://vnanet.vn/vi/rss/moi-quan-tam-con-nguoi-8.rss",
+        "https://vnanet.vn/en/rss/life-1001.rss",
+        "https://vnanet.vn/vi/rss/an-ninh-quoc-phong-16.rss",
+        "https://vnanet.vn/en/rss/sports-1008.rss",
+        "https://vnanet.vn/en/rss/law-20.rss",
+        "https://vnanet.vn/fr/rss/economie-429.rss",
+        "https://vnanet.vn/fr/rss/sport-1019.rss",
+        "https://vnanet.vn/vi/rss/phong-cach-10.rss",
+        "https://vnanet.vn/vi/rss/thoi-tiet-17.rss",
+        "https://vnanet.vn/en/rss/culture-19.rss",
+        "https://vnanet.vn/en/rss/education-424.rss",
+        "https://vnanet.vn/en/rss/employment-1002.rss",
+        "https://vnanet.vn/en/rss/environmental-425.rss",
+        "https://vnanet.vn/en/rss/science-and-technology-1006.rss",
+        "https://vnanet.vn/en/rss/security-defence-1009.rss",
+        "https://vnanet.vn/fr/rss/culture-426.rss",
+        "https://vnanet.vn/fr/rss/environnement-431.rss",
+        "https://vnanet.vn/fr/rss/interet-humain-1559.rss",
+        "https://vnanet.vn/fr/rss/science-et-technologie-1017.rss",
+        "https://vnanet.vn/vi/rss/lao-dong-9.rss",
+        "https://vnanet.vn/vi/rss/ton-giao-12.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:14.006Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "baobariavungtau.com.vn": {
+      "urls": [
+        "http://www.baobariavungtau.com.vn/index.rss",
+        "https://baobariavungtau.com.vn/index.rss",
+        "http://www.baobariavungtau.com.vn/xa-hoi/index.rss",
+        "https://baobariavungtau.com.vn/ban-doc/index.rss",
+        "https://baobariavungtau.com.vn/chinh-tri/index.rss",
+        "https://baobariavungtau.com.vn/du-lich/index.rss",
+        "https://baobariavungtau.com.vn/kinh-te-bien/index.rss",
+        "https://baobariavungtau.com.vn/kinh-te/index.rss",
+        "https://baobariavungtau.com.vn/phap-luat/index.rss",
+        "https://baobariavungtau.com.vn/the-gioi/index.rss",
+        "https://baobariavungtau.com.vn/the-thao/index.rss",
+        "https://baobariavungtau.com.vn/thoi-su-binh-luan/index.rss",
+        "https://baobariavungtau.com.vn/van-hoa-nghe-thuat/index.rss",
+        "https://baobariavungtau.com.vn/xa-hoi/index.rss",
+        "http://www.baobariavungtau.com.vn/chinh-tri/index.rss",
+        "http://www.baobariavungtau.com.vn/the-gioi/index.rss",
+        "http://www.baobariavungtau.com.vn/kinh-te/index.rss",
+        "http://www.baobariavungtau.com.vn/the-thao/index.rss",
+        "http://www.baobariavungtau.com.vn/phap-luat/index.rss",
+        "http://www.baobariavungtau.com.vn/du-lich/index.rss",
+        "http://www.baobariavungtau.com.vn/van-hoa-nghe-thuat/index.rss",
+        "http://www.baobariavungtau.com.vn/ban-doc/index.rss",
+        "http://www.baobariavungtau.com.vn/kinh-te-bien/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:10.692Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "baobinhduong.vn": {
+      "urls": [
+        "https://baobinhduong.vn/rss/home",
+        "https://baobinhduong.vn/rss/cate/podcast/",
+        "https://baobinhduong.vn/rss/cate/podcast"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:12.057Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "baophapluat.vn": {
+      "urls": [
+        "https://baophapluat.vn/rss/home.rss",
+        "https://baophapluat.vn/rss/phap-luat-27.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:59.006Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "daibieunhandan.vn": {
+      "urls": [
+        "https://daibieunhandan.vn/rssfeed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:16.816Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vnexpress.net": {
+      "urls": [
+        "https://vnexpress.net/rss/tin-moi-nhat.rss",
+        "https://vnexpress.net/rss/tin-noi-bat.rss",
+        "https://vnexpress.net/rss/the-gioi.rss",
+        "https://vnexpress.net/rss/suc-khoe.rss",
+        "https://vnexpress.net/rss/thoi-su.rss",
+        "https://vnexpress.net/rss/the-thao.rss",
+        "https://vnexpress.net/rss/giai-tri.rss",
+        "https://vnexpress.net/rss/phap-luat.rss",
+        "https://vnexpress.net/rss/kinh-doanh.rss",
+        "https://vnexpress.net/rss/gia-dinh.rss",
+        "https://vnexpress.net/rss/khoa-hoc.rss",
+        "https://vnexpress.net/rss/oto-xe-may.rss",
+        "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
+        "https://vnexpress.net/rss/cong-nghe.rss",
+        "https://vnexpress.net/rss/du-lich.rss",
+        "https://vnexpress.net/rss/giao-duc.rss",
+        "https://vnexpress.net/rss/so-hoa.rss",
+        "https://vnexpress.net/rss/tam-su.rss",
+        "https://vnexpress.net/rss/y-kien.rss",
+        "https://vnexpress.net/rss/cuoi.rss",
+        "https://vnexpress.net/rss/startup.rss",
+        "https://vnexpress.net/rss/tin-xem-nhieu.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 155,
+        "category": "general",
+        "last_checked": "2026-02-01T22:00:05.406Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nguoi-viet.com": {
+      "urls": [
+        "https://www.nguoi-viet.com/feed/",
+        "https://www.nguoi-viet.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T21:59:52.081Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

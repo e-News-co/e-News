@@ -1,0 +1,388 @@
+{
+  "country_code": "YE",
+  "language_code": "EN",
+  "total_domains": 20,
+  "total_feeds": 100,
+  "feeds": {
+    "saba.ye": {
+      "urls": [
+        "https://www.saba.ye/ar/rsscatfeed1.htm",
+        "https://www.saba.ye/en/rsscatfeed14.htm",
+        "https://www.saba.ye/ar/rsscatfeed59.htm"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1064,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:36.015Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "althawrah.ye": {
+      "urls": [
+        "https://althawrah.ye/feed",
+        "http://althawrah.ye/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1304,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:46.855Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "almashhadnews.com": {
+      "urls": [
+        "https://www.almashhad.news/rss.xml",
+        "https://www.almashhad.news/rss/rss5.xml",
+        "https://www.almashhadnews.com/rss.xml",
+        "https://www.almashhadnews.com/rss/rss1.xml",
+        "https://www.almashhad.news/rss/rss1.xml",
+        "https://www.almashhad.news/rss/rss4.xml",
+        "https://www.almashhad.news/rss/rss9.xml",
+        "https://www.almashhad.news/rss/rss6.xml",
+        "https://www.almashhad.news/rss/rss16.xml",
+        "https://www.almashhad.news/rss/rss12.xml",
+        "https://www.almashhadnews.com/rss/rss2.xml",
+        "https://www.almashhadnews.com/rss/rss10.xml",
+        "https://www.almashhadnews.com/rss/rss3.xml",
+        "https://www.almashhadnews.com/rss/rss12.xml",
+        "https://www.almashhadnews.com/rss/rss4.xml",
+        "https://www.almashhadnews.com/rss/rss11.xml",
+        "https://www.almashhadnews.com/rss/rss5.xml",
+        "https://www.almashhadnews.com/rss/rss6.xml",
+        "https://www.almashhadnews.com/rss/rss7.xml",
+        "https://www.almashhadnews.com/rss/rss8.xml",
+        "https://www.almashhadnews.com/rss/rss9.xml",
+        "https://www.almashhad.news/rss/rss19.xml",
+        "https://www.almashhad.news/rss/rss3.xml",
+        "https://www.almashhad.news/rss/rss10.xml",
+        "https://www.almashhad.news/rss/rss21.xml",
+        "https://www.almashhad.news/rss/rss14.xml",
+        "https://www.almashhad.news/rss/rss13.xml",
+        "https://www.almashhad.news/rss/rss2.xml",
+        "https://www.almashhad.news/rss/rss17.xml",
+        "https://www.almashhad.news/rss/rss18.xml",
+        "https://www.almashhad.news/rss/rss11.xml",
+        "https://www.almashhad.news/rss/rss15.xml",
+        "https://www.almashhad.news/rss/rss20.xml",
+        "https://www.almashhad.news/rss/rss7.xml",
+        "https://www.almashhad.news/rss/rss8.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 943,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:45.366Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "yemen-press.net": {
+      "urls": [
+        "https://yemen-press.net/feed",
+        "https://yemen-press.net/category/cat4.html/feed",
+        "https://yemen-press.net/category/cat1.html/feed",
+        "https://yemen-press.net/category/cat5.html/feed",
+        "https://yemen-press.net/category/cat11.html/feed",
+        "https://yemen-press.net/category/cat7.html/feed",
+        "https://yemen-press.net/category/cat3.html/feed",
+        "https://yemen-press.net/category/cat13.html/feed",
+        "https://yemen-press.net/category/cat6.html/feed",
+        "https://yemen-press.net/category/cat9.html/feed",
+        "https://yemen-press.net/category/cat10.html/feed",
+        "https://yemen-press.net/category/cat12.html/feed",
+        "https://yemen-press.net/category/cat2.html/feed",
+        "https://yemen-press.net/category/cat8.html/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1164,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:44.417Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alwahdawi.net": {
+      "urls": [
+        "https://alwahdawi.net/rss_news/rss_1.xml",
+        "https://alwahdawi.net/rss_news/rss_2.xml",
+        "https://alwahdawi.net/rss_news/rss_3.xml",
+        "https://alwahdawi.net/rss_news/rss_6.xml",
+        "https://alwahdawi.net/rss_news/rss_7.xml",
+        "https://alwahdawi.net/rss_news/rss_8.xml",
+        "https://alwahdawi.net/rss_news/rss_9.xml",
+        "https://alwahdawi.net/en/rss_news/rss_1.xml",
+        "http://www.alwahdawi.net/rss_news/rss_2.xml",
+        "http://www.alwahdawi.net/en/rss_news/rss_1.xml",
+        "http://www.alwahdawi.net/en/rss_news/rss_6.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 866,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:47.725Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sa24.co": {
+      "urls": [
+        "https://sa24.co/rss.php",
+        "https://sa24.co/rss.php?topic=1",
+        "https://sa24.co/rss.php?topic=2",
+        "https://sa24.co/rss.php?topic=3",
+        "https://sa24.co/rss.php?topic=5",
+        "https://sa24.co/rss.php?topic=6",
+        "https://sa24.co/rss.php?topic=7",
+        "https://sa24.co/rss.php?topic=8"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1090,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:37.276Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "yafa-news.net": {
+      "urls": [
+        "https://www.yafa-news.net/feed",
+        "https://yafa-news.net/feed",
+        "https://www.yafa-news.net/rsslatest.xml",
+        "https://yafa-news.net/rsslatest.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:52.636Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yemenat.net": {
+      "urls": [
+        "https://yemenat.net/feed",
+        "https://yemenat.net/feed/",
+        "https://yemenat.net/comments/feed",
+        "https://yemenat.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1914,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:42.905Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "anayemeni.net": {
+      "urls": [
+        "https://anayemeni.net/rss.xml",
+        "http://anayemeni.net/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1123,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:53.761Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "marebpress.net": {
+      "urls": [
+        "http://marebpress.net/news_rss.php",
+        "http://marebpress.net/news_rss.php?lang=arabic&top=2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1383,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:38.699Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsyemen.net": {
+      "urls": [
+        "https://newsyemen.net/rss.php",
+        "https://www.newsyemen.net/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1440,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:40.243Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yementimes.com": {
+      "urls": [
+        "https://yementimes.com/feed/",
+        "https://yementimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1598,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:21.709Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "26september.info": {
+      "urls": [
+        "https://26september.info/feed/",
+        "https://26september.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1988,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:19.860Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yobserver.com": {
+      "urls": [
+        "https://www.yobserver.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 40,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:20.109Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "yemeress.com": {
+      "urls": [
+        "https://www.yemeress.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 714,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:51.712Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "althawranews.net": {
+      "urls": [
+        "https://althawrah.ye/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1003,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:27.731Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yemenonline.info": {
+      "urls": [
+        "https://www.yemenonline.info/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1227,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:54.989Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alsahwa-yemen.net": {
+      "urls": [
+        "https://www.alsahwa-yemen.net/RSS.aspx"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2169,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:29.901Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yemeneconomist.com": {
+      "urls": [
+        "https://www.yemeneconomist.com/feed",
+        "https://www.yemeneconomist.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:40.375Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "alwasat-ye.net": {
+      "urls": [
+        "https://alwasat-ye.net/rss.php",
+        "http://alwasat-ye.net/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T22:28:50.997Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

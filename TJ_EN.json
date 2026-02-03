@@ -1,0 +1,108 @@
+{
+  "country_code": "TJ",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 16,
+  "feeds": {
+    "avesta.tj": {
+      "urls": [
+        "https://avesta.tj/feed/",
+        "https://avesta.tj/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1526,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:06.377Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "khovar.tj": {
+      "urls": [
+        "https://khovar.tj/feed/",
+        "https://khovar.tj:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4218,
+        "category": "general",
+        "last_checked": "2026-02-01T17:04:54.397Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jumhuriyat.tj": {
+      "urls": [
+        "https://jumhuriyat.tj/rssturbo.xml",
+        "https://jumhuriyat.tj/rssdzen.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4278,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:04.746Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "farazh.tj": {
+      "urls": [
+        "https://farazh.tj/feed/",
+        "https://farazh.tj/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:00.310Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3069,
+        "category": "general",
+        "last_checked": "2026-02-01T17:04:58.389Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ozodi.org": {
+      "urls": [
+        "https://www.ozodi.org/api/",
+        "https://www.ozodi.org/podcast/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1354,
+        "category": "general",
+        "last_checked": "2026-02-01T17:04:59.745Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

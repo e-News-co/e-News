@@ -1,0 +1,618 @@
+{
+  "country_code": "TW",
+  "language_code": "EN",
+  "total_domains": 35,
+  "total_feeds": 120,
+  "feeds": {
+    "ltn.com.tw": {
+      "urls": [
+        "https://news.ltn.com.tw/rss/all.xml",
+        "https://news.ltn.com.tw/rss/local.xml",
+        "https://news.ltn.com.tw/rss/politics.xml",
+        "https://news.ltn.com.tw/rss/life.xml",
+        "https://news.ltn.com.tw/rss/society.xml",
+        "https://news.ltn.com.tw/rss/sports.xml",
+        "https://news.ltn.com.tw/rss/entertainment.xml",
+        "https://news.ltn.com.tw/rss/world.xml",
+        "https://news.ltn.com.tw/rss/business.xml",
+        "https://news.ltn.com.tw/rss/opinion.xml",
+        "https://news.ltn.com.tw/rss/def.xml",
+        "https://news.ltn.com.tw/rss/art.xml",
+        "https://news.ltn.com.tw/rss/novelty.xml",
+        "https://news.ltn.com.tw/rss/people.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 781,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:59.281Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cna.com.tw": {
+      "urls": [
+        "https://feeds.feedburner.com/rsscna/local",
+        "https://feeds.feedburner.com/rsscna/intworld",
+        "https://rss.cna.com.tw/rsscna/rss/mainland.xml",
+        "https://feeds.feedburner.com/rsscna/finance",
+        "https://feeds.feedburner.com/rsscna/politics",
+        "https://feeds.feedburner.com/rsscna/social",
+        "https://feeds.feedburner.com/rsscna/sport",
+        "https://feeds.feedburner.com/rsscna/mainland",
+        "https://feeds.feedburner.com/rsscna/lifehealth",
+        "https://feeds.feedburner.com/rsscna/culture",
+        "https://feeds.feedburner.com/rsscna/stars",
+        "https://feeds.feedburner.com/rsscna/technology"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 688,
+        "category": "local",
+        "last_checked": "2026-02-01T17:34:55.732Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ydn.com.tw": {
+      "urls": [
+        "https://www.ydn.com.tw/rss/1",
+        "https://www.ydn.com.tw/rss/10207",
+        "https://www.ydn.com.tw/rss/3",
+        "https://www.ydn.com.tw/rss/31",
+        "https://www.ydn.com.tw/rss/39",
+        "https://www.ydn.com.tw/rss/73",
+        "https://www.ydn.com.tw/rss/75",
+        "https://www.ydn.com.tw/rss/80",
+        "https://www.ydn.com.tw/rss/88"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2563,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:26.644Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rti.org.tw": {
+      "urls": [
+        "https://www.rti.org.tw/rss",
+        "http://www.rti.org.tw/rss",
+        "http://www.rti.org.tw/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 495,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:22.482Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "peoplenews.tw": {
+      "urls": [
+        "https://www.peoplenews.tw/feed/atom",
+        "https://www.peoplenews.tw/feed",
+        "https://www.peoplenews.tw/rss/%E7%B8%BD%E8%A6%BD"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 615,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:06.125Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ksnews.com.tw": {
+      "urls": [
+        "https://www.ksnews.com.tw/feed",
+        "https://www.ksnews.com.tw/feed/",
+        "https://www.ksnews.com.tw/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1126,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:14.047Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "taiwantoday.tw": {
+      "urls": [
+        "http://api.taiwantoday.tw/en/rss.php?unit=2,6,10,15,18",
+        "http://api.taiwantoday.tw/en/rss.php?unit=4,8,12,17,20",
+        "http://api.taiwantoday.tw/jp/rss.php?unit=148,149,150,151,152"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1280,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:08.170Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pingtungtimes.com.tw": {
+      "urls": [
+        "https://pingtungtimes.com.tw/?feed=rss2",
+        "https://pingtungtimes.com.tw/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 533,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:16.602Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "focustaiwan.tw": {
+      "urls": [
+        "https://feeds.feedburner.com/rsscna/engnews/",
+        "http://feeds.feedburner.com/rsscna/engnews"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 730,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:00.200Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cdns.com.tw": {
+      "urls": [
+        "https://www.cdns.com.tw/feed",
+        "https://www.cdns.com.tw/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3260,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:12.814Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "epochtimes.com.tw": {
+      "urls": [
+        "https://www.epochtimes.com.tw/Rss/latest"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 625,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:54.689Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "en.tfc-taiwan.org.tw": {
+      "urls": [
+        "https://en.tfc-taiwan.org.tw/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 656,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:31.232Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.tvbs.com.tw": {
+      "urls": [
+        "https://news.tvbs.com.tw/web_api/play_feed_new/world"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1023,
+        "category": "world",
+        "last_checked": "2026-02-01T17:35:17.625Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.pts.org.tw": {
+      "urls": [
+        "https://news.pts.org.tw/xml/newsfeed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1639,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:19.264Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kmdn.gov.tw": {
+      "urls": [
+        "https://www.kmdn.gov.tw/1117/1271/1272/RSSList"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1861,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:15.909Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nexttv.com.tw": {
+      "urls": [
+        "https://www.nexttv.com.tw/nRSS.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2695,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:21.959Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "twarchitect.org.tw": {
+      "urls": [
+        "https://www.twarchitect.org.tw/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2734,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:39.543Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "watchout.tw": {
+      "urls": [
+        "https://watchout.tw/feed.json"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3013,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:30.576Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ctee.com.tw": {
+      "urls": [
+        "https://ctee.com.tw/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:01.307Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gq.com.tw": {
+      "urls": [
+        "https://www.gq.com.tw/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:49.568Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "harpersbazaar.com": {
+      "urls": [
+        "https://www.harpersbazaar.com/rss/all.xml",
+        "https://www.harpersbazaar.com/rss/all.xml?syndication=true",
+        "https://www.harpersbazaar.com/rss/default.xml",
+        "https://www.harpersbazaar.com/rss/all.xml/?syndication=true",
+        "https://www.harpersbazaar.com/rss/celebrity.xml",
+        "https://www.harpersbazaar.com/rss/culture.xml",
+        "https://www.harpersbazaar.com/rss/fashion.xml",
+        "https://www.harpersbazaar.com/uk/rss/all.xml",
+        "https://www.harpersbazaar.com/uk/rss/default.xml",
+        "https://www.harpersbazaar.com/jp/rss/all.xml",
+        "https://www.harpersbazaar.com/jp/rss/celebrity.xml",
+        "https://www.harpersbazaar.com/tw/rss/all.xml",
+        "https://www.harpersbazaar.com/tw/rss/default.xml",
+        "https://www.harpersbazaar.com/uk/rss/culture.xml",
+        "http://harpersbazaar.com/rss/default.xml",
+        "http://harpersbazaar.com/rss/all.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 438,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:36.808Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elle.com": {
+      "urls": [
+        "https://www.elle.com/rss/all.xml",
+        "https://www.elle.com/rss/default.xml",
+        "https://www.elle.com/rss/culture.xml",
+        "https://www.elle.com/jp/rss/all.xml",
+        "https://www.elle.com/jp/rss/default.xml",
+        "https://www.elle.com/uk/rss/all.xml",
+        "https://www.elle.com/uk/rss/default.xml",
+        "https://www.elle.com/rss/fashion.xml",
+        "https://www.elle.com/rss/beauty.xml",
+        "https://www.elle.com/tw/rss/about.xml",
+        "https://www.elle.com/tw/rss/all.xml",
+        "https://www.elle.com/tw/rss/default.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 394,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:36.368Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "moneydj.com": {
+      "urls": [
+        "https://www.moneydj.com/KMDJ/RssCenter.aspx?svc=NH&fno=1&arg=X0000000",
+        "https://www.moneydj.com/KMDJ/RssCenter.aspx?svc=NW&fno=1&arg=X0000000",
+        "http://www.moneydj.com/KMDJ/RssCenter.aspx?svc=NH&fno=1&arg=X0000000"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 633,
+        "category": "business",
+        "last_checked": "2026-02-01T17:35:02.227Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "peopo.org": {
+      "urls": [
+        "https://www.peopo.org/rss-news",
+        "https://www.peopo.org/rss-top10",
+        "https://www.peopo.org/peopo_agg/feed?post_u=1381"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1794,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:35.564Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "taipeitimes.com": {
+      "urls": [
+        "https://www.taipeitimes.com/xml/index.rss",
+        "http://www.taipeitimes.com/xml/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 84,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:54.784Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tw.nextapple.com": {
+      "urls": [
+        "https://tw.nextapple.com/api/rss/category/latest",
+        "https://news.nextapple.com/api/rss/category/latest?lang=TW"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 159,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:03.313Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tw.news.yahoo.com": {
+      "urls": [
+        "https://tw.news.yahoo.com/rss",
+        "https://tw.news.yahoo.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 828,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:03.133Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mdnkids.com": {
+      "urls": [
+        "https://www.mdnkids.com/rss/index.asp",
+        "https://www.mdnkids.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1081,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:23.565Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "money.udn.com": {
+      "urls": [
+        "http://money.udn.com/rssfeed/news/1001/5591/5612?ch=money"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 189,
+        "category": "business",
+        "last_checked": "2026-02-01T17:35:01.496Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mirrormedia.mg": {
+      "urls": [
+        "https://www.mirrormedia.mg/rss/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 531,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:03.844Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mypeoplevol.com": {
+      "urls": [
+        "https://www.mypeoplevol.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 748,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:06.874Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "international.thenewslens.com": {
+      "urls": [
+        "https://international.thenewslens.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2174,
+        "category": "world",
+        "last_checked": "2026-02-01T17:34:57.906Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "upmedia.mg": {
+      "urls": [
+        "https://www.upmedia.mg/createRSS.php?Type=all",
+        "https://www.upmedia.mg/createRSS.php?Type=24",
+        "https://www.upmedia.mg/createRSS.php?Type=3",
+        "https://www.upmedia.mg/createRSS.php?Type=2",
+        "https://www.upmedia.mg/createRSS.php?Type=5"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:05.508Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "taiwandaily.net": {
+      "urls": [
+        "https://www.taiwandaily.net/feed/",
+        "https://taiwandaily.net/feed/",
+        "https://www.taiwandaily.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:35.765Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rhythmsmonthly.com": {
+      "urls": [
+        "https://www.rhythmsmonthly.com/?feed=rss2",
+        "https://www.rhythmsmonthly.com/?feed=comments-rss2",
+        "https://feeds.feedburner.com/rhythmsmonthly.com"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:35:35.955Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

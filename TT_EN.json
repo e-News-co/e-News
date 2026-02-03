@@ -1,0 +1,187 @@
+{
+  "country_code": "TT",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 25,
+  "feeds": {
+    "newsday.co.tt": {
+      "urls": [
+        "https://newsday.co.tt/feed/",
+        "https://newsday.co.tt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2281,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:36.804Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cnc3.co.tt": {
+      "urls": [
+        "https://www.cnc3.co.tt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 444,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:43.624Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "trinidadandtobagonews.com": {
+      "urls": [
+        "https://www.trinidadandtobagonews.com/blog/?feed=rss2",
+        "http://www.trinidadandtobagonews.com/blog/?feed=rss2",
+        "https://www.trinidadandtobagonews.com/blog/?feed=comments-rss2",
+        "http://www.trinidadandtobagonews.com/blog/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1765,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:39.738Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "catholictt.org": {
+      "urls": [
+        "https://catholictt.org/feed/",
+        "https://catholictt.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 995,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:37.811Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "trinidadexpress.com": {
+      "urls": [
+        "https://trinidadexpress.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+        "http://trinidadexpress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1567,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:34.455Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tobagoupdates.com": {
+      "urls": [
+        "https://tobagoupdates.com/feed/",
+        "https://tobagoupdates.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1989,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:43.179Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "caribbean-beat.com": {
+      "urls": [
+        "https://www.caribbean-beat.com/feed",
+        "https://www.caribbean-beat.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2517,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:50.127Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ttt.live": {
+      "urls": [
+        "https://www.ttt.live/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1443,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:45.067Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tv6tnt.com": {
+      "urls": [
+        "http://www.tv6tnt.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2358,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:47.425Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "wired868.com": {
+      "urls": [
+        "https://wired868.com/feed/",
+        "http://wired868.com/feed/",
+        "https://wired868.com/blog/feed/",
+        "https://wired868.com/comments/feed/",
+        "http://wired868.com/blog/feed/",
+        "http://wired868.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:34:40.374Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "technewstt.com": {
+      "urls": [
+        "https://technewstt.com/feed/",
+        "https://technewstt.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-02-01T17:34:41.184Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

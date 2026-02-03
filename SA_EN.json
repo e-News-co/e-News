@@ -1,0 +1,798 @@
+{
+  "country_code": "SA",
+  "language_code": "EN",
+  "total_domains": 33,
+  "total_feeds": 328,
+  "feeds": {
+    "spa.gov.sa": {
+      "urls": [
+        "https://www.spa.gov.sa/rss.xml",
+        "https://www.spa.gov.sa/rss3.xml",
+        "https://www.spa.gov.sa/rss5.xml",
+        "https://www.spa.gov.sa/rss4.xml",
+        "https://www.spa.gov.sa/rss7.xml",
+        "https://www.spa.gov.sa/rss8.xml",
+        "https://www.spa.gov.sa/rss6.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2692,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:28.443Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alwatan.com.sa": {
+      "urls": [
+        "https://www.alwatan.com.sa/rssFeed/1",
+        "https://www.alwatan.com.sa/rssFeed/4"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 478,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:11.684Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "okaz.com.sa": {
+      "urls": [
+        "https://www.okaz.com.sa/rssFeed/0"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 142,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:21.674Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "saudigazette.com.sa": {
+      "urls": [
+        "https://saudigazette.com.sa/rssFeed/74"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 385,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:14.997Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fsc.org.sa": {
+      "urls": [
+        "https://fsc.org.sa/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:51.935Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "news.google.com": {
+      "urls": [
+        "https://news.google.com/rss/search?q=site:bloomberg.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/atom/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYQjBMVUpTR2dKQ1VpZ0FQAQ?hl=pt-BR&gl=BR&ceid=BR:pt-419&oc=11",
+        "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYQjBMVUpTR2dKQ1VpZ0FQAQ?hl=pt-BR&gl=BR&ceid=BR:pt-419&oc=11",
+        "https://news.google.com/atom/topics/CAAqKAgKIiJDQkFTRXdvSkwyMHZNR1ptZHpWbUVnSnlkUm9DVWxVb0FBUAE?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvSkwyMHZNR1ptZHpWbUVnSnlkUm9DVWxVb0FBUAE?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&q=news&um=1&ie=UTF-8&ceid=US:en",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom?hl=fr&gl=FR&ceid=FR:fr",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2h4ZW5JU0FtWnlLQUFQAQ?hl=fr&gl=FR&ceid=FR:fr&oc=11",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtbGtHZ0pKUkNnQVAB?hl=id&gl=ID&ceid=ID:id&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2h4ZW5JU0FtWnlLQUFQAQ?hl=fr&gl=FR&ceid=FR:fr&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtbGtHZ0pKUkNnQVAB?hl=id&gl=ID&ceid=ID:id&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/atom/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&gl=GB&ceid=GB:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&gl=GB&ceid=GB:en&oc=11",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=india",
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YW1vU0FtbDBLQUFQAQ?hl=it&gl=IT&ceid=IT:it&oc=11",
+        "https://news.google.com/atom?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YW1vU0FtbDBLQUFQAQ?hl=it&gl=IT&ceid=IT:it&oc=11",
+        "https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr",
+        "https://news.google.com/atom/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREp1TUdSNUVnSnlkU2dBUAE?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/atom?hl=en-GB&gl=GB&ceid=GB:en&oc=11",
+        "https://news.google.com/rss/search?q=allinurl:theplayoffs.news&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=reuters.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en&oc=11",
+        "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss?hl=it&gl=IT&ceid=IT:it",
+        "https://news.google.com/atom/topics/CAAqBwgKMLGl8wowka_aAg?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREp1TUdSNUVnSnlkU2dBUAE?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=Bike",
+        "https://news.google.com/rss/topics/CAAqBwgKMLGl8wowka_aAg?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss?hl=es-419&gl=US&ceid=US:es-419",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/search?q=HAZMAT+when:7d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNREZ0ZHpFU0JYcG9MVlJYS0FBUAE?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2MwWjNJU0FuSjFLQUFQAQ?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/atom/topics/CAAqBwgKMJvY8wowypbUAg?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR2czZUJJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFJ3Ym5nU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp0YTJvU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqJAgKIh5DQkFTRUFvSEwyMHZNR3M0ZWhJRlpXNHRSMElvQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqLAgKIiZDQkFTRmdvTkwyY3ZNVEZqYm1RMmR6RnRhaElGWlc0dFIwSW9BQVAB?hl=en-CA&gl=CA&ceid=CA:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNREV5YURJMEVnVjZhQzFVVnlnQVAB?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2MwWjNJU0FuSjFLQUFQAQ?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/rss/topics/CAAqBwgKMJvY8wowypbUAg?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR2czZUJJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFJ3Ym5nU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp0YTJvU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvSEwyMHZNR3M0ZWhJRlpXNHRSMElvQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqLAgKIiZDQkFTRmdvTkwyY3ZNVEZqYm1RMmR6RnRhaElGWlc0dFIwSW9BQVAB?hl=en-CA&gl=CA&ceid=CA:en&oc=11",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=computer",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=Argentina",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiXENCQVNQd29JTDIwdk1EbHpNV1lTQW1WdUdnSlZVeUlQQ0FRYUN3b0pMMjB2TURsNU5IQnRLaG9LR0FvVVRVRlNTMFZVVTE5VFJVTlVTVTlPWDA1QlRVVWdBU2dBKioIAComCAoiIENCQVNFZ29JTDIwdk1EbHpNV1lTQW1WdUdnSlZVeWdBUAFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=india",
+        "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&oc=11&q=bitcoin",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiXENCQVNQd29JTDIwdk1EbHpNV1lTQW1WdUdnSlZVeUlQQ0FRYUN3b0pMMjB2TURsNU5IQnRLaG9LR0FvVVRVRlNTMFZVVTE5VFJVTlVTVTlPWDA1QlRVVWdBU2dBKioIAComCAoiIENCQVNFZ29JTDIwdk1EbHpNV1lTQW1WdUdnSlZVeWdBUAFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=computer",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=Argentina",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=Bike",
+        "https://news.google.com/rss/search?q=allinurl:dissapore.com+when:3d&hl=it&gl=IT&ceid=IT:it",
+        "https://news.google.com/atom/search?hl=en-IN&gl=IN&ceid=IN:en&oc=11&q=topic:assam",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=barcelona.com",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=geopolitique",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=o2.pl",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=pornstars",
+        "https://news.google.com/atom/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&oc=11&q=bitcoin",
+        "https://news.google.com/rss/search?q=tech+news.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&oc=11&q=topic:assam",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=barcelona.com",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=geopolitique",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=o2.pl",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=pornstars",
+        "https://news.google.com/rss/search?hl=it&q=Il+Giornale+dei+Navigli&cf=all&num=30.com&gl=IT&ceid=IT:it",
+        "https://news.google.com/rss/search?q=allinurl:financialexpress.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=allinurl:rnd.de+when:3d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=allinurl:xda-developers.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=cronaca&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=directeur&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=science&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "https://news.google.com/rss/search?q=site:pib.gov.in&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=telemagazyn.pl/aktualnosci&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/unsupported?from=https://news.google.com/rss/.com&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1071,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:43.693Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "al-jazirah.com": {
+      "urls": [
+        "https://al-jazirah.com/rss/du.xml",
+        "https://al-jazirah.com/rss/ec.xml",
+        "https://al-jazirah.com/rss/fe.xml",
+        "https://al-jazirah.com/rss/ln.xml",
+        "https://al-jazirah.com/rss/lp.xml",
+        "https://al-jazirah.com/rss/ms.xml",
+        "https://al-jazirah.com/rss/sp.xml",
+        "https://al-jazirah.com/rss/writers_rai.xml",
+        "https://al-jazirah.com/rss/writers_zawaya.xml",
+        "https://www.al-jazirah.com/rss/du.xml",
+        "https://www.al-jazirah.com/rss/du.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+        "https://www.al-jazirah.com/rss/ec.xml",
+        "https://www.al-jazirah.com/rss/ec.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+        "https://www.al-jazirah.com/rss/fe.xml",
+        "https://www.al-jazirah.com/rss/ln.xml",
+        "https://www.al-jazirah.com/rss/ln.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+        "https://www.al-jazirah.com/rss/lp.xml",
+        "https://www.al-jazirah.com/rss/lp.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+        "https://www.al-jazirah.com/rss/ms.xml",
+        "https://www.al-jazirah.com/rss/sp.xml",
+        "https://www.al-jazirah.com/rss/sp.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+        "https://www.al-jazirah.com/rss/writers_rai.xml",
+        "https://www.al-jazirah.com/rss/writers_rai.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+        "https://www.al-jazirah.com/rss/writers_zawaya.xml",
+        "http://www.al-jazirah.com/rss/du.xml",
+        "http://www.al-jazirah.com/rss/ec.xml",
+        "http://www.al-jazirah.com/rss/fe.xml",
+        "http://www.al-jazirah.com/rss/ln.xml",
+        "http://www.al-jazirah.com/rss/ln.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+        "http://www.al-jazirah.com/rss/lp.xml",
+        "http://www.al-jazirah.com/rss/ms.xml",
+        "http://www.al-jazirah.com/rss/sp.xml",
+        "http://www.al-jazirah.com/rss/sp.xml?utm_source=rss-jazirah&utm_medium=rss&utm_campaign=rss",
+        "http://www.al-jazirah.com/rss/writers_rai.xml",
+        "http://www.al-jazirah.com/rss/writers_zawaya.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1751,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:21.412Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "makkahnewspaper.com": {
+      "urls": [
+        "https://makkahnewspaper.com/rss-feed/28",
+        "https://makkahnewspaper.com/rssFeed/0",
+        "https://makkahnewspaper.com/rss-feed/30",
+        "https://makkahnewspaper.com/rss-feed/3",
+        "https://makkahnewspaper.com/rss-feed/13",
+        "https://makkahnewspaper.com/rss-feed/29",
+        "https://makkahnewspaper.com/rss-feed/5",
+        "https://makkahnewspaper.com/rss-feed/11",
+        "https://makkahnewspaper.com/rss-feed/26",
+        "https://makkahnewspaper.com/rss-feed/31",
+        "https://makkahnewspaper.com/rss-feed/32",
+        "https://makkahnewspaper.com/rss-feed/35",
+        "https://makkahnewspaper.com/rss-feed/39",
+        "https://makkahnewspaper.com/rss-feed/40",
+        "https://makkahnewspaper.com/rss-feed/41",
+        "https://makkahnewspaper.com/rss-feed/42",
+        "https://makkahnewspaper.com/rss-feed/55",
+        "https://makkahnewspaper.com/rss-feed/6"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 52,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:14.612Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aawsat.com": {
+      "urls": [
+        "https://aawsat.com/feed",
+        "https://english.aawsat.com//feed/en-data?xmlns=1",
+        "https://aawsat.com/feed/facebook?xmlns=1",
+        "https://aawsat.com/feed/economy",
+        "https://aawsat.com/feed/arab-world",
+        "https://aawsat.com/feed/gulf",
+        "https://aawsat.com/feed/information-technology",
+        "https://aawsat.com/feed/sport",
+        "https://aawsat.com/taxonomy/term/36/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1106,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:17.067Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "al-madina.com": {
+      "urls": [
+        "https://www.al-madina.com/rssFeed/190",
+        "https://www.al-madina.com/rssFeed/193",
+        "https://www.al-madina.com/rssFeed/197"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 66,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:21.532Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zawya.com": {
+      "urls": [
+        "https://www.zawya.com/sitemaps/en/rss",
+        "https://www.zawya.com/sitemaps/ar/rss",
+        "https://www.zawya.com/rssfeeds/regional.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 290,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:49.496Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "alyaum.com": {
+      "urls": [
+        "https://www.alyaum.com/rssFeed/0",
+        "https://www.alyaum.com/rssFeed/1005/92"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 146,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:21.932Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sayidaty.net": {
+      "urls": [
+        "https://www.sayidaty.net/snapchat/rss.xml",
+        "https://www.sayidaty.net/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 159,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:44.443Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "english.aawsat.com": {
+      "urls": [
+        "https://english.aawsat.com//feed/en-data?xmlns=1",
+        "https://english.aawsat.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 616,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:25.347Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "graaam.com": {
+      "urls": [
+        "https://www.blogger.com/feeds/1004004592899649835/posts/default",
+        "https://www.graaam.com/feeds/2517054292546725833/comments/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1214,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:48.326Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "albiladdaily.com": {
+      "urls": [
+        "https://albiladdaily.com/feed/",
+        "https://albiladdaily.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1601,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:23.581Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "almowaten.net": {
+      "urls": [
+        "https://www.almowaten.net/feed/",
+        "https://www.almowaten.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1814,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:30.900Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "al-jazirahonline.com": {
+      "urls": [
+        "https://www.al-jazirahonline.com/feed/",
+        "https://www.al-jazirahonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2200,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:35.388Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "arriyadiyah.com": {
+      "urls": [
+        "https://arriyadiyah.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 382,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:52.317Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sabq.org": {
+      "urls": [
+        "https://sabq.org/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 478,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:28.921Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kooora.com": {
+      "urls": [
+        "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 977,
+        "category": "sports",
+        "last_checked": "2026-02-01T14:26:54.169Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aljamila.com": {
+      "urls": [
+        "https://www.aljamila.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1938,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:46.381Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mz-mz.net": {
+      "urls": [
+        "https://mz-mz.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2473,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:37.861Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sauress.com": {
+      "urls": [
+        "https://www.sauress.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4679,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:42.540Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "alriyadh.com": {
+      "urls": [
+        "http://www.alriyadh.com/section.opi.xml",
+        "https://alriyadh.com/section.opi.xml",
+        "https://www.alriyadh.com/section.opi.xml",
+        "https://alriyadh.com/section.last.xml",
+        "http://www.alriyadh.com/section.last.xml",
+        "http://www.alriyadh.com/section.sport.xml",
+        "http://www.alriyadh.com/section.art.xml",
+        "http://www.alriyadh.com/section.clinic.xml",
+        "http://www.alriyadh.com/section.econ.xml",
+        "https://www.alriyadh.com/section.last.xml",
+        "https://alriyadh.com/section.sport.xml",
+        "http://www.alriyadh.com/section.inter.xml",
+        "https://alriyadh.com/section.culture.xml",
+        "https://www.alriyadh.com/section.culture.xml",
+        "https://alriyadh.com/section.foll.xml",
+        "https://www.alriyadh.com/section.foll.xml",
+        "http://www.alriyadh.com/section.culture.xml",
+        "https://alriyadh.com/section.art.xml",
+        "https://www.alriyadh.com/section.art.xml",
+        "https://www.alriyadh.com/section.sport.xml",
+        "https://alriyadh.com/section.inter.xml",
+        "https://www.alriyadh.com/section.inter.xml",
+        "https://www.alriyadh.com/section.local.xml",
+        "https://alriyadh.com/section.columns.xml",
+        "https://www.alriyadh.com/section.columns.xml",
+        "https://www.alriyadh.com/section.main.xml",
+        "https://alriyadh.com/section.main.xml",
+        "https://alriyadh.com/section.news.xml",
+        "https://alriyadh.com/section.local.xml",
+        "http://www.alriyadh.com/section.news.xml",
+        "http://www.alriyadh.com/section.columns.xml",
+        "http://www.alriyadh.com/section.local.xml",
+        "https://www.alriyadh.com/section.news.xml",
+        "http://www.alriyadh.com/section.news.inter.xml",
+        "https://alriyadh.com/section.news.econ.xml",
+        "https://alriyadh.com/section.news.local.xml",
+        "https://alriyadh.com/section.news.sport.xml",
+        "https://www.alriyadh.com/section.news.local.xml",
+        "https://www.alriyadh.com/section.news.sport.xml",
+        "http://www.alriyadh.com/section.news.local.xml",
+        "https://alriyadh.com/section.news.inter.xml",
+        "https://www.alriyadh.com/section.news.econ.xml",
+        "https://www.alriyadh.com/section.news.inter.xml",
+        "http://www.alriyadh.com/section.news.econ.xml",
+        "https://alriyadh.com/section.news.misc.xml",
+        "https://www.alriyadh.com/section.news.misc.xml",
+        "https://alriyadh.com/section.clinic.xml",
+        "https://alriyadh.com/section.comic.xml",
+        "https://alriyadh.com/section.econ.xml",
+        "https://alriyadh.com/section.graphicnews.xml",
+        "https://alriyadh.com/section.photo.xml",
+        "https://www.alriyadh.com/section.clinic.xml",
+        "https://www.alriyadh.com/section.comic.xml",
+        "https://www.alriyadh.com/section.econ.xml",
+        "https://www.alriyadh.com/section.graphicnews.xml",
+        "https://www.alriyadh.com/section.photo.xml",
+        "http://www.alriyadh.com/section.news.sport.xml",
+        "http://www.alriyadh.com/section.news.misc.xml",
+        "http://www.alriyadh.com/section.comic.xml",
+        "http://www.alriyadh.com/section.foll.xml",
+        "http://www.alriyadh.com/section.graphicnews.xml",
+        "http://www.alriyadh.com/section.main.xml",
+        "http://www.alriyadh.com/section.photo.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:19.656Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "alarabiya.net": {
+      "urls": [
+        "https://www.alarabiya.net/.mrss/ar.xml",
+        "https://www.alarabiya.net/feed/rss2/ar.xml",
+        "https://www.alarabiya.net/feed/rss2/ar/aswaq.xml",
+        "https://www.alarabiya.net/feed/rss2/ar/arab-and-world.xml",
+        "https://www.alarabiya.net/.mrss/ar/arab-and-world.xml",
+        "https://www.alarabiya.net/.mrss/ar/sport.xml",
+        "https://www.alarabiya.net/feed/rss2/ar/technology.xml",
+        "https://www.alarabiya.net/feed/rss2/ar/variety.xml",
+        "https://www.alarabiya.net/.mrss/ar/last-page.xml",
+        "https://www.alarabiya.net/.mrss/ar/culture-and-art.xml",
+        "https://www.alarabiya.net/.mrss/ar/technology.xml",
+        "https://www.alarabiya.net/.mrss/ar/medicine-and-health.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/alarabiya-from-russia.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/242-business.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/asl-w-fasl.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/events-characters.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/jamaat.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/mamdouh-interview.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/memories.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/mohammed-bin-salman-interviews.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/movies.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/rattel.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/say-dont-say.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/story-of-a-voice.xml",
+        "https://www.alhadath.net/feed/google-podcasts/ar/podcast/their-life.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:44.241Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bab.com": {
+      "urls": [
+        "https://bab.com/news/feed",
+        "https://www.bab.com/news/feed",
+        "https://bab.com/sports/feed",
+        "https://www.bab.com/sports/feed",
+        "https://bab.com/ksa/feed",
+        "https://www.bab.com/ksa/feed",
+        "https://bab.com/articles/feed",
+        "https://bab.com/cars/feed",
+        "https://bab.com/hwaa-world/feed",
+        "https://bab.com/islamics/feed",
+        "https://bab.com/technology/feed",
+        "https://bab.com/trektoday/feed",
+        "https://bab.com/varieties/feed",
+        "https://bab.com/wafiat/feed",
+        "https://www.bab.com/articles/feed",
+        "https://www.bab.com/cars/feed",
+        "https://www.bab.com/hwaa-world/feed",
+        "https://www.bab.com/islamics/feed",
+        "https://www.bab.com/technology/feed",
+        "https://www.bab.com/trektoday/feed",
+        "https://www.bab.com/varieties/feed",
+        "https://www.bab.com/wafiat/feed",
+        "https://bab.com/health/feed",
+        "https://www.bab.com/health/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:13.999Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "arabnews.com": {
+      "urls": [
+        "https://www.arabnews.com/rss.xml",
+        "https://www.arabnews.com/cat/3/rss.xml",
+        "https://www.arabnews.com/cat/2/rss.xml",
+        "https://www.arabnews.com/cat/5/rss.xml",
+        "https://www.arabnews.com/cat/1/rss.xml",
+        "https://www.arabnews.com/cat/4/rss.xml",
+        "https://www.arabnews.com/cat/8/rss.xml",
+        "https://www.arabnews.com/cat/38/rss.xml",
+        "https://www.arabnews.com/cat/47/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:11.766Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "aleqt.com": {
+      "urls": [
+        "https://www.aleqt.com/feed/rss_section/frontpage",
+        "https://www.aleqt.com/feed/rss_section/aswaq",
+        "https://www.aleqt.com/feed/rss_section/realestate",
+        "https://www.aleqt.com/feed/rss_section/online",
+        "https://www.aleqt.com/feed/rss_section/sport"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:48.958Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "slaati.com": {
+      "urls": [
+        "https://slaati.com/feed",
+        "http://slaati.com/feed",
+        "http://www.slaati.com/feed",
+        "https://slaati.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:33.180Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "alhayat.com": {
+      "urls": [
+        "https://alhayat.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:21.426Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "english.alarabiya.net": {
+      "urls": [
+        "https://english.alarabiya.net/.mrss/en.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:26:23.852Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "goal.com": {
+      "urls": [
+        "https://www.goal.com/feeds/en/news"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-02-01T14:26:53.192Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

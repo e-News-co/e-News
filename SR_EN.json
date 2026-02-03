@@ -1,0 +1,289 @@
+{
+  "country_code": "SR",
+  "language_code": "EN",
+  "total_domains": 17,
+  "total_feeds": 43,
+  "feeds": {
+    "gfcnieuws.com": {
+      "urls": [
+        "https://www.gfcnieuws.com/feed/",
+        "https://www.gfcnieuws.com/category/nieuws/feed/",
+        "https://www.gfcnieuws.com/category/suriname/feed/",
+        "https://www.gfcnieuws.com/category/nieuws/suriname/feed/",
+        "https://www.gfcnieuws.com/category/lifestyle/feed/",
+        "https://www.gfcnieuws.com/category/opinie/feed/",
+        "https://www.gfcnieuws.com/category/gezondheid/feed/",
+        "https://www.gfcnieuws.com/category/nederland/feed/",
+        "https://www.gfcnieuws.com/category/entertainment/feed/",
+        "https://www.gfcnieuws.com/category/opmerkelijk/feed/",
+        "https://feeds.feedburner.com/gfcnieuws/alleberichten"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1238,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:49.632Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dwtonline.com": {
+      "urls": [
+        "https://dwtonline.com/feed/",
+        "http://dwtonline.com/rss/rss-feed-twitter/",
+        "http://dwtonline.com/rss/rss-feed/",
+        "http://www.dwtonline.com/rss/rss-feed-twitter/",
+        "http://dwtonline.com/rss/rss-20/",
+        "http://www.dwtonline.com/rss/rss-20/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1116,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:43.838Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "unitednews.sr": {
+      "urls": [
+        "https://unitednews.sr/feed/",
+        "https://unitednews.sr/category/news/feed/",
+        "https://unitednews.sr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1960,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:53.760Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "surinametimes.com": {
+      "urls": [
+        "https://www.surinametimes.com/feed/",
+        "http://www.surinametimes.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 79,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:44.443Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "waterkant.net": {
+      "urls": [
+        "https://www.waterkant.net/feed/",
+        "https://www.waterkant.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1658,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:51.797Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "parbode.com": {
+      "urls": [
+        "https://www.parbode.com/feed/",
+        "https://www.parbode.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2086,
+        "category": "general",
+        "last_checked": "2026-02-01T16:14:13.766Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "surinameview.com": {
+      "urls": [
+        "https://www.surinameview.com/feed/",
+        "https://www.surinameview.com/category/blogs/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2787,
+        "category": "general",
+        "last_checked": "2026-02-01T16:14:04.556Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "culturu.com": {
+      "urls": [
+        "https://www.culturu.com/feed/",
+        "https://www.culturu.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3433,
+        "category": "general",
+        "last_checked": "2026-02-01T16:14:07.991Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "atv.sr": {
+      "urls": [
+        "https://atv.sr/feed/",
+        "http://www.atv.sr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3562,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:30.835Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "apintie.sr": {
+      "urls": [
+        "https://feeds.feedburner.com/ApintieTV"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-02-01T16:14:11.678Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "keynews.sr": {
+      "urls": [
+        "https://keynews.sr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1138,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:59.908Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "starnieuws.com": {
+      "urls": [
+        "https://www.starnieuws.com/rss/starnieuws.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1536,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:48.329Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "srherald.com": {
+      "urls": [
+        "https://www.srherald.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1836,
+        "category": "general",
+        "last_checked": "2026-02-01T16:14:01.744Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "stvs.sr": {
+      "urls": [
+        "https://stvs.sr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2664,
+        "category": "general",
+        "last_checked": "2026-02-01T16:14:10.655Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "radio10.sr": {
+      "urls": [
+        "http://www.radio10.sr/feed",
+        "https://www.radio10.sr/feed",
+        "https://www.radio10.sr/comments/feed",
+        "http://www.radio10.sr/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:41.370Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dbsuriname.com": {
+      "urls": [
+        "https://www.dbsuriname.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:40.858Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dagbladdewest.com": {
+      "urls": [
+        "https://dagbladdewest.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:46.793Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

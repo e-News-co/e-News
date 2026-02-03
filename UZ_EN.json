@@ -1,0 +1,45 @@
+{
+  "country_code": "UZ",
+  "language_code": "EN",
+  "total_domains": 2,
+  "total_feeds": 9,
+  "feeds": {
+    "pv.uz": {
+      "urls": [
+        "https://www.pv.uz/uz/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:47.018Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2010,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:44.856Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "country_code": "VA",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 148,
+  "feeds": {
+    "vaticannews.va": {
+      "urls": [
+        "https://www.vaticannews.va/en/podcast/fratelli-tutti.podcast.xml",
+        "https://www.vaticannews.va/pt.rss.xml",
+        "https://www.vaticannews.va/it.rss.xml",
+        "https://www.vaticannews.va/es.rss.xml",
+        "https://www.vaticannews.va/en.rss.xml",
+        "https://www.vaticannews.va/fr.rss.xml",
+        "https://www.vaticannews.va/sk.rss.xml",
+        "https://www.vaticannews.va/en/podcast/english-podcast.podcast.xml",
+        "https://www.vaticannews.va/en/podcast/from-tourist-to-pilgrim.podcast.xml",
+        "https://www.vaticannews.va/en/podcast/gospel-truth.podcast.xml",
+        "https://www.vaticannews.va/en/podcast/the-voice-of-the-pope.podcast.xml",
+        "https://www.vaticannews.va/en/podcast/the-young-vatican.podcast.xml",
+        "https://www.vaticannews.va/en/podcast/vatican-radio-news-in-latin.podcast.xml",
+        "https://www.vaticannews.va/en/podcast/vatican-viewpoint.podcast.xml",
+        "https://www.vaticannews.va/en/podcast/english-for-africa.podcast.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 916,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:57.150Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "en.wikipedia.org": {
+      "urls": [
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=1&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Blog&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=RSS&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Category:Blogs&action=feedrecentchanges&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 717,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:54.476Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fides.org": {
+      "urls": [
+        "https://www.fides.org/it/news/rss",
+        "http://fides.org/it/news/rss",
+        "http://www.fides.org/en/news/rss",
+        "http://www.fides.org/es/news/rss",
+        "http://www.fides.org/fr/news/rss",
+        "http://www.fides.org/it/news/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1468,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:48.958Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.bbc.co.uk": {
+      "urls": [
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/americas/country_profiles/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/asia-pacific/country_profiles/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/europe/country_profiles/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 517,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:53.252Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vatican.va": {
+      "urls": [
+        "https://rss.vatican.va/xml/rss_it.xml",
+        "https://rss.vatican.va/xml/rss_it.xml?l=en",
+        "http://rss.vatican.va/xml/rss_it.xml",
+        "http://rss.vatican.va/xml/rss_it.xml?l=en"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1197,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:52.430Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "osservatoreromano.va": {
+      "urls": [
+        "https://www.osservatoreromano.va/en.rss.xml",
+        "https://www.osservatoreromano.va/es.rss.xml",
+        "https://www.osservatoreromano.va/it.rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1435,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:51.231Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zenit.org": {
+      "urls": [
+        "https://zenit.org/feed/",
+        "https://zenit.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 834,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:49.794Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "insidethevatican.com": {
+      "urls": [
+        "https://insidethevatican.com/feed/",
+        "https://insidethevatican.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1317,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:56.039Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lastampa.it": {
+      "urls": [
+        "http://feed.lastampa.it/webtv.rss",
+        "http://feed.lastampa.it/viaggi.rss",
+        "http://feed.lastampa.it/notizie_principali.rss",
+        "http://feed.lastampa.it/motori.rss",
+        "http://feed.lastampa.it/societa.rss",
+        "http://feed.lastampa.it/aosta.rss",
+        "http://feed.lastampa.it/tuttolibrirecensioni.rss",
+        "http://feed.lastampa.it/cronache.rss",
+        "http://feed.lastampa.it/esteri.rss",
+        "http://feed.lastampa.it/Homepage.rss",
+        "http://feed.lastampa.it/economia.rss",
+        "http://feed.lastampa.it/tutti-i-contenuti-2.rss",
+        "http://feed.lastampa.it/tutti-i-contenuti.rss",
+        "http://feed.lastampa.it/sport.rss",
+        "https://www.lastampa.it/rss/copertina.xml",
+        "http://feed.lastampa.it/calcio.rss",
+        "http://feed.lastampa.it/imperia.rss",
+        "http://feed.lastampa.it/tecnologia.rss",
+        "http://feed.lastampa.it/alessandria.rss",
+        "http://feed.lastampa.it/novara.rss",
+        "http://feed.lastampa.it/cuneo.rss",
+        "http://feed.lastampa.it/salute.rss",
+        "http://feed.lastampa.it/tuttosalute.rss",
+        "http://feed.lastampa.it/asti.rss",
+        "http://feed.lastampa.it/costume.rss",
+        "http://feed.lastampa.it/politica.rss",
+        "http://feed.lastampa.it/spettacoli.rss",
+        "http://feed.lastampa.it/cultura.rss",
+        "http://feed.lastampa.it/qui-toro.rss",
+        "http://feed.lastampa.it/biella.rss",
+        "http://feed.lastampa.it/buongiorno.rss",
+        "http://feed.lastampa.it/jena.rss",
+        "http://feed.lastampa.it/mare.rss",
+        "http://feed.lastampa.it/milano.rss",
+        "http://feed.lastampa.it/musica.rss",
+        "http://feed.lastampa.it/vco.rss",
+        "http://feed.lastampa.it/arte.rss",
+        "http://feed.lastampa.it/aurora.rss",
+        "http://feed.lastampa.it/barca.rss",
+        "http://feed.lastampa.it/barriera-di-milano.rss",
+        "http://feed.lastampa.it/borgata-lesna.rss",
+        "http://feed.lastampa.it/borgo-po.rss",
+        "http://feed.lastampa.it/borgo-vittoria.rss",
+        "http://feed.lastampa.it/campidoglio.rss",
+        "http://feed.lastampa.it/casa.rss",
+        "http://feed.lastampa.it/cavoretto.rss",
+        "http://feed.lastampa.it/centro.rss",
+        "http://feed.lastampa.it/cit-turin.rss",
+        "http://feed.lastampa.it/crocetta.rss",
+        "http://feed.lastampa.it/cucina.rss",
+        "http://feed.lastampa.it/di-profilo.rss",
+        "http://feed.lastampa.it/e20.rss",
+        "http://feed.lastampa.it/editoriali.rss",
+        "http://feed.lastampa.it/falchera.rss",
+        "http://feed.lastampa.it/filadelfia.rss",
+        "http://feed.lastampa.it/giochi.rss",
+        "http://feed.lastampa.it/i-tuoi-diritti.rss",
+        "http://feed.lastampa.it/il-perche.rss",
+        "http://feed.lastampa.it/la-risposta-del-cuore.rss",
+        "http://feed.lastampa.it/la-stampa-in-english.rss",
+        "http://feed.lastampa.it/la-zampa.rss",
+        "http://feed.lastampa.it/lettere-al-direttore.rss",
+        "http://feed.lastampa.it/lingotto.rss",
+        "http://feed.lastampa.it/madonna-di-campagna.rss",
+        "http://feed.lastampa.it/mamme.rss",
+        "http://feed.lastampa.it/minima.rss",
+        "http://feed.lastampa.it/mirafiori-sud.rss",
+        "http://feed.lastampa.it/moda.rss",
+        "http://feed.lastampa.it/montagna.rss",
+        "http://feed.lastampa.it/moto.rss",
+        "http://feed.lastampa.it/nizza-millefonti.rss",
+        "http://feed.lastampa.it/paesi-e-buoi.rss",
+        "http://feed.lastampa.it/parella.rss",
+        "http://feed.lastampa.it/pozzo-strada.rss",
+        "http://feed.lastampa.it/public-editor.rss",
+        "http://feed.lastampa.it/qui-inter.rss",
+        "http://feed.lastampa.it/qui-juve.rss",
+        "http://feed.lastampa.it/qui-milan.rss",
+        "http://feed.lastampa.it/qui-napoli.rss",
+        "http://feed.lastampa.it/qui-novara.rss",
+        "http://feed.lastampa.it/roma.rss",
+        "http://feed.lastampa.it/san-donato.rss",
+        "http://feed.lastampa.it/san-paolo.rss",
+        "http://feed.lastampa.it/san-salvario.rss",
+        "http://feed.lastampa.it/santa-rita.rss",
+        "http://feed.lastampa.it/savona.rss",
+        "http://feed.lastampa.it/scuola.rss",
+        "http://feed.lastampa.it/secondo-me.rss",
+        "http://feed.lastampa.it/torino.rss",
+        "http://feed.lastampa.it/tuttigusti.rss",
+        "http://feed.lastampa.it/tuttolibriinterviste.rss",
+        "http://feed.lastampa.it/tuttoscienze.rss",
+        "http://feed.lastampa.it/tuttosoldi.rss",
+        "http://feed.lastampa.it/vallette.rss",
+        "http://feed.lastampa.it/vercelli.rss",
+        "http://feed.lastampa.it/vi_eng.rss",
+        "http://feed.lastampa.it/vi_esp.rss",
+        "http://feed.lastampa.it/vi_ita.rss",
+        "http://feed.lastampa.it/villaretto.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T21:29:59.817Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

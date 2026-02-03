@@ -1,0 +1,832 @@
+{
+  "country_code": "UA",
+  "language_code": "EN",
+  "total_domains": 46,
+  "total_feeds": 180,
+  "feeds": {
+    "tsn.ua": {
+      "urls": [
+        "https://tsn.ua/rss",
+        "https://tsn.ua/rss/full.rss",
+        "https://tsn.ua/ru/rss/full.rss",
+        "https://tsn.ua/rss/sport_new.rss",
+        "https://tsn.ua/rss/groshi/",
+        "https://tsn.ua/rss/tsikavinki",
+        "https://tsn.ua/rss/tsikavinki/",
+        "https://tsn.ua/rss/groshi",
+        "https://tsn.ua/rss/nauka_it",
+        "https://tsn.ua/rss/zdorovya",
+        "https://tsn.ua/rss/nauka_it/",
+        "https://tsn.ua/rss/zdorovya/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 504,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:27.295Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zn.ua": {
+      "urls": [
+        "https://zn.ua/export.rss",
+        "https://zn.ua/rss/full.rss",
+        "https://zn.ua/rss/full/",
+        "https://zn.ua/ukr/rss/full.rss",
+        "https://zn.ua/ukr/rss/full/",
+        "https://zn.ua/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 870,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:12.037Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kontrakty.ua": {
+      "urls": [
+        "http://kontrakty.ua/feed/_rss",
+        "https://kontrakty.ua/feed/_rss",
+        "http://kontrakty.ua/feed/.ukrnet",
+        "http://kontrakty.ua/feed/important",
+        "https://kontrakty.ua/feed/.ukrnet",
+        "https://kontrakty.ua/feed/important"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2763,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:13.470Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eurointegration.com.ua": {
+      "urls": [
+        "https://www.eurointegration.com.ua/rss/",
+        "https://www.eurointegration.com.ua/rss/view_news/",
+        "https://www.eurointegration.com.ua/rus/rss/",
+        "https://www.eurointegration.com.ua/rss/view_mainnews/",
+        "https://www.eurointegration.com.ua/rss/view_pubs/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1227,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:37.946Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sport.ua": {
+      "urls": [
+        "https://sport.ua/rss/all",
+        "https://sport.ua/uk/rss/all",
+        "https://sport.ua/rss/football",
+        "https://sport.ua/rss/supertop"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1238,
+        "category": "sports",
+        "last_checked": "2026-02-01T18:28:49.837Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "molbuk.ua": {
+      "urls": [
+        "http://molbuk.ua/chernovtsy_news/rss.xml",
+        "https://molbuk.ua/rss.xml",
+        "http://molbuk.ua/rss.xml",
+        "https://molbuk.ua/blogi/blog-dar039i-levyckoi/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1681,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:47.358Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kreschatic.kiev.ua": {
+      "urls": [
+        "http://kreschatic.kiev.ua/rss.xml",
+        "https://kreschatic.kiev.ua/feed",
+        "http://kreschatic.kiev.ua/rss_news_ua.xml",
+        "https://kreschatic.kiev.ua/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3082,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:42.166Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "podrobnosti.ua": {
+      "urls": [
+        "https://podrobnosti.ua/rss/feed/?category=obschestvo",
+        "https://podrobnosti.ua/rss/feed/?category=tehno",
+        "https://podrobnosti.ua/rss/feed/?category=zdorove"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 807,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:35.798Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nvp.stu.cn.ua": {
+      "urls": [
+        "http://nvp.stu.cn.ua/gateway/plugin/WebFeedGatewayPlugin/atom",
+        "http://nvp.stu.cn.ua/gateway/plugin/WebFeedGatewayPlugin/rss",
+        "http://nvp.stu.cn.ua/gateway/plugin/WebFeedGatewayPlugin/rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1882,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:32.107Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "focus.ua": {
+      "urls": [
+        "https://focus.ua/modules/rss.php",
+        "https://focus.ua/uk/modules/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 305,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:38.253Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nv.ua": {
+      "urls": [
+        "https://nv.ua/rss/all.xml",
+        "https://nv.ua/ukr/rss/all.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 511,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:33.441Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "unian.ua": {
+      "urls": [
+        "https://rss.unian.net/site/news_ukr.rss",
+        "https://rss.unian.ua/site/gplay_119_ukr.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1488,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:57.907Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "glavcom.ua": {
+      "urls": [
+        "https://glavcom.ua/xml/rss.xml",
+        "https://glavcom.ua/xml/content/6694.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1495,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:34.989Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kiev.vgorode.ua": {
+      "urls": [
+        "https://vgorode.ua/yandex.xml",
+        "https://vgorode.ua/ukr/yandex.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1505,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:45.319Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zolotapektoral.te.ua": {
+      "urls": [
+        "http://zolotapektoral.te.ua/feed/",
+        "http://zolotapektoral.te.ua/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1534,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:17.567Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "prostory.net.ua": {
+      "urls": [
+        "http://prostory.net.ua/ua/?format=feed&type=atom",
+        "http://prostory.net.ua/ua/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2262,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:19.831Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "borysten.com.ua": {
+      "urls": [
+        "https://borysten.com.ua:443/index.php?format=feed&type=atom",
+        "https://borysten.com.ua:443/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2559,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:16.032Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "golos.com.ua": {
+      "urls": [
+        "http://www.golos.com.ua/rss/golos_ukraine.xml",
+        "https://www.golos.com.ua/rss/golos_ukraine.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2639,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:11.163Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ukurier.gov.ua": {
+      "urls": [
+        "https://ukurier.gov.ua/uk/feed/",
+        "http://ukurier.gov.ua/uk/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3244,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:16.132Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "english.nv.ua": {
+      "urls": [
+        "https://nv.ua/ukr/rss/all.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 391,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:54.818Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "facenews.ua": {
+      "urls": [
+        "https://www.facenews.ua/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 918,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:36.717Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bunews.com.ua": {
+      "urls": [
+        "https://businessukraine.ua/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 921,
+        "category": "business",
+        "last_checked": "2026-02-01T18:29:10.399Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kp.ua": {
+      "urls": [
+        "https://kp.ua/rss/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 938,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:17.621Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "football.ua": {
+      "urls": [
+        "https://football.ua/rss2.ashx"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1209,
+        "category": "sports",
+        "last_checked": "2026-02-01T18:28:51.046Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sobitie.com.ua": {
+      "urls": [
+        "https://sobitie.com.ua/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1230,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:48.588Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "armyinform.com.ua": {
+      "urls": [
+        "https://armyinform.com.ua/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1252,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:43.418Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "politik.org.ua": {
+      "urls": [
+        "https://www.politik.org.ua/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1332,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:33.439Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gothic.com.ua": {
+      "urls": [
+        "https://gothic.com.ua/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1433,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:09.478Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wz.lviv.ua": {
+      "urls": [
+        "https://wz.lviv.ua/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4147,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:26.790Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "segodnya.ua": {
+      "urls": [
+        "https://www.segodnya.ua/xml/rss/novosti-donbass.html",
+        "https://www.segodnya.ua/xml/rss/novosti-kiev.html",
+        "https://www.segodnya.ua/xml/rss/novosti-ukraine.html",
+        "https://www.segodnya.ua/xml/rss.xml",
+        "https://www.segodnya.ua/xml/rss",
+        "https://www.segodnya.ua/xml/rss/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:16.169Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ktm.ukma.edu.ua": {
+      "urls": [
+        "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/WebFeedGatewayPlugin/atom",
+        "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/AnnouncementFeedGatewayPlugin/atom",
+        "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/AnnouncementFeedGatewayPlugin/rss",
+        "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/WebFeedGatewayPlugin/rss2",
+        "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/WebFeedGatewayPlugin/rss",
+        "https://ktm.ukma.edu.ua/index.php/ktm/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:29.866Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "day.kyiv.ua": {
+      "urls": [
+        "https://day.kyiv.ua/uk/news-rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:16.681Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hromadske.ua": {
+      "urls": [
+        "https://hromadske.ua/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:31.979Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "champion.com.ua": {
+      "urls": [
+        "https://champion.com.ua/ukr/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:52.687Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "newsukraine.rbc.ua": {
+      "urls": [
+        "https://newsukraine.rbc.ua/static/rss/all.rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:54.427Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lvivtoday.com.ua": {
+      "urls": [
+        "http://www.lvivtoday.com.ua/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T18:29:08.043Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "censor.net": {
+      "urls": [
+        "https://assets.censor.net/rss/m.censor.net/rss_uk_news.xml",
+        "https://static.censor.net/censornet/rss/rss_uk_news.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_uk_news.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_ru_news.xml",
+        "https://assets.censor.net/rss/censor.net/rss_uk_news.xml",
+        "https://assets.censor.net/rss/censor.net/rss_ru_news.xml",
+        "https://static.censor.net/censornet/rss/rss_ru_news.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_ru_news.xml",
+        "https://assets.censor.net/rss/censor.net/rss_uk_events.xml",
+        "https://static.censor.net/censornet/rss/rss_uk_photo_news.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_uk_photo_news.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_uk_events.xml",
+        "https://static.censor.net/censornet/rss/rss_ru_photo_news.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_ru_photo_news.xml",
+        "https://static.censor.net/censornet/rss/rss_ru_video_news.xml",
+        "https://static.censor.net/censornet/rss/rss_uk_video_news.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_ru_video_news.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_uk_video_news.xml",
+        "https://static.censor.net/censornet/rss/rss_uk_events.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_uk_events.xml",
+        "https://static.censor.net/censornet/rss/rss_ru_events.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_ru_events.xml",
+        "https://static.censor.net/censornet/rss/rss_ru_blogs.xml",
+        "https://static.censor.net/censornet/rss/rss_uk_blogs.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_ru_blogs.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_uk_blogs.xml",
+        "https://assets.censor.net/rss/censor.net/rss_uk_photonews.xml",
+        "https://assets.censor.net/rss/censor.net/rss_ru_photonews.xml",
+        "https://assets.censor.net/rss/censor.net/rss_uk_videonews.xml",
+        "https://assets.censor.net/rss/censor.net/rss_ru_videonews.xml",
+        "https://assets.censor.net/rss/censor.net/rss_ru_events.xml",
+        "https://static.censor.net/censornet/rss/rss_ru_photoshops.xml",
+        "https://static.censor.net/censornet/rss/rss_uk_photoshops.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_ru_photoshops.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_uk_photoshops.xml",
+        "https://static.censor.net/censornet/rss/rss_ru_resonance.xml",
+        "https://static.censor.net/censornet/rss/rss_uk_resonance.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_ru_resonance.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_uk_resonance.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_ru_events.xml",
+        "https://static.censor.net/censornet/rss/rss_ru_forum.xml",
+        "https://static.censor.net/censornet/rss/rss_uk_forum.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_ru_forum.xml",
+        "https://static.censor.net/censornet_mobile/rss/rss_uk_forum.xml",
+        "https://assets.censor.net/rss/censor.net/rss_ru_blogs.xml",
+        "https://assets.censor.net/rss/censor.net/rss_uk_blogs.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_ru_blogs.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_uk_blogs.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_ru_photoshops.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_uk_photoshops.xml",
+        "https://assets.censor.net/rss/censor.net/rss_ru_photoshops.xml",
+        "https://assets.censor.net/rss/censor.net/rss_uk_photoshops.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_ru_forum.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_uk_forum.xml",
+        "https://assets.censor.net/rss/censor.net/rss_ru_resonance.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_ru_resonance.xml",
+        "https://assets.censor.net/rss/m.censor.net/rss_uk_resonance.xml",
+        "https://assets.censor.net/rss/censor.net/rss_ru_forum.xml",
+        "https://assets.censor.net/rss/censor.net/rss_uk_forum.xml",
+        "https://assets.censor.net/rss/censor.net/rss_uk_resonance.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 610,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:29.655Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "obozrevatel.com": {
+      "urls": [
+        "https://www.obozrevatel.com/out/rss/lastnews.xml",
+        "https://www.obozrevatel.com/ukr/out/rss/lastnews.xml",
+        "https://eng.obozrevatel.com/api/media/out/rss/lastnews.xml",
+        "https://www.obozrevatel.com/rss.xml",
+        "https://life.obozrevatel.com/api/media/out/rss/lastnews.xml",
+        "https://pol.obozrevatel.com/api/media/out/rss/lastnews.xml",
+        "https://life.obozrevatel.com/ukr/api/media/out/rss/lastnews.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1126,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:28.423Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gordonua.com": {
+      "urls": [
+        "https://gordonua.com/xml/rss.html",
+        "https://gordonua.com/ukr/xml/rss.html",
+        "https://gordonua.com/xml/rss.xml",
+        "https://gordonua.com/ukr/xml/rss.xml",
+        "https://gordonua.com/xml/rss_category/politics.html",
+        "https://gordonua.com/xml/rss_category/top.html"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 827,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:32.928Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ukranews.com": {
+      "urls": [
+        "https://ukranews.com/rss/all_uk.xml",
+        "https://ukranews.com/rss/all_ru.xml",
+        "http://ukranews.com/rss/all_ru.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 303,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:58.245Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "euromaidanpress.com": {
+      "urls": [
+        "https://euromaidanpress.com/feed/",
+        "https://euromaidanpress.com/category/podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 917,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:56.417Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kyivindependent.com": {
+      "urls": [
+        "https://kyivindependent.com/news-archive/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1105,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:06.509Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "odnako.org": {
+      "urls": [
+        "https://www.odnako.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1183,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:59.428Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ukrinform.net": {
+      "urls": [
+        "https://www.ukrinform.net/rss/block-lastnews"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1739,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:08.248Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zaxid.net": {
+      "urls": [
+        "https://zaxid.net/rss/1.xml",
+        "https://zaxid.net/rss/16.xml",
+        "https://zaxid.net/rss/lviv_news.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T18:28:43.812Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ua-football.com": {
+      "urls": [
+        "https://www.ua-football.com/rss/all.xml",
+        "https://www.ua-football.com/rss/ua-football.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-02-01T18:28:52.370Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

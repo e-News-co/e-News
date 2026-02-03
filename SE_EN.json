@@ -1,0 +1,1385 @@
+{
+  "country_code": "SE",
+  "language_code": "EN",
+  "total_domains": 77,
+  "total_feeds": 299,
+  "feeds": {
+    "corren.se": {
+      "urls": [
+        "https://corren.se/rss/nyheter",
+        "https://www.corren.se/rss/nyheter",
+        "https://www.corren.se:443/rss/nyheter",
+        "https://www.corren.se/nyheter/varlden/rss/",
+        "https://www.corren.se:443/nyheter/varlden/rss/",
+        "https://www.corren.se/nyheter/sverige/rss/",
+        "https://www.corren.se:443/nyheter/sverige/rss/",
+        "https://www.corren.se/rss/utan/",
+        "https://www.corren.se:443/rss/utan/",
+        "https://www.corren.se/nyheter/rss/",
+        "https://www.corren.se:443/nyheter/rss/",
+        "https://www.corren.se/nyheter/linkoping/rss/",
+        "https://www.corren.se:443/nyheter/linkoping/rss/",
+        "https://www.corren.se/nyheter/ostergotland/rss/",
+        "https://www.corren.se:443/nyheter/ostergotland/rss/",
+        "https://www.corren.se/nyheter/motala/rss/",
+        "https://www.corren.se/sport/rss/",
+        "https://www.corren.se:443/nyheter/motala/rss/",
+        "https://www.corren.se:443/sport/rss/",
+        "https://www.corren.se/kultur-noje/rss/",
+        "https://www.corren.se:443/kultur-noje/rss/",
+        "https://www.corren.se/nyheter/kinda/rss/",
+        "https://www.corren.se/nyheter/mjolby/rss/",
+        "https://www.corren.se:443/nyheter/kinda/rss/",
+        "https://www.corren.se:443/nyheter/mjolby/rss/",
+        "https://www.corren.se/nyheter/atvidaberg/rss/",
+        "https://www.corren.se/sport/lhc/rss/",
+        "https://www.corren.se:443/nyheter/atvidaberg/rss/",
+        "https://www.corren.se:443/sport/lhc/rss/",
+        "https://www.corren.se/nyheter/vadstena/rss/",
+        "https://www.corren.se:443/nyheter/vadstena/rss/",
+        "https://www.corren.se/nyheter/boxholm/rss/",
+        "https://www.corren.se/nyheter/odeshog/rss/",
+        "https://www.corren.se:443/nyheter/boxholm/rss/",
+        "https://www.corren.se:443/nyheter/odeshog/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1128,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:49.266Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vt.se": {
+      "urls": [
+        "https://vt.se/rss/nyheter",
+        "https://www.vt.se/rss/nyheter",
+        "https://www.vt.se:443/rss/nyheter",
+        "https://www.vt.se/nyheter/rss/",
+        "https://www.vt.se:443/nyheter/rss/",
+        "https://www.vt.se/sport/rss/",
+        "https://www.vt.se:443/sport/rss/",
+        "https://www.vt.se/asikter/rss/",
+        "https://www.vt.se:443/asikter/rss/",
+        "https://www.vt.se/kultur-noje/rss/",
+        "https://www.vt.se:443/kultur-noje/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1124,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:05.889Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "helagotland.se": {
+      "urls": [
+        "https://helagotland.se/rss/nyheter",
+        "https://www.helagotland.se/rss/nyheter",
+        "https://www.helagotland.se:443/rss/nyheter",
+        "https://www.helagotland.se/lokala-nyheter/rss/",
+        "https://www.helagotland.se/nyheter/rss/",
+        "https://www.helagotland.se:443/lokala-nyheter/rss/",
+        "https://www.helagotland.se:443/nyheter/rss/",
+        "https://www.helagotland.se/kultur/rss/",
+        "https://www.helagotland.se/sport/rss/",
+        "https://www.helagotland.se:443/kultur/rss/",
+        "https://www.helagotland.se:443/sport/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1461,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:28.023Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ekuriren.se": {
+      "urls": [
+        "https://ekuriren.se/rss/nyheter",
+        "https://www.ekuriren.se/rss/nyheter",
+        "https://www.ekuriren.se:443/rss/nyheter",
+        "https://www.ekuriren.se/nyheter/rss/",
+        "https://www.ekuriren.se:443/nyheter/rss/",
+        "https://www.ekuriren.se/sport/rss/",
+        "https://www.ekuriren.se:443/sport/rss/",
+        "https://www.ekuriren.se/strangnas/rss/",
+        "https://www.ekuriren.se:443/strangnas/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1345,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:00.830Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dn.se": {
+      "urls": [
+        "https://www.dn.se/rss/",
+        "https://www.dn.se/rss/kultur/",
+        "https://www.dn.se/rss/sport/",
+        "https://www.dn.se/rss/ekonomi/",
+        "https://www.dn.se/rss/ledare/",
+        "https://www.dn.se/rss/debatt/",
+        "https://www.dn.se/rss/podd/",
+        "https://www.dn.se/rss/om/dn-podcast/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 593,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:29.352Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aftonbladet.se": {
+      "urls": [
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/nyheter",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/sportbladet",
+        "https://rss.aftonbladet.se/rss2/small/collections?tags=sweden-s-news-in-english",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/kultur",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/ledare",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/aftonbladet",
+        "https://rss.aftonbladet.se/rss2/small/pages/sections/nojesbladet",
+        "https://podcast.stream.schibsted.media/ab/1172"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1650,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:26.133Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sn.se": {
+      "urls": [
+        "https://sn.se/rss/nyheter",
+        "https://www.sn.se/nyheter/rss/",
+        "https://www.sn.se:443/nyheter/rss/",
+        "https://www.sn.se/rss/nyheter",
+        "https://www.sn.se:443/rss/nyheter",
+        "https://www.sn.se/sport/rss/",
+        "https://www.sn.se:443/sport/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1367,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:52.959Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vimmerbytidning.se": {
+      "urls": [
+        "https://vimmerbytidning.se/rss/nyheter",
+        "https://www.vimmerbytidning.se/nyheter/rss/",
+        "https://www.vimmerbytidning.se/rss/nyheter",
+        "https://www.vimmerbytidning.se:443/nyheter/rss/",
+        "https://www.vimmerbytidning.se:443/rss/nyheter",
+        "https://www.vimmerbytidning.se/sport/rss/",
+        "https://www.vimmerbytidning.se:443/sport/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1605,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:13.093Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kkuriren.se": {
+      "urls": [
+        "https://kkuriren.se/rss/nyheter",
+        "https://www.kkuriren.se/nyheter/rss/",
+        "https://www.kkuriren.se:443/nyheter/rss/",
+        "https://www.kkuriren.se/rss/nyheter",
+        "https://www.kkuriren.se:443/rss/nyheter",
+        "https://www.kkuriren.se/sport/rss/",
+        "https://www.kkuriren.se:443/sport/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1737,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:03.970Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "expressen.se": {
+      "urls": [
+        "https://feeds.expressen.se",
+        "https://feeds.expressen.se/nyheter/",
+        "https://feeds.expressen.se/sport/",
+        "https://feeds.expressen.se/noje/",
+        "https://feeds.expressen.se/kultur/",
+        "https://feeds.expressen.se/ledare/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 791,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:30.288Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dalademokraten.se": {
+      "urls": [
+        "https://www.dalademokraten.se/ettan.xml",
+        "https://www.dalademokraten.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.dalademokraten.se/feeds/feed.xml",
+        "https://www.dalademokraten.se/rss/?channel=Ledare",
+        "https://www.dalademokraten.se/feed",
+        "http://www.dalademokraten.se/rss/?channel=Ledare"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1226,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:38.743Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "norran.se": {
+      "urls": [
+        "https://www.norran.se/rss/lokalt",
+        "https://www.norran.se/feed/sport/",
+        "https://www.norran.se/feed/ekonomi/",
+        "https://www.norran.se/feed/hockeybloggen/",
+        "https://www.norran.se/feed/noje-kultur/",
+        "https://www.norran.se/feed/asikter/ledare/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1386,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:14.788Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vlt.se": {
+      "urls": [
+        "https://www.vlt.se/feeds/feed.xml",
+        "https://www.vlt.se/feed",
+        "https://www.vlt.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.vlt.se/ettan.xml",
+        "https://www.vlt.se/feeds/section/podcasts/feed.xml?via=rss-autodiscovery-section"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 885,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:21.528Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lt.se": {
+      "urls": [
+        "https://www.lt.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.lt.se/feeds/feed.xml",
+        "https://www.lt.se/feed",
+        "https://www.lt.se/ettan.xml",
+        "https://www.lt.se/feeds/section/podcasts/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 938,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:00.557Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "allehanda.se": {
+      "urls": [
+        "https://www.allehanda.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.allehanda.se/ettan.xml",
+        "https://www.allehanda.se/feed",
+        "https://www.allehanda.se/feeds/feed.xml",
+        "http://www.allehanda.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 966,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:51.134Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "na.se": {
+      "urls": [
+        "https://www.na.se/feeds/feed.xml",
+        "https://www.na.se/rss/rss.asp",
+        "https://www.na.se/feed",
+        "https://www.na.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.na.se/ettan.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1047,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:42.880Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "op.se": {
+      "urls": [
+        "https://www.op.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.op.se/feed",
+        "https://www.op.se/feeds/feed.xml",
+        "http://www.op.se/feed",
+        "https://www.op.se/ettan.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1285,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:31.659Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fagersta-posten.se": {
+      "urls": [
+        "https://www.fagersta-posten.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.fagersta-posten.se/ettan.xml",
+        "https://www.fagersta-posten.se/feeds/feed.xml",
+        "https://www.fagersta-posten.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 898,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:02.248Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nsk.se": {
+      "urls": [
+        "https://www.nsk.se/feeds/feed.xml",
+        "https://www.nsk.se/feed",
+        "https://www.nsk.se/feed/",
+        "https://www.nsk.se/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 974,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:57.864Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nynashamnsposten.se": {
+      "urls": [
+        "https://www.nynashamnsposten.se/feeds/feed.xml",
+        "https://www.nynashamnsposten.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.nynashamnsposten.se/feed",
+        "https://www.nynashamnsposten.se/ettan.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1117,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:44.154Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gd.se": {
+      "urls": [
+        "https://www.gd.se/feeds/feed.xml",
+        "https://www.gd.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.gd.se/feed",
+        "https://www.gd.se/ettan.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1158,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:08.743Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ltz.se": {
+      "urls": [
+        "https://www.ltz.se/ettan.xml",
+        "https://www.ltz.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.ltz.se/feeds/feed.xml",
+        "https://www.ltz.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1187,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:59.565Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tidningenharjedalen.se": {
+      "urls": [
+        "https://www.tidningenharjedalen.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.tidningenharjedalen.se/feed",
+        "https://www.tidningenharjedalen.se/feeds/feed.xml",
+        "https://www.tidningenharjedalen.se/ettan.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1281,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:51.292Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "trelleborgsallehanda.se": {
+      "urls": [
+        "https://www.trelleborgsallehanda.se/feeds/feed.xml",
+        "https://www.trelleborgsallehanda.se/feed",
+        "https://www.trelleborgsallehanda.se/feed/",
+        "http://www.trelleborgsallehanda.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1325,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:49.789Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nvp.se": {
+      "urls": [
+        "https://www.nvp.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.nvp.se/rss",
+        "http://www.nvp.se/rss",
+        "https://www.nvp.se/RSS"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1344,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:32.099Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "smp.se": {
+      "urls": [
+        "http://www.smp.se/feed",
+        "https://www.smp.se/feeds/feed.xml",
+        "https://www.smp.se/feed",
+        "https://www.smp.se/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1412,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:11.006Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "blt.se": {
+      "urls": [
+        "http://www.blt.se/feed",
+        "https://www.blt.se/feed/",
+        "https://www.blt.se/feeds/feed.xml",
+        "https://www.blt.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1424,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:29.574Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bt.se": {
+      "urls": [
+        "http://www.bt.se/feed",
+        "https://www.bt.se/feed/",
+        "https://www.bt.se/feeds/feed.xml",
+        "https://www.bt.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1611,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:37.226Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "arbetarbladet.se": {
+      "urls": [
+        "https://www.arbetarbladet.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.arbetarbladet.se/feeds/feed.xml",
+        "https://www.arbetarbladet.se/feed",
+        "https://www.arbetarbladet.se/ettan.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1677,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:27.835Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ystadsallehanda.se": {
+      "urls": [
+        "http://www.ystadsallehanda.se/feed",
+        "https://www.ystadsallehanda.se/feed/",
+        "https://www.ystadsallehanda.se/feeds/feed.xml",
+        "https://www.ystadsallehanda.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1698,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:47.553Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kristianstadsbladet.se": {
+      "urls": [
+        "https://www.kristianstadsbladet.se/feed/",
+        "http://www.kristianstadsbladet.se/feed",
+        "https://www.kristianstadsbladet.se/feeds/feed.xml",
+        "https://www.kristianstadsbladet.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1794,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:16.760Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "barometern.se": {
+      "urls": [
+        "http://www.barometern.se/feed",
+        "https://www.barometern.se/feed/",
+        "https://www.barometern.se/feeds/feed.xml",
+        "https://www.barometern.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2165,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:58.189Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "svd.se": {
+      "urls": [
+        "https://www.svd.se/feed/articles.rss",
+        "https://www.svd.se/?service=rss&type=senastenytt",
+        "https://www.svd.se/feed/articles/category/naringsliv.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 844,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:32.657Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dagen.se": {
+      "urls": [
+        "https://www.dagen.se/rss",
+        "https://www.dagen.se/arc/outboundfeeds/rss/",
+        "https://www.dagen.se/rss-allt?lab_viewport=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 847,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:28.756Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "unt.se": {
+      "urls": [
+        "https://www.unt.se/rss/lokalt",
+        "https://www.unt.se/nyheter/uppsala/rss-uppsala/",
+        "https://unt.se/rss/lokalt"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 852,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:07.976Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sydsvenskan.se": {
+      "urls": [
+        "https://www.sydsvenskan.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.sydsvenskan.se/rss/senastenytt",
+        "https://www.sydsvenskan.se/feeds/section/sport/feed.xml?via=rss-autodiscovery-section"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1039,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:33.719Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bblat.se": {
+      "urls": [
+        "https://www.bblat.se/feeds/feed.xml",
+        "https://www.bblat.se/ettan.xml",
+        "https://www.bblat.se/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1063,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:53.741Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "skovdenyheter.se": {
+      "urls": [
+        "https://www.skovdenyheter.se/feeds/feed.xml",
+        "https://www.skovdenyheter.se/rss",
+        "http://www.skovdenyheter.se/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1124,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:30.741Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dalabygden.se": {
+      "urls": [
+        "https://dalabygden.se/feed/",
+        "http://dalabygden.se/feed/",
+        "https://dalabygden.se/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1222,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:07.558Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "olandsbladet.se": {
+      "urls": [
+        "https://www.olandsbladet.se/feeds/feed.xml",
+        "https://www.olandsbladet.se/feed",
+        "https://www.olandsbladet.se/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1549,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:14.711Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ttela.se": {
+      "urls": [
+        "https://feeds.libsyn.com/214388/rss",
+        "https://ttela.libsyn.com/rss",
+        "https://feeds.acast.com/public/shows/679a24d265f7409510335b7b"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2176,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:47.145Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "flamman.se": {
+      "urls": [
+        "https://www.flamman.se/feed/",
+        "http://flamman.se/wp/feed/",
+        "https://www.flamman.se/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3145,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:06.217Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nwt.se": {
+      "urls": [
+        "https://www.nwt.se/feed/",
+        "https://www.nwt.se:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 709,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:44.927Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vf.se": {
+      "urls": [
+        "https://www.vf.se/feed/",
+        "https://www.vf.se:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 787,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:06.683Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "privataaffarer.se": {
+      "urls": [
+        "https://www.privataaffarer.se/feed/",
+        "https://www.privataaffarer.se/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 799,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:26.375Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nlt.se": {
+      "urls": [
+        "https://www.nlt.se/feed/",
+        "https://www.nlt.se:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 905,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:56.850Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hd.se": {
+      "urls": [
+        "https://www.hd.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.hd.se/rss/ettan/senaste.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 956,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:41.814Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sla.se": {
+      "urls": [
+        "https://www.sla.se/feed/",
+        "https://www.sla.se:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1029,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:55.932Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "arbetaren.se": {
+      "urls": [
+        "https://www.arbetaren.se/feed/",
+        "https://www.arbetaren.se/kategori/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1048,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:52.216Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "friatider.se": {
+      "urls": [
+        "https://www.friatider.se/rss.xml",
+        "https://www.friatider.se/taxonomy/term/2/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1067,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:24.498Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mariestadstidningen.se": {
+      "urls": [
+        "https://www.mariestadstidningen.se/feed/",
+        "https://www.mariestadstidningen.se:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1109,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:01.953Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jp.se": {
+      "urls": [
+        "https://www.jp.se/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.jp.se/feeds/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1158,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:11.215Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thelocal.se": {
+      "urls": [
+        "https://feeds.thelocal.com/rss/builder/se",
+        "https://feeds.thelocal.com"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1258,
+        "category": "local",
+        "last_checked": "2026-02-01T14:36:35.433Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eposten.se": {
+      "urls": [
+        "https://eposten.se/rss/",
+        "https://www.eposten.se/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1293,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:59.483Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nsd.se": {
+      "urls": [
+        "https://nsd.se/rss",
+        "https://www.nsd.se/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1329,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:44.211Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kt-kuriren.se": {
+      "urls": [
+        "https://www.kt-kuriren.se/feed/",
+        "https://www.kt-kuriren.se:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1553,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:45.715Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "abcnyheter.se": {
+      "urls": [
+        "https://www.abcnyheter.se/feed/",
+        "https://www.abcnyheter.se/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1713,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:18.987Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "magazin24.se": {
+      "urls": [
+        "https://www.magazin24.se/feed.xml?f=rss",
+        "https://magazin24.se/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1757,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:40.678Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "proletaren.se": {
+      "urls": [
+        "https://proletaren.se/feed/",
+        "http://proletaren.se/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1889,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:36.126Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dagenshandel.se": {
+      "urls": [
+        "https://www.dagenshandel.se/xml/rss2/articles",
+        "https://www.dagenshandel.se/xml/rss2/jobs"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2097,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:40.840Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vk.se": {
+      "urls": [
+        "https://feedern.vkmedia.se/vk/latest?page=0&format=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 718,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:47.863Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "falkopingstidning.se": {
+      "urls": [
+        "https://www.falkopingstidning.se/feeds/feed.xml?via=rss-autodiscovery"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 795,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:04.765Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vastgotabladet.se": {
+      "urls": [
+        "https://www.vastgotabladet.se/feeds/feed.xml?via=rss-autodiscovery"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 880,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:48.433Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "smalanningen.se": {
+      "urls": [
+        "https://www.smalanningen.se/feeds/feed.xml?via=rss-autodiscovery"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 962,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:53.921Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "skaraborgslanstidning.se": {
+      "urls": [
+        "https://www.skaraborgslanstidning.se/feeds/feed.xml?via=rss-autodiscovery"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 978,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:54.899Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "smt.se": {
+      "urls": [
+        "https://www.smt.se/feeds/feed.xml?via=rss-autodiscovery"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1106,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:09.849Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "8sidor.se": {
+      "urls": [
+        "https://8sidor.se/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1134,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:20.592Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tranastidning.se": {
+      "urls": [
+        "https://www.tranastidning.se/feeds/feed.xml?via=rss-autodiscovery"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1139,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:41.817Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vn.se": {
+      "urls": [
+        "https://www.vn.se/feeds/feed.xml?via=rss-autodiscovery"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1151,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:42.968Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vetlandaposten.se": {
+      "urls": [
+        "https://www.vetlandaposten.se/feeds/feed.xml?via=rss-autodiscovery"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1236,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:33.336Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lysekilsposten.se": {
+      "urls": [
+        "https://www.lysekilsposten.se/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1792,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:19.458Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hoglandsnytt.se": {
+      "urls": [
+        "http://www.hoglandsnytt.se/feed/",
+        "https://hoglandsnytt.se/feed/",
+        "https://hoglandsnytt.se/comments/feed/",
+        "http://www.hoglandsnytt.se/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:34.088Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "norrahalland.se": {
+      "urls": [
+        "https://norrahalland.se/feed/",
+        "https://norrahalland.se/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:17.666Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "omni.se": {
+      "urls": [
+        "https://omni.se/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:37:23.373Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "st.nu": {
+      "urls": [
+        "https://www.st.nu/feeds/feed.xml",
+        "https://www.st.nu/feeds/feed.xml?via=rss-autodiscovery",
+        "https://www.st.nu/feed",
+        "http://www.st.nu/feed",
+        "https://www.st.nu/ettan.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1131,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:09.371Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "avestatidning.com": {
+      "urls": [
+        "https://www.avestatidning.com/ettan.xml",
+        "https://www.avestatidning.com/feeds/feed.xml",
+        "https://www.avestatidning.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 922,
+        "category": "general",
+        "last_checked": "2026-02-01T14:36:55.257Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kuriren.nu": {
+      "urls": [
+        "https://www.kuriren.nu/noje/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T14:38:12.924Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

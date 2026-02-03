@@ -1,0 +1,400 @@
+{
+  "country_code": "ZM",
+  "language_code": "EN",
+  "total_domains": 20,
+  "total_feeds": 112,
+  "feeds": {
+    "zambia.co.zm": {
+      "urls": [
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Business",
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+        "https://zambia.co.zm/feed/",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Africa",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=Zambia",
+        "https://zambia.co.zm/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 484,
+        "category": "business",
+        "last_checked": "2026-02-01T23:01:30.834Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zambianfootball.co.zm": {
+      "urls": [
+        "https://zambianfootball.co.zm/feed/",
+        "https://zambianfootball.co.zm/comments/feed/",
+        "https://zambianfootball.co.zm/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1228,
+        "category": "sports",
+        "last_checked": "2026-02-01T23:01:29.914Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "daily-mail.co.zm": {
+      "urls": [
+        "http://www.daily-mail.co.zm/feed/",
+        "https://www.daily-mail.co.zm/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2385,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:14.242Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "znbc.co.zm": {
+      "urls": [
+        "https://www.znbc.co.zm/feed/",
+        "https://www.znbc.co.zm/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:16.920Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "allafrica.com": {
+      "urls": [
+        "https://allafrica.com/tools/headlines/rdf/nigeria/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/liberia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/kenya/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/uganda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ethiopia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/education/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ghana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/malawi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/namibia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/somalia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/rwanda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zimbabwe/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sudan/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tanzania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gambia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mozambique/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/morocco/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/senegal/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/botswana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/egypt/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tunisia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/angola/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/benin/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burundi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/capeverde/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/centralafricanrepublic/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/chad/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/commodities/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/comoros/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cotedivoire/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/djibouti/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/equatorialguinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eritrea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eswatini/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gabon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guineabissau/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/lesotho/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/libya/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/madagascar/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritius/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sierraleone/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/togo/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westernsahara/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zambia/headlines.rdf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1511,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:05.467Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1990,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:09.484Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zambianobserver.com": {
+      "urls": [
+        "https://zambianobserver.com/feed/",
+        "http://zambianobserver.com/feed/",
+        "https://www.zambianobserver.com/feed/",
+        "https://www.zambianobserver.com/comments/feed/",
+        "https://zambianobserver.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1795,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:28.683Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mwebantu.com": {
+      "urls": [
+        "https://www.mwebantu.com/feed/",
+        "https://mwebantu.com/feed/",
+        "https://mwebantu.com/comments/feed/",
+        "https://www.mwebantu.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1220,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:26.479Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tumfweko.com": {
+      "urls": [
+        "https://tumfweko.com/feed/",
+        "https://tumfweko.com/category/blog/feed/",
+        "https://tumfweko.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1119,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:11.377Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zambianpolitics.com": {
+      "urls": [
+        "https://www.zambianpolitics.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/2858056321380385476/posts/default",
+        "https://www.zambianpolitics.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1178,
+        "category": "politics",
+        "last_checked": "2026-02-01T23:01:42.121Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zambiawatchdog.com": {
+      "urls": [
+        "https://www.zambiawatchdog.com/feed/",
+        "https://www.zambiawatchdog.com/comments/feed/",
+        "https://www.zambiawatchdog.com/zambian-watchdog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1395,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:18.496Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zambianews365.com": {
+      "urls": [
+        "https://zambianews365.com/feed/",
+        "https://zambianews365.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 929,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:35.186Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lusakatimes.com": {
+      "urls": [
+        "https://www.lusakatimes.com/feed/",
+        "https://www.lusakatimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1868,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:07.489Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zambiainvest.com": {
+      "urls": [
+        "https://www.zambiainvest.com/feed/",
+        "http://www.zambiainvest.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1881,
+        "category": "business",
+        "last_checked": "2026-02-01T23:01:37.896Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zambianeye.com": {
+      "urls": [
+        "https://zambianeye.com/feed/",
+        "https://zambianeye.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2249,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:24.997Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diggers.news": {
+      "urls": [
+        "https://diggers.news/feed/",
+        "https://diggers.news/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3941,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:22.439Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "postzambia.com": {
+      "urls": [
+        "http://postzambia.com/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 666,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:10.150Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "openzambia.com": {
+      "urls": [
+        "https://www.openzambia.com/index-rally?format=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 822,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:38.718Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lusakavoice.com": {
+      "urls": [
+        "https://lusakavoice.com/feed/",
+        "https://www.lusakavoice.com/feed/",
+        "https://lusakavoice.com/comments/feed/",
+        "https://www.lusakavoice.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:33.010Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "theglobeonline.news": {
+      "urls": [
+        "http://theglobeonline.news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T23:01:40.356Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

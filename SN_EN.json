@@ -1,0 +1,556 @@
+{
+  "country_code": "SN",
+  "language_code": "EN",
+  "total_domains": 32,
+  "total_feeds": 100,
+  "feeds": {
+    "teranganews.sn": {
+      "urls": [
+        "https://teranganews.sn/feed/",
+        "http://teranganews.sn/feed/",
+        "http://teranganews.sn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1347,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:02.852Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aps.sn": {
+      "urls": [
+        "https://aps.sn/feed/",
+        "http://www.aps.sn/spip.php?page=backend"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1478,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:14.766Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lesoleil.sn": {
+      "urls": [
+        "http://lesoleil.sn/feed/",
+        "http://lesoleil.sn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3780,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:23.468Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "actusen.sn": {
+      "urls": [
+        "https://actusen.sn/feed/",
+        "https://actusen.sn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:01.487Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "igfm.sn": {
+      "urls": [
+        "https://www.igfm.sn/feed",
+        "https://www.igfm.sn/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:26.975Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rts.sn": {
+      "urls": [
+        "http://www.rts.sn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:24.325Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "xalimasn.com": {
+      "urls": [
+        "https://xalimasn.com/feed/",
+        "https://xalimasn.com/category/video-television-tv-audio-podcasts/feed/",
+        "https://www.xalimasn.com/feed/",
+        "https://xalimasn.com/comments/feed/",
+        "https://www.xalimasn.com/rubrique/politique/blog/feed/",
+        "https://www.xalimasn.com/rubrique/politique/podcasts/feed/",
+        "https://www.xalimasn.com/rubrique/politique/podcasts/revuesdelapresse/feed/",
+        "https://www.xalimasn.com/rubrique/politique/podcasts/radiosfm/feed/",
+        "https://www.xalimasn.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1052,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:19.641Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "senenews.com": {
+      "urls": [
+        "https://www.senenews.com/feed",
+        "https://www.senenews.com/rss/rss-all.xml",
+        "https://www.senenews.com/rssgen/rss-all.xml",
+        "https://www.senenews.com/partagez-lactualite-de-senenews-sur-votre-site-web-ou-votre-blog/feed",
+        "https://www.senenews.com/en/feed",
+        "https://www.senenews.com/comments/feed",
+        "https://www.senenews.com/en/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1164,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:45.387Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rewmi.com": {
+      "urls": [
+        "https://rewmi.com/feed/",
+        "https://www.rewmi.com/feed/",
+        "http://rewmi.com/feed/",
+        "https://rewmi.com/comments/feed/",
+        "https://www.rewmi.com/comments/feed/",
+        "http://rewmi.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1660,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:18.397Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jollofnews.com": {
+      "urls": [
+        "https://www.jollofnews.com/feed/",
+        "https://aksi.in.net/feed/",
+        "https://cboeclear.eu.com/feed/",
+        "https://n8o9p0.uk.com/feed/",
+        "https://zksync.us.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1573,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:16.341Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "socialnetlink.org": {
+      "urls": [
+        "https://www.socialnetlink.org/feed/atom/",
+        "https://www.socialnetlink.org/feed/",
+        "http://www.socialnetlink.org/feed/",
+        "https://www.socialnetlink.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2738,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:35.804Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dakaractu.com": {
+      "urls": [
+        "https://www.dakaractu.com/index.php?preaction=rss",
+        "https://www.dakaractu.com/xml/atom.xml",
+        "https://www.dakaractu.com/xml/syndication.rss",
+        "https://www.dakaractu.com/xml/podcast.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3731,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:40.034Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "setal.net": {
+      "urls": [
+        "https://www.setal.net/xml/atom.xml",
+        "https://www.setal.net/index.php?preaction=rss",
+        "https://www.setal.net/xml/syndication.rss",
+        "https://www.setal.net/xml/podcast.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4019,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:06.872Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pressafrik.com": {
+      "urls": [
+        "https://www.pressafrik.com/xml/atom.xml",
+        "https://www.pressafrik.com/index.php?preaction=rss",
+        "https://www.pressafrik.com/xml/syndication.rss",
+        "https://www.pressafrik.com/xml/podcast.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4164,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:28.829Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "enqueteplus.com": {
+      "urls": [
+        "https://enqueteplus.com/rss.xml",
+        "https://www.enqueteplus.com/rss.xml",
+        "http://www.enqueteplus.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1097,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:24.662Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ndarinfo.com": {
+      "urls": [
+        "https://www.ndarinfo.com/index.php?preaction=rss",
+        "https://www.ndarinfo.com/xml/atom.xml",
+        "https://www.ndarinfo.com/xml/syndication.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3924,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:53.535Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dakarmidi.net": {
+      "urls": [
+        "https://www.dakarmidi.net/feed/",
+        "https://www.dakarmidi.net/category/blog/feed/",
+        "https://www.dakarmidi.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4011,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:17.512Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "leral.net": {
+      "urls": [
+        "https://www.leral.net/index.php?preaction=rss",
+        "https://www.leral.net/xml/atom.xml",
+        "https://www.leral.net/xml/syndication.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4188,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:44.223Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wiwsport.com": {
+      "urls": [
+        "https://wiwsport.com/feed/",
+        "https://wiwsport.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 561,
+        "category": "sports",
+        "last_checked": "2026-02-01T15:47:36.543Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kewoulo.info": {
+      "urls": [
+        "https://kewoulo.info/feed/",
+        "https://kewoulo.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 970,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:49.610Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "seneplus.com": {
+      "urls": [
+        "https://www.seneplus.com/rss.xml",
+        "https://www.seneplus.com/femmes/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1083,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:48.637Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "metrodakar.net": {
+      "urls": [
+        "https://www.metrodakar.net/feed/",
+        "https://www.metrodakar.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1122,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:18.636Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "koldanews.com": {
+      "urls": [
+        "https://www.koldanews.com/feed",
+        "https://www.koldanews.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1292,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:08.438Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "senegaldirect.com": {
+      "urls": [
+        "https://senegaldirect.com/feed/",
+        "https://senegaldirect.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1426,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:59.114Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "laviesenegalaise.com": {
+      "urls": [
+        "https://laviesenegalaise.com/feed/",
+        "https://laviesenegalaise.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2060,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:32.932Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "senegal7.com": {
+      "urls": [
+        "https://senegal7.com/feed/",
+        "https://senegal7.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2392,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:55.937Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lejecos.com": {
+      "urls": [
+        "https://www.lejecos.com/xml/atom.xml",
+        "https://www.lejecos.com/xml/syndication.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3836,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:30.816Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "senego.com": {
+      "urls": [
+        "https://senego.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1157,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:31.046Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dakarmatin.com": {
+      "urls": [
+        "https://www.dakarmatin.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1611,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:57.548Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vipeoples.net": {
+      "urls": [
+        "https://www.vipeoples.net/index.php?preaction=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3718,
+        "category": "general",
+        "last_checked": "2026-02-01T15:47:40.261Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "walf-groupe.com": {
+      "urls": [
+        "https://walf-groupe.com/feed/",
+        "https://walf-groupe.com/blog/category/societe/feed/",
+        "http://www.walf-groupe.com/feed/",
+        "https://walf-groupe.com/blog/tag/parrainage/feed/",
+        "https://walf-groupe.com/blog/category/derniere-minute/feed/",
+        "https://walf-groupe.com/blog/tag/election-presidentielle/feed/",
+        "https://walf-groupe.com/blog/tag/listes-electorales/feed/",
+        "https://walf-groupe.com/blog/tag/macky-sall/feed/",
+        "https://walf-groupe.com/blog/tag/ousmane-sonko/feed/",
+        "https://walf-groupe.com/comments/feed/",
+        "http://www.walf-groupe.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:18.555Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "seneweb.com": {
+      "urls": [
+        "https://www.seneweb.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T15:46:29.889Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

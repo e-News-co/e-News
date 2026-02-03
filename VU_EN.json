@@ -1,0 +1,26 @@
+{
+  "country_code": "VU",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 4,
+  "feeds": {
+    "en.wikipedia.org": {
+      "urls": [
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 368,
+        "category": "general",
+        "last_checked": "2026-02-01T22:04:43.379Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

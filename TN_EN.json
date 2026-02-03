@@ -1,0 +1,372 @@
+{
+  "country_code": "TN",
+  "language_code": "EN",
+  "total_domains": 21,
+  "total_feeds": 70,
+  "feeds": {
+    "tunisien.tn": {
+      "urls": [
+        "https://www.tunisien.tn/feed",
+        "http://www.tunisien.tn/feed",
+        "http://tunisien.tn/feed",
+        "https://www.tunisien.tn/comments/feed",
+        "http://www.tunisien.tn/comments/feed",
+        "http://tunisien.tn/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 866,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:58.457Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "realites.com.tn": {
+      "urls": [
+        "https://www.realites.com.tn/feed/",
+        "https://realites.com.tn/fr/feed/atom/",
+        "https://realites.com.tn/feed/",
+        "https://realites.com.tn/fr/feed/",
+        "https://www.realites.com.tn/comments/feed/",
+        "https://realites.com.tn/fr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1922,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:31.113Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "journalistesfaxien.tn": {
+      "urls": [
+        "https://www.journalistesfaxien.tn/feed/",
+        "https://journalistesfaxien.tn/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2127,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:45.347Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "radiotunisienne.tn": {
+      "urls": [
+        "https://www.radiotunisienne.tn/articles/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1532,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:59.989Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "webdo.tn": {
+      "urls": [
+        "https://www.webdo.tn/fr/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2253,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:34.595Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "leaders.com.tn": {
+      "urls": [
+        "https://www.leaders.com.tn/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4646,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:52.860Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "assabah.com.tn": {
+      "urls": [
+        "http://www.assabah.com.tn/rss-feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:21.513Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kapitalis.com": {
+      "urls": [
+        "https://kapitalis.com/anbaa-tounes/feed/",
+        "https://kapitalis.com/tunisie/feed/",
+        "http://kapitalis.com/tunisie/feed/",
+        "https://kapitalis.com/anbaa-tounes/comments/feed/",
+        "https://kapitalis.com/tunisie/comments/feed/",
+        "http://kapitalis.com/tunisie/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1839,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:28.554Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "assarih.com": {
+      "urls": [
+        "https://www.assarih.com/feed/",
+        "https://www.assarih.com/flux_rss.xml",
+        "https://assarih.com/feed/",
+        "https://www.assarih.com/comments/feed/",
+        "https://assarih.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1428,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:42.790Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tunisiefocus.com": {
+      "urls": [
+        "https://www.tunisiefocus.com/feed/",
+        "http://www.tunisiefocus.com/feed/",
+        "http://www.tunisiefocus.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1109,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:32.342Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nawaat.org": {
+      "urls": [
+        "https://nawaat.org/feed/",
+        "https://nawaat.org/comments/feed/",
+        "https://nawaat.org/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1327,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:57.589Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tekiano.com": {
+      "urls": [
+        "https://www.tekiano.com/feed/",
+        "http://www.tekiano.com/feed/",
+        "https://www.tekiano.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1469,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:56.240Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "africanmanager.com": {
+      "urls": [
+        "https://africanmanager.com/feed/",
+        "http://africanmanager.com/feed/",
+        "https://africanmanager.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1643,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:40.129Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "directinfo.webmanagercenter.com": {
+      "urls": [
+        "https://directinfo.webmanagercenter.com/feed/",
+        "http://directinfo.webmanagercenter.com/feed/",
+        "https://directinfo.webmanagercenter.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3480,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:38.485Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mosaiquefm.net": {
+      "urls": [
+        "https://www.mosaiquefm.net/ar/rss",
+        "https://www.mosaiquefm.net/fr/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 613,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:00.603Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "espacemanager.com": {
+      "urls": [
+        "https://espacemanager.com/rss.xml",
+        "https://www.espacemanager.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1515,
+        "category": "science",
+        "last_checked": "2026-02-01T17:14:54.563Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "babnet.net": {
+      "urls": [
+        "https://babnet.net/feed.php",
+        "https://www.babnet.net/feed.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1837,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:26.714Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alchourouk.com": {
+      "urls": [
+        "http://alchourouk.com/rss",
+        "https://www.alchourouk.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2134,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:24.876Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kawarji.com": {
+      "urls": [
+        "https://www.kawarji.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1328,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:48.214Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "turess.com": {
+      "urls": [
+        "https://www.turess.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1539,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:46.886Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nessma.tv": {
+      "urls": [
+        "https://www.nessma.tv/ar/rss/news/30",
+        "https://www.nessma.tv/ar/rss/news/31",
+        "https://www.nessma.tv/ar/rss/news/26",
+        "https://www.nessma.tv/ar/rss/news/27",
+        "https://www.nessma.tv/ar/rss/news/32",
+        "https://www.nessma.tv/ar/rss/news/44",
+        "https://www.nessma.tv/ar/rss/news/28",
+        "https://www.nessma.tv/ar/rss/news/43",
+        "https://www.nessma.tv/ar/rss/news/24",
+        "https://www.nessma.tv/ar/rss/news/25",
+        "https://www.nessma.tv/ar/rss/news/38",
+        "https://www.nessma.tv/ar/rss/news/41",
+        "https://www.nessma.tv/ar/rss/news/42",
+        "https://www.nessma.tv/ar/rss/news/46",
+        "https://www.nessma.tv/ar/rss/news/47",
+        "https://www.nessma.tv/ar/rss/news/48"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:14:42.928Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

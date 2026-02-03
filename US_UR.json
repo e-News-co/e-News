@@ -1,0 +1,25 @@
+{
+  "country_code": "US",
+  "language_code": "UR",
+  "total_domains": 1,
+  "total_feeds": 3,
+  "feeds": {
+    "purdueexponent.org": {
+      "urls": [
+        "https://www.purdueexponent.org/search/?q=&t=article&l=25&d=&d1=&d2=&s=start_time&sd=desc&c%5B%5D=campus*&f=rss",
+        "https://www.purdueexponent.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory",
+        "http://www.purdueexponent.org/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2559,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:54.388Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

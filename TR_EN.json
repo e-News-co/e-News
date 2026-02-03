@@ -1,0 +1,1434 @@
+{
+  "country_code": "TR",
+  "language_code": "EN",
+  "total_domains": 74,
+  "total_feeds": 390,
+  "feeds": {
+    "ntv.com.tr": {
+      "urls": [
+        "https://www.ntv.com.tr/turkiye.rss",
+        "https://www.ntv.com.tr/sporskor.rss",
+        "https://www.ntv.com.tr/dunya.rss",
+        "https://www.ntv.com.tr/yasam.rss",
+        "https://www.ntv.com.tr/ntvpara.rss",
+        "https://www.ntv.com.tr/teknoloji.rss",
+        "https://www.ntv.com.tr/ekonomi.rss",
+        "https://www.ntv.com.tr/otomobil.rss",
+        "https://www.ntv.com.tr/son-dakika.rss",
+        "https://www.ntv.com.tr/egitim.rss",
+        "https://www.ntv.com.tr/galeri.rss",
+        "https://www.ntv.com.tr/saglik.rss",
+        "https://www.ntv.com.tr/video.rss",
+        "https://www.ntv.com.tr/n-life.rss",
+        "https://www.ntv.com.tr/spor.rss",
+        "https://www.ntv.com.tr/gundem.rss",
+        "https://www.ntv.com.tr/sanat.rss",
+        "https://www.ntv.com.tr/seyahat.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 642,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:31.838Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sakaryagazetesi.com.tr": {
+      "urls": [
+        "https://www.sakaryagazetesi.com.tr/rss",
+        "http://www.sakaryagazetesi.com.tr/rss/const/485",
+        "http://www.sakaryagazetesi.com.tr/rss/const/3",
+        "http://www.sakaryagazetesi.com.tr/rss/authors/1",
+        "http://www.sakaryagazetesi.com.tr/rss/author/79",
+        "http://www.sakaryagazetesi.com.tr/rss/author/90",
+        "http://www.sakaryagazetesi.com.tr/rss/author/92",
+        "http://www.sakaryagazetesi.com.tr/rss/author/95",
+        "http://www.sakaryagazetesi.com.tr/rss/author/97",
+        "http://www.sakaryagazetesi.com.tr/rss/const/11",
+        "http://www.sakaryagazetesi.com.tr/rss/const/20",
+        "http://www.sakaryagazetesi.com.tr/rss/const/285",
+        "http://www.sakaryagazetesi.com.tr/rss/const/5",
+        "http://www.sakaryagazetesi.com.tr/rss/const/500",
+        "http://www.sakaryagazetesi.com.tr/rss/const/506"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1052,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:33.131Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fotomac.com.tr": {
+      "urls": [
+        "https://www.fotomac.com.tr/rss/basketbol.xml",
+        "https://www.fotomac.com.tr/rss/superlig.xml",
+        "https://www.fotomac.com.tr/rss/anasayfa.xml",
+        "https://www.fotomac.com.tr/rss/besiktas.xml",
+        "https://www.fotomac.com.tr/rss/bursaspor.xml",
+        "https://www.fotomac.com.tr/rss/fenerbahce.xml",
+        "https://www.fotomac.com.tr/rss/galatasaray.xml",
+        "https://www.fotomac.com.tr/rss/son24saat.xml",
+        "https://www.fotomac.com.tr/rss/trabzonspor.xml",
+        "https://www.fotomac.com.tr/rss/anasayfa"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1708,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:36.899Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diken.com.tr": {
+      "urls": [
+        "https://www.diken.com.tr/feed/",
+        "http://www.diken.com.tr/feed/",
+        "https://www.diken.com.tr/author/msevinc/feed/",
+        "http://www.diken.com.tr/author/msevinc/feed/",
+        "https://www.diken.com.tr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1006,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:41.051Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "agos.com.tr": {
+      "urls": [
+        "https://www.agos.com.tr/rss/turkish",
+        "https://www.agos.com.tr/rss/tr",
+        "https://www.agos.com.tr/tr/rss",
+        "http://www.agos.com.tr/rss/tr"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 545,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:45.873Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yenicaggazetesi.com.tr": {
+      "urls": [
+        "https://www.yenicaggazetesi.com.tr/service/rss.php",
+        "https://www.yenicaggazetesi.com.tr/export/rss",
+        "https://www.yenicaggazetesi.com/export/rss",
+        "https://www.yenicaggazetesi.com.tr/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1889,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:25.588Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ozgurkocaeli.com.tr": {
+      "urls": [
+        "https://www.ozgurkocaeli.com.tr/rss.xml",
+        "https://www.ozgurkocaeli.com.tr/rss",
+        "http://www.ozgurkocaeli.com.tr/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 266,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:17.758Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kocaeligazetesi.com.tr": {
+      "urls": [
+        "https://www.kocaeligazetesi.com.tr/rss",
+        "https://www.kocaeligazetesi.com.tr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 307,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:06.757Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "milligazete.com.tr": {
+      "urls": [
+        "https://www.milligazete.com.tr/rss.xml",
+        "https://www.milligazete.com.tr/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 861,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:17.486Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "erzurumgazetesi.com.tr": {
+      "urls": [
+        "https://www.erzurumgazetesi.com.tr/sondakika.xml",
+        "http://www.erzurumgazetesi.com.tr/sondakika.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 920,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:11.782Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "radikal.com.tr": {
+      "urls": [
+        "https://www.radikal.com.tr/feed/",
+        "https://www.radikal.com.tr/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 968,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:18.727Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "istiklal.com.tr": {
+      "urls": [
+        "https://www.istiklal.com.tr/service/rss.php",
+        "https://www.istiklal.com.tr/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1500,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:30.811Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kayserihaber.com.tr": {
+      "urls": [
+        "https://www.kayserihaber.com.tr/rss.xml",
+        "http://www.kayserihaber.com.tr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3449,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:27.410Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "oyungezer.com.tr": {
+      "urls": [
+        "https://oyungezer.com.tr/rss",
+        "http://oyungezer.com.tr/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3667,
+        "category": "general",
+        "last_checked": "2026-02-01T17:17:03.532Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "star.com.tr": {
+      "urls": [
+        "https://www.star.com.tr/rss/rss.asp"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 755,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:22.005Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kahramanmarasgazetesi.com.tr": {
+      "urls": [
+        "https://kahramanmarasgazetesi.com.tr/service/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 758,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:34.711Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ekohaber.com.tr": {
+      "urls": [
+        "https://www.ekohaber.com.tr/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 778,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:12.561Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yeniakit.com.tr": {
+      "urls": [
+        "https://www.yeniakit.com.tr/rss/haber/gundem"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 797,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:28.950Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aksam.com.tr": {
+      "urls": [
+        "https://www.aksam.com.tr/rss/rss.asp"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 949,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:08.078Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haber.sol.org.tr": {
+      "urls": [
+        "https://haber.sol.org.tr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1097,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:42.970Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yurtgazetesi.com.tr": {
+      "urls": [
+        "https://www.yurtgazetesi.com.tr/service/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1333,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:26.921Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aydinlik.com.tr": {
+      "urls": [
+        "http://aydinlik.com.tr/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1668,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:09.746Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hurriyet.com.tr": {
+      "urls": [
+        "https://www.hurriyet.com.tr/rss/yazarlar/mine-karakartal",
+        "https://www.hurriyet.com.tr/rss/yazarlar",
+        "https://www.hurriyet.com.tr/rss/yazarlar/mehmet-yakup-yilmaz",
+        "https://www.hurriyet.com.tr/rss/yazarlar/noibe",
+        "https://www.hurriyet.com.tr/rss/astroloji",
+        "https://www.hurriyet.com.tr/rss/saglik",
+        "https://www.hurriyet.com.tr/rss/ankara",
+        "https://www.hurriyet.com.tr/rss/dunya",
+        "https://www.hurriyet.com.tr/rss/ege",
+        "https://www.hurriyet.com.tr/rss/ekonomi",
+        "https://www.hurriyet.com.tr/rss/gundem",
+        "https://www.hurriyet.com.tr/rss/spor",
+        "https://www.hurriyet.com.tr/rss/teknoloji",
+        "https://www.hurriyet.com.tr/rss/yazarlar/ahmet-hakan",
+        "https://www.hurriyet.com.tr/rss/yazarlar/ayse-aral",
+        "https://www.hurriyet.com.tr/rss/yazarlar/ayse-arman",
+        "https://www.hurriyet.com.tr/rss/yazarlar/bilgin-gokberk",
+        "https://www.hurriyet.com.tr/rss/yazarlar/cengiz-semercioglu",
+        "https://www.hurriyet.com.tr/rss/yazarlar/dogan-hizlan",
+        "https://www.hurriyet.com.tr/rss/yazarlar/ercan-saatci",
+        "https://www.hurriyet.com.tr/rss/yazarlar/erdal-saglam",
+        "https://www.hurriyet.com.tr/rss/yazarlar/erkan-celebi",
+        "https://www.hurriyet.com.tr/rss/yazarlar/erman-toroglu",
+        "https://www.hurriyet.com.tr/rss/yazarlar/ertugrul-ozkok",
+        "https://www.hurriyet.com.tr/rss/yazarlar/fatih-cekirge",
+        "https://www.hurriyet.com.tr/rss/yazarlar/gila-benmayor",
+        "https://www.hurriyet.com.tr/rss/yazarlar/guzin-abla",
+        "https://www.hurriyet.com.tr/rss/yazarlar/ismet-berkan",
+        "https://www.hurriyet.com.tr/rss/yazarlar/latif-demirci",
+        "https://www.hurriyet.com.tr/rss/yazarlar/mehmet-arslan",
+        "https://www.hurriyet.com.tr/rss/yazarlar/onur-basturk",
+        "https://www.hurriyet.com.tr/rss/yazarlar/osman-muftuoglu",
+        "https://www.hurriyet.com.tr/rss/yazarlar/oya-armutcu",
+        "https://www.hurriyet.com.tr/rss/yazarlar/sukru-kizilot",
+        "https://www.hurriyet.com.tr/rss/yazarlar/taha-akyol",
+        "https://www.hurriyet.com.tr/rss/yazarlar/tolga-tanis",
+        "https://www.hurriyet.com.tr/rss/yazarlar/ugur-cebeci",
+        "https://www.hurriyet.com.tr/rss/yazarlar/vahap-munyar",
+        "https://www.hurriyet.com.tr/rss/yazarlar/yalcin-dogan",
+        "https://www.hurriyet.com.tr/rss/yazarlar/yilmaz-ozdil",
+        "https://www.hurriyet.com.tr/rss/yazarlar/yonca-tokbas",
+        "https://www.hurriyet.com.tr/rss/yazarlar/altan-tanrikulu"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:15.534Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sozcu.com.tr": {
+      "urls": [
+        "https://www.sozcu.com.tr/feeds-rss-category-sozcu",
+        "https://sozcu.com.tr/rss.php",
+        "https://www.sozcu.com.tr/rss.php",
+        "https://www.sozcu.com.tr/feed",
+        "https://www.sozcu.com.tr/feed/",
+        "https://www.sozcu.com.tr/feeds-rss-category-gundem",
+        "https://www.sozcu.com.tr/rss.xml",
+        "https://www.sozcu.com.tr/rss/tum-haberler.xml",
+        "https://www.sozcu.com.tr/feeds-haberler",
+        "https://www.sozcu.com.tr/feeds-rss-category-ekonomi",
+        "https://www.sozcu.com.tr/feeds-rss-category-dunya",
+        "https://www.sozcu.com.tr/feeds-rss-category-gunun-icinden",
+        "https://www.sozcu.com.tr/feeds-rss-category-spor",
+        "https://www.sozcu.com.tr/feeds-rss-category-futbol",
+        "https://www.sozcu.com.tr/feeds-rss-category-hayat",
+        "https://www.sozcu.com.tr/feeds-rss-category-magazin",
+        "https://www.sozcu.com.tr/feeds-son-dakika",
+        "https://www.sozcu.com.tr/feeds-rss-category-finans",
+        "https://www.sozcu.com.tr/feeds-rss-category-otomotiv",
+        "https://www.sozcu.com.tr/feeds-rss-category-basketbol",
+        "https://www.sozcu.com.tr/feeds-rss-category-bilim-teknoloji",
+        "https://www.sozcu.com.tr/feeds-rss-category-dunyadan-spor",
+        "https://www.sozcu.com.tr/feeds-rss-category-euro-2024",
+        "https://www.sozcu.com.tr/feeds-rss-category-saglik",
+        "https://www.sozcu.com.tr/feeds-rss-category-borsa",
+        "https://www.sozcu.com.tr/feeds-rss-category-diger-sporlar",
+        "https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat",
+        "https://www.sozcu.com.tr/feeds-rss-category-2024-paris-olimpiyatlari",
+        "https://www.sozcu.com.tr/feeds-rss-category-astroloji",
+        "https://www.sozcu.com.tr/feeds-rss-category-egitim",
+        "https://www.sozcu.com.tr/feeds-rss-category-emlak",
+        "https://www.sozcu.com.tr/feeds-rss-category-emtia",
+        "https://www.sozcu.com.tr/feeds-rss-category-kripto",
+        "https://www.sozcu.com.tr/feeds-rss-category-sigorta",
+        "https://www.sozcu.com.tr/feeds-rss-category-voleybol",
+        "https://www.sozcu.com.tr/feeds-rss-category-yasam",
+        "https://www.sozcu.com.tr/feeds-rss-category-resmi-ilanlar",
+        "https://www.sozcu.com.tr/feeds-rss-category-yazar"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:20.469Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "haberekspres.com.tr": {
+      "urls": [
+        "https://www.haberekspres.com.tr/rss.php",
+        "http://www.haberekspres.com.tr/rss.php",
+        "https://www.haberekspres.com.tr/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:12.791Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "yenimeram.com.tr": {
+      "urls": [
+        "https://yenimeram.com.tr/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:03.894Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetekadikoy.com.tr": {
+      "urls": [
+        "http://www.gazetekadikoy.com.tr/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:16.074Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "fanatik.com.tr": {
+      "urls": [
+        "https://www.fanatik.com.tr/rss-linkler/haberler.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:40.269Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "hedefhalk.com": {
+      "urls": [
+        "https://www.hedefhalk.com/sondakika.xml",
+        "https://www.hedefhalk.com/rss.xml",
+        "https://www.hedefhalk.com/rss/genel-0",
+        "https://www.hedefhalk.com/rss/samsun-haber-1764",
+        "https://www.hedefhalk.com/rss_ekonomi_1380.xml",
+        "https://www.hedefhalk.com/rss_spor_1382.xml",
+        "https://www.hedefhalk.com/rss_asayis_1384.xml",
+        "https://www.hedefhalk.com/rss_samsun-haber_1764.xml",
+        "https://www.hedefhalk.com/rss_bilim_1784.xml",
+        "https://www.hedefhalk.com/rss/asayis-1384",
+        "https://www.hedefhalk.com/rss_gundem_1383.xml",
+        "https://www.hedefhalk.com/rss/spor-1382",
+        "https://www.hedefhalk.com/rss/ekonomi-1380",
+        "https://www.hedefhalk.com/rss/gundem-1383",
+        "https://www.hedefhalk.com/rss/samsunspor-1782",
+        "https://www.hedefhalk.com/rss/siyaset-1547",
+        "https://www.hedefhalk.com/rss_samsunspor_1782.xml",
+        "https://www.hedefhalk.com/rss/saglik-1385",
+        "https://www.hedefhalk.com/rss/yasam-1387",
+        "https://www.hedefhalk.com/rss_siyaset_1547.xml",
+        "https://www.hedefhalk.com/rss/egitim-1381",
+        "https://www.hedefhalk.com/rss/halk-rooprtaj-1781",
+        "https://www.hedefhalk.com/rss/kultur-sanat-1548",
+        "https://www.hedefhalk.com/rss/magazin-1775",
+        "https://www.hedefhalk.com/rss/teknoloji-1763",
+        "https://www.hedefhalk.com/rss/turkiye-gundemi-1765",
+        "https://www.hedefhalk.com/rss_egitim_1381.xml",
+        "https://www.hedefhalk.com/makaleler.xml",
+        "https://www.hedefhalk.com/rss/cevre-enerji-1777",
+        "https://www.hedefhalk.com/rss/dunya-1771",
+        "https://www.hedefhalk.com/rss/insan-1778",
+        "https://www.hedefhalk.com/rss_dunya_1771.xml",
+        "https://www.hedefhalk.com/rss_teknoloji_1763.xml",
+        "https://www.hedefhalk.com/rss_yasam_1387.xml",
+        "https://www.hedefhalk.com/rss_cevre-enerji_1777.xml",
+        "https://www.hedefhalk.com/rss_kultur-sanat_1548.xml",
+        "https://www.hedefhalk.com/rss_saglik_1385.xml",
+        "https://www.hedefhalk.com/rss_insan_1778.xml",
+        "https://www.hedefhalk.com/rss_magazin_1775.xml",
+        "https://www.hedefhalk.com/rss_resmi-ilanlar_1783.xml",
+        "https://www.hedefhalk.com/rss_sektorel_1787.xml",
+        "https://www.hedefhalk.com/rss_trend-eglence_1786.xml",
+        "https://www.hedefhalk.com/rss_turkiye-gundemi_1765.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1047,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:50.082Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cnnturk.com": {
+      "urls": [
+        "https://www.cnnturk.com/feed/rss/news",
+        "https://www.cnnturk.com/feed/rss/all/news",
+        "https://www.cnnturk.com/feed/rss/turkiye/news.xml",
+        "https://www.cnnturk.com/feed/rss/turkiye/news",
+        "https://www.cnnturk.com/feed/rss/all/gallery",
+        "https://www.cnnturk.com/feed/rss/all/video",
+        "https://www.cnnturk.com/feed/rss/bilim-teknoloji/gallery",
+        "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news",
+        "https://www.cnnturk.com/feed/rss/bilim-teknoloji/video",
+        "https://www.cnnturk.com/feed/rss/dunya/news",
+        "https://www.cnnturk.com/feed/rss/magazin/news",
+        "https://www.cnnturk.com/feed/rss/ekonomi/news",
+        "https://www.cnnturk.com/feed/rss/magazin/gallery",
+        "https://www.cnnturk.com/feed/rss/spor/news",
+        "https://www.cnnturk.com/feed/rss/turkiye/video",
+        "https://www.cnnturk.com/feed/rss/dunya/video",
+        "https://www.cnnturk.com/feed/rss/turkiye/gallery",
+        "https://www.cnnturk.com/feed/rss/saglik/gallery",
+        "https://www.cnnturk.com/feed/rss/kultur-sanat/news",
+        "https://www.cnnturk.com/feed/rss/ekonomi/gallery",
+        "https://www.cnnturk.com/feed/rss/dunya/gallery",
+        "https://www.cnnturk.com/feed/rss/spor/gallery",
+        "https://www.cnnturk.com/feed/rss/yazarlar",
+        "https://www.cnnturk.com/feed/rss/otomobil/news",
+        "https://www.cnnturk.com/feed/rss/ekonomi/video",
+        "https://www.cnnturk.com/feed/rss/kultur-sanat/gallery",
+        "https://www.cnnturk.com/feed/rss/kultur-sanat/video",
+        "https://www.cnnturk.com/feed/rss/magazin/video",
+        "https://www.cnnturk.com/feed/rss/otomobil/gallery",
+        "https://www.cnnturk.com/feed/rss/otomobil/video",
+        "https://www.cnnturk.com/feed/rss/saglik/news",
+        "https://www.cnnturk.com/feed/rss/saglik/video",
+        "https://www.cnnturk.com/feed/rss/seyahat/gallery",
+        "https://www.cnnturk.com/feed/rss/seyahat/news",
+        "https://www.cnnturk.com/feed/rss/seyahat/video",
+        "https://www.cnnturk.com/feed/rss/spor/video",
+        "https://www.cnnturk.com/feed/rss/yasam/gallery",
+        "https://www.cnnturk.com/feed/rss/yasam/video"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1948,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:52.178Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haberantalya.com": {
+      "urls": [
+        "https://www.haberantalya.com/rss",
+        "https://www.haberantalya.com/rss/type/news",
+        "https://www.haberantalya.com/rss/category/asayis",
+        "https://www.haberantalya.com/rss/category/guncel",
+        "https://www.haberantalya.com/rss/category/ekonomi",
+        "https://www.haberantalya.com/rss/category/genel",
+        "https://www.haberantalya.com/rss/category/spor",
+        "https://www.haberantalya.com/rss/category/egitim",
+        "https://www.haberantalya.com/rss/category/kultur-sanat",
+        "https://www.haberantalya.com/rss/category/magazin",
+        "https://www.haberantalya.com/rss/category/saglik",
+        "https://www.haberantalya.com/rss/category/sali-sohbetleri",
+        "https://www.haberantalya.com/rss/category/siyaset",
+        "https://www.haberantalya.com/rss/category/turizm",
+        "https://www.haberantalya.com/rss/category/ulusal",
+        "https://www.haberantalya.com/rss/category/yasam",
+        "https://www.haberantalya.com/rss/type/articles",
+        "https://www.haberantalya.com/rss/type/galleries",
+        "https://www.haberantalya.com/rss/type/videos"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 629,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:57.775Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ensonhaber.com": {
+      "urls": [
+        "https://www.ensonhaber.com/rss/ensonhaber.xml",
+        "https://www.ensonhaber.com/rss/3-sayfa.xml",
+        "https://www.ensonhaber.com/rss/mansetler.xml",
+        "https://www.ensonhaber.com/rss/ekonomi.xml",
+        "https://www.ensonhaber.com/rss/gundem.xml",
+        "https://www.ensonhaber.com/rss/dunya.xml",
+        "https://www.ensonhaber.com/rss/kralspor.xml",
+        "https://www.ensonhaber.com/rss/magazin.xml",
+        "https://www.ensonhaber.com/rss/yasam.xml",
+        "https://www.ensonhaber.com/rss/teknoloji.xml",
+        "https://www.ensonhaber.com/rss/otomobil.xml",
+        "https://www.ensonhaber.com/rss/medya.xml",
+        "https://www.ensonhaber.com/rss/saglik.xml",
+        "https://www.ensonhaber.com/rss/kadin.xml",
+        "https://www.ensonhaber.com/rss/kultur-sanat.xml",
+        "https://www.ensonhaber.com/rss/politika.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 445,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:41.873Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mynet.com": {
+      "urls": [
+        "https://www.mynet.com/rss/publisher-finans.rss",
+        "https://finans.mynet.com/haber/rss/gununozeti",
+        "https://www.mynet.com/haber/rss/kategori/yasam/",
+        "https://www.mynet.com/rss/publisher-guncel.rss",
+        "https://www.mynet.com/haber/rss/kategori/guncel/",
+        "https://www.mynet.com/rss/publisher-anasayfa.rss",
+        "https://www.mynet.com/haber/rss/sondakika",
+        "https://www.mynet.com/haber/rss/kategori/dunya/",
+        "https://www.mynet.com/haber/rss/kategori/teknoloji/",
+        "https://www.mynet.com/magazin/rss",
+        "https://www.mynet.com/spor/rss",
+        "https://www.mynet.com/yerel-haberler/rss/kategori/ana",
+        "https://finans.mynet.com/haber/rss/gununozeti/",
+        "https://www.mynet.com/haber/rss/gununozeti/",
+        "https://www.mynet.com/haber/rss/kategori/politika/",
+        "https://www.mynet.com/haber/rss/kategori/saglik/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3069,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:36.240Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mersinhaber.com": {
+      "urls": [
+        "https://www.mersinhaber.com/sitemap/rss",
+        "https://www.mersinhaber.com/sitemap/video",
+        "https://www.mersinhaber.com/sitemap/ilan",
+        "https://www.mersinhaber.com/sitemap/yorum",
+        "https://www.mersinhaber.com/sitemap/news",
+        "https://www.mersinhaber.com/sitemap/fotogaleri"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 946,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:56.927Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "trthaber.com": {
+      "urls": [
+        "https://www.trthaber.com/sondakika_articles.rss",
+        "https://www.trthaber.com/sondakika.rss",
+        "https://www.trthaber.com/gundem_articles.rss",
+        "https://www.trthaber.com/manset_articles.rss",
+        "https://www.trthaber.com/manset.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 794,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:53.290Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "turkishminute.com": {
+      "urls": [
+        "https://turkishminute.com/feed/",
+        "https://www.turkishminute.com/feed/",
+        "https://turkishminute.com/comments/feed/",
+        "https://www.turkishminute.com/comments/feed/",
+        "https://turkishminute.com/homepage/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1591,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:44.243Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "anadolugazetesi.com": {
+      "urls": [
+        "https://www.anadolugazetesi.com/RSS.xml",
+        "https://www.anadolugazetesi.com/rss/",
+        "http://www.anadolugazetesi.com/RSS.xml",
+        "http://www.anadolugazetesi.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1084,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:54.515Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bolugundem.com": {
+      "urls": [
+        "https://www.bolugundem.com/rss.xml",
+        "https://www.bolugundem.com/rss",
+        "http://www.bolugundem.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 527,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:08.600Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elbistaninsesi.com": {
+      "urls": [
+        "https://www.elbistaninsesi.com/rss.xml",
+        "https://www.elbistaninsesi.com/rss",
+        "https://www.elbistaninsesi.com/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 851,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:10.860Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "atlasdergisi.com": {
+      "urls": [
+        "https://www.atlasdergisi.com/feed/atom",
+        "https://www.atlasdergisi.com/feed",
+        "https://www.atlasdergisi.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4829,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:59.493Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sakaryadanhaber.com": {
+      "urls": [
+        "https://www.sakaryadanhaber.com/rss",
+        "https://www.sakaryadanhaber.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 492,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:33.797Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "yenialanya.com": {
+      "urls": [
+        "https://www.yenialanya.com/rss.xml",
+        "https://www.yenialanya.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 834,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:07.853Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haberport.com": {
+      "urls": [
+        "https://www.haberport.com/rss/latest-posts",
+        "https://haberport.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 837,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:48.900Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "altyazi.net": {
+      "urls": [
+        "https://altyazi.net/feed/",
+        "https://altyazi.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 870,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:49.457Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "merhabahaber.com": {
+      "urls": [
+        "http://www.merhabahaber.com/rss/",
+        "https://www.merhabahaber.com/service/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1341,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:30.617Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kentbursa.com": {
+      "urls": [
+        "https://www.kentbursa.com/feed",
+        "https://www.kentbursa.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1557,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:28.968Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gazeteler.tv": {
+      "urls": [
+        "https://www.gazeteler.tv/blog/feed/atom/",
+        "https://www.gazeteler.tv/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1716,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:11.560Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haberler.com": {
+      "urls": [
+        "https://rss.haberler.com/podcast.aspx",
+        "https://rss.haberler.com/rss.asp"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3312,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:39.924Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "transatlanticpolicy.com": {
+      "urls": [
+        "https://transatlanticpolicy.com/feed/",
+        "https://transatlanticpolicy.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4972,
+        "category": "politics",
+        "last_checked": "2026-02-01T17:17:13.934Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "odatv.com": {
+      "urls": [
+        "https://www.odatv.com/export/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 308,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:52.486Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dunya.com": {
+      "urls": [
+        "https://www.dunya.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 376,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:41.427Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "birgun.net": {
+      "urls": [
+        "https://www.birgun.net/rss/home"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 486,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:22.491Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ntvspor.net": {
+      "urls": [
+        "https://www.ntvspor.net/rss/anasayfa"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 605,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:40.958Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haber3.com": {
+      "urls": [
+        "https://www.haber3.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 627,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:42.391Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "yenisafak.com": {
+      "urls": [
+        "http://yenisafak.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 781,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:21.250Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sporx.com": {
+      "urls": [
+        "https://www.sporx.com/_xml/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 806,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:41.764Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "duvarenglish.com": {
+      "urls": [
+        "https://www.duvarenglish.com/export/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 927,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:45.170Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hurriyetdailynews.com": {
+      "urls": [
+        "https://www.hurriyetdailynews.com/rss/news"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 942,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:16.476Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "milatgazetesi.com": {
+      "urls": [
+        "https://www.milatgazetesi.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1057,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:23.548Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "stargazete.com": {
+      "urls": [
+        "https://www.star.com.tr/rss/rss.asp"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1127,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:19.854Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "karar.com": {
+      "urls": [
+        "https://www.karar.com/service/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1231,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:28.152Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bolununsesi.com": {
+      "urls": [
+        "https://www.bolununsesi.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1407,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:10.007Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "haber7.com": {
+      "urls": [
+        "https://i12.haber7.net/sondakika/newsstand/latest.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1738,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:14.529Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "guncelgazete.com": {
+      "urls": [
+        "http://guncelgazete.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2882,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:23.960Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "urfahaber.com": {
+      "urls": [
+        "https://www.urfahaber.com/rss_2024-yerel-secimleri_41.xml",
+        "https://www.urfahaber.com/rss_sanliurfa-secim-2019_38.xml",
+        "https://www.urfahaber.com/rss.xml",
+        "https://www.urfahaber.com/rss_politika_11.xml",
+        "https://www.urfahaber.com/makaleler.xml",
+        "https://www.urfahaber.com/rss_asayis_39.xml",
+        "https://www.urfahaber.com/rss_guncel_15.xml",
+        "https://www.urfahaber.com/rss_sanliurfa_17.xml",
+        "https://www.urfahaber.com/rss_bilim-ve-teknoloji_2.xml",
+        "https://www.urfahaber.com/rss_dunya_4.xml",
+        "https://www.urfahaber.com/rss_egitim_5.xml",
+        "https://www.urfahaber.com/rss_ekonomi_6.xml",
+        "https://www.urfahaber.com/rss_kultur-sanat_9.xml",
+        "https://www.urfahaber.com/rss_magazin_10.xml",
+        "https://www.urfahaber.com/rss_roportaj_36.xml",
+        "https://www.urfahaber.com/rss_saglik_12.xml",
+        "https://www.urfahaber.com/rss_spor_13.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:33.953Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "malatyahaber.com": {
+      "urls": [
+        "https://malatyahaber.com/feed",
+        "http://malatyahaber.com/feed/",
+        "https://malatyahaber.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:06.449Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "turkofamerica.com": {
+      "urls": [
+        "https://turkofamerica.com/?format=feed&type=atom",
+        "https://turkofamerica.com/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:17:14.078Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "akhbarelyom.com": {
+      "urls": [
+        "https://akhbarelyom.com/RSS/GetSectionNewsRSS/1?SectionID=37"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:07.128Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "evrensel.net": {
+      "urls": [
+        "https://www.evrensel.net/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:11.745Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ortadogugazetesi.com": {
+      "urls": [
+        "https://www.ortadogugazetesi.com/rss/news"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:47.794Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "internethaber.com": {
+      "urls": [
+        "https://www.internethaber.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-02-01T17:15:50.196Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "bursadabugun.com": {
+      "urls": [
+        "https://www.bursadabugun.com/rss/?feed=haberler"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:15:53.430Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "mersinradikal.com": {
+      "urls": [
+        "http://www.mersinradikal.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:31.845Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "galatasaray.org": {
+      "urls": [
+        "https://www.galatasaray.org/xml/gs.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:16:48.433Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

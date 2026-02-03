@@ -1,0 +1,23 @@
+{
+  "country_code": "US",
+  "language_code": "BN",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "akhonsamoy.com": {
+      "urls": [
+        "https://akhonsamoy.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T19:14:21.785Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

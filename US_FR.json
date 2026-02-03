@@ -1,0 +1,117 @@
+{
+  "country_code": "US",
+  "language_code": "FR",
+  "total_domains": 6,
+  "total_feeds": 25,
+  "feeds": {
+    "frenchmorning.com": {
+      "urls": [
+        "https://www.frenchmorning.com/feed/",
+        "https://frenchmorning.com/feed/",
+        "https://frenchmorning.com/tag/podcast/feed/",
+        "https://www.frenchmorning.com/category/nos-podcast/feed/",
+        "https://www.frenchmorning.com/tag/podcast/feed/",
+        "https://frenchmorning.com/comments/feed/",
+        "https://www.frenchmorning.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1427,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:42.919Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haitienmarche.com": {
+      "urls": [
+        "https://haitienmarche.com/index.php?format=feed&type=atom",
+        "https://www.haitienmarche.com/index.php?format=feed&type=atom",
+        "https://haitienmarche.com/index.php?format=feed&type=rss",
+        "https://www.haitienmarche.com/index.php?format=feed&type=rss",
+        "http://haitienmarche.com/index.php?format=feed&type=rss",
+        "http://haitienmarche.com/index.php?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1127,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:41.182Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "haitiprogres.com": {
+      "urls": [
+        "https://haitiprogres.com/feed/",
+        "https://www.haitiprogres.com/feed/",
+        "https://haitiprogres.com/comments/feed/",
+        "https://www.haitiprogres.com/comments/feed/",
+        "https://haitiprogres.com/homepage/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1478,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:40.051Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "courrierdesameriques.com": {
+      "urls": [
+        "https://courrierdesameriques.com/feed/",
+        "https://courrierdesameriques.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2982,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:34.555Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lesoleildelafloride.com": {
+      "urls": [
+        "https://lesoleildelafloride.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1912,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:36.467Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "france-amerique.com": {
+      "urls": [
+        "https://france-amerique.com/feed/",
+        "https://france-amerique.com/en/feed/",
+        "https://france-amerique.com/fr/feed/",
+        "https://france-amerique.com/en/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:38.106Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "country_code": "VC",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 23,
+  "feeds": {
+    "searchlight.vc": {
+      "urls": [
+        "https://www.searchlight.vc/searchlight/news/feed/",
+        "https://searchlight.vc/searchlight/feed/",
+        "https://www.searchlight.vc/feed/",
+        "https://www.searchlight.vc/searchlight/feed/",
+        "https://www.searchlight.vc/comments/feed/",
+        "https://searchlight.vc/searchlight/comments/feed/",
+        "https://www.searchlight.vc/searchlight/comments/feed/",
+        "https://www.searchlight.vc/searchlight/news/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2614,
+        "category": "general",
+        "last_checked": "2026-02-01T21:30:05.775Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gov.vc": {
+      "urls": [
+        "https://www.gov.vc/index.php?format=feed&type=atom",
+        "https://www.gov.vc/index.php?format=feed&type=rss",
+        "http://gov.vc/index.php?format=feed&type=rss",
+        "http://gov.vc/index.php?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1894,
+        "category": "general",
+        "last_checked": "2026-02-01T21:30:08.543Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nbcsvg.com": {
+      "urls": [
+        "https://www.nbcsvg.com/feed/",
+        "http://www.nbcsvg.com/feed/",
+        "https://www.nbcsvg.com/comments/feed/",
+        "http://www.nbcsvg.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2504,
+        "category": "general",
+        "last_checked": "2026-02-01T21:30:16.608Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thevincentian.com": {
+      "urls": [
+        "https://thevincentian.com/headlines.rss",
+        "http://thevincentian.com/clients/thevincentian/headlines.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 488,
+        "category": "general",
+        "last_checked": "2026-02-01T21:30:06.647Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "stvincenttimes.com": {
+      "urls": [
+        "https://www.stvincenttimes.com/feed/",
+        "https://www.stvincenttimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 640,
+        "category": "general",
+        "last_checked": "2026-02-01T21:30:13.949Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "iwnsvg.com": {
+      "urls": [
+        "https://www.iwnsvg.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1227,
+        "category": "general",
+        "last_checked": "2026-02-01T21:30:02.885Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "caribbeannewsnow.com": {
+      "urls": [
+        "https://thecaribbeannewsnow.com/feed/",
+        "https://thecaribbeannewsnow.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T21:30:01.658Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

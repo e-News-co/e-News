@@ -1,0 +1,40 @@
+{
+  "country_code": "US",
+  "language_code": "PT",
+  "total_domains": 2,
+  "total_feeds": 4,
+  "feeds": {
+    "lusoamericano.com": {
+      "urls": [
+        "https://lusoamericano.com/feed/",
+        "https://lusoamericano.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 461,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:51.823Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "portuguesetimes.com": {
+      "urls": [
+        "https://portuguesetimes.com/feed/",
+        "https://portuguesetimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1532,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:51.315Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

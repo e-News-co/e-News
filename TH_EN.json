@@ -1,0 +1,384 @@
+{
+  "country_code": "TH",
+  "language_code": "EN",
+  "total_domains": 22,
+  "total_feeds": 68,
+  "feeds": {
+    "grandprix.co.th": {
+      "urls": [
+        "https://www.grandprix.co.th/feed/",
+        "https://www.grandprix.co.th/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.094Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "voicetv.co.th": {
+      "urls": [
+        "http://www.voicetv.co.th/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.055Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "chiangmainews.co.th": {
+      "urls": [
+        "https://www.chiangmainews.co.th/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.061Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "innnews.co.th": {
+      "urls": [
+        "http://innnews.co.th/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.079Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "chiangraitimes.com": {
+      "urls": [
+        "https://www.chiangraitimes.com/feed/",
+        "https://www.chiangraitimes.com/tag/top-10-mindset-podcasts-to-listen-to-now/feed/",
+        "https://www.chiangraitimes.com/tag/top-rated-life-coaching-podcasts/feed/",
+        "https://www.chiangraitimes.com/tag/top-self-improvement-podcasts/feed/",
+        "https://www.chiangraitimes.com/tag/best-mel-robbins-podcast-episodes-2025/feed/",
+        "https://www.chiangraitimes.com/tag/best-podcasts-for-daily-morning-motivation/feed/",
+        "https://www.chiangraitimes.com/tag/best-podcasts-for-habit-building-and-discipline/feed/",
+        "https://www.chiangraitimes.com/tag/inspirational-podcasts-2025/feed/",
+        "https://www.chiangraitimes.com/tag/motivational-podcasts-for-women-2025/feed/",
+        "https://www.chiangraitimes.com/tag/neuroscience-backed-mindset-podcasts/feed/",
+        "https://www.chiangraitimes.com/tag/podcasts-for-overcoming-burnout-and-anxiety/feed/",
+        "https://www.chiangraitimes.com/tag/podcasts-like-the-huberman-lab/feed/",
+        "https://www.chiangraitimes.com/tag/science-based-self-improvement-podcasts/feed/",
+        "https://www.chiangraitimes.com/tag/self-help-podcasts-for-productivity-and-focus/feed/",
+        "https://www.chiangraitimes.com/tag/short-daily-motivation-podcasts-under-20-mins/feed/",
+        "https://www.chiangraitimes.com/tag/best-mental-health-podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.041Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "asiatimes.com": {
+      "urls": [
+        "https://asiatimes.com/feed/",
+        "https://asiatimes.com/tag/podcast/feed/",
+        "https://asiatimes.com/author/david-p-goldman/feed/",
+        "https://asiatimes.com/author/pepe-escobar/feed/",
+        "https://asiatimes.com/tag/atplus/feed/",
+        "https://asiatimes.com/tag/military/feed/",
+        "https://www.asiatimesfinancial.com/news.rss",
+        "https://asiatimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.051Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "novostiphuketa.asia": {
+      "urls": [
+        "https://www.novostiphuketa.asia/rss-xml/novosti.xml",
+        "https://www.novostiphuketa.asia/rss-xml/sport.xml",
+        "https://www.novostiphuketa.asia/rss-xml/zhizn-na-phukete.xml",
+        "https://www.novostiphuketa.asia/rss-xml/vopros-otvet.xml",
+        "https://www.novostiphuketa.asia/rss-xml/obyavleniya.xml",
+        "https://www.novostiphuketa.asia/rss-xml/afisha.xml",
+        "https://www.novostiphuketa.asia/rss-xml/spravochnik.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.084Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ryt9.com": {
+      "urls": [
+        "https://www.ryt9.com/stock/rss.xml",
+        "https://www.ryt9.com/world/rss.xml",
+        "https://www.ryt9.com/economy/rss.xml",
+        "https://www.ryt9.com/technology/rss.xml",
+        "https://www.ryt9.com/real_estate/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-02-01T16:57:31.078Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "huahintoday.com": {
+      "urls": [
+        "https://www.huahintoday.com/feed/",
+        "https://huahintoday.com/feed/",
+        "https://www.huahintoday.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.065Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ellethailand.com": {
+      "urls": [
+        "https://ellethailand.com/feed/",
+        "https://ellethailand.com/comments/feed/",
+        "https://ellethailand.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.097Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "bangkokshuho.com": {
+      "urls": [
+        "https://bangkokshuho.com/feed/atom/",
+        "https://bangkokshuho.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.037Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "phuketgazette.net": {
+      "urls": [
+        "https://thethaiger.com/feed",
+        "https://feeds.feedburner.com/thethaiger"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.044Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "thaipost.net": {
+      "urls": [
+        "https://www.thaipost.net/feed/",
+        "https://www.thaipost.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.048Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mono29.com": {
+      "urls": [
+        "https://mono29.com/news/feed",
+        "https://mono29.com/homepage/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.059Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "thephuketexpress.com": {
+      "urls": [
+        "https://thephuketexpress.com/feed/",
+        "https://thephuketexpress.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.071Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "tna.mcot.net": {
+      "urls": [
+        "https://tna.mcot.net/feed",
+        "https://tna.mcot.net/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.074Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "thaiwaysmagazine.com": {
+      "urls": [
+        "http://thaiwaysmagazine.com/?format=feed&type=rss",
+        "http://thaiwaysmagazine.com/?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.100Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "art4d.com": {
+      "urls": [
+        "https://art4d.com/feed",
+        "https://art4d.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.103Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "fineart-magazine.com": {
+      "urls": [
+        "http://fineart-magazine.com/feed/",
+        "http://fineart-magazine.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.105Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "positioningmag.com": {
+      "urls": [
+        "https://positioningmag.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.086Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "silpa-mag.com": {
+      "urls": [
+        "https://www.silpa-mag.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.088Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "gqthailand.com": {
+      "urls": [
+        "https://www.gqthailand.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:57:31.090Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "country_code": "US",
+  "language_code": "KO",
+  "total_domains": 2,
+  "total_feeds": 4,
+  "feeds": {
+    "higoodday.com": {
+      "urls": [
+        "https://higoodday.com/feeds",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWNMtAZjG6x7tRhvP1ZnGw"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 931,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:44.557Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "koreatimeshi.com": {
+      "urls": [
+        "https://koreatimeshi.com/?feed=rss2",
+        "https://koreatimeshi.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4350,
+        "category": "general",
+        "last_checked": "2026-02-01T21:28:49.369Z",
+        "is_correct_tld": true,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

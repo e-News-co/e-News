@@ -1,0 +1,73 @@
+{
+  "country_code": "SM",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 9,
+  "feeds": {
+    "pasadenastarnews.com": {
+      "urls": [
+        "https://www.pasadenastarnews.com/feed/",
+        "https://www.pasadenastarnews.com/local-news/feed/",
+        "https://www.pasadenastarnews.com/location/california/los-angeles-county/san-gabriel-valley/el-monte/feed/",
+        "https://www.pasadenastarnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 897,
+        "category": "general",
+        "last_checked": "2026-02-01T15:36:06.456Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sanmarinotribune.com": {
+      "urls": [
+        "https://outlooknewspapers.com/search/?f=rss&t=article&c=sanmarinotribune&l=50&s=start_time&sd=desc",
+        "https://sanmarinotribune.outlooknewspapers.com/feed/",
+        "http://outlooknewspapers.com/search/?f=rss&t=article&c=sanmarinotribune&l=50&s=start_time&sd=desc"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1918,
+        "category": "general",
+        "last_checked": "2026-02-01T15:36:08.721Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "italica.sm": {
+      "urls": [
+        "http://www.italica.sm/rssfeed.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1169,
+        "category": "general",
+        "last_checked": "2026-02-01T15:36:05.091Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "latribuna.sm": {
+      "urls": [
+        "https://www.latribuna.sm/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T15:36:05.335Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

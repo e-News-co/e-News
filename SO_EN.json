@@ -1,0 +1,389 @@
+{
+  "country_code": "SO",
+  "language_code": "EN",
+  "total_domains": 18,
+  "total_feeds": 129,
+  "feeds": {
+    "radiomuqdisho.so": {
+      "urls": [
+        "https://radiomuqdisho.so/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:20.798Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "wardheernews.com": {
+      "urls": [
+        "https://rss.nytimes.com/services/xml/rss/nyt/recent.xml",
+        "https://www.aljazeera.com/xml/rss/all.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "https://wardheernews.com/feed/",
+        "https://wardheernews.com/category/blog/feed/",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml",
+        "https://wardheernews.com/comments/feed/",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Music.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Obituaries.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Television.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Well.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/1d8e448d-c2bf-403c-a584-ac4500b4ead7/58a74130-c44b-49fd-ab49-ac4500b6f9c0/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/223113c5-ff31-4f9a-b650-ada90106df0f/7c994764-510f-469f-80a3-ada901076c74/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/6c576a47-8ba5-424d-a511-b0cb0112a67f/67ca9b90-7262-4c13-862f-b0cb01156e30/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/dcdc1a42-e680-4c00-ae96-b2040100e199/afa09094-490a-4c76-86fa-b2040101d5e2/podcast.rss",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Weddings.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/spotlight/podcasts/rss.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/bret-stephens/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/charles-m-blow/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-brooks/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ezra-klein/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/farhad-manjoo/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/frank-bruni/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/gail-collins/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/jamelle-bouie/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/maureen-dowd/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/michelle-goldberg/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/nicholas-kristof/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/paul-krugman/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml",
+        "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/thomas-l-friedman/rss.xml",
+        "https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1520,
+        "category": "general",
+        "last_checked": "2026-02-01T16:12:59.180Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "horseedmedia.net": {
+      "urls": [
+        "https://horseedmedia.net/feed",
+        "https://horseedmedia.net/feed/",
+        "https://horseedmedia.net/category/news/feed",
+        "https://horseedmedia.net/category/news/feed/",
+        "https://horseedmedia.net/comments/feed",
+        "https://horseedmedia.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1883,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:19.720Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jowhar.com": {
+      "urls": [
+        "https://www.jowhar.com/feed/",
+        "https://jowhar.com/feed/",
+        "https://www.jowhar.com/feed",
+        "https://jowhar.com/comments/feed/",
+        "https://jowhar.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1124,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:04.809Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "goobjoog.com": {
+      "urls": [
+        "https://en.goobjoog.com/feed/",
+        "https://goobjoog.com/english/feed/",
+        "https://goobjoog.com/feed/",
+        "http://goobjoog.com/english/feed/",
+        "https://goobjoog.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1548,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:12.311Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "radiobanadir.com": {
+      "urls": [
+        "http://radiobanadir.com/feed/",
+        "https://syairtgl.com/feed/",
+        "http://radiobanadir.com/comments/feed/",
+        "https://syairtgl.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 24,
+        "category": "general",
+        "last_checked": "2026-02-01T16:12:53.027Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "allsbc.com": {
+      "urls": [
+        "https://allsbc.com/feed/",
+        "http://allsbc.com/feed/",
+        "https://allsbc.com/comments/feed/",
+        "http://allsbc.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 859,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:20.681Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dayniiile.com": {
+      "urls": [
+        "https://www.dayniiile.com/feed/",
+        "https://www.dayniiile.com/comments/feed/",
+        "https://www.dayniiile.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1183,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:14.733Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "boramanews.com": {
+      "urls": [
+        "https://boramanews.com/feed/",
+        "https://boramanews.com/?feed=rss2",
+        "https://boramanews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1485,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:10.646Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hiiraan.com": {
+      "urls": [
+        "https://hiiraan.com/news.xml",
+        "https://rss.hiiraan.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 584,
+        "category": "general",
+        "last_checked": "2026-02-01T16:12:41.055Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "somalilandtoday.com": {
+      "urls": [
+        "https://somalilandtoday.com/feed/",
+        "https://somalilandtoday.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1201,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:13.513Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "caasimada.net": {
+      "urls": [
+        "https://www.caasimada.net/feed/",
+        "https://www.caasimada.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1942,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:03.479Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "somaliweyn.com": {
+      "urls": [
+        "https://somaliweyn.org/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1016,
+        "category": "general",
+        "last_checked": "2026-02-01T16:12:56.204Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "allbanaadir.org": {
+      "urls": [
+        "https://www.allbanaadir.org/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3891,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:08.700Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "puntlandpost.com": {
+      "urls": [
+        "https://puntlandpost.net/feed/",
+        "https://puntlandpost.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:12:43.004Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "shabelle.net": {
+      "urls": [
+        "https://shabellemedia.com/feed/",
+        "https://shabellemedia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:12:55.188Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "puntlandpost.net": {
+      "urls": [
+        "https://puntlandpost.net/feed/",
+        "https://puntlandpost.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:17.200Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "simbanews.net": {
+      "urls": [
+        "https://www.simbanews.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T16:13:01.535Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

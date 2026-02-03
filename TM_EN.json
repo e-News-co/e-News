@@ -1,0 +1,243 @@
+{
+  "country_code": "TM",
+  "language_code": "EN",
+  "total_domains": 10,
+  "total_feeds": 95,
+  "feeds": {
+    "tdh.gov.tm": {
+      "urls": [
+        "https://tdh.gov.tm/ru/rss.xml",
+        "https://tdh.gov.tm/tk/rss.xml",
+        "https://tdh.gov.tm/en/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2870,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:32.769Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 202,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:29.897Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "turkmenistan.ru": {
+      "urls": [
+        "https://www.turkmenistan.ru/ru/taxonomy/term/3/all/feed",
+        "https://www.turkmenistan.ru:443/ru/taxonomy/term/3/all/feed",
+        "http://www.turkmenistan.ru/ru/taxonomy/term/3/all/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2017,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:14.463Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "turkmenistanlive.com": {
+      "urls": [
+        "http://turkmenistanlive.com/feed/",
+        "http://turkmenistanlive.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 53,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:29.693Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "turkmenbusiness.org": {
+      "urls": [
+        "http://turkmenbusiness.org/rss.xml",
+        "http://www.turkmenbusiness.org/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1709,
+        "category": "business",
+        "last_checked": "2026-02-01T17:05:29.412Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tol.org": {
+      "urls": [
+        "https://tol.org/feed",
+        "https://tol.org/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1842,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:12.419Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hronikatm.com": {
+      "urls": [
+        "https://www.hronikatm.com/feed/",
+        "https://www.hronikatm.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2482,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:35.252Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newscentralasia.net": {
+      "urls": [
+        "http://feeds.feedburner.com/NewsCentralAsia"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3219,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:27.703Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rferl.org": {
+      "urls": [
+        "https://www.rferl.org/rss/?count=50",
+        "https://www.rferl.org/rss/?count=50&zoneid=666",
+        "https://www.rferl.org/rss/?count=50&zoneid=670",
+        "https://www.rferl.org/rss/?count=50&zoneid=660",
+        "https://www.rferl.org/rss/?count=50&zoneid=654",
+        "https://www.rferl.org/api/",
+        "https://www.rferl.org/api/zviipeojip",
+        "https://www.rferl.org/api/z$qimetkiy",
+        "https://www.rferl.org/api/z-oiievgii",
+        "https://www.rferl.org/api/zpiire-gir",
+        "https://gandhara.rferl.org/api/",
+        "https://www.rferl.org/api/zvoi_eogiy",
+        "https://www.rferl.org/podcast/",
+        "http://rferl.org/api/",
+        "http://rferl.org/sitemap.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:10.421Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "turkmenportal.com": {
+      "urls": [
+        "https://turkmenportal.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T17:05:24.484Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}
