@@ -1,0 +1,368 @@
+{
+  "country_code": "PK",
+  "language_code": "UR",
+  "total_domains": 13,
+  "total_feeds": 178,
+  "feeds": {
+    "dailykhabrain.com.pk": {
+      "urls": [
+        "https://dailykhabrain.com.pk/feed/",
+        "https://dailykhabrain.com.pk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2250,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:04.308Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alakhbar.com.pk": {
+      "urls": [
+        "https://alakhbar.com.pk/feed",
+        "https://alakhbar.com.pk/feed/",
+        "https://alakhbar.com.pk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:10.808Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 45,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:19.001Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "arynews.tv": {
+      "urls": [
+        "https://arynews.tv/feed",
+        "https://arynews.tv/feed/",
+        "https://arynews.tv/en/feed/",
+        "https://blogs.arynews.tv/feed",
+        "https://arynews.tv/category/latest-blogs/feed",
+        "https://arynews.tv/category/latest-blogs/feed/",
+        "https://blogs.arynews.tv/blog/author/alisalmanandani/feed",
+        "https://blogs.arynews.tv/blog/author/aliya-rashid-and-arisha-khowaja/feed",
+        "https://blogs.arynews.tv/blog/author/alvi-nabeel/feed",
+        "https://blogs.arynews.tv/blog/author/ashrafalisiddiqui/feed",
+        "https://blogs.arynews.tv/blog/author/asrar-raouf/feed",
+        "https://blogs.arynews.tv/blog/author/bilalhussain/feed",
+        "https://blogs.arynews.tv/blog/author/elsa-sc/feed",
+        "https://blogs.arynews.tv/blog/author/faizan-khan-jadoon/feed",
+        "https://blogs.arynews.tv/blog/author/fermin-koop/feed",
+        "https://blogs.arynews.tv/blog/author/hareem-fatima/feed",
+        "https://blogs.arynews.tv/blog/author/hoor-asrar/feed",
+        "https://blogs.arynews.tv/blog/author/imran-ahmed/feed",
+        "https://blogs.arynews.tv/blog/author/izayayeshan/feed",
+        "https://blogs.arynews.tv/blog/author/maha-siddiqui/feed",
+        "https://blogs.arynews.tv/blog/author/malik-nasir-mahmood-aslam/feed",
+        "https://blogs.arynews.tv/blog/author/mohsinmannan/feed",
+        "https://blogs.arynews.tv/blog/author/muhammad-alam-brohi/feed",
+        "https://blogs.arynews.tv/blog/author/muhammad-ali-siddiqui/feed",
+        "https://blogs.arynews.tv/blog/author/nawabzada-danyal/feed",
+        "https://blogs.arynews.tv/blog/author/nidafaraz/feed",
+        "https://blogs.arynews.tv/blog/author/nimra-hassan-shah/feed",
+        "https://blogs.arynews.tv/blog/author/noor-israr/feed",
+        "https://blogs.arynews.tv/blog/author/omer-farooq/feed",
+        "https://blogs.arynews.tv/blog/author/peer-muhammad-baigal/feed",
+        "https://blogs.arynews.tv/blog/author/raza-haidery/feed",
+        "https://blogs.arynews.tv/blog/author/sara-hayat/feed",
+        "https://blogs.arynews.tv/blog/author/shakoor-nizamani/feed",
+        "https://blogs.arynews.tv/blog/author/shazia/feed",
+        "https://blogs.arynews.tv/blog/author/shelina-bhamani/feed",
+        "https://blogs.arynews.tv/blog/author/shoaib-jatt/feed",
+        "https://blogs.arynews.tv/blog/author/site-master/feed",
+        "https://blogs.arynews.tv/blog/author/syed-sharfuddin/feed",
+        "https://blogs.arynews.tv/blog/author/tahseen-mahmood-aslam/feed",
+        "https://blogs.arynews.tv/blog/author/usama24/feed",
+        "https://blogs.arynews.tv/blog/author/usamakhatri/feed",
+        "https://blogs.arynews.tv/blog/author/uzair-surhio/feed",
+        "https://blogs.arynews.tv/blog/author/wali/feed",
+        "https://blogs.arynews.tv/blog/author/zarnish/feed",
+        "https://blogs.arynews.tv/blog/author/zofeen-ebrahim/feed",
+        "https://blogs.arynews.tv/blog/author/zoyaansari/feed",
+        "https://blogs.arynews.tv/blog/category/editor-choice/feed",
+        "https://blogs.arynews.tv/blog/category/howzat/feed",
+        "https://blogs.arynews.tv/blog/category/latest-blogs/feed",
+        "https://blogs.arynews.tv/blog/category/letters-to-editor/feed",
+        "https://blogs.arynews.tv/blog/category/media-mirror/feed",
+        "https://blogs.arynews.tv/blog/category/off-the-record/feed",
+        "https://blogs.arynews.tv/blog/category/point-of-view/feed",
+        "https://blogs.arynews.tv/blog/category/social-diary/feed",
+        "https://blogs.arynews.tv/feed/",
+        "https://blogs.arynews.tv/blog/category/health-wealth/feed",
+        "https://arynews.tv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1805,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:18.953Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dunyanews.tv": {
+      "urls": [
+        "https://blogs.dunyanews.tv/feed/",
+        "https://blogs.dunyanews.tv/urdu/?feed=rss2",
+        "https://blogs.dunyanews.tv/category/soiree/education/feed/",
+        "http://blogs.dunyanews.tv/feed/",
+        "http://blogs.dunyanews.tv/author/nageen-nawaz/feed/",
+        "http://blogs.dunyanews.tv/author/quratulain-ijaz/feed/",
+        "http://blogs.dunyanews.tv/author/samiya-yousaf/feed/",
+        "http://blogs.dunyanews.tv/author/shahbaz-munawar-kazmi/feed/",
+        "http://blogs.dunyanews.tv/author/usama-malick/feed/",
+        "http://blogs.dunyanews.tv/category/dunya/feed/",
+        "http://blogs.dunyanews.tv/category/history-2/feed/",
+        "http://blogs.dunyanews.tv/category/history/feed/",
+        "http://blogs.dunyanews.tv/category/media-logs/feed/",
+        "http://blogs.dunyanews.tv/category/politics/feed/",
+        "http://blogs.dunyanews.tv/category/science-and-technology/feed/",
+        "http://blogs.dunyanews.tv/category/soiree/feed/",
+        "http://blogs.dunyanews.tv/category/tour-wooer/feed/",
+        "http://blogs.dunyanews.tv/category/power-corridors/international-relations/feed/",
+        "https://blogs.dunyanews.tv/comments/feed/",
+        "https://blogs.dunyanews.tv/urdu/?feed=comments-rss2",
+        "http://blogs.dunyanews.tv/25908/feed/",
+        "http://blogs.dunyanews.tv/28105/feed/",
+        "http://blogs.dunyanews.tv/28220/feed/",
+        "http://blogs.dunyanews.tv/28722/feed/",
+        "http://blogs.dunyanews.tv/29193/feed/",
+        "http://blogs.dunyanews.tv/29862/feed/",
+        "http://blogs.dunyanews.tv/30548/feed/",
+        "http://blogs.dunyanews.tv/30609/feed/",
+        "http://blogs.dunyanews.tv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1431,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:15.881Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aaj.tv": {
+      "urls": [
+        "https://www.aaj.tv/feeds/latest-news",
+        "https://www.aaj.tv/feeds/blog/",
+        "https://www.aaj.tv/feeds/blog/2023-11-29",
+        "https://www.aaj.tv/feeds/blog/2023-11-30",
+        "https://www.aaj.tv/feeds/blog/2024-06-19",
+        "https://www.aaj.tv/feeds/blog/2024-06-20",
+        "https://www.aaj.tv/feeds/blog/2024-06-21",
+        "https://www.aaj.tv/feeds/blog/2024-07-02",
+        "https://www.aaj.tv/feeds/blog/2024-07-03",
+        "https://www.aaj.tv/feeds/blog/2024-07-04",
+        "https://www.aaj.tv/feeds/home/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1042,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:16.943Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "urduvoa.com": {
+      "urls": [
+        "http://urduvoa.com/api/",
+        "http://urduvoa.com/sitemap.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 716,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:19.763Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zamaswat.com": {
+      "urls": [
+        "https://zamaswat.com/feed/",
+        "https://zamaswat.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1305,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:08.840Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailyausaf.com": {
+      "urls": [
+        "https://dailyausaf.com/feed/",
+        "https://dailyausaf.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1331,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:05.642Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jasarat.com": {
+      "urls": [
+        "https://jasarat.com/feed/",
+        "https://jasarat.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1737,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:07.381Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ummat.net": {
+      "urls": [
+        "https://ummat.net/feed/",
+        "https://ummat.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4583,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:01.953Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "urdupoint.com": {
+      "urls": [
+        "https://www.urdupoint.com/en/sitemap/news.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1692,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:12.500Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dawnnews.tv": {
+      "urls": [
+        "https://www.dawnnews.tv/feeds/home/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:14.448Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,980 @@
+{
+  "country_code": "NP",
+  "language_code": "EN",
+  "total_domains": 57,
+  "total_feeds": 174,
+  "feeds": {
+    "gorkhapatra.org.np": {
+      "urls": [
+        "http://gorkhapatra.org.np/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 667,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:23.771Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "narimag.com.np": {
+      "urls": [
+        "http://narimag.com.np/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1423,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:45.676Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 59,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:24.865Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "wn.com": {
+      "urls": [
+        "http://rss.wn.com/English/keyword/world",
+        "http://rss.wn.com/English/keyword/business",
+        "http://rss.wn.com/English/keyword/america",
+        "http://rss.wn.com/English/keyword/science",
+        "http://rss.wn.com/English/keyword/africa",
+        "http://rss.wn.com/English/keyword/asia",
+        "http://rss.wn.com/English/top-stories",
+        "http://rss.wn.com/English/keyword/photown",
+        "https://rss.wn.com/English/keyword/photown"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 685,
+        "category": "world",
+        "last_checked": "2026-02-01T09:51:23.104Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 570,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:15.152Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "himalini.com": {
+      "urls": [
+        "https://www.himalini.com/feed/",
+        "https://himalini.com/en/feed",
+        "https://himalini.com/en/comments/feed",
+        "https://www.himalini.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 423,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:24.294Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nepalpress.com": {
+      "urls": [
+        "https://nepalpress.com/feed/",
+        "https://www.nepalpress.com/feed/",
+        "https://nepalpress.com/comments/feed/",
+        "https://www.nepalpress.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1786,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:17.007Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "himalmag.com": {
+      "urls": [
+        "https://www.himalmag.com/feed/",
+        "https://www.himalmag.com/category/podcast/feed/",
+        "https://www.himalmag.com/comments/feed/",
+        "https://prod-qt-images.s3.amazonaws.com/production/himalmag/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1858,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:37.853Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hamrokhelkud.com": {
+      "urls": [
+        "https://www.hamrokhelkud.com/feed",
+        "https://www.hamrokhelkud.com/en/feed/",
+        "https://www.hamrokhelkud.net/feed/",
+        "https://www.hamrokhelkud.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1983,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:44.803Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "deshsanchar.com": {
+      "urls": [
+        "https://deshsanchar.com/feed/",
+        "https://deshsanchar.com/category/blog/feed/",
+        "https://deshsanchar.com/category/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 64,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:15.150Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "setopati.com": {
+      "urls": [
+        "https://www.setopati.com/feed",
+        "https://www.setopati.com/rss",
+        "https://www.setopati.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 218,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:10.461Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "onlinekhabar.com": {
+      "urls": [
+        "https://www.onlinekhabar.com/feed",
+        "https://www.onlinekhabar.com/content/blog/feed",
+        "https://www.onlinekhabar.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 236,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:50.590Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "arthasarokar.com": {
+      "urls": [
+        "https://arthasarokar.com/feed",
+        "https://arthasarokar.com/category/blog/feed",
+        "https://arthasarokar.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1121,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:38.916Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sajhakhel.com": {
+      "urls": [
+        "https://www.sajhakhel.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/7474437997231263369/posts/default",
+        "https://www.sajhakhel.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1212,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:50.345Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nagariknews.nagariknetwork.com": {
+      "urls": [
+        "https://nagariknews.nagariknetwork.com/feed",
+        "https://nagariknews.nagariknetwork.com/feed/blog"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 155,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:24.018Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nagariknetwork.com": {
+      "urls": [
+        "https://nagariknetwork.com/feed/",
+        "https://nagariknetwork.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 365,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:24.803Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nepalipatra.com": {
+      "urls": [
+        "https://www.nepalipatra.com/feed/",
+        "https://feeds.feedburner.com/nepalipatranews"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 445,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:32.442Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thehimalayantimes.com": {
+      "urls": [
+        "https://thehimalayantimes.com/feed/",
+        "https://thehimalayantimes.com/rssFeed/15"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 711,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:22.395Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bizmandu.com": {
+      "urls": [
+        "https://bizmandu.com/feed",
+        "https://bizmandu.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 907,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:42.236Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kathmandupost.com": {
+      "urls": [
+        "https://kathmandupost.com/rss",
+        "https://kathmandupost.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 929,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:28.153Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "khabarhub.com": {
+      "urls": [
+        "https://khabarhub.com/feed/",
+        "https://english.khabarhub.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 942,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:15.082Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nepaliheadlines.com": {
+      "urls": [
+        "https://nepaliheadlines.com/feed/",
+        "https://nepaliheadlines.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1019,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:33.489Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nepalnews.com": {
+      "urls": [
+        "https://nepalnews.com/feed/",
+        "http://nepalnews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1141,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:17.876Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rajdhanidaily.com": {
+      "urls": [
+        "https://rajdhanidaily.com/feed/",
+        "https://rajdhanidaily.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1448,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:27.080Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dcnepal.com": {
+      "urls": [
+        "https://www.dcnepal.com/feed/",
+        "https://www.dcnepal.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1832,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:35.387Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "spotlightnepal.com": {
+      "urls": [
+        "https://www.spotlightnepal.com/feed/",
+        "http://spotlightnepal.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1835,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:40.697Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "merokhel.com": {
+      "urls": [
+        "https://merokhel.com/feed/",
+        "https://merokhel.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2541,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:48.600Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "myrepublica.nagariknetwork.com": {
+      "urls": [
+        "https://myrepublica.nagariknetwork.com/feeds",
+        "https://www.myrepublica.nagariknetwork.com/feeds"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2556,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:03.178Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hknepal.com": {
+      "urls": [
+        "https://hknepal.com/deshbidesh/feed",
+        "https://hknepal.com/deshbidesh/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2898,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:44.252Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ratopati.com": {
+      "urls": [
+        "https://www.ratopati.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 97,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:50.688Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "risingnepaldaily.com": {
+      "urls": [
+        "https://risingnepaldaily.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 273,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:30.683Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "baahrakhari.com": {
+      "urls": [
+        "http://baahrakhari.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 424,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:07.594Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nepalsamaya.com": {
+      "urls": [
+        "http://nepalsamaya.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 464,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:13.967Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nepalkhabar.com": {
+      "urls": [
+        "http://nepalkhabar.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 475,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:10.936Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "khasokhas.com": {
+      "urls": [
+        "http://khasokhas.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 816,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:31.823Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "hamrakura.com": {
+      "urls": [
+        "https://hamrakura.com/rss.php/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 876,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:11.812Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lokaantar.com": {
+      "urls": [
+        "https://lokaantar.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 913,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:54.666Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "souryaonline.com": {
+      "urls": [
+        "https://www.souryaonline.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1114,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:25.132Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "onlinetvnepal.com": {
+      "urls": [
+        "http://onlinetvnepal.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1690,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:13.503Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "himalkhabar.com": {
+      "urls": [
+        "http://himalkhabar.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1936,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:23.822Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ujyaaloonline.com": {
+      "urls": [
+        "http://ujyaaloonline.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2005,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:21.886Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newbusinessage.com": {
+      "urls": [
+        "http://newbusinessage.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2195,
+        "category": "business",
+        "last_checked": "2026-02-01T09:51:37.725Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "abhiyandaily.com": {
+      "urls": [
+        "http://abhiyandaily.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2196,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:32.879Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nepalitimes.com": {
+      "urls": [
+        "https://www.nepalitimes.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2255,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:30.410Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aarthiknews.com": {
+      "urls": [
+        "http://aarthiknews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2403,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:41.320Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ejanakpurtoday.com": {
+      "urls": [
+        "http://ejanakpurtoday.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2512,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:28.954Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thahakhabar.com": {
+      "urls": [
+        "http://thahakhabar.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2614,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:10.208Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "karobardaily.com": {
+      "urls": [
+        "https://www.karobardaily.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2650,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:35.530Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newsofnepal.com": {
+      "urls": [
+        "http://newsofnepal.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2747,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:20.623Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "imagekhabar.com": {
+      "urls": [
+        "http://imagekhabar.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2873,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:19.881Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nepallive.com": {
+      "urls": [
+        "http://nepallive.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3065,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:53.753Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "osnepal.com": {
+      "urls": [
+        "http://osnepal.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3992,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:07.170Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news24nepal.com": {
+      "urls": [
+        "http://news24nepal.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4168,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:58.834Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chitawan.com": {
+      "urls": [
+        "https://www.chitawan.com/?feed=rss2",
+        "http://www.chitawan.com/?feed=rss2",
+        "https://www.chitawan.com/?feed=comments-rss2",
+        "http://www.chitawan.com/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:31.007Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "nepalipost.com": {
+      "urls": [
+        "http://nepalipost.com/beta/feed",
+        "http://nepalipost.com/beta/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:16.522Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cricnepal.com": {
+      "urls": [
+        "https://www.cricnepal.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:51:45.962Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "arghakhanchi.com": {
+      "urls": [
+        "https://www.arghakhanchi.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:52:26.441Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

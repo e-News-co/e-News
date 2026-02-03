@@ -1,0 +1,1872 @@
+{
+  "country_code": "RO",
+  "language_code": "EN",
+  "total_domains": 102,
+  "total_feeds": 436,
+  "feeds": {
+    "jurnalul.ro": {
+      "urls": [
+        "https://jurnalul.antena3.ro/rss",
+        "https://jurnalul.ro/rss",
+        "https://jurnalul.antena3.ro/rss/stiri.xml",
+        "https://jurnalul.ro/rss/stiri.xml",
+        "https://jurnalul.ro/rss/observator.xml",
+        "https://jurnalul.antena3.ro/rss/observator.xml",
+        "https://jurnalul.ro/rss/externe.xml",
+        "https://jurnalul.ro/rss/timp-liber.xml",
+        "https://jurnalul.ro/rss/bani-afaceri.xml",
+        "https://jurnalul.ro/rss/politica.xml",
+        "https://jurnalul.ro/rss/economia.xml",
+        "https://jurnalul.ro/rss/cultura.xml",
+        "https://jurnalul.ro/rss/viata-sanatoasa.xml",
+        "https://jurnalul.ro/rss/it.xml",
+        "https://jurnalul.ro/rss/vremea.xml",
+        "https://jurnalul.ro/rss/culinar.xml",
+        "https://jurnalul.ro/rss/frumos-si-sanatos.xml",
+        "https://jurnalul.ro/rss/sport.xml",
+        "https://jurnalul.antena3.ro/rss/externe.xml",
+        "https://jurnalul.ro/rss/anchete.xml",
+        "https://jurnalul.ro/rss/arte-vizuale.xml",
+        "https://jurnalul.ro/rss/auto.xml",
+        "https://jurnalul.ro/rss/calatorii.xml",
+        "https://jurnalul.ro/rss/carte.xml",
+        "https://jurnalul.ro/rss/casa.xml",
+        "https://jurnalul.ro/rss/constructii-proprietati.xml",
+        "https://jurnalul.ro/rss/extrasport.xml",
+        "https://jurnalul.ro/rss/fashion.xml",
+        "https://jurnalul.ro/rss/film.xml",
+        "https://jurnalul.ro/rss/fotbal-intern.xml",
+        "https://jurnalul.ro/rss/fotbal-international.xml",
+        "https://jurnalul.ro/rss/hobby.xml",
+        "https://jurnalul.ro/rss/interviuri.xml",
+        "https://jurnalul.ro/rss/investitii.xml",
+        "https://jurnalul.ro/rss/medicul-de-familie.xml",
+        "https://jurnalul.ro/rss/monden.xml",
+        "https://jurnalul.ro/rss/muzica.xml",
+        "https://jurnalul.ro/rss/piata-muncii.xml",
+        "https://jurnalul.ro/rss/reportaje.xml",
+        "https://jurnalul.ro/rss/sanatatea-copilului.xml",
+        "https://jurnalul.ro/rss/sanatatea-familiei.xml",
+        "https://jurnalul.ro/rss/sporturi.xml",
+        "https://jurnalul.ro/rss/starea-de-sanatate.xml",
+        "https://jurnalul.ro/rss/stiinta.xml",
+        "https://jurnalul.ro/rss/teatru.xml",
+        "https://jurnalul.ro/rss/terapii-complementare.xml",
+        "https://jurnalul.ro/rss/video.xml",
+        "https://jurnalul.antena3.ro/rss/politica.xml",
+        "https://jurnalul.antena3.ro/rss/bani-afaceri.xml",
+        "https://jurnalul.antena3.ro/rss/economia.xml",
+        "https://jurnalul.antena3.ro/rss/sport.xml",
+        "https://jurnalul.antena3.ro/rss/cultura.xml",
+        "https://jurnalul.antena3.ro/rss/timp-liber.xml",
+        "https://jurnalul.antena3.ro/rss/vremea.xml",
+        "https://jurnalul.antena3.ro/rss/editoriale.xml",
+        "https://jurnalul.antena3.ro/rss/fotbal-intern.xml",
+        "https://jurnalul.antena3.ro/rss/fotbal-international.xml",
+        "https://jurnalul.antena3.ro/rss/muzica.xml",
+        "https://jurnalul.antena3.ro/rss/sporturi.xml",
+        "https://jurnalul.antena3.ro/rss/viata-sanatoasa.xml",
+        "https://jurnalul.antena3.ro/rss/anchete.xml",
+        "https://jurnalul.antena3.ro/rss/arte-vizuale.xml",
+        "https://jurnalul.antena3.ro/rss/auto.xml",
+        "https://jurnalul.antena3.ro/rss/calatorii.xml",
+        "https://jurnalul.antena3.ro/rss/carte.xml",
+        "https://jurnalul.antena3.ro/rss/casa.xml",
+        "https://jurnalul.antena3.ro/rss/constructii-proprietati.xml",
+        "https://jurnalul.antena3.ro/rss/culinar.xml",
+        "https://jurnalul.antena3.ro/rss/extrasport.xml",
+        "https://jurnalul.antena3.ro/rss/fashion.xml",
+        "https://jurnalul.antena3.ro/rss/film.xml",
+        "https://jurnalul.antena3.ro/rss/frumos-si-sanatos.xml",
+        "https://jurnalul.antena3.ro/rss/gadget.xml",
+        "https://jurnalul.antena3.ro/rss/hobby.xml",
+        "https://jurnalul.antena3.ro/rss/interviuri.xml",
+        "https://jurnalul.antena3.ro/rss/investitii.xml",
+        "https://jurnalul.antena3.ro/rss/medicul-de-familie.xml",
+        "https://jurnalul.antena3.ro/rss/monden.xml",
+        "https://jurnalul.antena3.ro/rss/piata-muncii.xml",
+        "https://jurnalul.antena3.ro/rss/reportaje.xml",
+        "https://jurnalul.antena3.ro/rss/sanatatea-copilului.xml",
+        "https://jurnalul.antena3.ro/rss/sanatatea-familiei.xml",
+        "https://jurnalul.antena3.ro/rss/special.xml",
+        "https://jurnalul.antena3.ro/rss/starea-de-sanatate.xml",
+        "https://jurnalul.antena3.ro/rss/stiinta.xml",
+        "https://jurnalul.antena3.ro/rss/teatru.xml",
+        "https://jurnalul.antena3.ro/rss/tech.xml",
+        "https://jurnalul.antena3.ro/rss/terapii-complementare.xml",
+        "https://jurnalul.antena3.ro/rss/trup--minte--suflet.xml",
+        "https://jurnalul.antena3.ro/rss/video.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2098,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:24.655Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "timesnewroman.ro": {
+      "urls": [
+        "https://www.timesnewroman.ro/blog/redactia-tnr-singurul-loc-unde-se-scrie-si-se-canta-live/feed/",
+        "https://www.timesnewroman.ro/feed/",
+        "https://www.timesnewroman.ro/blog/ma-fut-vacantele-tale-iohannis/feed/",
+        "https://www.timesnewroman.ro/blog/tnr-fost-marginimea-sibiului-si-la-jina-ca-sa-vedem-care-e-treaba-cu-ciobanii/feed/",
+        "https://www.timesnewroman.ro/blog/rusine-ba-nimeni-din-partea-statului-nu-s-revoltat-scandalul-dezinfectantilor/feed/",
+        "https://www.timesnewroman.ro/blog-de-suporter-craiova/feed/",
+        "https://www.timesnewroman.ro/blog/feed/",
+        "https://www.timesnewroman.ro/blog/898/feed/",
+        "https://www.timesnewroman.ro/blog/adio-bucuresti-tnr-se-duce-la-kolozsvar-la-comedy-cluj/feed/",
+        "https://www.timesnewroman.ro/blog/avem-dovada-redactorii-tnr-nu-sunt-basisti/feed/",
+        "https://www.timesnewroman.ro/blog/daniel-barbu-insista-ca-e-riscant-sa-fii-politician-nu-ba-e-riscant-sa-fii-prost/feed/",
+        "https://www.timesnewroman.ro/blog/fanii-lui-badea-nu-sunt-cu-mult-mai-destepti-ca-el/feed/",
+        "https://www.timesnewroman.ro/blog/fost-la-dezbaterea-despre-televiziunea-line-primariei-sector-6-da-e-o-prostie-dar-se-va-face/feed/",
+        "https://www.timesnewroman.ro/blog/invata-marketing-inteligent-cu-times-new-roman/feed/",
+        "https://www.timesnewroman.ro/blog/ionut-de-la-tnr-fost-promovat-acum-lucreaza-la-kaufland/feed/",
+        "https://www.timesnewroman.ro/blog/ionut-s-dus-germania-sa-aduca-o-masina-pentru-redactie-si-gasit-noul-jaguar-e-pace/feed/",
+        "https://www.timesnewroman.ro/blog/nu-fi-dancil-da-o-si-tu-judecata-pe-viorica-dancila-dosarul-tnr/feed/",
+        "https://www.timesnewroman.ro/blog/piticigratis-scrie-stiri-inventate-fara-sa-o-stie/feed/",
+        "https://www.timesnewroman.ro/blog/sondaj-cui-ai-vrea-sa-dea-tnr-un-premiu/feed/",
+        "https://www.timesnewroman.ro/blog/stop-discriminarii-tratati-burtile-barbatilor-cu-respectul-cuvenit/feed/",
+        "https://www.timesnewroman.ro/blog/studiu-legumele-romanesti-sunt-cele-mai-gustoase-pentru-ca-piete-e-mult-fum-de-mici/feed/",
+        "https://www.timesnewroman.ro/blog/tnr-va-arata-adevarata-fata-a-justitiei-din-romania/feed/",
+        "https://www.timesnewroman.ro/blog/video-tnr-facut-un-test-drive-pentru-scaune-de-birou/feed/",
+        "https://www.timesnewroman.ro/blog/video-trimisul-special-tnr-la-sat-spune-adevarul-despre-viata-la-tara/feed/",
+        "https://www.timesnewroman.ro/blog/jurnalism-penibil-la-evz-ce-alte-10-ipoteze-n-au-fost-excluse-de-expertiza-colectiv/feed/",
+        "https://www.timesnewroman.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1945,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:38.481Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "opiniatransilvana.ro": {
+      "urls": [
+        "https://opiniatransilvana.ro/feed/",
+        "https://opiniatransilvana.ro/comments/feed/",
+        "http://unescoinromania.ro/rss.xml",
+        "https://www.clujinsider.ro/feed/",
+        "https://urbeamea.ro/albaiulia/feed/",
+        "https://www.transylvaniatoday.ro/feed/",
+        "https://www.upnews.ro/feed/",
+        "http://sportincluj.ro/feed/",
+        "http://www.transylvaniatoday.ro/feed/",
+        "https://www.clujinsider.ro/comments/feed/",
+        "https://www.transylvaniatoday.ro/comments/feed/",
+        "https://www.upnews.ro/comments/feed/",
+        "https://urbeamea.ro/albaiulia/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1671,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:17.361Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "flagrantct.ro": {
+      "urls": [
+        "http://www.flagrantct.ro/feed/",
+        "http://www.flagrantct.ro/categoria/economie/feed/",
+        "http://www.flagrantct.ro/categoria/investigatii/feed/",
+        "http://www.flagrantct.ro/categoria/magazin/feed/",
+        "http://www.flagrantct.ro/categoria/mapamond/feed/",
+        "http://www.flagrantct.ro/categoria/politichie-centrala/feed/",
+        "http://www.flagrantct.ro/categoria/politichie-externa/feed/",
+        "http://www.flagrantct.ro/categoria/politichie-locala/feed/",
+        "http://www.flagrantct.ro/categoria/sport/feed/",
+        "http://www.flagrantct.ro/comments/feed/",
+        "http://feeds.feedburner.com/FlagrantCt"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1595,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:06.909Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cotidianul.ro": {
+      "urls": [
+        "https://www.cotidianul.ro/feed/",
+        "https://www.cotidianul.ro/coma-alcoolica-la-7-ani/feed/",
+        "https://www.cotidianul.ro/articole/actualitate/feed/",
+        "https://www.cotidianul.ro/articole/politica/feed/",
+        "https://www.cotidianul.ro/articole/cultura/feed/",
+        "https://www.cotidianul.ro/articole/editorial/feed/",
+        "https://www.cotidianul.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1533,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:20.253Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zf.ro": {
+      "urls": [
+        "http://www.zf.ro/rss.xml",
+        "https://www.zf.ro/rss.xml",
+        "http://www.zf.ro/rss/banci-si-asigurari/",
+        "http://www.zf.ro/rss/companii/",
+        "http://www.zf.ro/rss/business-hi-tech/",
+        "http://www.zf.ro/rss/zf-24/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1178,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:31.369Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bursa.ro": {
+      "urls": [
+        "https://www.bursa.ro/_rss/?t=pcaps",
+        "https://www.bursa.ro/_rss/?t=tzs",
+        "http://www.bursa.ro/_rss/?t=tz",
+        "https://www.bursa.ro/_rss/?t=ens",
+        "http://www.bursa.ro/_rss/?t=ens",
+        "http://www.bursa.ro/_rss/?t=tzs"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1501,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:30.008Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gsp.ro": {
+      "urls": [
+        "https://www.gsp.ro/usr/feed/index20.xml",
+        "https://www.gsp.ro/rss.xml",
+        "https://www.gsp.ro/rss/fotbal-99.xml",
+        "https://www.gsp.ro/rss/fotbal/liga-1-100.xml",
+        "https://www.gsp.ro/rss/fotbal/liga-2-101.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1098,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:01.698Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziarulargesul.ro": {
+      "urls": [
+        "https://ziarulargesul.ro/feed/",
+        "http://ziarulargesul.ro/feed/",
+        "https://ziarulargesul.ro/comments/feed/",
+        "http://feeds.feedburner.com/ZiarulArgeul",
+        "http://feeds.feedburner.com/ziarulargesulstiri"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1281,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:20.356Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "adevarul.ro": {
+      "urls": [
+        "https://adevarul.ro/rss/index",
+        "https://adevarul.ro/rss/",
+        "http://adevarul.ro/rss/",
+        "https://adevarul.ro/rss/stiri-externe/republica-moldova",
+        "https://adevarul.ro/rss/stiri-locale/sibiu"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1374,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:33.150Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "desteptarea.ro": {
+      "urls": [
+        "https://www.desteptarea.ro/feed/",
+        "https://micapublicitate.desteptarea.ro/feed/",
+        "https://www.desteptarea.ro/category/podcast/feed/",
+        "https://www.desteptarea.ro/category/z/podcast/feed/",
+        "https://www.desteptarea.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1441,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:24.248Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "financiarul.ro": {
+      "urls": [
+        "https://foxiz.themeruby.com/podcasts/series/motivation/feed/",
+        "https://financiarul.ro/feed/",
+        "https://foxiz.io/quantum/feed/",
+        "https://foxiz.themeruby.com/quantum/feed/",
+        "https://foxiz.themeruby.com/podcasts/series/fashion/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1943,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:22.196Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziaruldebacau.ro": {
+      "urls": [
+        "https://ziaruldebacau.ro/feed/",
+        "https://zdbc.ro/feed/",
+        "https://ziaruldebacau.ro/comments/feed/",
+        "https://zdbc.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 948,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:25.478Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "curierulnational.ro": {
+      "urls": [
+        "https://curierulnational.ro/feed/",
+        "https://curierulnational.ro/comments/feed/",
+        "https://moneybuzz.ro/feed/",
+        "https://moneybuzz.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1249,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:36.471Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "monitorulsv.ro": {
+      "urls": [
+        "http://feeds.monitorulsv.ro/AnunturiOnlineMonitorulDeSuceava",
+        "http://feeds.monitorulsv.ro/MonitorulDeSuceava",
+        "http://feeds.monitorulsv.ro/MonitorulTV",
+        "http://feeds.monitorulsv.ro/MonitoruldeSuceava"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1534,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:43.198Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bzi.ro": {
+      "urls": [
+        "https://www.bzi.ro/rss",
+        "https://www.bzi.ro/feed",
+        "http://www.bzi.ro/rss",
+        "https://www.bzi.ro/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2725,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:11.024Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "3szek.ro": {
+      "urls": [
+        "https://feeds.feedburner.com/3szekHirek.rss",
+        "https://feeds.feedburner.com/3szekHirek",
+        "http://feeds.feedburner.com/3szekHirek.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 793,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:16.937Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "curier.ro": {
+      "urls": [
+        "https://curier.ro/feed/",
+        "http://feeds.feedburner.com/curierzilei-stiri-on-line",
+        "https://curier.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1426,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:22.685Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "monitorulbt.ro": {
+      "urls": [
+        "https://www.monitorulbt.ro/feed/",
+        "https://www.monitorulbt.ro/category/podcast/feed/",
+        "https://www.monitorulbt.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1453,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:29.701Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "szabadsag.ro": {
+      "urls": [
+        "https://szabadsag.ro/rss.xml?doAsGroupId=20182&refererPlid=20958&controlPanelCategory=current_site.content&_15_groupId=20182",
+        "https://www.szabadsag.ro/rss.xml",
+        "http://szabadsag.ro/cikk/-/journal/rss/3271167?doAsGroupId=20182&refererPlid=20958&controlPanelCategory=current_site.content&_15_groupId=20182"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1487,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:15.842Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "qmagazine.ro": {
+      "urls": [
+        "https://www.qmagazine.ro/feed/atom/",
+        "https://www.qmagazine.ro/feed/",
+        "https://www.qmagazine.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1552,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:28.163Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rol.ro": {
+      "urls": [
+        "https://rol.ro/feed/",
+        "http://rol.ro/feed/",
+        "http://rol.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1740,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:36.534Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gandul.ro": {
+      "urls": [
+        "https://www.gandul.ro/feed",
+        "https://www.gandul.ro/emisiuni/altceva-podcast/feed",
+        "https://www.gandul.ro/tag/podcast/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2978,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:41.347Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "formula-as.ro": {
+      "urls": [
+        "https://www.formula-as.ro/feed/",
+        "https://www.formula-as.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 782,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:44.439Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "national.ro": {
+      "urls": [
+        "https://www.national.ro/feed/",
+        "https://www.national.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 827,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:42.278Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "apropotv.ro": {
+      "urls": [
+        "https://www.apropotv.ro/feed",
+        "http://www.apropotv.ro/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 997,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:40.888Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "businessmagazin.ro": {
+      "urls": [
+        "https://www.businessmagazin.ro/rss-feed.xml?5539",
+        "https://www.businessmagazin.ro/rss-feed.xml?5541"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1133,
+        "category": "business",
+        "last_checked": "2026-02-01T13:04:43.654Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dcnews.ro": {
+      "urls": [
+        "https://www.dcnews.ro/feed",
+        "https://www.dcnews.ro/rss/politica.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1136,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:46.921Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "monitoruldegalati.ro": {
+      "urls": [
+        "https://www.monitoruldegalati.ro/feed",
+        "https://www.monitoruldegalati.ro/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1383,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:08.297Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "libertatea.ro": {
+      "urls": [
+        "https://www.libertatea.ro/feed",
+        "https://www.libertatea.ro/opinii/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1468,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:26.137Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aradon.ro": {
+      "urls": [
+        "https://www.aradon.ro/feed/",
+        "https://www.aradon.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1552,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:33.340Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziarulunirea.ro": {
+      "urls": [
+        "https://ziarulunirea.ro/feed/",
+        "https://ziarulunirea.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1560,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:18.923Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bihon.ro": {
+      "urls": [
+        "https://www.bihon.ro/feed/",
+        "https://www.bihon.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1567,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:40.114Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziuaconstanta.ro": {
+      "urls": [
+        "https://www.ziuaconstanta.ro/option,com_rd_rss/id,2.html",
+        "https://www.ziuaconstanta.ro/rss/toate-stirile.html"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1579,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:15.033Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "monitorulexpres.ro": {
+      "urls": [
+        "https://www.monitorulexpres.ro/feed/",
+        "https://www.monitorulexpres.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1618,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:31.778Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cvlpress.ro": {
+      "urls": [
+        "https://cvlpress.ro/feed/",
+        "https://cvlpress.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1723,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:48.102Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bzc.ro": {
+      "urls": [
+        "http://www.bzc.ro/rss",
+        "https://www.bzc.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2078,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:46.053Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thediplomat.ro": {
+      "urls": [
+        "https://www.thediplomat.ro/feed/",
+        "https://www.thediplomat.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2111,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:55.871Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "monitorulcj.ro": {
+      "urls": [
+        "https://www.monitorulcj.ro/rss",
+        "http://www.monitorulcj.ro/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2177,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:10.377Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "agerpres.ro": {
+      "urls": [
+        "https://agerpres-ro.directorylib.com/?/home.rss",
+        "https://api.allorigins.win/raw?url=https://createfeed.bazqux.com/extract.php?url=https://agerpres.ro/widget&max=50&order=document&guid=0"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2318,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:00.429Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "stiripesurse.ro": {
+      "urls": [
+        "https://www.stiripesurse.ro/rss/stiri.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 596,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:44.988Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fanatik.ro": {
+      "urls": [
+        "https://www.fanatik.ro/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 660,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:03.152Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "okmagazine.ro": {
+      "urls": [
+        "https://okmagazine.ro/rss/index"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 698,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:05.523Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alba24.ro": {
+      "urls": [
+        "https://alba24.ro/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 716,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:07.559Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ciao.ro": {
+      "urls": [
+        "https://ciao.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 723,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:18.646Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "historia.ro": {
+      "urls": [
+        "https://historia.ro/rss/index"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 788,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:42.494Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "b1tv.ro": {
+      "urls": [
+        "https://www.b1tv.ro/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:34.485Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elle.ro": {
+      "urls": [
+        "https://www.elle.ro/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1070,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:06.593Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kronika.ro": {
+      "urls": [
+        "https://kronika.ro/rss/kronika_hirek.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1242,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:12.266Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziarullumina.ro": {
+      "urls": [
+        "https://ziarullumina.ro/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1276,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:21.484Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gds.ro": {
+      "urls": [
+        "https://www.gds.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1308,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:12.382Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "femeia.ro": {
+      "urls": [
+        "https://www.femeia.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1320,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:07.913Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "9am.ro": {
+      "urls": [
+        "https://img.9am.ro/rss/ultima-ora.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1329,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:33.564Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zoso.ro": {
+      "urls": [
+        "https://zoso.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:32.234Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "paginademedia.ro": {
+      "urls": [
+        "https://www.paginademedia.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:39.811Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.ro": {
+      "urls": [
+        "https://www.news.ro/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1370,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:01.936Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziarulprahova.ro": {
+      "urls": [
+        "https://ziarulprahova.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1389,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:41.663Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dilemaveche.ro": {
+      "urls": [
+        "https://dilemaveche.ro/rss/index"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1396,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:21.076Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hermannstaedter.ro": {
+      "urls": [
+        "https://www.hermannstaedter.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1580,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:20.208Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "romanianbusinessjournal.ro": {
+      "urls": [
+        "https://www.romanianbusinessjournal.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1609,
+        "category": "business",
+        "last_checked": "2026-02-01T13:01:28.504Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "revistateologica.ro": {
+      "urls": [
+        "https://www.revistateologica.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1618,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:29.781Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "click.ro": {
+      "urls": [
+        "https://click.ro/rss/index"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1638,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:35.199Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "infoest.ro": {
+      "urls": [
+        "https://www.infoest.ro/rss-stiri/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1825,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:18.407Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziaruldesport.ro": {
+      "urls": [
+        "https://www.ziaruldesport.ro/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1826,
+        "category": "sports",
+        "last_checked": "2026-02-01T13:02:04.978Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "revista-apostrof.ro": {
+      "urls": [
+        "https://www.revista-apostrof.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1895,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:03.831Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "acasa.ro": {
+      "urls": [
+        "https://casa.acasa.ro/feed/crossOMG"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4407,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:30.904Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cugetliber.ro": {
+      "urls": [
+        "https://www.cugetliber.ro/rss/today/",
+        "https://www.cugetliber.ro/rss/ultima-ora/",
+        "https://www.cugetliber.ro/rss/titlurile-zilei/",
+        "https://cugetliber.ro/rss/ultima-ora/",
+        "https://cugetliber.ro/rss/today/",
+        "https://cugetliber.ro/rss/actual/",
+        "https://www.cugetliber.ro/rss/actual/",
+        "https://www.cugetliber.ro/rss/eveniment/",
+        "https://www.cugetliber.ro/rss/social/",
+        "https://cugetliber.ro/rss/eveniment/",
+        "https://cugetliber.ro/rss/social/",
+        "https://cugetliber.ro/rss/politica-administratie/",
+        "https://www.cugetliber.ro/rss/economie/",
+        "https://cugetliber.ro/rss/sport/",
+        "https://cugetliber.ro/rss/cultura-educatie/",
+        "https://cugetliber.ro/rss/sanatate/",
+        "https://cugetliber.ro/rss/titlurile-zilei/",
+        "https://www.cugetliber.ro/rss/cultura-educatie/",
+        "https://www.cugetliber.ro/rss/politica-administratie/",
+        "https://cugetliber.ro/rss/economie/",
+        "https://www.cugetliber.ro/rss/sanatate/",
+        "https://www.cugetliber.ro/rss/sport/",
+        "https://www.cugetliber.ro/rss/fun/",
+        "https://cugetliber.ro/rss/fun/",
+        "https://cugetliber.ro/rss/anunturi/",
+        "https://cugetliber.ro/rss/interviu/",
+        "https://cugetliber.ro/rss/podcast/",
+        "https://www.cugetliber.ro/rss/anunturi/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:13.452Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mediafax.ro": {
+      "urls": [
+        "https://www.mediafax.ro/rss",
+        "https://www.mediafax.ro/rss.com/feed",
+        "https://www.mediafax.ro/rss/externe",
+        "https://www.mediafax.ro/rss/economic",
+        "https://www.mediafax.ro/rss/social",
+        "https://www.mediafax.ro/feed",
+        "https://www.mediafax.ro/rss/comunicate/",
+        "https://www.mediafax.ro/rss/externe/",
+        "https://www.mediafax.ro/rss/justitie/",
+        "https://www.mediafax.ro/rss/life-inedit/",
+        "https://www.mediafax.ro/rss/sport/",
+        "https://www.mediafax.ro/rss/cultura-media/",
+        "https://www.mediafax.ro/rss/economic/",
+        "https://www.mediafax.ro/rss/evenimente/",
+        "https://www.mediafax.ro/rss/politic/",
+        "https://www.mediafax.ro/rss/revista-presei/",
+        "https://www.mediafax.ro/rss/social/",
+        "https://www.mediafax.ro/english/feed",
+        "https://zoom.mediafax.ro/rss/",
+        "https://www.mediafax.ro/tag/podcast-cu-prioritate/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:00.566Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "romanialibera.ro": {
+      "urls": [
+        "https://romanialibera.ro/feed/",
+        "https://romanialibera.ro/podcasts/top-3-beneficii-ale-outsourcingului-in-dezvoltarea-unui-joc-video/feed/",
+        "https://romanialibera.ro/categorie/podcasts/feed/",
+        "https://romanialibera.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:33.561Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "newsarad.ro": {
+      "urls": [
+        "https://www.newsarad.ro/feed/",
+        "http://www.newsarad.ro/feed/",
+        "https://www.newsarad.ro/comments/feed/",
+        "http://www.newsarad.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:11.074Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "obiectivdesuceava.ro": {
+      "urls": [
+        "https://www.obiectivdesuceava.ro/feed/",
+        "http://www.obiectivdesuceava.ro/feed/",
+        "https://www.obiectivdesuceava.ro/comments/feed/",
+        "http://www.obiectivdesuceava.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:12.860Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "monitorfg.ro": {
+      "urls": [
+        "https://www.monitorfg.ro/feed/",
+        "http://www.monitorfg.ro/feed/",
+        "https://www.monitorfg.ro/comments/feed/",
+        "http://www.monitorfg.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:57.022Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "prosport.ro": {
+      "urls": [
+        "https://www.prosport.ro/feed",
+        "https://www.prosport.ro/tags/podcast/feed",
+        "https://www.prosport.ro/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-02-01T13:02:02.119Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ziarul21.ro": {
+      "urls": [
+        "https://www.ziarul21.ro/feed/atom/",
+        "https://www.ziarul21.ro/feed/",
+        "https://www.ziarul21.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:05.309Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "romaniajournal.ro": {
+      "urls": [
+        "https://www.romaniajournal.ro/feed/",
+        "http://www.romaniajournal.ro/feed/",
+        "https://www.romaniajournal.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:53.715Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nineoclock.ro": {
+      "urls": [
+        "https://www.nineoclock.ro/feed/",
+        "http://www.nineoclock.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:26.895Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sportarad.ro": {
+      "urls": [
+        "https://www.sportarad.ro/feed/",
+        "https://www.sportarad.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-02-01T13:02:06.843Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "replicaonline.ro": {
+      "urls": [
+        "https://www.replicaonline.ro/rss",
+        "https://www.replicaonline.ro/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:46.377Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetadecluj.ro": {
+      "urls": [
+        "https://gazetadecluj.ro/feed/",
+        "https://gazetadecluj.ro/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:59.017Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "opiniastudenteasca.ro": {
+      "urls": [
+        "http://www.opiniastudenteasca.ro/feed",
+        "http://www.opiniastudenteasca.ro/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:26.609Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "descopera.ro": {
+      "urls": [
+        "https://www.descopera.ro/feed",
+        "https://www.descopera.ro/eticheta/podcast/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:40.658Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "capital.ro": {
+      "urls": [
+        "https://www.capital.ro/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:49.258Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "manager.ro": {
+      "urls": [
+        "https://www.manager.ro/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:59.289Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "business24.ro": {
+      "urls": [
+        "https://business24.ro/rss/breaking_news.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-02-01T13:02:00.595Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sport.ro": {
+      "urls": [
+        "https://www.sport.ro/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-02-01T13:02:02.491Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "observatorulph.ro": {
+      "urls": [
+        "https://www.observatorulph.ro/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:40.274Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "maszol.ro": {
+      "urls": [
+        "https://www.maszol.ro/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:14.215Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "stirilepescurt.ro": {
+      "urls": [
+        "https://www.stirilepescurt.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:50.922Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "revistaioana.ro": {
+      "urls": [
+        "https://revistaioana.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:17.922Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "baniinostri.ro": {
+      "urls": [
+        "https://www.baniinostri.ro/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:39.817Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "realitatea.net": {
+      "urls": [
+        "http://rss.realitatea.net/stiri.xml",
+        "https://rss.realitatea.net/homepage.xml",
+        "http://rss.realitatea.net/actual.xml",
+        "http://rss.realitatea.net/social.xml",
+        "http://rss.realitatea.net/extern.xml",
+        "http://rss.realitatea.net/timpliber.xml",
+        "http://rss.realitatea.net/economie.xml",
+        "http://rss.realitatea.net/justitie.xml",
+        "http://rss.realitatea.net/horoscop.xml",
+        "http://rss.realitatea.net/vremea.xml",
+        "http://rss.realitatea.net/educatie.xml",
+        "http://rss.realitatea.net/altesporturi.xml",
+        "http://rss.realitatea.net/stiinta.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 695,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:45.758Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziare.com": {
+      "urls": [
+        "https://www.ziare.com/rss/12h.xml",
+        "https://www.ziare.com/rss/actualitate.xml",
+        "https://ziare.com/rss/actualitate.xml",
+        "https://www.ziare.com/rss/breaking_news.xml",
+        "https://ziare.com/rss/breaking_news.xml",
+        "https://ziare.com/rss/politic.xml",
+        "https://www.ziare.com/rss/business.xml",
+        "https://ziare.com/rss/business.xml",
+        "https://ziare.com/rss/sport.xml",
+        "https://ziare.com/rss/stiri.xml",
+        "https://ziare.com/rss/lifeshow.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 825,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:44.392Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "adz.news": {
+      "urls": [
+        "https://adz.news/artikel.xml",
+        "https://adz.news/lokales.xml",
+        "https://adz.news/inland.xml",
+        "https://adz.news/meinung-und-bericht.xml",
+        "https://adz.news/banater-zeitung.xml",
+        "https://adz.news/karpatenrundschau.xml",
+        "https://adz.news/kultur.xml",
+        "https://adz.news/tourismus.xml",
+        "https://adz.news/wirtschaft.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1672,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:18.628Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "revistavatra.org": {
+      "urls": [
+        "https://revistavatra.org/feed/",
+        "https://revistavatra.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 492,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:45.019Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bacau.net": {
+      "urls": [
+        "https://www.bacau.net/feed/",
+        "https://www.bacau.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 614,
+        "category": "general",
+        "last_checked": "2026-02-01T13:02:15.650Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "romania-insider.com": {
+      "urls": [
+        "https://www.romania-insider.com/feed",
+        "https://www.romania-insider.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1211,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:52.507Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cronicaromana.net": {
+      "urls": [
+        "https://cronicaromana.net/feed/",
+        "https://cronicaromana.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1260,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:43.552Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "viataromaneasca.eu": {
+      "urls": [
+        "https://www.viataromaneasca.eu/revista/feed/",
+        "https://www.viataromaneasca.eu/revista/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2149,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:24.764Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bucharestdailynews.com": {
+      "urls": [
+        "https://bucharestdailynews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 947,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:56.818Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "romanialiterara.com": {
+      "urls": [
+        "https://romanialiterara.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1536,
+        "category": "general",
+        "last_checked": "2026-02-01T13:04:22.613Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rferl.org": {
+      "urls": [
+        "https://www.rferl.org/rss/?count=50",
+        "https://www.rferl.org/rss/?count=50&zoneid=666",
+        "https://www.rferl.org/rss/?count=50&zoneid=670",
+        "https://www.rferl.org/rss/?count=50&zoneid=660",
+        "https://www.rferl.org/rss/?count=50&zoneid=654",
+        "https://www.rferl.org/api/",
+        "https://www.rferl.org/api/zviipeojip",
+        "https://www.rferl.org/api/z$qimetkiy",
+        "https://www.rferl.org/api/z-oiievgii",
+        "https://www.rferl.org/api/zpiire-gir",
+        "https://gandhara.rferl.org/api/",
+        "https://www.rferl.org/api/zvoi_eogiy",
+        "https://www.rferl.org/podcast/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:03:58.106Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "romaniatv.net": {
+      "urls": [
+        "https://www.romaniatv.net/feed",
+        "https://www.romaniatv.net/politica/feed",
+        "https://www.romaniatv.net/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T13:01:47.072Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

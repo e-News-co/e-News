@@ -1,0 +1,27 @@
+{
+  "country_code": "NC",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 5,
+  "feeds": {
+    "lnc.nc": {
+      "urls": [
+        "https://www.lnc.nc/noumea/all/feed",
+        "https://www.lnc.nc/noum%C3%A9a/all/feed",
+        "https://www.lnc.nc/pacifique/all/feed",
+        "https://feeds.feedburner.com/LesNouvellesCaledoniennes",
+        "http://feeds.feedburner.com/LesNouvellesCaledoniennes"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2566,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:00.980Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

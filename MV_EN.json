@@ -1,0 +1,64 @@
+{
+  "country_code": "MV",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 14,
+  "feeds": {
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2217,
+        "category": "general",
+        "last_checked": "2026-02-01T06:00:31.442Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "maldivesindependent.com": {
+      "urls": [
+        "https://maldivesindependent.com/api/rss",
+        "https://maldivesindependent.com/api/rss/news",
+        "https://maldivesindependent.com/feed",
+        "https://maldivesindependent.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1016,
+        "category": "general",
+        "last_checked": "2026-02-01T06:00:32.459Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "maldivestimes.com": {
+      "urls": [
+        "https://maldivestimes.com/feed/",
+        "https://maldivestimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1129,
+        "category": "general",
+        "last_checked": "2026-02-01T06:00:33.726Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

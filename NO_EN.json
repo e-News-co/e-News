@@ -1,0 +1,1880 @@
+{
+  "country_code": "NO",
+  "language_code": "EN",
+  "total_domains": 114,
+  "total_feeds": 276,
+  "feeds": {
+    "nrk.no": {
+      "urls": [
+        "https://www.nrk.no/sport/hopp_kvinner.rss",
+        "https://www.nrk.no/toppsaker.rss",
+        "https://www.nrk.no/sport/toppsaker.rss",
+        "https://www.nrk.no/nyheiter/siste.rss",
+        "https://www.nrk.no/mr/vestlandet.rss",
+        "https://www.nrk.no/mr/siste.rss",
+        "https://www.nrk.no/mr/toppsaker.rss",
+        "https://www.nrk.no/rogaland/siste.rss",
+        "https://www.nrk.no/vestland/toppsaker.rss",
+        "https://www.nrk.no/sport/skiskyting_kvinner.rss",
+        "https://www.nrk.no/sport/siste.rss",
+        "https://www.nrk.no/sognogfjordane/siste.rss",
+        "https://www.nrk.no/vestland/siste.rss",
+        "https://www.nrk.no/sport/nyhetsmeldinger.rss",
+        "https://www.nrk.no/sport/sjakk.rss",
+        "https://www.nrk.no/sport/alpint_kvinner.rss",
+        "https://www.nrk.no/sport/alpint_menn.rss",
+        "https://www.nrk.no/sport/anbefalinger.rss",
+        "https://www.nrk.no/sport/fotballvm.rss",
+        "https://www.nrk.no/sport/friidrett.rss",
+        "https://www.nrk.no/sport/hopp_menn.rss",
+        "https://www.nrk.no/sport/kombinert_kvinner_menn.rss",
+        "https://www.nrk.no/sport/langrenn_kvinner.rss",
+        "https://www.nrk.no/sport/langrenn_menn.rss",
+        "https://www.nrk.no/sport/mestsette.rss",
+        "https://www.nrk.no/sport/skiskyting_menn.rss",
+        "https://www.nrk.no/sport/videoklipp.rss",
+        "https://www.nrk.no/sport/vinter.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2175,
+        "category": "sports",
+        "last_checked": "2026-02-01T09:40:59.910Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vg.no": {
+      "urls": [
+        "https://www.vg.no/rss/feed/?categories=&keywords=&format=atom&limit=10",
+        "https://www.vg.no/rss/feed/?categories=&keywords=&format=rss&limit=10",
+        "https://www.vg.no/rss/feed/?format=rss",
+        "https://www.vg.no/rss/feed/?categories=1068&keywords=&format=atom&limit=10",
+        "https://www.vg.no/rss/feed/?categories=1068&keywords=&format=rss&limit=10",
+        "https://www.vg.no/rss/feed/forsiden/?format=atom",
+        "https://www.vg.no/rss/feed/forsiden/?format=rss",
+        "https://www.vg.no/rss/feed/?categories=1096&keywords=&format=atom&limit=10",
+        "https://www.vg.no/rss/feed/?categories=1096&keywords=&format=rss&limit=10",
+        "https://www.vg.no/rss/feed/?categories=1072&keywords=&format=atom&limit=10",
+        "https://www.vg.no/rss/feed/?categories=1072&keywords=&format=rss&limit=10",
+        "https://www.vg.no/rss/feed/?categories=1073&keywords=&format=atom&limit=10",
+        "https://www.vg.no/rss/feed/?categories=1073&keywords=&format=rss&limit=10",
+        "https://www.vg.no/rss/feed/?categories=1102&keywords=&format=atom&limit=10",
+        "https://www.vg.no/rss/feed/?categories=1102&keywords=&format=rss&limit=10"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 600,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:18.746Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tv2.no": {
+      "urls": [
+        "https://www.tv2.no/rss/nyheter",
+        "https://www.tv2.no/rest/cms-feeds-dw-rest/v2/cms/article/",
+        "https://www.tv2.no/rss/nyheter/innenriks",
+        "https://www.tv2.no/rss/sport",
+        "https://www.tv2.no/rss/nyheter/utenriks",
+        "https://www.tv2.no/rss/underholdning",
+        "https://www.tv2.no/rss/sport/fotball",
+        "https://api.tv2.no/articles/sport",
+        "https://www.tv2.no/rss/sport/h%C3%A5ndball",
+        "https://www.tv2.no/rss/sport/esport",
+        "https://www.tv2.no/rss/sport/ishockey",
+        "https://www.tv2.no/rss/sport/sjakk",
+        "https://www.tv2.no/rss/sport/sykkel",
+        "https://www.tv2.no/rss/underholdning/tv2hjelperdeg",
+        "https://www.tv2.no/rss/underholdning/wenches%20oppskrifter"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1761,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:57.473Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dagbladet.no": {
+      "urls": [
+        "https://www.dagbladet.no/rss/forsida/",
+        "https://www.dagbladet.no/rss/nyheter/",
+        "https://www.dagbladet.no/?lab_viewport=rss",
+        "https://www.dagbladet.no/rss/sport/",
+        "https://www.dagbladet.no/emne/utenriks/innenriks?lab_viewport=rss",
+        "https://www.dagbladet.no/rss/utenriks",
+        "https://www.dagbladet.no/magasinet?lab_viewport=rss",
+        "https://www.dagbladet.no/rss/musikk",
+        "https://www.dagbladet.no/rss/kultur/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1499,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:08.753Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "avvir.no": {
+      "urls": [
+        "https://www.avvir.no/feed/",
+        "https://www.avvir.no/category/podcast/feed/",
+        "https://www.avvir.no/category/podcast/avvira-juovlakaleanddar-2020/feed/",
+        "https://www.avvir.no/category/podcast/avvira-juovlakaleanddar-2016/feed/",
+        "https://www.avvir.no/category/podcast/ipmasat/feed/",
+        "https://www.avvir.no/category/podcast/mu-eallin/feed/",
+        "https://www.avvir.no/category/podcast/noveallapodda/feed/",
+        "https://www.avvir.no/category/podcast/sahkapodda/feed/",
+        "https://www.avvir.no/category/podcast/valga-podda/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1654,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:07.708Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "klikk.no": {
+      "urls": [
+        "https://www.klikk.no/foreldre?lab_viewport=rss",
+        "https://www.klikk.no/bolig?lab_viewport=rss",
+        "https://www.klikk.no/helse?lab_viewport=rss",
+        "https://www.klikk.no/mat?lab_viewport=rss",
+        "https://www.klikk.no/teknologi?lab_viewport=rss",
+        "https://www.klikk.no/produkthjemmesider/vimenn?lab_viewport=rss",
+        "https://cdn.klikk.no/service/front.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1080,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:35.676Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "klassekampen.no": {
+      "urls": [
+        "https://www.klassekampen.no/section/rssfeed&template=rss&mime=xml",
+        "https://www.klassekampen.no/section/rssfeed/1034&template=rss&mime=xml",
+        "https://www.klassekampen.no/section/rssfeed/1005&template=rss&mime=xml",
+        "https://www.klassekampen.no/section/rssfeed/1006&template=rss&mime=xml",
+        "https://www.klassekampen.no/section/rssfeed/1007&template=rss&mime=xml",
+        "https://www.klassekampen.no/section/rssfeed/1008&template=rss&mime=xml",
+        "https://www.klassekampen.no/section/rssfeed/1033&template=rss&mime=xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3637,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:22.437Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "e24.no": {
+      "urls": [
+        "https://www.vg.no/rss/feed/?format=rss",
+        "https://e24.no/rss",
+        "https://www.vg.no/rss/feed/forsiden/?format=atom",
+        "https://www.vg.no/rss/feed/forsiden/?format=rss",
+        "http://api.vg.no/podcast/e24-podden.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 596,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:48.554Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aftenposten.no": {
+      "urls": [
+        "https://www.aftenposten.no/rss/",
+        "https://www.aftenposten.no/rss/?kat=meninger&img=w780c169",
+        "https://www.aftenposten.no/rss/?kat=okonomi&img=w780c169",
+        "https://www.aftenposten.no/rss/?kat=oslo",
+        "https://www.aftenposten.no/rss/?kat=amagasinet&img=w780c169"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 809,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:03.774Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "prosa.no": {
+      "urls": [
+        "https://prosa.no/artikler/kommentarer.rss",
+        "https://prosa.no/nb/pages.rss",
+        "https://prosa.no/artikler/spalter/bok-og-politikk.rss",
+        "https://prosa.no/artikler/spalter/oversett.rss",
+        "https://prosa.no/artikler/spalter/pa-sisteplass.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1105,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:24.467Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bt.no": {
+      "urls": [
+        "https://www.bt.no/rss",
+        "http://www.bt.no/rss",
+        "https://www.bt.no/rss/",
+        "https://www.bt.no/rss/?kat=utenriks"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 893,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:07.051Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dagsavisen.no": {
+      "urls": [
+        "https://www.dagsavisen.no/rss",
+        "https://www.dagsavisen.no/arc/outboundfeeds/rss/",
+        "https://www.dagsavisen.no/arc/outboundfeeds/rss/?outputType=xml",
+        "https://www.dagsavisen.no/?lab_viewport=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1021,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:11.474Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dn.no": {
+      "urls": [
+        "https://services.dn.no/api/feed/rss/magasinet",
+        "https://services.dn.no/api/feed/rss/",
+        "https://services.dn.no/api/feed/rss/d2",
+        "https://services.dn.no/api/feed/rss/smak"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1695,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:10.453Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "morgenbladet.no": {
+      "urls": [
+        "https://www.morgenbladet.no/?lab_viewport=rss",
+        "https://www.morgenbladet.no/arc/outboundfeeds/rss/",
+        "https://www.morgenbladet.no/arc/outboundfeeds/rss/?outputType=xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 465,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:23.031Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ht.no": {
+      "urls": [
+        "https://www.ht.no/rss",
+        "https://feeds.soundcloud.com/users/soundcloud:users:582644793/sounds.rss",
+        "http://feeds.soundcloud.com/users/soundcloud:users:582644793/sounds.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 788,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:46.689Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "xn--bodposten-n8a.no": {
+      "urls": [
+        "https://xn--bodposten-n8a.no/feed/",
+        "https://feeds.feedburner.com/bodoposten",
+        "https://feeds.feedburner.com/ranapostenno"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 879,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:04.295Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lovdata.no": {
+      "urls": [
+        "https://lovdata.no/feed?data=newJudgements&type=RSS",
+        "https://lovdata.no/feed?data=SPHPM&type=RSS",
+        "https://lovdata.no/feed?data=newArticles&type=RSS"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1209,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:34.493Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "strilen.no": {
+      "urls": [
+        "https://www.strilen.no/rss",
+        "https://www.strilen.no/rss/",
+        "http://www.strilen.no/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1356,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:57.228Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bygdanytt.no": {
+      "urls": [
+        "https://www.bygdanytt.no/rss",
+        "http://www.bygdanytt.no/rss/",
+        "https://www.bygdanytt.no/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1409,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:16.674Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vestnytt.no": {
+      "urls": [
+        "https://www.vestnytt.no/rss",
+        "https://www.vestnytt.no/rss/",
+        "http://www.vestnytt.no/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1439,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:47.048Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "abcnyheter.no": {
+      "urls": [
+        "https://www.abcnyheter.no/api/article.rss",
+        "https://abcnyheter-ws.abcnyheter.no/api/article.rss",
+        "https://abcnyheter-ws.abcnyheter.no/api/article.rss?nr=1"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1813,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:29.443Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thelocal.no": {
+      "urls": [
+        "https://feeds.thelocal.com/rss/builder/no",
+        "https://feeds.thelocal.com"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 638,
+        "category": "local",
+        "last_checked": "2026-02-01T09:41:04.959Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "synogsegn.no": {
+      "urls": [
+        "https://www.synogsegn.no/feed/",
+        "https://www.synogsegn.no/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 721,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:19.397Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tu.no": {
+      "urls": [
+        "https://www.tu.no/feeds/general.xml",
+        "https://www.tu.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 836,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:22.023Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "agderposten.no": {
+      "urls": [
+        "https://www.agderposten.no/feed/",
+        "https://www.agderposten.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 979,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:30.491Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nordrenett.no": {
+      "urls": [
+        "https://nordrenett.no/atom.xml",
+        "https://haramsnytt.no/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1013,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:36.347Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "itavisen.no": {
+      "urls": [
+        "https://itavisen.no/feed/",
+        "https://itavisen.no/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1106,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:01.016Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fvn.no": {
+      "urls": [
+        "https://www.fvn.no/rss",
+        "https://www.fvn.no/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1192,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:12.698Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nyttiuka.no": {
+      "urls": [
+        "https://nyttiuka.no/feed/",
+        "https://www.aesby.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1258,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:41.239Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gausdolen.no": {
+      "urls": [
+        "https://www.gausdolen.no/?format=feed&type=atom",
+        "https://www.gausdolen.no/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1316,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:23.039Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "transitmag.no": {
+      "urls": [
+        "https://www.transitmag.no/feed/",
+        "https://www.transitmag.no/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1517,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:30.963Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "storfjordnytt.no": {
+      "urls": [
+        "https://www.storfjordnytt.no/feed/",
+        "http://www.storfjordnytt.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1707,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:55.863Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rbnett.no": {
+      "urls": [
+        "https://www.rbnett.no/?widgetName=polarisFeeds&widgetId=6485383&getXmlFeed=true",
+        "https://www.rbnett.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1754,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:55.173Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nytid.no": {
+      "urls": [
+        "https://www.nytid.no/feed/",
+        "https://www.nytid.no/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1845,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:27.039Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "itromso.no": {
+      "urls": [
+        "https://www.itromso.no/?widgetName=polarisFeeds&widgetId=6352887&getXmlFeed=true",
+        "https://www.itromso.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1921,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:36.465Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "samningen.no": {
+      "urls": [
+        "https://www.samningen.no/feed/",
+        "https://samningen.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2381,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:37.746Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fitjarposten.no": {
+      "urls": [
+        "https://www.fitjarposten.no/rss",
+        "https://fitjarposten.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2409,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:28.692Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "costume.no": {
+      "urls": [
+        "https://costume.no/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 726,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:25.193Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "marxisme.no": {
+      "urls": [
+        "https://marxisme.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 746,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:21.184Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "totensblad.no": {
+      "urls": [
+        "https://www.totensblad.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 852,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:58.080Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ytringen.no": {
+      "urls": [
+        "https://ytringen.no/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 892,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:47.940Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "frolendingen.no": {
+      "urls": [
+        "https://frolendingen.no/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 934,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:21.719Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eikernytt.no": {
+      "urls": [
+        "https://www.eikernytt.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 969,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:03.074Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aftenbladet.no": {
+      "urls": [
+        "https://www.aftenbladet.no/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1001,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:56.176Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "morenytt.no": {
+      "urls": [
+        "https://www.morenytt.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1013,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:31.378Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "framtidinord.no": {
+      "urls": [
+        "https://www.framtidinord.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1033,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:43.671Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "venneslatidende.no": {
+      "urls": [
+        "https://www.venneslatidende.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1040,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:43.972Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "barneblad.no": {
+      "urls": [
+        "https://www.barneblad.no/blogs/news.atom"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1040,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:20.437Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gjoviksblad.no": {
+      "urls": [
+        "https://www.gjoviksblad.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1046,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:34.000Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vigga.no": {
+      "urls": [
+        "https://www.vigga.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1057,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:00.428Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "seher.no": {
+      "urls": [
+        "https://www.seher.no/?lab_viewport=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1072,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:18.618Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nyss.no": {
+      "urls": [
+        "https://www.nyss.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1089,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:02.105Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fjordingen.no": {
+      "urls": [
+        "https://www.fjordingen.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1099,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:19.297Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "marsteinen.no": {
+      "urls": [
+        "https://www.marsteinen.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1136,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:30.365Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sagat.no": {
+      "urls": [
+        "https://www.sagat.no/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1152,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:34.642Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lp.no": {
+      "urls": [
+        "https://www.lp.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1176,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:35.177Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "s-n.no": {
+      "urls": [
+        "https://www.s-n.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1192,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:38.938Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "adressa.no": {
+      "urls": [
+        "https://www.adressa.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1201,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:02.959Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "avisahemnes.no": {
+      "urls": [
+        "https://avisahemnes.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1214,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:08.922Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "idag.no": {
+      "urls": [
+        "https://idag.no/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1307,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:28.346Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bavisa.no": {
+      "urls": [
+        "https://bavisa.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1318,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:15.765Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "smp.no": {
+      "urls": [
+        "https://www.smp.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1398,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:57.574Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "av-avis.no": {
+      "urls": [
+        "https://www.av-avis.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1412,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:12.376Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fritanke.no": {
+      "urls": [
+        "https://fritanke.no/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1484,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:32.448Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "folkebladet.no": {
+      "urls": [
+        "https://www.folkebladet.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1487,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:20.784Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "driva.no": {
+      "urls": [
+        "https://www.driva.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1520,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:23.198Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fjordabladet.no": {
+      "urls": [
+        "https://www.fjordabladet.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1523,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:18.197Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kystogfjord.no": {
+      "urls": [
+        "https://www.kystogfjord.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1577,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:53.084Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vestnesavisa.no": {
+      "urls": [
+        "https://www.vestnesavisa.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1612,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:45.584Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tronderbladet.no": {
+      "urls": [
+        "https://www.tronderbladet.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1622,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:42.932Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "altaposten.no": {
+      "urls": [
+        "https://www.altaposten.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1673,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:32.164Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vol.no": {
+      "urls": [
+        "https://www.vol.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1803,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:05.596Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laagendalsposten.no": {
+      "urls": [
+        "https://www.laagendalsposten.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1860,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:50.608Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vestlandsnytt.no": {
+      "urls": [
+        "https://www.vestlandsnytt.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1933,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:10.964Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gd.no": {
+      "urls": [
+        "https://www.gd.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1995,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:45.666Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dt.no": {
+      "urls": [
+        "https://www.dt.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2002,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:40.565Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ta.no": {
+      "urls": [
+        "https://www.ta.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2052,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:04.637Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "h-avis.no": {
+      "urls": [
+        "https://www.h-avis.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2058,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:48.748Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "an.no": {
+      "urls": [
+        "https://www.an.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2067,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:34.231Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "arendalstidende.no": {
+      "urls": [
+        "https://arendalstidende.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2070,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:14.446Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ifinnmark.no": {
+      "urls": [
+        "https://www.ifinnmark.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2073,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:42.638Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tb.no": {
+      "urls": [
+        "https://www.tb.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2082,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:09.031Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "budstikka.no": {
+      "urls": [
+        "https://www.budstikka.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2098,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:38.563Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "banett.no": {
+      "urls": [
+        "https://www.banett.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2109,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:15.054Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "opp.no": {
+      "urls": [
+        "https://www.opp.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2112,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:33.490Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nordlys.no": {
+      "urls": [
+        "https://www.nordlys.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2161,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:17.072Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ba.no": {
+      "urls": [
+        "https://www.ba.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2200,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:05.974Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nationen.no": {
+      "urls": [
+        "https://www.nationen.no/?feed=tunrss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2213,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:14.911Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "avisa-valdres.no": {
+      "urls": [
+        "https://www.avisa-valdres.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2239,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:25.278Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bondebladet.no": {
+      "urls": [
+        "https://www.bondebladet.no/?feed=tunrss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2246,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:55.330Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tk.no": {
+      "urls": [
+        "https://www.tk.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2312,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:06.949Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bomlo-nytt.no": {
+      "urls": [
+        "https://www.bomlo-nytt.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2384,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:18.150Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tnp.no": {
+      "urls": [
+        "https://www.tnp.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2433,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:27.626Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rb.no": {
+      "urls": [
+        "https://www.rb.no/service/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2465,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:53.074Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dolen.no": {
+      "urls": [
+        "https://www.dolen.no/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3528,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:21.678Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "regjeringen.no": {
+      "urls": [
+        "https://www.regjeringen.no/nb/rss/Rss/2581966/",
+        "https://www.regjeringen.no/no/rss/Rss/2581966/",
+        "https://www.regjeringen.no/no/rss/Rss/2999486/",
+        "https://www.regjeringen.no/nb/rss/Rss/2612030/",
+        "https://www.regjeringen.no/en/rss/Rss/2581966/",
+        "https://www.regjeringen.no/no/rss/Rss/2612030/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:15.490Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "vl.no": {
+      "urls": [
+        "https://www.vl.no/rss",
+        "https://www.vl.no/arc/outboundfeeds/rss/?outputType=xml",
+        "https://www.vl.no/arc/outboundfeeds/rss/",
+        "http://rss.vl.no/vl-forsiden"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:18.126Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sva.no": {
+      "urls": [
+        "https://www.sva.no/feed/",
+        "https://www.sva.no/category/nyheter/rundturen/feed/",
+        "https://www.sva.no/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:49.629Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "newsinenglish.no": {
+      "urls": [
+        "https://www.newsinenglish.no/feed/",
+        "https://www.newsinenglish.no/comments/feed/",
+        "http://feeds.feedburner.com/newsinenglish/AzQS"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:14.997Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "frostingen.no": {
+      "urls": [
+        "https://www.frostingen.no:443/feed/",
+        "https://frostingen.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:32.954Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "groruddalen.no": {
+      "urls": [
+        "https://groruddalen.no/atom.xml",
+        "http://groruddalen.no/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:03.792Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dagogtid.no": {
+      "urls": [
+        "https://www.dagogtid.no/rss-6.2.0.0.3435cd2b38"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:38:24.574Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "osogfusa.no": {
+      "urls": [
+        "https://www.osogfusa.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:42.287Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "raumnes.no": {
+      "urls": [
+        "https://www.raumnes.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:47.087Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "stangeavisa.no": {
+      "urls": [
+        "https://www.stangeavisa.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:39:53.976Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "trollheimsporten.no": {
+      "urls": [
+        "http://www.trollheimsporten.no/rss.php/cat/137312"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-02-01T09:39:59.371Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "blv.no": {
+      "urls": [
+        "https://www.blv.no:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:12.945Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lokal-avisa.no": {
+      "urls": [
+        "https://www.lokal-avisa.no/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:29.228Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "svalbardposten.no": {
+      "urls": [
+        "https://svalbardposten.no/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:41.310Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "scandoil.com": {
+      "urls": [
+        "http://www.scandoil.com/bm.feed.xml",
+        "http://www.scandoil.com/moxie-bm2/news/bm.feed.xml",
+        "http://www.scandoil.com/moxie-bm2/financial/bm.feed.xml",
+        "http://www.scandoil.com/moxie-bm2/gas/bm.feed.xml",
+        "http://www.scandoil.com/moxie-bm2/oil/bm.feed.xml",
+        "http://www.scandoil.com/moxie-bm2/news/spot_news/bm.feed.xml",
+        "http://www.scandoil.com/moxie-bm2/news/subsea_news/bm.feed.xml",
+        "http://www.scandoil.com/moxie-bm2/alternative_energy/bm.feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 814,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:33.264Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "norwaynews.com": {
+      "urls": [
+        "https://www.norwaynews.com/feed/atom/",
+        "https://www.norwaynews.com/feed/",
+        "http://www.norwaynews.com/feed/",
+        "http://www.norwaynews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2038,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:17.546Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "toonsmag.com": {
+      "urls": [
+        "https://www.toonsmag.com/web-stories/feed/",
+        "https://www.toonsmag.com/feed/",
+        "https://www.toonsmag.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1052,
+        "category": "general",
+        "last_checked": "2026-02-01T09:41:23.105Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tradewindsnews.com": {
+      "urls": [
+        "https://services.tradewindsnews.com/api/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1416,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:49.970Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "upstreamonline.com": {
+      "urls": [
+        "https://services.upstreamonline.com/api/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1537,
+        "category": "general",
+        "last_checked": "2026-02-01T09:40:51.507Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

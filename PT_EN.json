@@ -1,0 +1,1048 @@
+{
+  "country_code": "PT",
+  "language_code": "EN",
+  "total_domains": 50,
+  "total_feeds": 340,
+  "feeds": {
+    "jornaleconomico.sapo.pt": {
+      "urls": [
+        "https://jornaleconomico.pt/feed/",
+        "https://jornaleconomico.pt/feed",
+        "https://jornaleconomico.sapo.pt/feed",
+        "https://jornaleconomico.sapo.pt/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/feed",
+        "https://jornaleconomico.sapo.pt/categoria/multimedia/podcasts/feed",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/a-arte-da-guerra/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/a-arte-do-possivel/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/a-quem-de-direito/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/atlantic-connection/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/boa-governanca/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/cinco-minutos/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/conversas-com-norte/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/discurso-direto/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/dito-ao-ouvido/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/falar-direito-je-podcasts/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/ideias-com-nome-proprio/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/je-entrevista/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/je-noticias/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/lets-talk-about-esg/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/maquiavel-para-principiantes/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/mercados-em-acao/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/para-bom-entendedor/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/podcast-risco-inteligente/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/programa-podcast/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/puxar-pela-cabeca/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/talk-the-tax/feed/",
+        "https://jornaleconomico.pt/categoria/je-podcasts/feed",
+        "https://jornaleconomico.pt/categoria/multimedia/podcasts/feed",
+        "https://jornaleconomico.pt/categoria/je-podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2620,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:41.969Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "economico.sapo.pt": {
+      "urls": [
+        "https://jornaleconomico.sapo.pt/feed",
+        "https://jornaleconomico.sapo.pt/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/a-arte-da-guerra/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/a-arte-do-possivel/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/a-quem-de-direito/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/atlantic-connection/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/boa-governanca/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/cinco-minutos/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/conversas-com-norte/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/discurso-direto/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/dito-ao-ouvido/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/falar-direito-je-podcasts/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/ideias-com-nome-proprio/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/je-entrevista/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/je-noticias/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/lets-talk-about-esg/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/maquiavel-para-principiantes/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/mercados-em-acao/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/para-bom-entendedor/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/podcast-risco-inteligente/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/programa-podcast/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/puxar-pela-cabeca/feed/",
+        "https://jornaleconomico.sapo.pt/categoria/je-podcasts/talk-the-tax/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2047,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:25.688Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "expresso.sapo.pt": {
+      "urls": [
+        "https://quintaemenda.blogs.sapo.pt/data/atom",
+        "https://100antesdos100.blogs.sapo.pt/data/atom",
+        "https://aluaestalindahoje.blogs.sapo.pt/data/atom",
+        "https://desabafosagridoces.blogs.sapo.pt/data/atom",
+        "https://naomecansodisto.blogs.sapo.pt/data/atom",
+        "https://paulalobomendes.blogs.sapo.pt/data/atom",
+        "https://quintaemenda.blogs.sapo.pt/data/rss",
+        "https://100antesdos100.blogs.sapo.pt/data/rss",
+        "https://aluaestalindahoje.blogs.sapo.pt/data/rss",
+        "https://desabafosagridoces.blogs.sapo.pt/data/rss",
+        "https://naomecansodisto.blogs.sapo.pt/data/rss",
+        "https://paulalobomendes.blogs.sapo.pt/data/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1668,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:28.813Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ojogo.pt": {
+      "urls": [
+        "http://feeds.ojogo.pt/OJ-Futebol",
+        "http://feeds.ojogo.pt/OJ-Internacional",
+        "http://feeds.ojogo.pt/OJ-Porto",
+        "http://feeds.ojogo.pt/OJ-Sporting",
+        "http://feeds.ojogo.pt/OJ-Benfica",
+        "http://feeds.ojogo.pt/OJ-Modalidades",
+        "http://feeds.ojogo.pt/OJ-Opiniao",
+        "http://feeds.ojogo.pt/OJ-RevistaJ",
+        "http://feeds.ojogo.pt/OJ-ULTIMAS",
+        "http://feeds.ojogo.pt/OJ-Ultimas"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1186,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:38.999Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dn.pt": {
+      "urls": [
+        "http://feeds.dn.pt/DN-Ultimas",
+        "http://feeds.dn.pt/DN-Desporto",
+        "http://feeds.dn.pt/DN-Economia",
+        "http://feeds.dn.pt/DN-Media",
+        "http://feeds.dn.pt/DN-Artes",
+        "http://feeds.dn.pt/DN-Globo",
+        "http://feeds.dn.pt/DN-Opiniao",
+        "http://feeds.dn.pt/DN-Politica",
+        "http://feeds.dn.pt/DN-Portugal",
+        "http://feeds.dn.pt/dialogos-saudefuturo-podcast"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1204,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:23.230Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jn.pt": {
+      "urls": [
+        "http://feeds.jn.pt/JN-Desporto",
+        "http://feeds.jn.pt/JN-Nacional",
+        "http://feeds.jn.pt/JN-Pais",
+        "http://feeds.jn.pt/JN-Gente",
+        "http://feeds.jn.pt/JN-Justica",
+        "http://feeds.jn.pt/JN-Mundo",
+        "http://feeds.jn.pt/JN-Tecnologia",
+        "http://feeds.jn.pt/JN-Economia",
+        "http://feeds.jn.pt/JN-ULTIMAS",
+        "http://feeds.jn.pt/JN-Ultimas"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1225,
+        "category": "sports",
+        "last_checked": "2026-02-01T12:31:33.534Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sol.sapo.pt": {
+      "urls": [
+        "https://sol.iol.pt/rss.xml",
+        "https://sol.sapo.pt/nos-e-eles-podcast/feed/",
+        "https://sol.sapo.pt/amanha/podcasts/feed/",
+        "https://sol.sapo.pt/amanha/podcasts/bussola-podcast/feed/",
+        "https://sol.sapo.pt/amanha/podcasts/pensar-amanha-pt/feed/",
+        "https://sol.sapo.pt/amanha/podcasts/sim-ou-nao-podcast/feed/",
+        "https://sol.sapo.pt/amanha/podcasts/sucesso-pt-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 220,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:14.027Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "abola.pt": {
+      "urls": [
+        "https://www.abola.pt/rss-articles.xml",
+        "https://www.abola.pt/api/rss",
+        "https://www.abola.pt/rss/index.aspx",
+        "https://www.abola.pt/rss/nacional",
+        "https://www.abola.pt/rss/internacional",
+        "https://www.abola.pt/rss/modalidades",
+        "https://www.abola.pt/rss/motores"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1231,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:37.604Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "expresso.pt": {
+      "urls": [
+        "https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true",
+        "https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT,NEWSLETTER&limit=20&pubsubhub=true",
+        "http://feeds.feedburner.com/expresso-geral",
+        "https://rss.impresa.pt/feed/latest/olimpia.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT,NEWSLETTER&limit=20&pubsubhub=true",
+        "https://feeds.feedburner.com/tribuna-ultimas"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 954,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:46.539Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ionline.sapo.pt": {
+      "urls": [
+        "https://sol.iol.pt/rss.xml",
+        "https://ionline.sapo.pt/rss.xml",
+        "https://ionline.sapo.pt/feed/",
+        "https://feeds.feedburner.com/i-ultimas"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 798,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:11.964Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "acorianooriental.pt": {
+      "urls": [
+        "https://www.acorianooriental.pt/noticias/rss",
+        "https://www.acorianooriental.pt/feed/rss.xml",
+        "https://www.acorianooriental.pt/feed/atom.xml",
+        "http://feeds.acorianooriental.pt/AO-Ultimas"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1099,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:18.838Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "asbeiras.pt": {
+      "urls": [
+        "https://feeds.feedburner.com/asbeiras",
+        "https://www.asbeiras.pt/feed/",
+        "https://antigo.asbeiras.pt/feed/podcast/",
+        "https://antigo.asbeiras.pt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1329,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:21.057Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornaldoalgarve.pt": {
+      "urls": [
+        "https://jornaldoalgarve.pt/feed/",
+        "http://jornaldoalgarve.pt/feed/",
+        "https://feeds.feedburner.com/jornaldoalgarve/",
+        "https://jornaldoalgarve.pt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1598,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:14.635Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dnoticias.pt": {
+      "urls": [
+        "https://www.dnoticias.pt/rss/home.xml",
+        "https://www.dnoticias.pt/rss/pais.xml",
+        "https://www.dnoticias.pt/rss/madeira.xml",
+        "https://www.dnoticias.pt/rss/casos-do-dia.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1737,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:52.005Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "observador.pt": {
+      "urls": [
+        "https://feeds.feedburner.com/obs-ultimas",
+        "https://observador.pt/feed/",
+        "https://observador.pt:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 716,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:11.051Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "publico.pt": {
+      "urls": [
+        "https://feeds.feedburner.com/PublicoRSS",
+        "http://feeds.feedburner.com/PublicoRSS",
+        "https://inimigo.publico.pt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1034,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:34.570Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornaldeleiria.pt": {
+      "urls": [
+        "https://jornaldeleiria.pt/rss-feed",
+        "https://www.jornaldeleiria.pt/rss-feed",
+        "https://www.jornaldeleiria.pt/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1174,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:17.186Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jb.pt": {
+      "urls": [
+        "https://www.jb.pt/podcast/programa/25-de-abril-um-olhar-de-oliveira-do-bairro/feed/",
+        "https://www.jb.pt/feed/",
+        "https://www.jb.pt/podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1369,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:57.084Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "record.pt": {
+      "urls": [
+        "https://www.record.pt/rss",
+        "http://www.record.pt/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 415,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:36.337Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornaldenegocios.pt": {
+      "urls": [
+        "https://www.jornaldenegocios.pt/rss",
+        "https://www.jornaldenegocios.pt/rss?idCat=54"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 621,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:32.302Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gazetadascaldas.pt": {
+      "urls": [
+        "https://gazetadascaldas.pt/feed/",
+        "https://gazetadascaldas.pt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1383,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:59.700Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "imediato.pt": {
+      "urls": [
+        "https://www.imediato.pt/feed/",
+        "https://www.imediato.pt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1443,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:01.773Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "regiao-sul.pt": {
+      "urls": [
+        "https://regiao-sul.pt/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 630,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:00.330Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cmjornal.pt": {
+      "urls": [
+        "https://www.cmjornal.pt/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 800,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:10.130Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "omirante.pt": {
+      "urls": [
+        "https://rss.impresa.pt/feed/latest/mirante.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 819,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:52.824Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sabado.pt": {
+      "urls": [
+        "https://www.sabado.pt/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1331,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:45.553Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornaldofundao.pt": {
+      "urls": [
+        "https://www.jornaldofundao.pt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1386,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:41.313Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cmjornal.xl.pt": {
+      "urls": [
+        "https://www.cmjornal.pt/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1492,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:21.694Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "econews.pt": {
+      "urls": [
+        "https://econews.pt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1498,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:08.202Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "oln.pt": {
+      "urls": [
+        "https://oln.pt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1693,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:38.186Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mdb.pt": {
+      "urls": [
+        "https://www.mdb.pt/taxonomy/term/2317/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2438,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:43.751Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rodaviva.pt": {
+      "urls": [
+        "https://rodaviva.pt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3563,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:52.317Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noticiasdeaveiro.pt": {
+      "urls": [
+        "https://www.noticiasdeaveiro.pt/feed/",
+        "https://www.noticiasdeaveiro.pt/category/podcast/feed/",
+        "https://www.noticiasdeaveiro.pt/tag/ctcp-podcast/feed/",
+        "https://www.noticiasdeaveiro.pt/tag/podcast-ffms/feed/",
+        "https://www.noticiasdeaveiro.pt/tag/podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:18.935Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "maiahoje.pt": {
+      "urls": [
+        "https://www.maiahoje.pt/feed/",
+        "http://www.maiahoje.pt/rss/",
+        "http://www.maiahoje.pt/feed/",
+        "https://www.maiahoje.pt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:32.070Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jornaldamadeira.pt": {
+      "urls": [
+        "http://jornaldamadeira.pt/feed/",
+        "http://www.jornaldamadeira.pt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:30.203Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diariocoimbra.pt": {
+      "urls": [
+        "https://www.diariocoimbra.pt/feed/",
+        "https://www.diariocoimbra.pt/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:02.853Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diarioaveiro.pt": {
+      "urls": [
+        "https://www.diarioaveiro.pt/feed/",
+        "https://www.diarioaveiro.pt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:12.882Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "barlavento.pt": {
+      "urls": [
+        "https://www.barlavento.pt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:22.032Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "soberaniadopovo.pt": {
+      "urls": [
+        "https://www.soberaniadopovo.pt/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:55.697Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "news.google.com": {
+      "urls": [
+        "https://news.google.com/rss/search?q=site:bloomberg.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/atom/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYQjBMVUpTR2dKQ1VpZ0FQAQ?hl=pt-BR&gl=BR&ceid=BR:pt-419&oc=11",
+        "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYQjBMVUpTR2dKQ1VpZ0FQAQ?hl=pt-BR&gl=BR&ceid=BR:pt-419&oc=11",
+        "https://news.google.com/atom/topics/CAAqKAgKIiJDQkFTRXdvSkwyMHZNR1ptZHpWbUVnSnlkUm9DVWxVb0FBUAE?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvSkwyMHZNR1ptZHpWbUVnSnlkUm9DVWxVb0FBUAE?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&q=news&um=1&ie=UTF-8&ceid=US:en",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FuSjFHZ0pTVlNnQVAB?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom?hl=fr&gl=FR&ceid=FR:fr",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2h4ZW5JU0FtWnlLQUFQAQ?hl=fr&gl=FR&ceid=FR:fr&oc=11",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtbGtHZ0pKUkNnQVAB?hl=id&gl=ID&ceid=ID:id&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2h4ZW5JU0FtWnlLQUFQAQ?hl=fr&gl=FR&ceid=FR:fr&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtbGtHZ0pKUkNnQVAB?hl=id&gl=ID&ceid=ID:id&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/atom/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&gl=GB&ceid=GB:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE?hl=en-GB&gl=GB&ceid=GB:en&oc=11",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=india",
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YW1vU0FtbDBLQUFQAQ?hl=it&gl=IT&ceid=IT:it&oc=11",
+        "https://news.google.com/atom?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YW1vU0FtbDBLQUFQAQ?hl=it&gl=IT&ceid=IT:it&oc=11",
+        "https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr",
+        "https://news.google.com/atom/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREp1TUdSNUVnSnlkU2dBUAE?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/atom?hl=en-GB&gl=GB&ceid=GB:en&oc=11",
+        "https://news.google.com/rss/search?q=allinurl:theplayoffs.news&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=reuters.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en&oc=11",
+        "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss?hl=it&gl=IT&ceid=IT:it",
+        "https://news.google.com/atom/topics/CAAqBwgKMLGl8wowka_aAg?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREp1TUdSNUVnSnlkU2dBUAE?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=Bike",
+        "https://news.google.com/rss/topics/CAAqBwgKMLGl8wowka_aAg?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss?hl=es-419&gl=US&ceid=US:es-419",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/search?q=HAZMAT+when:7d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNREZ0ZHpFU0JYcG9MVlJYS0FBUAE?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2MwWjNJU0FuSjFLQUFQAQ?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/atom/topics/CAAqBwgKMJvY8wowypbUAg?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR2czZUJJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFJ3Ym5nU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp0YTJvU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqJAgKIh5DQkFTRUFvSEwyMHZNR3M0ZWhJRlpXNHRSMElvQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/topics/CAAqLAgKIiZDQkFTRmdvTkwyY3ZNVEZqYm1RMmR6RnRhaElGWlc0dFIwSW9BQVAB?hl=en-CA&gl=CA&ceid=CA:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNREV5YURJMEVnVjZhQzFVVnlnQVAB?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR2MwWjNJU0FuSjFLQUFQAQ?hl=ru&gl=RU&ceid=RU:ru&oc=11",
+        "https://news.google.com/rss/topics/CAAqBwgKMJvY8wowypbUAg?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIAgKIhpDQkFTRFFvSEwyMHZNR2czZUJJQ1pXNG9BQVAB?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxWm5JU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFJ3Ym5nU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp0YTJvU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvSEwyMHZNR3M0ZWhJRlpXNHRSMElvQUFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/topics/CAAqLAgKIiZDQkFTRmdvTkwyY3ZNVEZqYm1RMmR6RnRhaElGWlc0dFIwSW9BQVAB?hl=en-CA&gl=CA&ceid=CA:en&oc=11",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=computer",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=Argentina",
+        "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiXENCQVNQd29JTDIwdk1EbHpNV1lTQW1WdUdnSlZVeUlQQ0FRYUN3b0pMMjB2TURsNU5IQnRLaG9LR0FvVVRVRlNTMFZVVTE5VFJVTlVTVTlPWDA1QlRVVWdBU2dBKioIAComCAoiIENCQVNFZ29JTDIwdk1EbHpNV1lTQW1WdUdnSlZVeWdBUAFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=india",
+        "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&oc=11&q=bitcoin",
+        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiXENCQVNQd29JTDIwdk1EbHpNV1lTQW1WdUdnSlZVeUlQQ0FRYUN3b0pMMjB2TURsNU5IQnRLaG9LR0FvVVRVRlNTMFZVVTE5VFJVTlVTVTlPWDA1QlRVVWdBU2dBKioIAComCAoiIENCQVNFZ29JTDIwdk1EbHpNV1lTQW1WdUdnSlZVeWdBUAFQAQ?hl=en-US&gl=US&ceid=US:en&oc=11",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=computer",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=Argentina",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=Bike",
+        "https://news.google.com/rss/search?q=allinurl:dissapore.com+when:3d&hl=it&gl=IT&ceid=IT:it",
+        "https://news.google.com/atom/search?hl=en-IN&gl=IN&ceid=IN:en&oc=11&q=topic:assam",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=barcelona.com",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=geopolitique",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=o2.pl",
+        "https://news.google.com/atom/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=pornstars",
+        "https://news.google.com/atom/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&oc=11&q=bitcoin",
+        "https://news.google.com/rss/search?q=tech+news.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?hl=en-IN&gl=IN&ceid=IN:en&oc=11&q=topic:assam",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=barcelona.com",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=geopolitique",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=o2.pl",
+        "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&oc=11&q=pornstars",
+        "https://news.google.com/rss/search?hl=it&q=Il+Giornale+dei+Navigli&cf=all&num=30.com&gl=IT&ceid=IT:it",
+        "https://news.google.com/rss/search?q=allinurl:financialexpress.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=allinurl:rnd.de+when:3d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=allinurl:xda-developers.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=cronaca&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=directeur&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=science&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "https://news.google.com/rss/search?q=site:pib.gov.in&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=telemagazyn.pl/aktualnosci&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/unsupported?from=https://news.google.com/rss/.com&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1456,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:50.265Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "esquerda.net": {
+      "urls": [
+        "https://www.esquerda.net/rss/cantos-casa2.xml",
+        "https://www.esquerda.net/rss/fora-de-orbita.xml",
+        "https://www.esquerda.net/rss/mais-esquerda2.xml",
+        "https://www.esquerda.net/rss/quatro-vinte2.xml",
+        "https://esquerda.net/rss/geral",
+        "https://www.esquerda.net/rss/geral",
+        "https://www.esquerda.net/rss/alta-voz2.xml",
+        "https://esquerda.net/rss/artigos-dossier",
+        "https://esquerda.net/rss/cantos-da-casa",
+        "https://esquerda.net/rss/mais-esquerda",
+        "https://esquerda.net/rss/opinioes",
+        "https://esquerda.net/rss/quatro-vinte",
+        "https://esquerda.net/rss/radio",
+        "https://esquerda.net/rss/videos",
+        "https://www.esquerda.net/rss/artigos-dossier",
+        "https://www.esquerda.net/rss/cantos-da-casa",
+        "https://www.esquerda.net/rss/mais-esquerda",
+        "https://www.esquerda.net/rss/opinioes",
+        "https://www.esquerda.net/rss/quatro-vinte",
+        "https://www.esquerda.net/rss/radio",
+        "https://www.esquerda.net/rss/videos",
+        "https://anchor.fm/s/fd055890/podcast/rss",
+        "https://www.esquerda.net/rss/alta-voz",
+        "https://interiordoavesso.pt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1095,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:26.857Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "portugoal.net": {
+      "urls": [
+        "https://portugoal.net/?format=feed&type=atom",
+        "https://portugoal.net/podcasts?format=feed&type=atom",
+        "https://www.portugoal.net/podcasts?format=feed&type=atom",
+        "https://portugoal.net/?format=feed&type=rss",
+        "https://portugoal.net/podcasts?format=feed&type=rss",
+        "https://www.portugoal.net/podcasts?format=feed&type=rss",
+        "https://portugoal.net/component/tags/tag/long-ball-podcast?format=feed&type=atom",
+        "https://portugoal.net/component/tags/tag/the-selecao-podcast?format=feed&type=atom",
+        "https://www.portugoal.net/component/tags/tag/long-ball-podcast?format=feed&type=atom",
+        "https://www.portugoal.net/component/tags/tag/the-selecao-podcast?format=feed&type=atom",
+        "https://portugoal.net/component/tags/tag/long-ball-podcast?format=feed&type=rss",
+        "https://portugoal.net/component/tags/tag/the-selecao-podcast?format=feed&type=rss",
+        "https://www.portugoal.net/component/tags/tag/long-ball-podcast?format=feed&type=rss",
+        "https://www.portugoal.net/component/tags/tag/the-selecao-podcast?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2698,
+        "category": "sports",
+        "last_checked": "2026-02-01T12:33:06.704Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noticiasaominuto.com": {
+      "urls": [
+        "https://www.noticiasaominuto.com/rss/ultima-hora",
+        "https://www.noticiasaominuto.com/rss/mundo",
+        "https://www.noticiasaominuto.com/rss/desporto",
+        "https://www.noticiasaominuto.com/rss/pais",
+        "https://www.noticiasaominuto.com/rss/economia",
+        "https://www.noticiasaominuto.com/rss/politica",
+        "https://www.noticiasaominuto.com/rss/fama",
+        "https://www.noticiasaominuto.com/rss/lifestyle",
+        "https://www.noticiasaominuto.com/rss/auto",
+        "https://www.noticiasaominuto.com/rss/tech",
+        "https://www.noticiasaominuto.com/rss/cultura"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 606,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:42.577Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jornalnordeste.com": {
+      "urls": [
+        "https://www.jornalnordeste.com/rss.xml",
+        "http://jornalnordeste.com/rss.xml",
+        "http://www.jornalnordeste.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1354,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:33.970Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diariodetrasosmontes.com": {
+      "urls": [
+        "https://www.diariodetrasosmontes.com/feed/rss.xml",
+        "https://www.diariodetrasosmontes.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 988,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:15.965Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ptjornal.com": {
+      "urls": [
+        "https://ptjornal.com/feed/atom",
+        "https://ptjornal.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1465,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:48.449Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "theportugalnews.com": {
+      "urls": [
+        "https://www.theportugalnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 493,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:02.266Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "portugalresident.com": {
+      "urls": [
+        "https://www.portugalresident.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 733,
+        "category": "general",
+        "last_checked": "2026-02-01T12:33:03.072Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "almeirinense.com": {
+      "urls": [
+        "https://www.almeirinense.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1741,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:39.927Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jornalaguarda.com": {
+      "urls": [
+        "https://www.jornalaguarda.com/index.php?format=feed&type=atom",
+        "https://www.jornalaguarda.com/index.php?format=feed&type=rss",
+        "https://jornalaguarda.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:32:36.493Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

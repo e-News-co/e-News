@@ -1,0 +1,197 @@
+{
+  "country_code": "NI",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 35,
+  "feeds": {
+    "nuevaya.com.ni": {
+      "urls": [
+        "https://nuevaya.com.ni/feed/",
+        "https://rss.app/feeds/GuicvNMnavHIfsqG.xml",
+        "https://nuevaya.com.ni/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 798,
+        "category": "general",
+        "last_checked": "2026-02-01T09:14:00.911Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "confidencial.com.ni": {
+      "urls": [
+        "https://www.confidencial.com.ni/feed/",
+        "https://confidencial.com.ni/feed/",
+        "https://confidencial.com.ni/portada/feed/",
+        "https://confidencial.com.ni/comments/feed/",
+        "https://www.confidencial.com.ni/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:40.078Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "laprensa.com.ni": {
+      "urls": [
+        "https://www.laprensa.com.ni/feed",
+        "https://www.laprensa.com.ni/podcast/feed",
+        "https://www.laprensa.com.ni/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:44.859Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lajornadanet.com": {
+      "urls": [
+        "https://www.lajornadanet.com/index.php/feed/",
+        "https://lajornadanet.com/feed/atom/",
+        "https://www.lajornadanet.com/index.php/comments/feed/",
+        "https://lajornadanet.com/feed/",
+        "https://www.lajornadanet.com/feed/",
+        "https://lajornadanet.com/comments/feed/",
+        "https://www.lajornadanet.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3123,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:43.841Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nicaraguainvestiga.com": {
+      "urls": [
+        "https://nicaraguainvestiga.com/feed/",
+        "https://www.nicaraguainvestiga.com/feed/",
+        "https://nicaraguainvestiga.com/comments/feed/",
+        "https://www.nicaraguainvestiga.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3643,
+        "category": "business",
+        "last_checked": "2026-02-01T09:13:57.769Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "laverdadnica.com": {
+      "urls": [
+        "https://laverdadnica.com/feed/",
+        "https://laverdadnica.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2159,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:50.358Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bacanalnica.com": {
+      "urls": [
+        "https://www.bacanalnica.com/feed/",
+        "https://www.bacanalnica.com/episodio-6-del-podcast-pasa-nada-en-su-historia-cineastica/feed/",
+        "https://www.bacanalnica.com/podcasts/feed/",
+        "https://anchor.fm/s/c75fd80/podcast/rss",
+        "https://www.bacanalnica.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:14:02.823Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "articulo66.com": {
+      "urls": [
+        "https://www.articulo66.com/feed/",
+        "https://www.articulo66.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:58.967Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "despacho505.com": {
+      "urls": [
+        "https://www.despacho505.com/feed/",
+        "https://www.despacho505.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:59.767Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "el19digital.com": {
+      "urls": [
+        "https://www.el19digital.com/feed/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-02-01T09:13:40.215Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "trincheraonline.com": {
+      "urls": [
+        "https://www.trincheraonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:46.857Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

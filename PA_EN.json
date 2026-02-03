@@ -1,0 +1,392 @@
+{
+  "country_code": "PA",
+  "language_code": "EN",
+  "total_domains": 22,
+  "total_feeds": 76,
+  "feeds": {
+    "panama24horas.com.pa": {
+      "urls": [
+        "https://www.panama24horas.com.pa/feed/",
+        "http://www.panama24horas.com.pa/feed/",
+        "https://www.panama24horas.com.pa/comments/feed/",
+        "http://www.panama24horas.com.pa/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2044,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:55.474Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tucomunidad.com.pa": {
+      "urls": [
+        "https://tucomunidad.com.pa/feed/",
+        "http://tucomunidad.com.pa/feed/",
+        "https://tucomunidad.com.pa/comments/feed/",
+        "http://tucomunidad.com.pa/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2464,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:13.804Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "panamaamerica.com.pa": {
+      "urls": [
+        "https://www.panamaamerica.com.pa/rss/recent/index.xml",
+        "https://www.panamaamerica.com.pa/rss/nacion"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1419,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:43.511Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diaadia.com.pa": {
+      "urls": [
+        "https://www.diaadia.com.pa/rss.xml",
+        "http://www.diaadia.com.pa/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1581,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:36.738Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "critica.com.pa": {
+      "urls": [
+        "https://www.critica.com.pa/rss/recent/index.xml",
+        "https://www.critica.com.pa/feed/nacional",
+        "https://www.critica.com.pa/rss.xml",
+        "http://www.critica.com.pa/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:35.002Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ensegundos.com.pa": {
+      "urls": [
+        "https://ensegundos.com.pa/feed/",
+        "https://ensegundos.com.pa/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:53.225Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "laestrella.com.pa": {
+      "urls": [
+        "https://www.laestrella.com.pa/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:41.982Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bayanodigital.com": {
+      "urls": [
+        "https://bayanodigital.com/blog-post/segun-informe-del-fmi-los-ancianos-son-una-amenaza-para-la-economia/feed/",
+        "https://bayanodigital.com/feed/",
+        "https://bayanodigital.com/blog-post/feed/",
+        "https://bayanodigital.com/blog-post/periodico-bayano-cumple-43-anos-abriendo-trochas-de-soberania/feed/",
+        "https://bayanodigital.com/blog-post/cinco-mentiras-no-piadosas-sobre-las-reformas-a-la-css-propuestas-por-el-gobierno-empresarial/feed/",
+        "https://bayanodigital.com/blog-post/conferencia-42-anos-del-tratados-torrijos-carter/feed/",
+        "https://bayanodigital.com/blog-post/denuncia-penal-contra-juan-carlos-varela-e-isabel-de-saint-malo-por-violacion-a-la-constitucion-y-tratados-internacionales/feed/",
+        "https://bayanodigital.com/blog-post/heroismo-santeno-afianza-la-soberania-panamena/feed/",
+        "https://bayanodigital.com/blog-post/inflacion-y-estanflacion-como-de-la-economia-global-factores-que-la-sustentan/feed/",
+        "https://bayanodigital.com/blog-post/la-noche-mas-oscura/feed/",
+        "https://bayanodigital.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 920,
+        "category": "technology",
+        "last_checked": "2026-02-01T10:27:56.397Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "prnoticiaspanama.com": {
+      "urls": [
+        "https://prnoticiaspanama.com/feed/",
+        "http://prnoticiaspanama.com/feed/",
+        "http://prnoticiaspanama.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1982,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:18.506Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thebocasbreeze.com": {
+      "urls": [
+        "https://thebocasbreeze.com/feed/",
+        "https://thebocasbreeze.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:50.253Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "prensa.com": {
+      "urls": [
+        "https://www.prensa.com/arcio/rss/",
+        "https://www.prensa.com/arc/outboundfeeds/rss/?outputType=xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1267,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:39.436Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lagacetadepanama.com": {
+      "urls": [
+        "https://lagacetadepanama.com/feed/",
+        "https://lagacetadepanama.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3090,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:59.508Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ptyenglishnews.com": {
+      "urls": [
+        "https://ptyenglishnews.com/feed/",
+        "https://ptyenglishnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4098,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:48.234Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elinformedavid.com": {
+      "urls": [
+        "https://www.elinformedavid.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 801,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:37.539Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tvn-2.com": {
+      "urls": [
+        "https://www.tvn-2.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:51.174Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "todanoticia.com": {
+      "urls": [
+        "https://todanoticia.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 994,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:49.228Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "noticiasdepanama.com": {
+      "urls": [
+        "https://noticiasdepanama.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1438,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:10.984Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newsroompanama.com": {
+      "urls": [
+        "https://newsroompanama.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1442,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:19.948Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "telemetro.com": {
+      "urls": [
+        "https://www.telemetro.com/rss/pages/tumanana.xml",
+        "https://www.telemetro.com/rss/pages/ultimas-noticias.xml",
+        "https://www.telemetro.com/rss",
+        "https://www.telemetro.com/rss/",
+        "https://www.telemetro.com/rss/pages/entretenimiento.xml",
+        "https://www.telemetro.com/rss/pages/coronavirus.xml",
+        "https://www.telemetro.com/rss/pages/especiales-treporta.xml",
+        "https://www.telemetro.com/rss/pages/vida-y-estilo.xml",
+        "https://www.telemetro.com/rss/pages/nacionales.xml",
+        "https://www.telemetro.com/rss/pages/deportes.xml",
+        "https://www.telemetro.com/rss/pages/internacionales.xml",
+        "https://www.telemetro.com/rss/pages/a-lo-panameno.xml",
+        "https://www.telemetro.com/rss/pages/actualidad.xml",
+        "https://www.telemetro.com/rss/pages/cara-a-cara.xml",
+        "https://www.telemetro.com/rss/pages/debate-abierto-dominical.xml",
+        "https://www.telemetro.com/rss/pages/economia.xml",
+        "https://www.telemetro.com/rss/pages/entretenimiento-ocio.xml",
+        "https://www.telemetro.com/rss/pages/flor-mizrachi-pregunta.xml",
+        "https://www.telemetro.com/rss/pages/gamers.xml",
+        "https://www.telemetro.com/rss/pages/glosas-de-flor-mizrachi.xml",
+        "https://www.telemetro.com/rss/pages/insolito.xml",
+        "https://www.telemetro.com/rss/pages/senorita-panama.xml",
+        "https://www.telemetro.com/rss/pages/vida-y-estilo-cocina.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:51.343Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "elcapitalfinanciero.com": {
+      "urls": [
+        "https://elcapitalfinanciero.com/feed/",
+        "https://elcapitalfinanciero.com/feed/?doing_wp_cron=1639800860.1205348968505859375000",
+        "https://elcapitalfinanciero.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:21.902Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "nexpanama.com": {
+      "urls": [
+        "https://nexpanama.com/feed/",
+        "http://www.nexpanama.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:09.546Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "panamainforma.com": {
+      "urls": [
+        "https://www.panamainforma.com/index.php/it/?format=feed&type=atom",
+        "https://www.panamainforma.com/index.php/it/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:16.214Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

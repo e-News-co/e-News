@@ -1,0 +1,41 @@
+{
+  "country_code": "NG",
+  "language_code": "HA",
+  "total_domains": 2,
+  "total_feeds": 5,
+  "feeds": {
+    "hausa.legit.ng": {
+      "urls": [
+        "https://hausa.legit.ng/rss/all.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 827,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:38.846Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hausa.premiumtimesng.com": {
+      "urls": [
+        "https://hausa.premiumtimesng.com/feed",
+        "https://hausa.premiumtimesng.com/feed/",
+        "https://hausa.premiumtimesng.com/comments/feed",
+        "https://hausa.premiumtimesng.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2840,
+        "category": "general",
+        "last_checked": "2026-02-01T09:13:38.018Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

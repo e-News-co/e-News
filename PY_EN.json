@@ -1,0 +1,276 @@
+{
+  "country_code": "PY",
+  "language_code": "EN",
+  "total_domains": 15,
+  "total_feeds": 58,
+  "feeds": {
+    "television.com.py": {
+      "urls": [
+        "https://television.com.py/feed",
+        "https://www.television.com.py/feed",
+        "https://television.com.py/tag/podcast-del-presidente-pena/feed",
+        "https://television.com.py/tag/podcast-santiago-pena/feed",
+        "https://television.com.py/comments/feed",
+        "https://www.television.com.py/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1785,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:46.495Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hoy.com.py": {
+      "urls": [
+        "https://www.hoy.com.py/feed/home",
+        "https://www.hoy.com.py/feed",
+        "https://www.hoy.com.py/feed/politica",
+        "https://www.hoy.com.py/politica/feed",
+        "https://www.hoy.com.py/blogs/feed",
+        "https://www.hoy.com.py/blogs/gotas-de-paz/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2413,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:21.927Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariopopular.com.py": {
+      "urls": [
+        "https://www.hoy.com.py/feed/home",
+        "https://www.popular.com.py/feed/",
+        "https://www.hoy.com.py/feed",
+        "https://www.hoy.com.py/blogs/gotas-de-paz/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1968,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:13.765Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tnpress.com.py": {
+      "urls": [
+        "https://www.tnpress.com.py/feed/",
+        "https://www.tnpress.com.py/feed/atom/",
+        "http://www.tnpress.com.py/feed/atom/",
+        "http://www.tnpress.com.py/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2203,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:30.990Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "telefuturo.com.py": {
+      "urls": [
+        "https://www.telefuturo.com.py/index.atom",
+        "https://telefuturo.com.py/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1527,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:44.146Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "abc.com.py": {
+      "urls": [
+        "https://www.abc.com.py/arcio/rss/category/nacionales/",
+        "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/?outputType=xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1721,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:11.074Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "popular.com.py": {
+      "urls": [
+        "https://www.popular.com.py/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1091,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:18.073Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "extra.com.py": {
+      "urls": [
+        "https://www.extra.com.py/actualidad.atom"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1331,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:23.258Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "latribuna.com.py": {
+      "urls": [
+        "https://www.latribuna.com.py/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1785,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:32.775Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "5dias.com.py": {
+      "urls": [
+        "http://www.5dias.com.py/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:28.785Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "adndigital.com.py": {
+      "urls": [
+        "https://www.adndigital.com.py/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-02-01T12:52:36.475Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mercopress.com": {
+      "urls": [
+        "https://en.mercopress.com/rss/",
+        "https://en.mercopress.com/rss/international",
+        "https://en.mercopress.com/rss/politics",
+        "https://en.mercopress.com/rss/economy",
+        "https://en.mercopress.com/rss/falkland-islands",
+        "https://en.mercopress.com/rss/united-states",
+        "https://en.mercopress.com/rss/venezuela",
+        "https://en.mercopress.com/rss/argentina",
+        "https://en.mercopress.com/rss/energy",
+        "https://en.mercopress.com/rss/agriculture",
+        "https://en.mercopress.com/rss/antarctica",
+        "https://en.mercopress.com/rss/brazil",
+        "https://en.mercopress.com/rss/environment",
+        "https://en.mercopress.com/rss/fisheries",
+        "https://en.mercopress.com/rss/investments",
+        "https://en.mercopress.com/rss/latin-america",
+        "https://en.mercopress.com/rss/mercosur",
+        "https://en.mercopress.com/rss/paraguay",
+        "https://en.mercopress.com/rss/real-estate",
+        "https://en.mercopress.com/rss/tourism",
+        "https://en.mercopress.com/rss/unasur",
+        "https://en.mercopress.com/rss/uruguay",
+        "https://en.mercopress.com/rss/health-science"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1641,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:39.517Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "asunciontimes.com": {
+      "urls": [
+        "https://asunciontimes.com/feed/",
+        "https://asunciontimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1393,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:37.870Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ultimahora.com": {
+      "urls": [
+        "https://www.ultimahora.com/rss/UltimoMomento.xml",
+        "https://www.ultimahora.com/podcast-uh.atom"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1810,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:16.980Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "paraguay.com": {
+      "urls": [
+        "http://www.paraguay.com/feed.rss",
+        "http://www.paraguay.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:52:34.606Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

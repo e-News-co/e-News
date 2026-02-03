@@ -1,0 +1,911 @@
+{
+  "country_code": "PE",
+  "language_code": "EN",
+  "total_domains": 51,
+  "total_feeds": 189,
+  "feeds": {
+    "elcomercio.pe": {
+      "urls": [
+        "https://elcomercio.pe/arcio/rss/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/",
+        "https://elcomercio.pe/arcio/google-news-feed/category/peru/",
+        "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml",
+        "https://elcomercio.pe/arcio/rss/category/tecnologia/actualidad/",
+        "https://elcomercio.pe/arc/outboundfeeds/rss/category/podcast/?outputType=xml",
+        "https://elcomercio.pe/arc/outboundfeeds/google-news-feed/category/peru/?outputType=xml",
+        "https://elcomercio.pe/arcio/rss/category/podcast/analisis-elcomercio/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/archivo-insolito/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/ec-byte/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/el-editorial/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/eso-no-se-pregunta/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/jugamos-como-nunca/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/la-grilla/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/la-ultima-pista/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/las-5-noticias-del-dia/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/me-quedo-en-casa/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/mentes-peruanas/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/papa-no-sabe-nada/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/primera-llamada/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/salud-con-ciencia/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/subete-a-la-nube/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/te-la-sabes/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/tenemos-que-hablar/",
+        "https://elcomercio.pe/arcio/rss/category/podcast/y-tu-que-miras/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1140,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:57.326Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "larepublica.pe": {
+      "urls": [
+        "https://larepublica.pe/noticiasfeed.xml?outputType=rss",
+        "https://larepublica.pe/rss/home.xml?outputType=rss",
+        "https://larepublica.pe/rss/home.xml",
+        "https://larepublica.pe/rss/tecnologia.xml",
+        "https://podcast.larepublica.pe/rss/pg-miradas-a-china.rss",
+        "https://podcast.larepublica.pe/rss/pg-al-pie-de-la-letra.rss",
+        "https://podcast.larepublica.pe/rss/pg-audiocolumna-augusto-alvarez-rodrich.rss",
+        "https://podcast.larepublica.pe/rss/pg-balon-parado-glr.rss",
+        "https://podcast.larepublica.pe/rss/pg-claro-directo-rtv.rss",
+        "https://podcast.larepublica.pe/rss/pg-cuatro-d.rss",
+        "https://podcast.larepublica.pe/rss/pg-de-ley.rss",
+        "https://podcast.larepublica.pe/rss/pg-entre-rimas-y-gallos.rss",
+        "https://podcast.larepublica.pe/rss/pg-grado-5.rss",
+        "https://podcast.larepublica.pe/rss/pg-informe-matinal.rss",
+        "https://podcast.larepublica.pe/rss/pg-la-chucara.rss",
+        "https://podcast.larepublica.pe/rss/pg-la-entrevista.rss",
+        "https://podcast.larepublica.pe/rss/pg-libero-radio.rss",
+        "https://podcast.larepublica.pe/rss/pg-lr-economia.rss",
+        "https://podcast.larepublica.pe/rss/pg-rtv-economia.rss",
+        "https://podcast.larepublica.pe/rss/pg-ruta-cti.rss",
+        "https://podcast.larepublica.pe/rss/pg-sin-guion.rss",
+        "https://podcast.larepublica.pe/rss/pg-vive-mas.rss",
+        "https://podcast.larepublica.pe/rss/pg-vuelta-al-mundo.rss",
+        "https://podcast.larepublica.pe/rss/pg-y-esto-no-es-todo.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1556,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:59.605Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rpp.pe": {
+      "urls": [
+        "https://p-gruporpp-media.s3.amazonaws.com/podcast/xml/190.xml",
+        "https://rpp.pe/rss",
+        "https://rpp.pe/feed/blog/el-critico",
+        "https://rpp.pe/feed/blog/el-cuarto-de-seiya",
+        "https://rpp.pe/feed/blog/mas-consolas",
+        "https://p-gruporpp-media.s3.amazonaws.com/podcast/xml/176.xml",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/5fc5333947f8e307d60dd3fc",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/5fc539752e40850826923377",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/5fc53c077b0a9407c76a1dac",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/5fc53ed217d32e06da800b39",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/5fc53f8563a328080986128c",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/5fc53fee38fd1020ee608dd5",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/600b423efd7d4d08b34fbf4a",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/6067368cada68a0800f4111b",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/60c61db1ebbd190844744c85",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/624e1cf24e55d8083e29797d",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/631f6c65c3910f0851258fbc",
+        "https://mdstrm.com/feeds/5faaeb72f92d7b07dfe10181/64358ea826d1072a02e38515"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 812,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:36.025Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elpopular.pe": {
+      "urls": [
+        "https://elpopular.pe/rss/espectaculos.xml",
+        "https://elpopular.pe/rss/actualidad.xml",
+        "https://elpopular.pe/rss/mundo.xml",
+        "https://elpopular.pe/rss/home.xml",
+        "https://elpopular.pe/rss/videos.xml",
+        "https://elpopular.pe/rss/deportes.xml",
+        "https://elpopular.pe/rss/educacion.xml",
+        "https://elpopular.pe/rss/horoscopo.xml",
+        "https://elpopular.pe/rss/vida.xml",
+        "https://elpopular.pe/rss/virales.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1150,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:13.336Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "peru21.pe": {
+      "urls": [
+        "https://peru21.pe/rss/",
+        "https://peru21.pe/feeds/?outputType=fb-instant-article",
+        "https://peru21.pe/arcio/rss/",
+        "https://peru21.pe/rss/economia",
+        "https://peru21.pe/arcio/rss/category/economia/",
+        "https://peru21.pe/rss/economia/",
+        "https://peru21.pe/arc/outboundfeeds/rss/?outputType=xml",
+        "https://peru21.pe/arc/outboundfeeds/rss/category/economia/?outputType=xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 269,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:34.304Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gestion.pe": {
+      "urls": [
+        "https://gestion.pe/arcio/rss/",
+        "https://gestion.pe/arc/outboundfeeds/rss/?outputType=xml",
+        "https://gestion.pe/feeds/?outputType=fb-instant-article",
+        "https://gestion.pe/arc/outboundfeeds/rss/category/podcast/?outputType=xml",
+        "https://gestion.pe/arcio/rss/category/podcast/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3224,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:06.765Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "exitosanoticias.pe": {
+      "urls": [
+        "https://exitosanoticias.pe/v1/feed/",
+        "https://www.exitosanoticias.pe/feed/",
+        "https://www.exitosanoticias.pe/radio-en-vivo-2020/feed/",
+        "https://www.exitosanoticias.pe/radio-en-vivo-2020/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1313,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:14.652Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "losandes.com.pe": {
+      "urls": [
+        "https://losandes.com.pe/feed/",
+        "https://www.losandes.com.pe/feed/",
+        "https://www.losandes.com.pe/comments/feed/",
+        "https://losandes.com.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2066,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:22.618Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariocorreo.pe": {
+      "urls": [
+        "https://diariocorreo.pe/feeds/?outputType=fb-instant-article",
+        "https://diariocorreo.pe/arcio/rss/",
+        "https://diariocorreo.pe/arc/outboundfeeds/rss/?outputType=xml",
+        "https://diariocorreo.pe/arcio/rss/category/edicion/arequipa/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2243,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:02.566Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "prensaregional.pe": {
+      "urls": [
+        "https://www.prensaregional.pe/feed/",
+        "https://prensaregional.pe/feed/",
+        "https://prensaregional.pe/comments/feed/",
+        "https://www.prensaregional.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2391,
+        "category": "local",
+        "last_checked": "2026-02-01T10:29:31.322Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "proycontra.com.pe": {
+      "urls": [
+        "http://proycontra.com.pe/feed/",
+        "https://proycontra.com.pe/feed/",
+        "https://proycontra.com.pe/comments/feed/",
+        "http://proycontra.com.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3377,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:38.489Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "caretas.pe": {
+      "urls": [
+        "https://caretas.pe/feed/atom/",
+        "https://caretas.pe/feed/",
+        "https://caretas.pe/pagina-de-ejemplo/feed/",
+        "https://caretas.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3510,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:43.500Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "trome.pe": {
+      "urls": [
+        "https://trome.pe/feeds/?outputType=fb-instant-article",
+        "https://trome.com/arc/outboundfeeds/rss/?outputType=xml",
+        "https://trome.pe/arcio/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 490,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:34.797Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariovoces.com.pe": {
+      "urls": [
+        "https://www.diariovoces.com.pe/feed",
+        "https://diariovoces.com.pe/feed/",
+        "https://www.diariovoces.com.pe/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 500,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:39.413Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ojo.pe": {
+      "urls": [
+        "https://ojo.pe/feeds/?outputType=fb-instant-article",
+        "https://ojo.pe/arc/outboundfeeds/rss/?outputType=xml",
+        "https://ojo.pe/arcio/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1872,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:12.183Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornada.com.pe": {
+      "urls": [
+        "https://jornada.com.pe/feed/",
+        "http://jornada.com.pe/?format=feed&type=atom",
+        "http://jornada.com.pe/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2634,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:44.532Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elpueblo.com.pe": {
+      "urls": [
+        "https://elpueblo.com.pe/feed/",
+        "https://elpueblo.com.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1058,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:46.728Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "larazon.pe": {
+      "urls": [
+        "https://larazon.pe/feed/",
+        "https://larazon.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1287,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:09.362Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wayka.pe": {
+      "urls": [
+        "https://wayka.pe/feed/",
+        "https://wayka.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1351,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:02.960Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariosinfronteras.com.pe": {
+      "urls": [
+        "https://diariosinfronteras.com.pe/feed/atom/",
+        "https://diariosinfronteras.com.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2047,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:26.203Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elbuho.pe": {
+      "urls": [
+        "https://elbuho.pe/feed/",
+        "https://elbuho.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2056,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:28.419Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elbocon.pe": {
+      "urls": [
+        "https://elbocon.pe/feeds/?outputType=fb-instant-article",
+        "https://elbocon.pe/arcio/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2095,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:51.495Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cosas.pe": {
+      "urls": [
+        "https://cosas.pe/feed/",
+        "https://cosas.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2121,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:18.542Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "todosport.pe": {
+      "urls": [
+        "https://todosport.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 83,
+        "category": "sports",
+        "last_checked": "2026-02-01T10:29:52.195Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elmen.pe": {
+      "urls": [
+        "https://elmen.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 83,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:16.312Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elchino.pe": {
+      "urls": [
+        "https://elchino.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 107,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:16.419Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "libero.pe": {
+      "urls": [
+        "https://libero.pe/rss/home.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 617,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:52.112Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "larepublica.com.pe": {
+      "urls": [
+        "https://larepublica.pe/rss/home.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1207,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:33.158Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "canaln.pe": {
+      "urls": [
+        "https://canaln.pe/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1250,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:39.835Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariolaprensaperu.pe": {
+      "urls": [
+        "https://diariolaprensaperu.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1284,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:48.013Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariodelcusco.pe": {
+      "urls": [
+        "https://diariodelcusco.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1537,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:24.155Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariouno.pe": {
+      "urls": [
+        "https://diariouno.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1577,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:16.229Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lahora.pe": {
+      "urls": [
+        "https://lahora.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2420,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:35.008Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "latina.pe": {
+      "urls": [
+        "https://www.latina.pe/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2560,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:38.585Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "enlinea.pe": {
+      "urls": [
+        "https://enlinea.pe/feed/",
+        "https://enlinea.pe/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:00.487Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "delpais.com.pe": {
+      "urls": [
+        "https://delpais.com.pe/feed/",
+        "https://delpais.com.pe/web/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:17.405Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eltiempo.pe": {
+      "urls": [
+        "https://eltiempo.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:31.951Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lamula.pe": {
+      "urls": [
+        "https://lamula.pe/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:51.589Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "depor.com": {
+      "urls": [
+        "https://depor.com/arcio/rss/",
+        "https://depor.com/arc/outboundfeeds/rss/?outputType=xml",
+        "https://depor.com/arcio/rss/category/podcast/",
+        "https://depor.com/arcio/rss/category/podcast/deporcast/",
+        "https://depor.com/arcio/rss/category/podcast/historias-fabulosas-de-la-pelotita/",
+        "https://depor.com/arcio/rss/category/podcast/matematicamente-posible/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:48.937Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "generaccion.com": {
+      "urls": [
+        "http://www.generaccion.com/noticia/rss/",
+        "http://www.generaccion.com/noticia/rss/actualidad/",
+        "http://www.generaccion.com/noticia/rss/ciencia/",
+        "http://www.generaccion.com/noticia/rss/deportes/",
+        "http://www.generaccion.com/noticia/rss/espectaculos/",
+        "http://www.generaccion.com/noticia/rss/salud/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2574,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:07.052Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "agendapasco.com": {
+      "urls": [
+        "https://agendapasco.com/feed/",
+        "https://agendapasco.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1124,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:45.658Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "trujilloinforma.com": {
+      "urls": [
+        "https://trujilloinforma.com/feed/",
+        "https://trujilloinforma.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1411,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:20.551Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "trome.com": {
+      "urls": [
+        "https://trome.com/arc/outboundfeeds/rss/?outputType=xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 409,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:07.174Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gacetaucayalina.com": {
+      "urls": [
+        "https://www.gacetaucayalina.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 715,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:40.128Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "denganche.com": {
+      "urls": [
+        "https://denganche.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 907,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:53.102Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diariodechimbote.com": {
+      "urls": [
+        "https://diariodechimbote.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1265,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:32.588Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "perupress.com": {
+      "urls": [
+        "https://perupress.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1730,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:19.136Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "peruinforma.com": {
+      "urls": [
+        "https://www.peruinforma.com/feed/",
+        "http://www.peruinforma.com/feed/",
+        "https://www.peruinforma.com/comments/feed/",
+        "http://www.peruinforma.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:28:54.201Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "peruviantimes.com": {
+      "urls": [
+        "https://www.peruviantimes.com/feed/",
+        "https://www.peruviantimes.com/comments/feed/",
+        "https://feeds.feedburner.com/PeruvianTimes-NewsFromPeru"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:55.296Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "connuestroperu.com": {
+      "urls": [
+        "https://www.connuestroperu.com/?format=feed&type=atom",
+        "https://www.connuestroperu.com/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:29:07.371Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "rumbosdelperu.com": {
+      "urls": [
+        "https://www.rumbosdelperu.com/feed/",
+        "https://www.rumbosdelperu.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:30:21.101Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

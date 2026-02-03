@@ -1,0 +1,146 @@
+{
+  "country_code": "NZ",
+  "language_code": "PA",
+  "total_domains": 9,
+  "total_feeds": 12,
+  "feeds": {
+    "newsroom.co.nz": {
+      "urls": [
+        "https://newsroom.co.nz/feed/",
+        "https://newsroom.co.nz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 788,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:37.994Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kanivatonga.co.nz": {
+      "urls": [
+        "https://kanivatonga.co.nz/feed/",
+        "https://kanivatonga.co.nz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 957,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:39.362Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "blenheimsun.co.nz": {
+      "urls": [
+        "https://blenheimsun.co.nz/feed/",
+        "https://blenheimsun.co.nz/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2114,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:37.121Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "interest.co.nz": {
+      "urls": [
+        "http://interest.co.nz/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 277,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:38.271Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "stuff.co.nz": {
+      "urls": [
+        "http://stuff.co.nz/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 346,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:33.242Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "waikatotimes.co.nz": {
+      "urls": [
+        "http://waikatotimes.co.nz/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 969,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:32.896Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thepress.co.nz": {
+      "urls": [
+        "http://thepress.co.nz/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1155,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:31.927Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thepost.co.nz": {
+      "urls": [
+        "http://thepost.co.nz/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1635,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:30.772Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ponsonbynews.co.nz": {
+      "urls": [
+        "http://ponsonbynews.co.nz/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1677,
+        "category": "general",
+        "last_checked": "2026-02-01T10:19:34.920Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

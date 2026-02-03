@@ -1,0 +1,1560 @@
+{
+  "country_code": "LK",
+  "language_code": "TA",
+  "total_domains": 76,
+  "total_feeds": 488,
+  "feeds": {
+    "thinakaran.lk": {
+      "urls": [
+        "http://www.thinakaran.lk/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:22.422Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "virakesari.lk": {
+      "urls": [
+        "https://www.virakesari.lk/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:28.399Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.virakesari.lk": {
+      "urls": [
+        "https://www.virakesari.lk/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:55.728Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tamil.news18.com": {
+      "urls": [
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/ariyalur-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/ariyalur.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/business.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/business/agriculture.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/chengalpattu.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/chennai-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/chennai.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/coimbatore.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/coronavirus-latest-news.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/cuddalore-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/cuddalore.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/dharmapuri-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/dharmapuri.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/dindigul.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/education.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/employment.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/employment/government-jobs.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/employment/private-jobs.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/entertainment.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/entertainment/cinema.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/entertainment/movie-reviews.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/erode-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/erode.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/explainers.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/india-china.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/international.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/kallakurichi-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/kanniyakumari-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/kanniyakumari.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/karur-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/krishnagiri-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/krishnagiri.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/beauty.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/food.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/relationship.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/lifestyle/travel.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/live-updates.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/local-news.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/mayiladuthurai-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/mayiladuthurai.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/memes.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/nagapattinam-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/nagapattinam.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/namakkal.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/national.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/nilgiris.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/perambalur-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/perambalur.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/puducherry.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/ramanathapuram-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/ramanathapuram.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/ranipet-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/ranipet.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/salem-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/salem.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/sivagangai-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/sivagangai.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/special-articles.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual/daily-horoscope.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual/horoscope.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual/monthly-horoscope.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/spiritual/temples.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports/cricket.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports/ipl.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/sports/other-sports.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/technology.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tenkasi.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/thanjavur-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/thanjavur.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/theni.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/thoothukudi-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/thoothukudi.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tiruchirappalli-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tirunelveli-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tirunelveli.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tirupattur-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tirupattur.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tiruppur-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tiruppur.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tiruvallur.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tiruvannamalai-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/tiruvannamalai.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/trend.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/trichy.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/vellore.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/viluppuram-district.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/viluppuram.xml",
+        "https://tamil.news18.com/commonfeeds/v1/tam/rss/virudhunagar.xml",
+        "https://tamil.news18.com/feeds/latest-news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 225,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:21.150Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.bbc.com": {
+      "urls": [
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://rsshub.app/bbc/chinese",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 575,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:31.433Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "feeds.feedburner.com": {
+      "urls": [
+        "http://feeds.feedburner.com/Hindu_Tamil_art",
+        "http://feeds.feedburner.com/Hindu_Tamil_astrology",
+        "http://feeds.feedburner.com/Hindu_Tamil_blogs",
+        "http://feeds.feedburner.com/Hindu_Tamil_business",
+        "http://feeds.feedburner.com/Hindu_Tamil_cartoon",
+        "http://feeds.feedburner.com/Hindu_Tamil_cinema",
+        "http://feeds.feedburner.com/Hindu_Tamil_crime",
+        "http://feeds.feedburner.com/Hindu_Tamil_discussion",
+        "http://feeds.feedburner.com/Hindu_Tamil_education",
+        "http://feeds.feedburner.com/Hindu_Tamil_election-2014",
+        "http://feeds.feedburner.com/Hindu_Tamil_election-2016",
+        "http://feeds.feedburner.com/Hindu_Tamil_election-2019",
+        "http://feeds.feedburner.com/Hindu_Tamil_environment",
+        "http://feeds.feedburner.com/Hindu_Tamil_india",
+        "http://feeds.feedburner.com/Hindu_Tamil_life-style",
+        "http://feeds.feedburner.com/Hindu_Tamil_literature",
+        "http://feeds.feedburner.com/Hindu_Tamil_opinion",
+        "http://feeds.feedburner.com/Hindu_Tamil_recipes",
+        "http://feeds.feedburner.com/Hindu_Tamil_reporters-page",
+        "http://feeds.feedburner.com/Hindu_Tamil_social-media",
+        "http://feeds.feedburner.com/Hindu_Tamil_spirituals",
+        "http://feeds.feedburner.com/Hindu_Tamil_sports",
+        "http://feeds.feedburner.com/Hindu_Tamil_supplements",
+        "http://feeds.feedburner.com/Hindu_Tamil_tamilnadu",
+        "http://feeds.feedburner.com/Hindu_Tamil_technology",
+        "http://feeds.feedburner.com/Hindu_Tamil_tourism",
+        "http://feeds.feedburner.com/Hindu_Tamil_world",
+        "http://feeds.feedburner.com/digit/how-to",
+        "http://feeds.feedburner.com/digit/latest-apps",
+        "http://feeds.feedburner.com/digit/latest-digital-cameras",
+        "http://feeds.feedburner.com/digit/latest-features",
+        "http://feeds.feedburner.com/digit/latest-from-digit",
+        "http://feeds.feedburner.com/digit/latest-gaming",
+        "http://feeds.feedburner.com/digit/latest-headphones",
+        "http://feeds.feedburner.com/digit/latest-laptops",
+        "http://feeds.feedburner.com/digit/latest-mobile-phones",
+        "http://feeds.feedburner.com/digit/latest-news",
+        "http://feeds.feedburner.com/digit/latest-review",
+        "http://feeds.feedburner.com/digit/latest-software",
+        "http://feeds.feedburner.com/digit/latest-storage",
+        "http://feeds.feedburner.com/digit/latest-tablets",
+        "http://feeds.feedburner.com/digit/latest-tvs",
+        "http://feeds.feedburner.com/digit/latest-wearable-devices",
+        "http://feeds.feedburner.com/dinamalar/Front_page_news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 794,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:00.553Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ilankainet.com": {
+      "urls": [
+        "https://www.ilankainet.com/feeds/posts/default",
+        "http://www.ilankainet.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/2670432121171770846/posts/default",
+        "https://www.ilankainet.com/feeds/1054247225002693664/comments/default",
+        "https://www.ilankainet.com/feeds/2352562031124098006/comments/default",
+        "https://www.ilankainet.com/feeds/2452344643229858547/comments/default",
+        "https://www.ilankainet.com/feeds/2758384739554148166/comments/default",
+        "https://www.ilankainet.com/feeds/3219378380163995561/comments/default",
+        "https://www.ilankainet.com/feeds/3343534208494000902/comments/default",
+        "https://www.ilankainet.com/feeds/3392374258567825321/comments/default",
+        "https://www.ilankainet.com/feeds/5521328642427112790/comments/default",
+        "https://www.ilankainet.com/feeds/5737348049296227504/comments/default",
+        "https://www.ilankainet.com/feeds/5810646045321508276/comments/default",
+        "https://www.ilankainet.com/feeds/585239985211371760/comments/default",
+        "https://www.ilankainet.com/feeds/6217866105542807037/comments/default",
+        "https://www.ilankainet.com/feeds/6762920470528422222/comments/default",
+        "https://www.ilankainet.com/feeds/700693178951083558/comments/default",
+        "https://www.ilankainet.com/feeds/7151527570717345104/comments/default",
+        "https://www.ilankainet.com/feeds/7301397714565471906/comments/default",
+        "https://www.ilankainet.com/feeds/8221845475249547244/comments/default",
+        "https://www.ilankainet.com/feeds/9104656492751925254/comments/default",
+        "https://www.ilankainet.com/feeds/910891279286622907/comments/default",
+        "http://rss.cnn.com/rss/edition.rss",
+        "http://www.ilankainet.com/feeds/1054247225002693664/comments/default",
+        "http://www.ilankainet.com/feeds/2352562031124098006/comments/default",
+        "http://www.ilankainet.com/feeds/2452344643229858547/comments/default",
+        "http://www.ilankainet.com/feeds/2758384739554148166/comments/default",
+        "http://www.ilankainet.com/feeds/3219378380163995561/comments/default",
+        "http://www.ilankainet.com/feeds/5521328642427112790/comments/default",
+        "http://www.ilankainet.com/feeds/585239985211371760/comments/default",
+        "http://www.ilankainet.com/feeds/6217866105542807037/comments/default",
+        "http://www.ilankainet.com/feeds/700693178951083558/comments/default",
+        "http://www.ilankainet.com/feeds/7151527570717345104/comments/default",
+        "http://www.ilankainet.com/feeds/7301397714565471906/comments/default",
+        "http://www.ilankainet.com/feeds/8221845475249547244/comments/default",
+        "http://www.ilankainet.com/feeds/9104656492751925254/comments/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 582,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:35.538Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jaffnamuslim.com": {
+      "urls": [
+        "https://draft.blogger.com/feeds/949029781622113645/posts/default",
+        "https://www.blogger.com/feeds/949029781622113645/posts/default",
+        "https://www.jaffnamuslim.com/feeds/1402573027090854592/comments/default",
+        "https://www.jaffnamuslim.com/feeds/1842327383618508654/comments/default",
+        "https://www.jaffnamuslim.com/feeds/1930820538068882017/comments/default",
+        "https://www.jaffnamuslim.com/feeds/2329378018895758448/comments/default",
+        "https://www.jaffnamuslim.com/feeds/2492009540615694523/comments/default",
+        "https://www.jaffnamuslim.com/feeds/2712296454551566796/comments/default",
+        "https://www.jaffnamuslim.com/feeds/2823600884642861888/comments/default",
+        "https://www.jaffnamuslim.com/feeds/325799232140259384/comments/default",
+        "https://www.jaffnamuslim.com/feeds/3343162578672520168/comments/default",
+        "https://www.jaffnamuslim.com/feeds/3357200877294749084/comments/default",
+        "https://www.jaffnamuslim.com/feeds/3805302445292409792/comments/default",
+        "https://www.jaffnamuslim.com/feeds/492323771730414567/comments/default",
+        "https://www.jaffnamuslim.com/feeds/5191329005904321432/comments/default",
+        "https://www.jaffnamuslim.com/feeds/5667286354115568244/comments/default",
+        "https://www.jaffnamuslim.com/feeds/5704806511658600542/comments/default",
+        "https://www.jaffnamuslim.com/feeds/5946556500214717579/comments/default",
+        "https://www.jaffnamuslim.com/feeds/6299267382730426248/comments/default",
+        "https://www.jaffnamuslim.com/feeds/6314360858012041682/comments/default",
+        "https://www.jaffnamuslim.com/feeds/6692239666989706163/comments/default",
+        "https://www.jaffnamuslim.com/feeds/7469703646651442751/comments/default",
+        "https://www.jaffnamuslim.com/feeds/761759526214423924/comments/default",
+        "https://www.jaffnamuslim.com/feeds/7679026966211099043/comments/default",
+        "https://www.jaffnamuslim.com/feeds/7761760222511955316/comments/default",
+        "https://www.jaffnamuslim.com/feeds/8018124794826736125/comments/default",
+        "https://www.jaffnamuslim.com/feeds/811082608998167673/comments/default",
+        "https://www.jaffnamuslim.com/feeds/8181219932285777411/comments/default",
+        "https://www.jaffnamuslim.com/feeds/8254706118341081042/comments/default",
+        "http://feeds.feedburner.com/blogspot/wAsnE",
+        "https://www.jaffnamuslim.com/feeds/posts/default",
+        "https://www.jaffnamuslim.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2107,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:30.508Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zeenews.india.com": {
+      "urls": [
+        "https://zeenews.india.com/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com/hindi/india.xml",
+        "https://zeenews.india.com/hindi/rss.xml",
+        "https://zeenews.india.com/rss/asia-news.xml",
+        "https://zeenews.india.com/rss/blog-news.xml",
+        "https://zeenews.india.com/rss/business.xml",
+        "https://zeenews.india.com/rss/entertainment-news.xml",
+        "https://zeenews.india.com/rss/health-news.xml",
+        "https://zeenews.india.com/rss/india-national-news.xml",
+        "https://zeenews.india.com/rss/india-news.xml",
+        "https://zeenews.india.com/rss/science-environment-news.xml",
+        "https://zeenews.india.com/rss/sports-news.xml",
+        "https://zeenews.india.com/rss/technology-news.xml",
+        "https://zeenews.india.com/rss/world-news.xml",
+        "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com:443/rss/business.xml",
+        "https://zeenews.india.com:443/rss/science-environment-news.xml",
+        "https://zeenews.india.com:443/rss/world-news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 92,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:55.823Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vikatan.com": {
+      "urls": [
+        "https://www.vikatan.com/api/v1/collections/automobile.rss",
+        "https://www.vikatan.com/api/v1/collections/bollywood-entertainment.rss",
+        "https://www.vikatan.com/api/v1/collections/environment-general-news.rss",
+        "https://www.vikatan.com/api/v1/collections/hollywood-entertainment.rss",
+        "https://www.vikatan.com/api/v1/collections/india-news.rss",
+        "https://www.vikatan.com/api/v1/collections/international.rss",
+        "https://www.vikatan.com/api/v1/collections/kollywood-entertainment.rss",
+        "https://www.vikatan.com/api/v1/collections/latest-news.rss",
+        "https://www.vikatan.com/api/v1/collections/movie-review-entertainment.rss",
+        "https://www.vikatan.com/api/v1/collections/tamilnadu-news.rss",
+        "https://www.vikatan.com/api/v1/collections/television-entertainment.rss",
+        "https://www.vikatan.com/stories.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 825,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:28.641Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.vikatan.com": {
+      "urls": [
+        "https://www.vikatan.com/api/v1/collections/automobile.rss",
+        "https://www.vikatan.com/api/v1/collections/bollywood-entertainment.rss",
+        "https://www.vikatan.com/api/v1/collections/environment-general-news.rss",
+        "https://www.vikatan.com/api/v1/collections/hollywood-entertainment.rss",
+        "https://www.vikatan.com/api/v1/collections/india-news.rss",
+        "https://www.vikatan.com/api/v1/collections/international.rss",
+        "https://www.vikatan.com/api/v1/collections/kollywood-entertainment.rss",
+        "https://www.vikatan.com/api/v1/collections/latest-news.rss",
+        "https://www.vikatan.com/api/v1/collections/movie-review-entertainment.rss",
+        "https://www.vikatan.com/api/v1/collections/tamilnadu-news.rss",
+        "https://www.vikatan.com/api/v1/collections/television-entertainment.rss",
+        "https://www.vikatan.com/stories.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 964,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:55.436Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamil.abplive.com": {
+      "urls": [
+        "https://tamil.abplive.com/business/feed",
+        "https://tamil.abplive.com/entertainment/feed",
+        "https://tamil.abplive.com/home/feed",
+        "https://tamil.abplive.com/lifestyle/feed",
+        "https://tamil.abplive.com/news/chennai/feed",
+        "https://tamil.abplive.com/news/feed",
+        "https://tamil.abplive.com/news/india/feed",
+        "https://tamil.abplive.com/news/tamil-nadu/feed",
+        "https://tamil.abplive.com/news/world/feed",
+        "https://tamil.abplive.com/sports/feed",
+        "https://tamil.abplive.com/technology/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 222,
+        "category": "business",
+        "last_checked": "2026-02-01T03:51:20.424Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamil.hindustantimes.com": {
+      "urls": [
+        "https://tamil.hindustantimes.com/rss/astrology",
+        "https://tamil.hindustantimes.com/rss/cricket",
+        "https://tamil.hindustantimes.com/rss/entertainment",
+        "https://tamil.hindustantimes.com/rss/lifestyle",
+        "https://tamil.hindustantimes.com/rss/nation-and-world",
+        "https://tamil.hindustantimes.com/rss/photos",
+        "https://tamil.hindustantimes.com/rss/sports",
+        "https://tamil.hindustantimes.com/rss/tamilnadu",
+        "https://tamil.hindustantimes.com/rss/videos",
+        "https://tamil.hindustantimes.com/rss/web-stories"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 98,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:20.773Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 751,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T03:50:40.776Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "4tamilmedia.com": {
+      "urls": [
+        "https://4tamilmedia.com/?format=feed&type=atom",
+        "https://www.4tamilmedia.com/?format=feed&type=atom",
+        "https://4tamilmedia.com/?format=feed&type=rss",
+        "https://www.4tamilmedia.com/?format=feed&type=rss",
+        "http://4tamilmedia.com/?format=feed&type=rss",
+        "http://4tamilmedia.com/?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 923,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:31.462Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "athirvu.in": {
+      "urls": [
+        "https://www.athirvu.in/feeds/posts/default",
+        "https://www.blogger.com/feeds/8316038459862439037/posts/default",
+        "https://athirvu.in/feed/",
+        "http://athirvu.in/feed/",
+        "https://www.athirvu.in/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1543,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:37.165Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zeenews.india.com:443": {
+      "urls": [
+        "https://zeenews.india.com:443/bengali/rssfeed/kolkata.xml",
+        "https://zeenews.india.com:443/rss/business.xml",
+        "https://zeenews.india.com:443/rss/science-environment-news.xml",
+        "https://zeenews.india.com:443/rss/world-news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 89,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:55.982Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.thinaboomi.com": {
+      "urls": [
+        "http://www.thinaboomi.com/rss.xml",
+        "http://www.thinaboomi.com/rss.xml/feed",
+        "https://www.thinaboomi.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 123,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:54.158Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thinaboomi.com": {
+      "urls": [
+        "http://www.thinaboomi.com/rss.xml",
+        "http://www.thinaboomi.com/rss.xml/feed",
+        "https://www.thinaboomi.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 194,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:27.254Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "organiser.org": {
+      "urls": [
+        "https://organiser.org/feed/",
+        "https://organiser.org/international/intl-rss-news/feed/",
+        "https://organiser.org/rss-news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 243,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:18.616Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.dinamalar.com": {
+      "urls": [
+        "http://feeds.feedburner.com/dinamalar/Front_page_news",
+        "http://rss.dinamalar.com/?cat=business1",
+        "http://rss.dinamalar.com/Delhinews.asp"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 273,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:35.056Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news7tamil.live": {
+      "urls": [
+        "https://news7tamil.live/category/live-blog/feed",
+        "https://news7tamil.live/feed",
+        "https://news7tamil.live/web-stories/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 301,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:17.726Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "supeedsam.com": {
+      "urls": [
+        "https://www.supeedsam.com/feed/",
+        "https://supeedsam.com/feed/",
+        "https://supeedsam.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1134,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:33.008Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.dailythanthi.com": {
+      "urls": [
+        "https://www.dailythanthi.com/feed",
+        "https://www.dailythanthi.com/feed/",
+        "https://www.dailythanthi.com/google_feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1940,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:34.038Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dailythanthi.com": {
+      "urls": [
+        "https://www.dailythanthi.com/feed",
+        "https://www.dailythanthi.com/feed/",
+        "https://www.dailythanthi.com/google_feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2183,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:44.979Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.dinasuvadu.com": {
+      "urls": [
+        "https://dinasuvadu.com/feed/",
+        "https://dinasuvadu.com/web-stories/feed/",
+        "https://www.dinasuvadu.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4444,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:42.531Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rss.dinamalar.com": {
+      "urls": [
+        "http://rss.dinamalar.com/?cat=business1",
+        "http://rss.dinamalar.com/Delhinews.asp"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 151,
+        "category": "business",
+        "last_checked": "2026-02-01T03:51:19.096Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thecommunemag.com": {
+      "urls": [
+        "https://thecommunemag.com/category/readers-corner/blogs/feed/",
+        "https://thecommunemag.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 219,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:24.640Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.tamilspark.com": {
+      "urls": [
+        "https://www.tamilspark.com/feed/cinema/",
+        "https://www.tamilspark.com/feed/latest"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 303,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T03:51:46.983Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamil.timesnownews.com": {
+      "urls": [
+        "https://tamil.timesnownews.com/feeds/gns-ta-latest.xml",
+        "https://tamil.timesnownews.com/feeds/newsletter-ta-top-stories.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 393,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:21.565Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamilspark.com": {
+      "urls": [
+        "https://www.tamilspark.com/feed/cinema/",
+        "https://www.tamilspark.com/feed/latest"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 411,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T03:51:22.584Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.thenewsminute.com": {
+      "urls": [
+        "https://www.thenewsminute.com/rss.xml",
+        "https://www.thenewsminute.com/taxonomy/term/288/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 439,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:54.028Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.prnewswire.com": {
+      "urls": [
+        "https://www.prnewswire.com/rss/health-latest-news/health-latest-news-list.rss",
+        "https://www.prnewswire.com/rss/news-releases-list.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 440,
+        "category": "health",
+        "last_checked": "2026-02-01T03:51:46.678Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dheivegam.com": {
+      "urls": [
+        "https://dheivegam.com/feed/",
+        "https://dheivegam.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 512,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:45.526Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thenewsminute.com": {
+      "urls": [
+        "https://www.thenewsminute.com/rss.xml",
+        "https://www.thenewsminute.com/taxonomy/term/288/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 557,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:26.980Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jaffnazone.com": {
+      "urls": [
+        "https://jaffnazone.com/feed/rss2",
+        "https://jaffnazone.com/feed/atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 718,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:33.733Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.tamizhakam.com": {
+      "urls": [
+        "https://www.blogger.com/feeds/6085164792457669707/posts/default",
+        "https://www.tamizhakam.com/feeds/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1079,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:48.713Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.automobiletamilan.com": {
+      "urls": [
+        "https://www.automobiletamilan.com/feed/",
+        "https://www.automobiletamilan.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1709,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:30.352Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "automobiletamilan.com": {
+      "urls": [
+        "https://www.automobiletamilan.com/feed/",
+        "https://www.automobiletamilan.com/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1860,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:39.696Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.onlymyhealth.com": {
+      "urls": [
+        "https://www.onlymyhealth.com/rss/health/latest/latestarticle_en.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 33,
+        "category": "health",
+        "last_checked": "2026-02-01T03:51:46.212Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.maalaimalar.com": {
+      "urls": [
+        "https://www.maalaimalar.com/google_feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 50,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:45.867Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "onlymyhealth.com": {
+      "urls": [
+        "https://www.onlymyhealth.com/rss/health/latest/latestarticle_en.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 70,
+        "category": "health",
+        "last_checked": "2026-02-01T03:51:18.079Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "maalaimalar.com": {
+      "urls": [
+        "https://www.maalaimalar.com/google_feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 96,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:05.606Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "onetamilnews.com": {
+      "urls": [
+        "https://onetamilnews.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 101,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:18.009Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "covaimail.com": {
+      "urls": [
+        "https://covaimail.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 116,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:42.784Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamil.indianexpress.com": {
+      "urls": [
+        "https://tamil.indianexpress.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 119,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:20.892Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamil.asianetnews.com": {
+      "urls": [
+        "https://tamil.asianetnews.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 215,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:20.639Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.deccanherald.com": {
+      "urls": [
+        "https://prod-qt-images.s3.amazonaws.com/production/deccanherald/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 306,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:34.344Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "minnambalam.com": {
+      "urls": [
+        "https://minnambalam.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 477,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:06.083Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamizhakam.com": {
+      "urls": [
+        "https://www.tamizhakam.com/feeds/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 591,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:23.175Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamiljanam.com": {
+      "urls": [
+        "https://tamiljanam.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 601,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:22.167Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "blogger.com": {
+      "urls": [
+        "https://www.blogger.com/feeds/6085164792457669707/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 627,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:41.403Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "angusam.com": {
+      "urls": [
+        "https://angusam.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 655,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:37.820Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kumariexpress.com": {
+      "urls": [
+        "https://kumariexpress.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 868,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:05.510Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "samsungmagazine.eu": {
+      "urls": [
+        "https://samsungmagazine.eu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 964,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:20.197Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cinema.vikatan.com": {
+      "urls": [
+        "https://cinema.vikatan.com/stories.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1010,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T03:50:42.413Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lankaone.com": {
+      "urls": [
+        "https://lankaone.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1014,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:34.748Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kalkionline.com": {
+      "urls": [
+        "https://prod-qt-images.s3.amazonaws.com/production/kalkionline/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1201,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:04.642Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thanthitv.com": {
+      "urls": [
+        "https://www.thanthitv.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1237,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:24.412Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "newindianexpress.com": {
+      "urls": [
+        "https://www.newindianexpress.com/Cities/Bengaluru/rssfeed/?id=182&getXmlFeed=true",
+        "https://www.newindianexpress.com/Nation/rssfeed/?id=170&getXmlFeed=true",
+        "https://www.newindianexpress.com/Opinions/Columns/rssfeed/?id=221&getXmlFeed=true",
+        "https://www.newindianexpress.com/Opinions/Editorials/rssfeed/?id=219&getXmlFeed=true",
+        "https://www.newindianexpress.com/States/Karnataka/rssfeed/?id=175&getXmlFeed=true",
+        "https://www.newindianexpress.com/States/Kerala/rssfeed/?id=178&getXmlFeed=true",
+        "https://www.newindianexpress.com/States/Tamil-Nadu/rssfeed/?id=177&getXmlFeed=true",
+        "https://www.newindianexpress.com/Videos/Good-News/rssfeed/?id=421&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/bengaluru-cities.rss?id=182&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/columns-opinions.rss?id=221&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/editorials-opinions.rss?id=219&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/good-news-videos.rss?id=421&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/karnataka-states.rss?id=175&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/kerala-states.rss?id=178&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/nation.rss?id=170&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/tamil-nadu-states.rss?id=177&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/world.rss?id=171&getXmlFeed=true"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:17.246Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.newindianexpress.com": {
+      "urls": [
+        "https://www.newindianexpress.com/Cities/Bengaluru/rssfeed/?id=182&getXmlFeed=true",
+        "https://www.newindianexpress.com/Nation/rssfeed/?id=170&getXmlFeed=true",
+        "https://www.newindianexpress.com/Opinions/Columns/rssfeed/?id=221&getXmlFeed=true",
+        "https://www.newindianexpress.com/Opinions/Editorials/rssfeed/?id=219&getXmlFeed=true",
+        "https://www.newindianexpress.com/States/Karnataka/rssfeed/?id=175&getXmlFeed=true",
+        "https://www.newindianexpress.com/States/Kerala/rssfeed/?id=178&getXmlFeed=true",
+        "https://www.newindianexpress.com/States/Tamil-Nadu/rssfeed/?id=177&getXmlFeed=true",
+        "https://www.newindianexpress.com/Videos/Good-News/rssfeed/?id=421&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/bengaluru-cities.rss?id=182&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/columns-opinions.rss?id=221&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/editorials-opinions.rss?id=219&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/good-news-videos.rss?id=421&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/karnataka-states.rss?id=175&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/kerala-states.rss?id=178&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/nation.rss?id=170&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/tamil-nadu-states.rss?id=177&getXmlFeed=true",
+        "https://www.newindianexpress.com/api/v1/collections/world.rss?id=171&getXmlFeed=true"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:46.179Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.thanthitv.com": {
+      "urls": [
+        "https://www.thanthitv.com/category/THANTHITV-PODCAST/google_feeds.xml",
+        "https://www.thanthitv.com/category/flash-news/google_feeds.xml",
+        "https://www.thanthitv.com/category/latest-news/google_feeds.xml",
+        "https://www.thanthitv.com/category/news/google_feeds.xml",
+        "https://www.thanthitv.com/category/news/politics/google_feeds.xml",
+        "https://www.thanthitv.com/category/news/world/google_feeds.xml",
+        "https://www.thanthitv.com/category/spotlight/google_feeds.xml",
+        "https://www.thanthitv.com/feed",
+        "https://www.thanthitv.com/google_feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:51.675Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.dinamani.com": {
+      "urls": [
+        "https://www.dinamani.com/%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AF%8D-%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=464&getXmlFeed=true",
+        "https://www.dinamani.com/%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%A8%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AF%8D-%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=523&getXmlFeed=true",
+        "https://www.dinamani.com/%E0%AE%A4%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%A4%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=687&getXmlFeed=true",
+        "https://www.dinamani.com/%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D/rssfeed/?id=340&getXmlFeed=true",
+        "https://www.dinamani.com/api/v1/collections/center-page-articles-editorial-articles.rss?id=523&getXmlFeed=true",
+        "https://www.dinamani.com/api/v1/collections/editorial.rss?id=340&getXmlFeed=true",
+        "https://www.dinamani.com/api/v1/collections/latest-news.rss?id=687&getXmlFeed=true",
+        "https://www.dinamani.com/api/v1/collections/special-stories-editorial-articles.rss?id=464&getXmlFeed=true"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:38.038Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dinakaran.com": {
+      "urls": [
+        "https://www.dinakaran.com/feed/",
+        "https://www.dinakaran.com/feed/atom/",
+        "https://www.dinakaran.com/rss_Latest.asp",
+        "https://www.dinakaran.com/rss_news.asp?id=13"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:46.595Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dinamani.com": {
+      "urls": [
+        "https://www.dinamani.com/%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AF%8D-%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=464&getXmlFeed=true",
+        "https://www.dinamani.com/%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%A8%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%95%E0%AF%8D-%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=523&getXmlFeed=true",
+        "https://www.dinamani.com/%E0%AE%A4%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/%E0%AE%A4%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88%E0%AE%AF-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D/rssfeed/?id=687&getXmlFeed=true",
+        "https://www.dinamani.com/%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D/rssfeed/?id=340&getXmlFeed=true"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:49.471Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.dinakaran.com": {
+      "urls": [
+        "https://www.dinakaran.com/feed/",
+        "https://www.dinakaran.com/feed/atom/",
+        "https://www.dinakaran.com/rss_Latest.asp",
+        "https://www.dinakaran.com/rss_news.asp?id=13"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:34.532Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "dinasuvadu.com": {
+      "urls": [
+        "https://dinasuvadu.com/feed/",
+        "https://dinasuvadu.com/web-stories/feed/",
+        "https://www.dinasuvadu.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:59.503Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "indiaglitz.com": {
+      "urls": [
+        "https://www.indiaglitz.com/rss/static/rss_gallery_actress_hindi.xml",
+        "https://www.indiaglitz.com/rss/static/rss_gallery_actress_tamil.xml",
+        "https://www.indiaglitz.com/rss/static/rss_news_tamil.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:03.122Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.indiaglitz.com": {
+      "urls": [
+        "https://www.indiaglitz.com/rss/static/rss_gallery_actress_hindi.xml",
+        "https://www.indiaglitz.com/rss/static/rss_gallery_actress_tamil.xml",
+        "https://www.indiaglitz.com/rss/static/rss_news_tamil.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:45.616Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "nba24x7.com": {
+      "urls": [
+        "http://nba24x7.com/feed",
+        "https://nba24x7.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:14.992Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "cinemapettai.com": {
+      "urls": [
+        "https://cinemapettai.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T03:50:42.668Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "indiatimes.com": {
+      "urls": [
+        "https://www.indiatimes.com/feeds/feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:03.441Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "rsshub.app": {
+      "urls": [
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:19.232Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "updatenews360.com": {
+      "urls": [
+        "https://www.updatenews360.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:27.605Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.indiatimes.com": {
+      "urls": [
+        "https://www.indiatimes.com/feeds/feeds.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:45.816Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "www.updatenews360.com": {
+      "urls": [
+        "https://www.updatenews360.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:54.214Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "country_code": "MY",
+  "language_code": "ZH",
+  "total_domains": 3,
+  "total_feeds": 18,
+  "feeds": {
+    "orientaldaily.com.my": {
+      "urls": [
+        "https://www.orientaldaily.com.my/feeds/rss/nation",
+        "https://www.orientaldaily.com.my/feeds/rss/international",
+        "https://www.orientaldaily.com.my/feeds/rss/local",
+        "https://www.orientaldaily.com.my/feeds/rss/society",
+        "https://www.orientaldaily.com.my/feeds/rss/business",
+        "https://www.orientaldaily.com.my/feeds/rss/entertainment",
+        "https://www.orientaldaily.com.my/feeds/rss/columns",
+        "https://www.orientaldaily.com.my/feeds/rss/videos",
+        "https://www.orientaldaily.com.my/feeds/rss/advertorial",
+        "https://www.orientaldaily.com.my/feeds/rss/sports",
+        "https://www.orientaldaily.com.my/feeds/rss/features",
+        "https://www.orientaldaily.com.my/feeds/rss/funnews",
+        "https://www.orientaldaily.com.my/feeds/rss/galleries",
+        "https://www.orientaldaily.com.my/feeds/rss/lifestyle"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 692,
+        "category": "general",
+        "last_checked": "2026-02-01T06:39:25.306Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "guangming.com.my": {
+      "urls": [
+        "https://guangming.com.my/feed",
+        "https://guangming.com.my/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:39:25.502Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "news2a.intimes.my": {
+      "urls": [
+        "http://news2a.intimes.my/news2a/index.php?format=feed&type=rss",
+        "http://news2a.intimes.my/news2a/index.php?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:39:26.349Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

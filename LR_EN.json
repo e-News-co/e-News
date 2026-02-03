@@ -1,0 +1,293 @@
+{
+  "country_code": "LR",
+  "language_code": "EN",
+  "total_domains": 13,
+  "total_feeds": 103,
+  "feeds": {
+    "emansion.gov.lr": {
+      "urls": [
+        "http://emansion.gov.lr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2266,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:02.114Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "allafrica.com": {
+      "urls": [
+        "https://allafrica.com/tools/headlines/rdf/nigeria/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/liberia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/kenya/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/uganda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ethiopia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/education/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ghana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/malawi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/namibia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/somalia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/rwanda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zimbabwe/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sudan/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tanzania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gambia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mozambique/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/morocco/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/senegal/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/botswana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/egypt/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tunisia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/angola/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/benin/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burundi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/capeverde/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/centralafricanrepublic/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/chad/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/commodities/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/comoros/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cotedivoire/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/djibouti/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/equatorialguinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eritrea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eswatini/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gabon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guineabissau/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/lesotho/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/libya/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/madagascar/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritius/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sierraleone/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/togo/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westernsahara/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zambia/headlines.rdf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1217,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:57.586Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1784,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:59.848Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 456,
+        "category": "general",
+        "last_checked": "2026-02-01T03:51:58.048Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gnnliberia.com": {
+      "urls": [
+        "https://gnnliberia.com/feed/",
+        "https://gnnliberia.com/category/blog/feed/",
+        "http://gnnliberia.com/feed/",
+        "http://gnnliberia.com/category/blog/feed/",
+        "https://gnnliberia.com/comments/feed/",
+        "http://gnnliberia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1328,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:20.832Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "liberianobserver.com": {
+      "urls": [
+        "https://www.liberianobserver.com/feed/",
+        "https://www.liberianobserver.com/rss.xml?q=/rss.xml",
+        "http://www.liberianobserver.com/rss.xml?q=/rss.xml",
+        "https://www.liberianobserver.com/comments/feed/",
+        "http://www.liberianobserver.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1716,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:03.833Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gossipliberia.com": {
+      "urls": [
+        "https://gossipliberia.com/?feed=rss2",
+        "https://gossipliberia.com/feed/",
+        "https://gossipliberia.com/?feed=comments-rss2",
+        "https://gossipliberia.com/comments/feed/",
+        "https://gossipliberia.com/news-2/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1871,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:26.556Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "frontpageafricaonline.com": {
+      "urls": [
+        "https://frontpageafricaonline.com/feed/",
+        "https://frontpageafricaonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:19.501Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "themonroviatimes.com": {
+      "urls": [
+        "https://themonroviatimes.com/feed/",
+        "https://themonroviatimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1329,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:22.163Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "plusliberia.com": {
+      "urls": [
+        "https://plusliberia.com/feed/",
+        "https://plusliberia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1541,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:18.476Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thenewdawnliberia.com": {
+      "urls": [
+        "https://thenewdawnliberia.com/feed/",
+        "https://www.thenewdawnliberia.com/feed/",
+        "https://thenewdawnliberia.com/comments/feed/",
+        "https://www.thenewdawnliberia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:05.984Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "smartnewsliberia.com": {
+      "urls": [
+        "https://smartnewsliberia.com/feed/",
+        "http://smartnewsliberia.com/feed/",
+        "https://smartnewsliberia.com/comments/feed/",
+        "http://smartnewsliberia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:24.211Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "bushchicken.com": {
+      "urls": [
+        "https://bushchicken.com/feed/",
+        "https://bushchicken.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:16.012Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

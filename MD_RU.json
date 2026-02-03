@@ -1,0 +1,3748 @@
+{
+  "country_code": "MD",
+  "language_code": "RU",
+  "total_domains": 158,
+  "total_feeds": 1528,
+  "feeds": {
+    "habr.com": {
+      "urls": [
+        "https://habr.com/en/rss/all/all/?fl=en",
+        "https://habr.com/en/rss/articles/?fl=en",
+        "https://habr.com/en/rss/companies/innotech/articles/?fl=en",
+        "https://habr.com/en/rss/companies/oleg-bunin/articles/?fl=en",
+        "https://habr.com/en/rss/companies/postgrespro/articles/?fl=en",
+        "https://habr.com/en/rss/companies/pt/articles/?fl=en",
+        "https://habr.com/en/rss/companies/pvs-studio/articles/?fl=en",
+        "https://habr.com/en/rss/companies/qrator/articles/?fl=en",
+        "https://habr.com/en/rss/companies/ruvds/articles/?fl=en",
+        "https://habr.com/en/rss/companies/sberbank/articles/?fl=en",
+        "https://habr.com/en/rss/companies/selectel/articles/?fl=en",
+        "https://habr.com/en/rss/companies/top3dshop/articles/?fl=en",
+        "https://habr.com/en/rss/companies/vk/articles/?fl=en",
+        "https://habr.com/en/rss/companies/yandex/articles/?fl=en",
+        "https://habr.com/en/rss/company/innotech/blog/?fl=en",
+        "https://habr.com/en/rss/company/itsoft/blog/?fl=en",
+        "https://habr.com/en/rss/company/oleg-bunin/blog/?fl=en",
+        "https://habr.com/en/rss/company/postgrespro/blog/?fl=en",
+        "https://habr.com/en/rss/company/pt/blog/?fl=en",
+        "https://habr.com/en/rss/company/pvs-studio/blog/?fl=en",
+        "https://habr.com/en/rss/company/qrator/blog/?fl=en",
+        "https://habr.com/en/rss/company/ruvds/blog/?fl=en",
+        "https://habr.com/en/rss/company/sberbank/blog/?fl=en",
+        "https://habr.com/en/rss/company/selectel/blog/?fl=en",
+        "https://habr.com/en/rss/company/top3dshop/blog/?fl=en",
+        "https://habr.com/en/rss/company/vk/blog/?fl=en",
+        "https://habr.com/en/rss/company/yandex/blog/?fl=en",
+        "https://habr.com/en/rss/hub/open_source/all/?fl=en",
+        "https://habr.com/en/rss/hubs/xml/articles/?fl=en",
+        "https://habr.com/en/rss/post/453594/?fl=en",
+        "https://habr.com/en/rss/post/487722/?fl=en",
+        "https://habr.com/en/rss/post/492564/?fl=en",
+        "https://habr.com/en/rss/post/492644/?fl=en",
+        "https://habr.com/en/rss/post/500440/?fl=en",
+        "https://habr.com/en/rss/post/589291/?fl=en",
+        "https://habr.com/en/rss/post/589673/?fl=en",
+        "https://habr.com/en/rss/publications/453594/?fl=en",
+        "https://habr.com/en/rss/publications/487722/?fl=en",
+        "https://habr.com/en/rss/publications/492564/?fl=en",
+        "https://habr.com/en/rss/publications/492644/?fl=en",
+        "https://habr.com/en/rss/publications/500440/?fl=en",
+        "https://habr.com/en/rss/publications/522588/?fl=en",
+        "https://habr.com/en/rss/publications/589291/?fl=en",
+        "https://habr.com/en/rss/publications/589673/?fl=en",
+        "https://habr.com/ru/rss/all/all/?fl=ru",
+        "https://habr.com/ru/rss/articles/",
+        "https://habr.com/ru/rss/articles/?fl=ru",
+        "https://habr.com/ru/rss/articles/top/?fl=ru",
+        "https://habr.com/ru/rss/best/daily/?fl=ru",
+        "https://habr.com/ru/rss/companies/atom/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/belayaraduga/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/dododev/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/first/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/flant/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/flipperdevices/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/geltek/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/habr_career/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/headzio/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/intervolga/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/lamptest/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/lanit/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/otus/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/ozontech/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/rostelecom/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/ruvds/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/sberbank/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/selectel/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/timeweb/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/top3dshop/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/tuturu/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/vk/articles/?fl=ru",
+        "https://habr.com/ru/rss/companies/yandex/articles/?fl=ru",
+        "https://habr.com/ru/rss/company/belayaraduga/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/dododev/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/first/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/flant/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/flipperdevices/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/geltek/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/headzio/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/intervolga/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/itsoft/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/lamptest/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/otus/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/ozontech/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/sberbank/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/timeweb/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/top3dshop/blog/?fl=ru",
+        "https://habr.com/ru/rss/company/yandex/blog/?fl=ru",
+        "https://habr.com/ru/rss/feed/4c4a3b97ef3becbd69a2349a0d421627/?types%5B%5D=post&amp;types%5B%5D=article&amp;types%5B%5D=news&amp",
+        "https://habr.com/ru/rss/flows/marketing/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/artificial_intelligence/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/artificial_intelligence/articles/all/",
+        "https://habr.com/ru/rss/hubs/business_models/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/cellular/news/?fl=ru",
+        "https://habr.com/ru/rss/hubs/cloud_services/articles/all/?fl=ru.com",
+        "https://habr.com/ru/rss/hubs/infosecurity/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/infosecurity/news/?fl=ru",
+        "https://habr.com/ru/rss/hubs/itcompanies/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/machine_learning/articles/all/",
+        "https://habr.com/ru/rss/hubs/open_source/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/pm/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/ruby/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/social_networks/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/webdev/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/xml/articles/?fl=ru",
+        "https://habr.com/ru/rss/hubs/xml/news/?fl=ru",
+        "https://habr.com/ru/rss/hubs/xml/posts/?fl=ru",
+        "https://habr.com/ru/rss/news/",
+        "https://habr.com/ru/rss/news/?fl=ru",
+        "https://habr.com/ru/rss/news/rated25/?fl=ru",
+        "https://habr.com/ru/rss/post/442804/?fl=ru",
+        "https://habr.com/ru/rss/post/444214/?fl=ru",
+        "https://habr.com/ru/rss/post/448612/?fl=ru",
+        "https://habr.com/ru/rss/post/452320/?fl=ru",
+        "https://habr.com/ru/rss/post/460423/?fl=ru",
+        "https://habr.com/ru/rss/post/478640/",
+        "https://habr.com/ru/rss/post/484106/?fl=ru",
+        "https://habr.com/ru/rss/post/490932/",
+        "https://habr.com/ru/rss/post/494082/",
+        "https://habr.com/ru/rss/post/494710/",
+        "https://habr.com/ru/rss/post/495164/",
+        "https://habr.com/ru/rss/post/499668/",
+        "https://habr.com/ru/rss/post/510860/",
+        "https://habr.com/ru/rss/post/512978/",
+        "https://habr.com/ru/rss/post/519422/?fl=ru",
+        "https://habr.com/ru/rss/post/541568/",
+        "https://habr.com/ru/rss/post/542552/",
+        "https://habr.com/ru/rss/post/544766/",
+        "https://habr.com/ru/rss/post/548322/",
+        "https://habr.com/ru/rss/post/549004/",
+        "https://habr.com/ru/rss/post/549024/",
+        "https://habr.com/ru/rss/post/549060/",
+        "https://habr.com/ru/rss/post/567578/?fl=ru",
+        "https://habr.com/ru/rss/post/578792/?fl=ru",
+        "https://habr.com/ru/rss/post/581154/?fl=ru",
+        "https://habr.com/ru/rss/post/584256/?fl=ru",
+        "https://habr.com/ru/rss/post/586002/?fl=ru",
+        "https://habr.com/ru/rss/post/586232/?fl=ru",
+        "https://habr.com/ru/rss/post/588667/?fl=ru",
+        "https://habr.com/ru/rss/post/588925/?fl=ru",
+        "https://habr.com/ru/rss/post/591039/?fl=ru",
+        "https://habr.com/ru/rss/post/696610/?fl=ru",
+        "https://habr.com/ru/rss/post/696746/?fl=ru",
+        "https://habr.com/ru/rss/post/696752/?fl=ru",
+        "https://habr.com/ru/rss/post/697374/?fl=ru",
+        "https://habr.com/ru/rss/post/697494/?fl=ru",
+        "https://habr.com/ru/rss/publications/442804/?fl=ru",
+        "https://habr.com/ru/rss/publications/444214/?fl=ru",
+        "https://habr.com/ru/rss/publications/448612/?fl=ru",
+        "https://habr.com/ru/rss/publications/452320/?fl=ru",
+        "https://habr.com/ru/rss/publications/460423/?fl=ru",
+        "https://habr.com/ru/rss/publications/478640/",
+        "https://habr.com/ru/rss/publications/484106/?fl=ru",
+        "https://habr.com/ru/rss/publications/490932/",
+        "https://habr.com/ru/rss/publications/494082/",
+        "https://habr.com/ru/rss/publications/494710/",
+        "https://habr.com/ru/rss/publications/495164/",
+        "https://habr.com/ru/rss/publications/499668/",
+        "https://habr.com/ru/rss/publications/510860/",
+        "https://habr.com/ru/rss/publications/512978/",
+        "https://habr.com/ru/rss/publications/519422/?fl=ru",
+        "https://habr.com/ru/rss/publications/524522/?fl=ru",
+        "https://habr.com/ru/rss/publications/530120/?fl=ru",
+        "https://habr.com/ru/rss/publications/535344/?fl=ru",
+        "https://habr.com/ru/rss/publications/541568/",
+        "https://habr.com/ru/rss/publications/542552/",
+        "https://habr.com/ru/rss/publications/544766/",
+        "https://habr.com/ru/rss/publications/548322/",
+        "https://habr.com/ru/rss/publications/549004/",
+        "https://habr.com/ru/rss/publications/549024/",
+        "https://habr.com/ru/rss/publications/549060/",
+        "https://habr.com/ru/rss/publications/562244/?fl=ru",
+        "https://habr.com/ru/rss/publications/567578/?fl=ru",
+        "https://habr.com/ru/rss/publications/578792/?fl=ru",
+        "https://habr.com/ru/rss/publications/581154/?fl=ru",
+        "https://habr.com/ru/rss/publications/584256/?fl=ru",
+        "https://habr.com/ru/rss/publications/586002/?fl=ru",
+        "https://habr.com/ru/rss/publications/586232/?fl=ru",
+        "https://habr.com/ru/rss/publications/588667/?fl=ru",
+        "https://habr.com/ru/rss/publications/588925/?fl=ru",
+        "https://habr.com/ru/rss/publications/591039/?fl=ru",
+        "https://habr.com/ru/rss/publications/685984/?fl=ru",
+        "https://habr.com/ru/rss/publications/696610/?fl=ru",
+        "https://habr.com/ru/rss/publications/696746/?fl=ru",
+        "https://habr.com/ru/rss/publications/696752/?fl=ru",
+        "https://habr.com/ru/rss/publications/697374/?fl=ru",
+        "https://habr.com/ru/rss/publications/697494/?fl=ru",
+        "https://habr.com/ru/rss/publications/708414/?fl=ru",
+        "https://habr.com/ru/rss/publications/712320/?fl=ru",
+        "https://habr.com/ru/rss/publications/718130/?fl=ru",
+        "https://habr.com/ru/rss/publications/719084/?fl=ru",
+        "https://habr.com/ru/rss/publications/754902/?fl=ru",
+        "https://habr.com/ru/rss/publications/761138/?fl=ru",
+        "https://habr.com/ru/rss/publications/762306/?fl=ru",
+        "https://habr.com/ru/rss/publications/764616/?fl=ru",
+        "https://habr.com/ru/rss/publications/765810/?fl=ru",
+        "https://habr.com/ru/rss/publications/766344/?fl=ru",
+        "https://habr.com/ru/rss/publications/766778/?fl=ru",
+        "https://habr.com/ru/rss/publications/767596/?fl=ru",
+        "https://habr.com/ru/rss/publications/769024/?fl=ru",
+        "https://habr.com/ru/rss/publications/769324/?fl=ru",
+        "https://habr.com/ru/rss/publications/769436/?fl=ru",
+        "https://habr.com/ru/rss/publications/769846/?fl=ru",
+        "https://habr.com/ru/rss/publications/769902/?fl=ru",
+        "https://habr.com/ru/rss/publications/769962/?fl=ru",
+        "https://habr.com/ru/rss/publications/771032/?fl=ru",
+        "https://habr.com/ru/rss/publications/775230/?fl=ru",
+        "https://habr.com/ru/rss/publications/796215/?fl=ru",
+        "https://habr.com/ru/rss/publications/797421/?fl=ru",
+        "https://habr.com/ru/rss/publications/798221/?fl=ru",
+        "https://habr.com/ru/rss/publications/798385/?fl=ru",
+        "https://habr.com/ru/rss/publications/798885/?fl=ru",
+        "https://habr.com/ru/rss/publications/817147/?fl=ru",
+        "https://habr.com/ru/rss/publications/820027/?fl=ru",
+        "https://habr.com/ru/rss/publications/852936/?fl=ru",
+        "https://habr.com/ru/rss/publications/868534/?fl=ru",
+        "https://habr.com/ru/rss/publications/876218/?fl=ru",
+        "https://habr.com/ru/rss/search/?q=bpmn",
+        "https://habr.com/ru/rss/users/habr_career/publications/articles/?fl=ru",
+        "https://media.rss.com/osint/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3637,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:23.541Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.panoramaaudiovisual.com": {
+      "urls": [
+        "https://feedpress.me/EPandalucia-informa",
+        "https://feedpress.me/EPeconomia-andaluz",
+        "https://feedpress.me/EPsevilla-informa",
+        "https://www.europapress.es/rss/rss.aspx",
+        "https://www.panoramaaudiovisual.com/ar/feed/",
+        "https://www.panoramaaudiovisual.com/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/category/gestion-media/feed/",
+        "https://www.panoramaaudiovisual.com/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/category/television/feed/",
+        "https://www.panoramaaudiovisual.com/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/gestion-media/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/de/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/en/feed/",
+        "https://www.panoramaaudiovisual.com/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/gestion-media/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/fr/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/television/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/it/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/ja/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/gestion-media/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/ru/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/gestion-media/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/zh/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 595,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:27.198Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "panoramaaudiovisual.com": {
+      "urls": [
+        "https://www.panoramaaudiovisual.com/ar/feed/",
+        "https://www.panoramaaudiovisual.com/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/category/gestion-media/feed/",
+        "https://www.panoramaaudiovisual.com/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/category/television/feed/",
+        "https://www.panoramaaudiovisual.com/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/gestion-media/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/de/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/de/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/en/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/en/feed/",
+        "https://www.panoramaaudiovisual.com/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/fr/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/fr/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/television/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/it/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/it/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/alta-definicion/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/eventos/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/grafismo/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/negocios/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/ja/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/ja/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/captacion/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/gestion-media/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/postpro/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/satelite/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/pt/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/accesorios/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/ru/category/tv-corporate/feed/",
+        "https://www.panoramaaudiovisual.com/ru/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/TDT/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/almacenamiento/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/alquiler-servicios/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/automatizacion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/cine/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/emision/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/estudio/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/formacion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/iluminacion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/integracion/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/iptv/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/libros/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/radio/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/rf/feed/",
+        "https://www.panoramaaudiovisual.com/zh/category/tv-movil/feed/",
+        "https://www.panoramaaudiovisual.com/zh/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 832,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:10.810Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.liga.net": {
+      "urls": [
+        "https://projects.liga.net/feed/",
+        "https://www.liga.net/biz/all/rss.xml",
+        "https://www.liga.net/biz/articles/rss.xml",
+        "https://www.liga.net/biz/interview/rss.xml",
+        "https://www.liga.net/biz/news/rss.xml",
+        "https://www.liga.net/biz/opinion/rss.xml",
+        "https://www.liga.net/biz/photo/rss.xml",
+        "https://www.liga.net/biz/top/rss.xml",
+        "https://www.liga.net/biz/video/rss.xml",
+        "https://www.liga.net/fin/crypto/rss.xml",
+        "https://www.liga.net/fin/export/all.xml",
+        "https://www.liga.net/fin/export/bank.xml",
+        "https://www.liga.net/fin/export/funds.xml",
+        "https://www.liga.net/fin/export/insurance.xml",
+        "https://www.liga.net/fin/export/top.xml",
+        "https://www.liga.net/fin/opinion/rss.xml",
+        "https://www.liga.net/life/all/rss.xml",
+        "https://www.liga.net/news/all/rss.xml",
+        "https://www.liga.net/news/articles/rss.xml",
+        "https://www.liga.net/news/capital/rss.xml",
+        "https://www.liga.net/news/culture/rss.xml",
+        "https://www.liga.net/news/economics/rss.xml",
+        "https://www.liga.net/news/health/rss.xml",
+        "https://www.liga.net/news/interview/rss.xml",
+        "https://www.liga.net/news/photo/rss.xml",
+        "https://www.liga.net/news/politics/rss.xml",
+        "https://www.liga.net/news/rss.xml",
+        "https://www.liga.net/news/society/rss.xml",
+        "https://www.liga.net/news/sport/rss.xml",
+        "https://www.liga.net/news/top/rss.xml",
+        "https://www.liga.net/news/video/rss.xml",
+        "https://www.liga.net/news/world/rss.xml",
+        "https://www.liga.net/newsua/all/rss.xml",
+        "https://www.liga.net/newsua/top/rss.xml",
+        "https://www.liga.net/rss/blog.xml",
+        "https://www.liga.net/tech/all/rss.xml",
+        "https://www.liga.net/tech/battles/rss.xml",
+        "https://www.liga.net/tech/gadgets/rss.xml",
+        "https://www.liga.net/tech/own-business/rss.xml",
+        "https://www.liga.net/tech/technology/rss.xml",
+        "https://www.liga.net/tech/telecom/rss.xml",
+        "https://www.liga.net/tech/top/rss.xml",
+        "https://www.liga.net/tech/vlog/rss.xml",
+        "https://www.liga.net/ua/biz/all/rss.xml",
+        "https://www.liga.net/ua/biz/articles/rss.xml",
+        "https://www.liga.net/ua/biz/interview/rss.xml",
+        "https://www.liga.net/ua/biz/news/rss.xml",
+        "https://www.liga.net/ua/biz/photo/rss.xml",
+        "https://www.liga.net/ua/biz/top/rss.xml",
+        "https://www.liga.net/ua/biz/video/rss.xml",
+        "https://www.liga.net/ua/fin/crypto/rss.xml",
+        "https://www.liga.net/ua/fin/export/all.xml",
+        "https://www.liga.net/ua/fin/export/bank.xml",
+        "https://www.liga.net/ua/fin/export/funds.xml",
+        "https://www.liga.net/ua/fin/export/insurance.xml",
+        "https://www.liga.net/ua/fin/export/top.xml",
+        "https://www.liga.net/ua/news/all/rss.xml",
+        "https://www.liga.net/ua/news/articles/rss.xml",
+        "https://www.liga.net/ua/news/capital/rss.xml",
+        "https://www.liga.net/ua/news/culture/rss.xml",
+        "https://www.liga.net/ua/news/economics/rss.xml",
+        "https://www.liga.net/ua/news/health/rss.xml",
+        "https://www.liga.net/ua/news/interview/rss.xml",
+        "https://www.liga.net/ua/news/photo/rss.xml",
+        "https://www.liga.net/ua/news/politics/rss.xml",
+        "https://www.liga.net/ua/news/rss.xml",
+        "https://www.liga.net/ua/news/society/rss.xml",
+        "https://www.liga.net/ua/news/sport/rss.xml",
+        "https://www.liga.net/ua/news/top/rss.xml",
+        "https://www.liga.net/ua/news/video/rss.xml",
+        "https://www.liga.net/ua/news/world/rss.xml",
+        "https://www.liga.net/ua/opinion/rss.xml",
+        "https://www.liga.net/ua/rss/blog.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 842,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:22.670Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ru.investing.com": {
+      "urls": [
+        "https://ru.investing.com/rss/286.rss",
+        "https://ru.investing.com/rss/290.rss",
+        "https://ru.investing.com/rss/302.rss",
+        "https://ru.investing.com/rss/320.rss",
+        "https://ru.investing.com/rss/bonds.rss",
+        "https://ru.investing.com/rss/bonds_Corporate.rss",
+        "https://ru.investing.com/rss/bonds_Fundamental.rss",
+        "https://ru.investing.com/rss/bonds_Government.rss",
+        "https://ru.investing.com/rss/bonds_Opinion.rss",
+        "https://ru.investing.com/rss/bonds_Strategy.rss",
+        "https://ru.investing.com/rss/bonds_Technical.rss",
+        "https://ru.investing.com/rss/brokers.rss",
+        "https://ru.investing.com/rss/brokers_interviews.rss",
+        "https://ru.investing.com/rss/brokers_press.rss",
+        "https://ru.investing.com/rss/central_banks.rss",
+        "https://ru.investing.com/rss/commodities.rss",
+        "https://ru.investing.com/rss/commodities_Agriculture.rss",
+        "https://ru.investing.com/rss/commodities_Energy.rss",
+        "https://ru.investing.com/rss/commodities_Fundamental.rss",
+        "https://ru.investing.com/rss/commodities_Metals.rss",
+        "https://ru.investing.com/rss/commodities_Opinion.rss",
+        "https://ru.investing.com/rss/commodities_Strategy.rss",
+        "https://ru.investing.com/rss/commodities_Technical.rss",
+        "https://ru.investing.com/rss/forex.rss",
+        "https://ru.investing.com/rss/forex_Fundamental.rss",
+        "https://ru.investing.com/rss/forex_Opinion.rss",
+        "https://ru.investing.com/rss/forex_Signals.rss",
+        "https://ru.investing.com/rss/forex_Technical.rss",
+        "https://ru.investing.com/rss/market_overview.rss",
+        "https://ru.investing.com/rss/market_overview_Fundamental.rss",
+        "https://ru.investing.com/rss/market_overview_Opinion.rss",
+        "https://ru.investing.com/rss/market_overview_Technical.rss",
+        "https://ru.investing.com/rss/market_overview_investing_ideas.rss",
+        "https://ru.investing.com/rss/news.rss",
+        "https://ru.investing.com/rss/news_1.rss",
+        "https://ru.investing.com/rss/news_1061.rss",
+        "https://ru.investing.com/rss/news_1062.rss",
+        "https://ru.investing.com/rss/news_1063.rss",
+        "https://ru.investing.com/rss/news_1064.rss",
+        "https://ru.investing.com/rss/news_1065.rss",
+        "https://ru.investing.com/rss/news_11.rss",
+        "https://ru.investing.com/rss/news_12.rss",
+        "https://ru.investing.com/rss/news_14.rss",
+        "https://ru.investing.com/rss/news_25.rss",
+        "https://ru.investing.com/rss/news_285.rss",
+        "https://ru.investing.com/rss/news_287.rss",
+        "https://ru.investing.com/rss/news_301.rss",
+        "https://ru.investing.com/rss/news_356.rss",
+        "https://ru.investing.com/rss/news_357.rss",
+        "https://ru.investing.com/rss/news_95.rss",
+        "https://ru.investing.com/rss/stock.rss",
+        "https://ru.investing.com/rss/stock_Fundamental.rss",
+        "https://ru.investing.com/rss/stock_Futures.rss",
+        "https://ru.investing.com/rss/stock_Indices.rss",
+        "https://ru.investing.com/rss/stock_Opinion.rss",
+        "https://ru.investing.com/rss/stock_Options.rss",
+        "https://ru.investing.com/rss/stock_Stocks.rss",
+        "https://ru.investing.com/rss/stock_Technical.rss",
+        "https://ru.investing.com/rss/stock_stock_picks.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 480,
+        "category": "business",
+        "last_checked": "2026-02-01T05:13:24.002Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.ixbt.com": {
+      "urls": [
+        "http://www.ixbt.com/export/applenews.rss",
+        "http://www.ixbt.com/export/articles.rss",
+        "http://www.ixbt.com/export/news.rdf",
+        "http://www.ixbt.com/export/news.rss",
+        "https://www.ixbt.com/export/applenews.rss",
+        "https://www.ixbt.com/export/articles.rss",
+        "https://www.ixbt.com/export/news-directlink.rdf",
+        "https://www.ixbt.com/export/news.rdf",
+        "https://www.ixbt.com/export/news.rss",
+        "https://www.ixbt.com/export/sec_pda.rss",
+        "https://www.ixbt.com/live/rss/allcomments/",
+        "https://www.ixbt.com/live/rss/blog/3d-modelling/",
+        "https://www.ixbt.com/live/rss/blog/3dv/",
+        "https://www.ixbt.com/live/rss/blog/accessories/",
+        "https://www.ixbt.com/live/rss/blog/books/",
+        "https://www.ixbt.com/live/rss/blog/car/",
+        "https://www.ixbt.com/live/rss/blog/chome/",
+        "https://www.ixbt.com/live/rss/blog/contest-result/",
+        "https://www.ixbt.com/live/rss/blog/contest/",
+        "https://www.ixbt.com/live/rss/blog/crypto/",
+        "https://www.ixbt.com/live/rss/blog/data/",
+        "https://www.ixbt.com/live/rss/blog/digs/",
+        "https://www.ixbt.com/live/rss/blog/diy/",
+        "https://www.ixbt.com/live/rss/blog/dp/",
+        "https://www.ixbt.com/live/rss/blog/drones/",
+        "https://www.ixbt.com/live/rss/blog/dv/",
+        "https://www.ixbt.com/live/rss/blog/exhibitions/",
+        "https://www.ixbt.com/live/rss/blog/flashlight/",
+        "https://www.ixbt.com/live/rss/blog/flora_and_fauna/",
+        "https://www.ixbt.com/live/rss/blog/gadgets/",
+        "https://www.ixbt.com/live/rss/blog/games/",
+        "https://www.ixbt.com/live/rss/blog/instruments/",
+        "https://www.ixbt.com/live/rss/blog/ixbtnews/",
+        "https://www.ixbt.com/live/rss/blog/market/",
+        "https://www.ixbt.com/live/rss/blog/mobile/",
+        "https://www.ixbt.com/live/rss/blog/mobilepc/",
+        "https://www.ixbt.com/live/rss/blog/movie/",
+        "https://www.ixbt.com/live/rss/blog/nw/",
+        "https://www.ixbt.com/live/rss/blog/offtopic/",
+        "https://www.ixbt.com/live/rss/blog/periphery/",
+        "https://www.ixbt.com/live/rss/blog/platform/",
+        "https://www.ixbt.com/live/rss/blog/power/",
+        "https://www.ixbt.com/live/rss/blog/science/",
+        "https://www.ixbt.com/live/rss/blog/supply/",
+        "https://www.ixbt.com/live/rss/blog/sw/",
+        "https://www.ixbt.com/live/rss/blog/topcompile/",
+        "https://www.ixbt.com/live/rss/blog/travel/",
+        "https://www.ixbt.com/live/rss/blog/tv/",
+        "https://www.ixbt.com/live/rss/index/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1446,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:20.972Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.digitalavmagazine.com": {
+      "urls": [
+        "https://feedpress.me/EPandalucia-informa",
+        "https://feedpress.me/EPcultura-andaluz",
+        "https://feedpress.me/EPculturaocio",
+        "https://feedpress.me/EPdesayunos-deportivos",
+        "https://feedpress.me/EPdesayunos-informativos",
+        "https://feedpress.me/EPdesayunos-informativos-andalucia",
+        "https://feedpress.me/EPeconomia-andaluz",
+        "https://feedpress.me/EPencuentros-digitales",
+        "https://feedpress.me/EPepturismo",
+        "https://feedpress.me/EPes-tu-europa",
+        "https://feedpress.me/EPforo-america",
+        "https://feedpress.me/EPforo-turismo",
+        "https://feedpress.me/EPgeneracion-oportunidades",
+        "https://feedpress.me/EPhacia-el-futuro",
+        "https://feedpress.me/EPinfosalus",
+        "https://feedpress.me/EPmicroemprendedores",
+        "https://feedpress.me/EPorange-foro-empresa-manana",
+        "https://feedpress.me/EPreto-pymes-espana",
+        "https://feedpress.me/EPsevilla-informa",
+        "https://www.digitalavmagazine.com/ar/category/display/feed/",
+        "https://www.digitalavmagazine.com/category/accesorios/feed/",
+        "https://www.digitalavmagazine.com/category/audio/feed/",
+        "https://www.digitalavmagazine.com/category/av-conferencing/feed/",
+        "https://www.digitalavmagazine.com/category/control/feed/",
+        "https://www.digitalavmagazine.com/category/digital-signage/feed/",
+        "https://www.digitalavmagazine.com/category/display/feed/",
+        "https://www.digitalavmagazine.com/category/formacion/feed/",
+        "https://www.digitalavmagazine.com/category/iluminacion/feed/",
+        "https://www.digitalavmagazine.com/category/instalaciones/feed/",
+        "https://www.digitalavmagazine.com/category/libros/feed/",
+        "https://www.digitalavmagazine.com/category/negocios/feed/",
+        "https://www.digitalavmagazine.com/category/proyeccion/feed/",
+        "https://www.digitalavmagazine.com/category/publicidad-dinamica/feed/",
+        "https://www.digitalavmagazine.com/category/realidad-aumentada/feed/",
+        "https://www.digitalavmagazine.com/category/redes/feed/",
+        "https://www.digitalavmagazine.com/category/salud/feed/",
+        "https://www.digitalavmagazine.com/category/seguridad/feed/",
+        "https://www.digitalavmagazine.com/category/streaming-media/feed/",
+        "https://www.digitalavmagazine.com/category/telepresenciavideoconferencia/feed/",
+        "https://www.digitalavmagazine.com/category/tribunas/feed/",
+        "https://www.digitalavmagazine.com/category/virtualizacion/feed/",
+        "https://www.digitalavmagazine.com/de/category/instalaciones/feed/",
+        "https://www.digitalavmagazine.com/feed/",
+        "https://www.digitalavmagazine.com/it/category/audio/feed/",
+        "https://www.digitalavmagazine.com/it/feed/",
+        "https://www.digitalavmagazine.com/ja/category/negocios/feed/",
+        "https://www.digitalavmagazine.com/pt/category/display/feed/",
+        "https://www.europapress.es/rss/rss.aspx"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 701,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:14.112Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ixbt.com": {
+      "urls": [
+        "http://www.ixbt.com/export/applenews.rss",
+        "http://www.ixbt.com/export/articles.rss",
+        "http://www.ixbt.com/export/news.rdf",
+        "http://www.ixbt.com/export/news.rss",
+        "https://www.ixbt.com/export/applenews.rss",
+        "https://www.ixbt.com/export/articles.rss",
+        "https://www.ixbt.com/export/news-directlink.rdf",
+        "https://www.ixbt.com/export/news.rdf",
+        "https://www.ixbt.com/export/news.rss",
+        "https://www.ixbt.com/export/sec_pda.rss",
+        "https://www.ixbt.com/live/rss/allcomments/",
+        "https://www.ixbt.com/live/rss/blog/3d-modelling/",
+        "https://www.ixbt.com/live/rss/blog/3dv/",
+        "https://www.ixbt.com/live/rss/blog/accessories/",
+        "https://www.ixbt.com/live/rss/blog/books/",
+        "https://www.ixbt.com/live/rss/blog/car/",
+        "https://www.ixbt.com/live/rss/blog/chome/",
+        "https://www.ixbt.com/live/rss/blog/contest-result/",
+        "https://www.ixbt.com/live/rss/blog/contest/",
+        "https://www.ixbt.com/live/rss/blog/crypto/",
+        "https://www.ixbt.com/live/rss/blog/data/",
+        "https://www.ixbt.com/live/rss/blog/digs/",
+        "https://www.ixbt.com/live/rss/blog/diy/",
+        "https://www.ixbt.com/live/rss/blog/dp/",
+        "https://www.ixbt.com/live/rss/blog/drones/",
+        "https://www.ixbt.com/live/rss/blog/dv/",
+        "https://www.ixbt.com/live/rss/blog/exhibitions/",
+        "https://www.ixbt.com/live/rss/blog/flora_and_fauna/",
+        "https://www.ixbt.com/live/rss/blog/gadgets/",
+        "https://www.ixbt.com/live/rss/blog/games/",
+        "https://www.ixbt.com/live/rss/blog/instruments/",
+        "https://www.ixbt.com/live/rss/blog/ixbtnews/",
+        "https://www.ixbt.com/live/rss/blog/market/",
+        "https://www.ixbt.com/live/rss/blog/mobile/",
+        "https://www.ixbt.com/live/rss/blog/mobilepc/",
+        "https://www.ixbt.com/live/rss/blog/movie/",
+        "https://www.ixbt.com/live/rss/blog/nw/",
+        "https://www.ixbt.com/live/rss/blog/offtopic/",
+        "https://www.ixbt.com/live/rss/blog/periphery/",
+        "https://www.ixbt.com/live/rss/blog/platform/",
+        "https://www.ixbt.com/live/rss/blog/power/",
+        "https://www.ixbt.com/live/rss/blog/science/",
+        "https://www.ixbt.com/live/rss/blog/supply/",
+        "https://www.ixbt.com/live/rss/blog/sw/",
+        "https://www.ixbt.com/live/rss/blog/topcompile/",
+        "https://www.ixbt.com/live/rss/blog/travel/",
+        "https://www.ixbt.com/live/rss/blog/tv/",
+        "https://www.ixbt.com/live/rss/index/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1060,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:33.092Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.bbc.com": {
+      "urls": [
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://rsshub.app/bbc/chinese",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 339,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:10.224Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "liga.net": {
+      "urls": [
+        "https://www.liga.net/biz/all/rss.xml",
+        "https://www.liga.net/biz/articles/rss.xml",
+        "https://www.liga.net/biz/interview/rss.xml",
+        "https://www.liga.net/biz/news/rss.xml",
+        "https://www.liga.net/biz/opinion/rss.xml",
+        "https://www.liga.net/biz/photo/rss.xml",
+        "https://www.liga.net/biz/top/rss.xml",
+        "https://www.liga.net/biz/video/rss.xml",
+        "https://www.liga.net/fin/crypto/rss.xml",
+        "https://www.liga.net/fin/export/all.xml",
+        "https://www.liga.net/fin/export/bank.xml",
+        "https://www.liga.net/fin/export/funds.xml",
+        "https://www.liga.net/fin/export/insurance.xml",
+        "https://www.liga.net/fin/export/top.xml",
+        "https://www.liga.net/fin/opinion/rss.xml",
+        "https://www.liga.net/life/all/rss.xml",
+        "https://www.liga.net/news/all/rss.xml",
+        "https://www.liga.net/news/articles/rss.xml",
+        "https://www.liga.net/news/capital/rss.xml",
+        "https://www.liga.net/news/culture/rss.xml",
+        "https://www.liga.net/news/economics/rss.xml",
+        "https://www.liga.net/news/health/rss.xml",
+        "https://www.liga.net/news/interview/rss.xml",
+        "https://www.liga.net/news/photo/rss.xml",
+        "https://www.liga.net/news/politics/rss.xml",
+        "https://www.liga.net/news/rss.xml",
+        "https://www.liga.net/news/society/rss.xml",
+        "https://www.liga.net/news/sport/rss.xml",
+        "https://www.liga.net/news/top/rss.xml",
+        "https://www.liga.net/news/video/rss.xml",
+        "https://www.liga.net/news/world/rss.xml",
+        "https://www.liga.net/newsua/all/rss.xml",
+        "https://www.liga.net/newsua/top/rss.xml",
+        "https://www.liga.net/rss/blog.xml",
+        "https://www.liga.net/tech/all/rss.xml",
+        "https://www.liga.net/tech/battles/rss.xml",
+        "https://www.liga.net/tech/gadgets/rss.xml",
+        "https://www.liga.net/tech/own-business/rss.xml",
+        "https://www.liga.net/tech/technology/rss.xml",
+        "https://www.liga.net/tech/telecom/rss.xml",
+        "https://www.liga.net/tech/top/rss.xml",
+        "https://www.liga.net/tech/vlog/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1215,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:41.037Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.un.org": {
+      "urls": [
+        "https://news.un.org/feed/subscribe/en/audio-product/all/audio-rss.xml",
+        "https://news.un.org/feed/subscribe/en/audio-product/dateline-geneva/audio-rss.xml",
+        "https://news.un.org/feed/subscribe/en/audio-product/interviews/audio-rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/americas/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/asia-pacific/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/europe/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/global/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/health/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/human-rights/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/humanitarian-aid/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/law-and-crime-prevention/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/migrants-and-refugees/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/sdgs/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/un-affairs/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/women/feed/rss.xml",
+        "https://www.un.org/africarenewal/rss.xml",
+        "https://www.un.org/en/rss.xml",
+        "https://www.un.org/press/en/feed",
+        "https://www.un.org/sg/en/spokesperson/rss.asp",
+        "https://www.un.org/sustainabledevelopment/blog/category/climate-change/feed/",
+        "https://www.un.org/sustainabledevelopment/blog/category/featured/feed/",
+        "https://www.un.org/sustainabledevelopment/blog/category/news/feed/",
+        "https://www.un.org/sustainabledevelopment/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 30,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:33.065Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "digitalavmagazine.com": {
+      "urls": [
+        "https://www.digitalavmagazine.com/ar/category/display/feed/",
+        "https://www.digitalavmagazine.com/category/accesorios/feed/",
+        "https://www.digitalavmagazine.com/category/audio/feed/",
+        "https://www.digitalavmagazine.com/category/av-conferencing/feed/",
+        "https://www.digitalavmagazine.com/category/control/feed/",
+        "https://www.digitalavmagazine.com/category/digital-signage/feed/",
+        "https://www.digitalavmagazine.com/category/display/feed/",
+        "https://www.digitalavmagazine.com/category/formacion/feed/",
+        "https://www.digitalavmagazine.com/category/iluminacion/feed/",
+        "https://www.digitalavmagazine.com/category/instalaciones/feed/",
+        "https://www.digitalavmagazine.com/category/libros/feed/",
+        "https://www.digitalavmagazine.com/category/negocios/feed/",
+        "https://www.digitalavmagazine.com/category/proyeccion/feed/",
+        "https://www.digitalavmagazine.com/category/publicidad-dinamica/feed/",
+        "https://www.digitalavmagazine.com/category/realidad-aumentada/feed/",
+        "https://www.digitalavmagazine.com/category/redes/feed/",
+        "https://www.digitalavmagazine.com/category/salud/feed/",
+        "https://www.digitalavmagazine.com/category/seguridad/feed/",
+        "https://www.digitalavmagazine.com/category/streaming-media/feed/",
+        "https://www.digitalavmagazine.com/category/telepresenciavideoconferencia/feed/",
+        "https://www.digitalavmagazine.com/category/tribunas/feed/",
+        "https://www.digitalavmagazine.com/category/virtualizacion/feed/",
+        "https://www.digitalavmagazine.com/de/category/instalaciones/feed/",
+        "https://www.digitalavmagazine.com/feed/",
+        "https://www.digitalavmagazine.com/it/category/audio/feed/",
+        "https://www.digitalavmagazine.com/it/feed/",
+        "https://www.digitalavmagazine.com/ja/category/negocios/feed/",
+        "https://www.digitalavmagazine.com/pt/category/display/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 890,
+        "category": "technology",
+        "last_checked": "2026-02-01T05:11:42.128Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news.un.org": {
+      "urls": [
+        "https://news.un.org/feed/subscribe/en/audio-product/all/audio-rss.xml",
+        "https://news.un.org/feed/subscribe/en/audio-product/dateline-geneva/audio-rss.xml",
+        "https://news.un.org/feed/subscribe/en/audio-product/interviews/audio-rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/americas/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/asia-pacific/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/europe/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/health/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/human-rights/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/humanitarian-aid/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/law-and-crime-prevention/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/migrants-and-refugees/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/sdgs/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/un-affairs/feed/rss.xml",
+        "https://news.un.org/feed/subscribe/en/news/topic/women/feed/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 976,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:51.421Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "disgustingmen.com": {
+      "urls": [
+        "https://disgustingmen.com/blog/25-sovetov-po-kreativnosti/feed/",
+        "https://disgustingmen.com/blog/begeaded-buddhist-monk/feed/",
+        "https://disgustingmen.com/blog/meth-monks/feed/",
+        "https://disgustingmen.com/blog/monday-weird-news-new-191/feed/",
+        "https://disgustingmen.com/blog/monday-weird-news-new-385/feed/",
+        "https://disgustingmen.com/blog/monday-weird-news-new-454/feed/",
+        "https://disgustingmen.com/blog/monday-weird-news-new-455/feed/",
+        "https://disgustingmen.com/blog/moscow-comic-convention-2016/feed/",
+        "https://disgustingmen.com/blog/pyatnichnaya-muza-liza-selin/feed/",
+        "https://disgustingmen.com/blog/random-reviews-13-04-25/feed/",
+        "https://disgustingmen.com/blog/random-reviews-24-11-19/feed/",
+        "https://disgustingmen.com/blog/random-reviews-26-11-2023/feed/",
+        "https://disgustingmen.com/blog/random-reviews-27-05-16/feed/",
+        "https://disgustingmen.com/blog/random-reviews-6-04-25/feed/",
+        "https://disgustingmen.com/blog/sluchajnye-obzory-odnorazovyj-gejmpad/feed/",
+        "https://disgustingmen.com/blog/stroki-disgustingmen-episode-1/feed/",
+        "https://disgustingmen.com/category/history/feed/",
+        "https://disgustingmen.com/feed/",
+        "https://disgustingmen.com/podkasts/animals-in-the-studio-podcast-109/feed/",
+        "https://disgustingmen.com/tag/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1717,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:44.002Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "feedpress.me": {
+      "urls": [
+        "https://feedpress.me/EPandalucia-informa",
+        "https://feedpress.me/EPcultura-andaluz",
+        "https://feedpress.me/EPculturaocio",
+        "https://feedpress.me/EPdesayunos-informativos-andalucia",
+        "https://feedpress.me/EPeconomia-andaluz",
+        "https://feedpress.me/EPencuentros-digitales",
+        "https://feedpress.me/EPes-tu-europa",
+        "https://feedpress.me/EPforo-america",
+        "https://feedpress.me/EPforo-turismo",
+        "https://feedpress.me/EPgeneracion-oportunidades",
+        "https://feedpress.me/EPhacia-el-futuro",
+        "https://feedpress.me/EPinfosalus",
+        "https://feedpress.me/EPmicroemprendedores",
+        "https://feedpress.me/EPorange-foro-empresa-manana",
+        "https://feedpress.me/EPreto-pymes-espana",
+        "https://feedpress.me/EPsevilla-informa"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 694,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:06.265Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ru.fashionnetwork.com": {
+      "urls": [
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,112.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,113.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,114.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,115.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,12.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,15.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,5.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,50.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,60.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,70.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,80.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,90.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7,95.xml",
+        "https://ru.fashionnetwork.com/rss/feed/ru,7.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 997,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:23.500Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "meduza.io": {
+      "urls": [
+        "https://meduza.io/rss/all",
+        "https://meduza.io/rss/en/all",
+        "https://meduza.io/rss/fun",
+        "https://meduza.io/rss/news",
+        "https://meduza.io/rss2/all",
+        "https://meduza.io/rss2/en/all",
+        "https://meduza.io/rss2/fun",
+        "https://meduza.io/rss2/news",
+        "https://rss.prod.scw01.meduza.io/rss/all",
+        "https://rss.prod.scw01.meduza.io/rss/en/all",
+        "https://rss.prod.scw01.meduza.io/rss/news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 184,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:41.888Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.kavkaz-uzel.eu": {
+      "urls": [
+        "https://www.kavkaz-uzel.eu/articles.rss",
+        "https://www.kavkaz-uzel.eu/blogs/119.rss",
+        "https://www.kavkaz-uzel.eu/blogs/378.rss",
+        "https://www.kavkaz-uzel.eu/blogs/5422.rss",
+        "https://www.kavkaz-uzel.eu/blogs/83771.rss",
+        "https://www.kavkaz-uzel.eu/blogs/83772.rss",
+        "https://www.kavkaz-uzel.eu/blogs/83781.rss",
+        "https://www.kavkaz-uzel.eu/blogs/85801.rss",
+        "https://www.kavkaz-uzel.eu/blogs/85802.rss",
+        "https://www.kavkaz-uzel.eu/dagestan.rss",
+        "https://www.kavkaz-uzel.eu/ingushetia.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 817,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:21.818Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kavkaz-uzel.eu": {
+      "urls": [
+        "https://www.kavkaz-uzel.eu/articles.rss",
+        "https://www.kavkaz-uzel.eu/blogs/119.rss",
+        "https://www.kavkaz-uzel.eu/blogs/378.rss",
+        "https://www.kavkaz-uzel.eu/blogs/5422.rss",
+        "https://www.kavkaz-uzel.eu/blogs/83771.rss",
+        "https://www.kavkaz-uzel.eu/blogs/83772.rss",
+        "https://www.kavkaz-uzel.eu/blogs/83781.rss",
+        "https://www.kavkaz-uzel.eu/blogs/85801.rss",
+        "https://www.kavkaz-uzel.eu/blogs/85802.rss",
+        "https://www.kavkaz-uzel.eu/dagestan.rss",
+        "https://www.kavkaz-uzel.eu/ingushetia.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1530,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:36.803Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "feeds.captivate.fm": {
+      "urls": [
+        "https://feeds.captivate.fm/culture-of-everything/",
+        "https://feeds.captivate.fm/epravda/",
+        "https://feeds.captivate.fm/golovna-observatoria/",
+        "https://feeds.captivate.fm/savecountry/",
+        "https://feeds.captivate.fm/svit-not-sweet/",
+        "https://feeds.captivate.fm/temperature-normal/",
+        "https://feeds.captivate.fm/temperature_normal/",
+        "https://feeds.captivate.fm/up-chat/",
+        "https://feeds.captivate.fm/up2/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 893,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T05:12:07.185Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mobile-review.com": {
+      "urls": [
+        "https://mobile-review.com/all/articles/feed/",
+        "https://mobile-review.com/all/articles/misc/obzor-brauzera-atom-a-luchshe-li-chem-yandeks-brauzer/feed/",
+        "https://mobile-review.com/all/feed/",
+        "https://mobile-review.com/all/news/feed/",
+        "https://mobile-review.com/all/reviews/auto/russkij-atom/feed/",
+        "https://mobile-review.com/all/tag/operatory/feed/",
+        "https://mobile-review.com/all/tag/umnyj-dom/feed/",
+        "https://mobile-review.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1015,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:45.260Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "un.org": {
+      "urls": [
+        "https://www.un.org/africarenewal/rss.xml",
+        "https://www.un.org/en/rss.xml",
+        "https://www.un.org/press/en/feed",
+        "https://www.un.org/sg/en/spokesperson/rss.asp",
+        "https://www.un.org/sustainabledevelopment/blog/category/climate-change/feed/",
+        "https://www.un.org/sustainabledevelopment/blog/category/featured/feed/",
+        "https://www.un.org/sustainabledevelopment/blog/category/news/feed/",
+        "https://www.un.org/sustainabledevelopment/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2633,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:55.371Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 119,
+        "category": "entertainment",
+        "last_checked": "2026-02-01T05:11:23.318Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.metal.com": {
+      "urls": [
+        "https://rss.metal.com/news/company_news.xml",
+        "https://rss.metal.com/news/data_analysis.xml",
+        "https://rss.metal.com/news/industry_news.xml",
+        "https://rss.metal.com/news/price_review_forecast.xml",
+        "https://rss.metal.com/news/smm_insight.xml",
+        "https://rss.metal.com/news/the_latest.xml",
+        "https://rss.metal.com/news/translation.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 314,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:23.009Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.obozrevatel.com": {
+      "urls": [
+        "https://eng.obozrevatel.com/api/media/out/rss/lastnews.xml",
+        "https://life.obozrevatel.com/api/media/out/rss/lastnews.xml",
+        "https://life.obozrevatel.com/ukr/api/media/out/rss/lastnews.xml",
+        "https://pol.obozrevatel.com/api/media/out/rss/lastnews.xml",
+        "https://www.obozrevatel.com/out/rss/lastnews.xml",
+        "https://www.obozrevatel.com/rss.xml",
+        "https://www.obozrevatel.com/ukr/out/rss/lastnews.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 833,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:26.456Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rss.metal.com": {
+      "urls": [
+        "https://rss.metal.com/news/company_news.xml",
+        "https://rss.metal.com/news/data_analysis.xml",
+        "https://rss.metal.com/news/industry_news.xml",
+        "https://rss.metal.com/news/price_review_forecast.xml",
+        "https://rss.metal.com/news/smm_insight.xml",
+        "https://rss.metal.com/news/the_latest.xml",
+        "https://rss.metal.com/news/translation.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1234,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:19.838Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gordonua.com": {
+      "urls": [
+        "https://gordonua.com/ukr/xml/rss.html",
+        "https://gordonua.com/ukr/xml/rss.xml",
+        "https://gordonua.com/xml/rss.html",
+        "https://gordonua.com/xml/rss.xml",
+        "https://gordonua.com/xml/rss_category/politics.html",
+        "https://gordonua.com/xml/rss_category/top.html"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 691,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:16.274Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "asiaplustj.info": {
+      "urls": [
+        "http://asiaplustj.info/ru/rss",
+        "https://asiaplustj.info/en/rss",
+        "https://asiaplustj.info/en/rss.xml",
+        "https://asiaplustj.info/ru/rss",
+        "https://asiaplustj.info/ru/rss.xml",
+        "https://www.asiaplustj.info/ru/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1237,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:18.815Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.sport-express.net": {
+      "urls": [
+        "https://www.sport-express.net/services/materials/news/basketball/se/",
+        "https://www.sport-express.net/services/materials/news/football/se/",
+        "https://www.sport-express.net/services/materials/news/hockey/se/",
+        "https://www.sport-express.net/services/materials/news/se/",
+        "https://www.sport-express.net/services/materials/news/tennis/se/",
+        "https://www.sport-express.net/services/materials/news/transfers/se/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1712,
+        "category": "sports",
+        "last_checked": "2026-02-01T05:14:31.378Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.asiaplustj.info": {
+      "urls": [
+        "http://asiaplustj.info/ru/rss",
+        "https://asiaplustj.info/en/rss",
+        "https://asiaplustj.info/en/rss.xml",
+        "https://asiaplustj.info/ru/rss",
+        "https://asiaplustj.info/ru/rss.xml",
+        "https://www.asiaplustj.info/ru/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1746,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:09.599Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sport-express.net": {
+      "urls": [
+        "https://www.sport-express.net/services/materials/news/basketball/se/",
+        "https://www.sport-express.net/services/materials/news/football/se/",
+        "https://www.sport-express.net/services/materials/news/hockey/se/",
+        "https://www.sport-express.net/services/materials/news/se/",
+        "https://www.sport-express.net/services/materials/news/tennis/se/",
+        "https://www.sport-express.net/services/materials/news/transfers/se/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2359,
+        "category": "sports",
+        "last_checked": "2026-02-01T05:13:33.934Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fr.blog.anchor.fm": {
+      "urls": [
+        "https://fr.blog.anchor.fm/create/rss.xml",
+        "https://fr.blog.anchor.fm/grow/rss.xml",
+        "https://fr.blog.anchor.fm/hip/rss.xml",
+        "https://fr.blog.anchor.fm/share/rss.xml",
+        "https://fr.blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 194,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:12.533Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "blog.anchor.fm": {
+      "urls": [
+        "https://blog.anchor.fm/create/rss.xml",
+        "https://blog.anchor.fm/grow/rss.xml",
+        "https://blog.anchor.fm/hip/rss.xml",
+        "https://blog.anchor.fm/share/rss.xml",
+        "https://blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 229,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:23.587Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ja.blog.anchor.fm": {
+      "urls": [
+        "https://ja.blog.anchor.fm/create/rss.xml",
+        "https://ja.blog.anchor.fm/grow/rss.xml",
+        "https://ja.blog.anchor.fm/hip/rss.xml",
+        "https://ja.blog.anchor.fm/share/rss.xml",
+        "https://ja.blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 366,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:35.254Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "it.blog.anchor.fm": {
+      "urls": [
+        "https://it.blog.anchor.fm/create/rss.xml",
+        "https://it.blog.anchor.fm/grow/rss.xml",
+        "https://it.blog.anchor.fm/hip/rss.xml",
+        "https://it.blog.anchor.fm/share/rss.xml",
+        "https://it.blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 402,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:31.986Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "id.blog.anchor.fm": {
+      "urls": [
+        "https://id.blog.anchor.fm/create/rss.xml",
+        "https://id.blog.anchor.fm/grow/rss.xml",
+        "https://id.blog.anchor.fm/hip/rss.xml",
+        "https://id.blog.anchor.fm/share/rss.xml",
+        "https://id.blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 455,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:25.156Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sortiraparis.com": {
+      "urls": [
+        "https://www.sortiraparis.com/de/rss/sortir",
+        "https://www.sortiraparis.com/pl/rss/sortir",
+        "https://www.sortiraparis.com/rss/sap",
+        "https://www.sortiraparis.com/rss/sortir",
+        "https://www.sortiraparis.com/sk/rss/sortir"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 624,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:30.890Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "es.blog.anchor.fm": {
+      "urls": [
+        "https://es.blog.anchor.fm/create/rss.xml",
+        "https://es.blog.anchor.fm/grow/rss.xml",
+        "https://es.blog.anchor.fm/hip/rss.xml",
+        "https://es.blog.anchor.fm/share/rss.xml",
+        "https://es.blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 649,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:02.779Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.sortiraparis.com": {
+      "urls": [
+        "https://www.sortiraparis.com/de/rss/sortir",
+        "https://www.sortiraparis.com/pl/rss/sortir",
+        "https://www.sortiraparis.com/rss/sap",
+        "https://www.sortiraparis.com/rss/sortir",
+        "https://www.sortiraparis.com/sk/rss/sortir"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 795,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:29.665Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "eadaily.com": {
+      "urls": [
+        "http://eadaily.com/ru/rss/index.xml",
+        "https://eadaily.com/en/rss/index.xml",
+        "https://eadaily.com/ru/rss/index.xml",
+        "https://eadaily.com/ru/rss/military.xml",
+        "https://eadaily.com/ru/rss/russia.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 966,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:53.250Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "forklog.com": {
+      "urls": [
+        "https://forklog.com/feed",
+        "https://forklog.com/feed/",
+        "https://forklog.com/news/feed/",
+        "https://forklog.com/tag/ai/feed",
+        "https://forklog.com/tag/riot-platforms/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1981,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:12.337Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "de.blog.anchor.fm": {
+      "urls": [
+        "https://de.blog.anchor.fm/create/rss.xml",
+        "https://de.blog.anchor.fm/grow/rss.xml",
+        "https://de.blog.anchor.fm/hip/rss.xml",
+        "https://de.blog.anchor.fm/share/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 165,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:38.383Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ko.blog.anchor.fm": {
+      "urls": [
+        "https://ko.blog.anchor.fm/create/rss.xml",
+        "https://ko.blog.anchor.fm/grow/rss.xml",
+        "https://ko.blog.anchor.fm/share/rss.xml",
+        "https://ko.blog.anchor.fm/updates/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 387,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:38.889Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ru.euronews.com": {
+      "urls": [
+        "https://ru.euronews.com/rss",
+        "https://ru.euronews.com/rss?level=program&name=economy",
+        "https://ru.euronews.com/rss?level=theme&name=business",
+        "https://ru.euronews.com/rss?level=theme&name=culture-news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 417,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:22.342Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.38rus.com": {
+      "urls": [
+        "https://38rus.com/yandex/month.xml",
+        "https://38rus.com/yandex/news.xml",
+        "https://www.38rus.com/yandex/month.xml",
+        "https://www.38rus.com/yandex/news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 779,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:06.938Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.gazeta.uz": {
+      "urls": [
+        "https://www.gazeta.uz/en/rss/",
+        "https://www.gazeta.uz/oz/rss/",
+        "https://www.gazeta.uz/ru/rss/",
+        "https://www.gazeta.uz/uz/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 782,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:15.938Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.themoscowtimes.com": {
+      "urls": [
+        "https://www.themoscowtimes.com/rss/city",
+        "https://www.themoscowtimes.com/rss/meanwhile",
+        "https://www.themoscowtimes.com/rss/news",
+        "https://www.themoscowtimes.com/rss/opinion"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 843,
+        "category": "local",
+        "last_checked": "2026-02-01T05:14:32.705Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "themoscowtimes.com": {
+      "urls": [
+        "https://www.themoscowtimes.com/rss/city",
+        "https://www.themoscowtimes.com/rss/meanwhile",
+        "https://www.themoscowtimes.com/rss/news",
+        "https://www.themoscowtimes.com/rss/opinion"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 909,
+        "category": "local",
+        "last_checked": "2026-02-01T05:13:42.652Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gazeta.uz": {
+      "urls": [
+        "https://www.gazeta.uz/en/rss/",
+        "https://www.gazeta.uz/oz/rss/",
+        "https://www.gazeta.uz/ru/rss/",
+        "https://www.gazeta.uz/uz/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 962,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:13.524Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "38rus.com": {
+      "urls": [
+        "https://38rus.com/yandex/month.xml",
+        "https://38rus.com/yandex/news.xml",
+        "https://www.38rus.com/yandex/month.xml",
+        "https://www.38rus.com/yandex/news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1240,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:09.735Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "br.blog.anchor.fm": {
+      "urls": [
+        "https://br.blog.anchor.fm/create/rss.xml",
+        "https://br.blog.anchor.fm/grow/rss.xml",
+        "https://br.blog.anchor.fm/share/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 165,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:23.767Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.unian.net": {
+      "urls": [
+        "http://rss.unian.net/site/news_rus.rss",
+        "https://rss.unian.net/site/gplay_119_rus.rss",
+        "https://rss.unian.net/site/news_rus.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 537,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:36.195Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "commission.europa.eu": {
+      "urls": [
+        "https://commission.europa.eu/node/29665/rss_en",
+        "https://commission.europa.eu/node/3/rss_en",
+        "https://commission.europa.eu/node/4/rss_en"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 572,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:33.216Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ukranews.com": {
+      "urls": [
+        "http://ukranews.com/rss/all_ru.xml",
+        "https://ukranews.com/rss/all_ru.xml",
+        "https://ukranews.com/rss/all_uk.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 640,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:47.267Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rss.unian.net": {
+      "urls": [
+        "http://rss.unian.net/site/news_rus.rss",
+        "https://rss.unian.net/site/gplay_119_rus.rss",
+        "https://rss.unian.net/site/news_rus.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 666,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:20.845Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.moex.com": {
+      "urls": [
+        "https://www.moex.com/export/news.aspx",
+        "https://www.moex.com/export/news.aspx?cat=122",
+        "https://www.moex.com/export/news.aspx?cat=201"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 666,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:23.757Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "carnegieendowment.org": {
+      "urls": [
+        "https://carnegieendowment.org/rss/solr/",
+        "https://carnegieendowment.org/rss/solr/?fa=feeds",
+        "https://feeds.simplecast.com/g1OJ8gJk"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 681,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:31.086Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "colonelcassad.livejournal.com": {
+      "urls": [
+        "https://colonelcassad.livejournal.com/data/atom",
+        "https://colonelcassad.livejournal.com/data/rss",
+        "https://colonelcassad.livejournal.com/data/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 894,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:32.000Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "feeds.feedburner.com": {
+      "urls": [
+        "http://feeds.feedburner.com/drivenet",
+        "https://feeds.feedburner.com/amic/",
+        "https://feeds.feedburner.com/amic/news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1033,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:08.293Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ixbt.games": {
+      "urls": [
+        "https://ixbt.games/export/articles/rss.xml",
+        "https://ixbt.games/export/news/rss.xml",
+        "https://ixbt.games/export/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1063,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:34.170Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nu-today.ru:443": {
+      "urls": [
+        "https://nu-today.ru:443/blogs.feed?type=rss",
+        "https://nu-today.ru:443/index.php?format=feed&type=atom",
+        "https://nu-today.ru:443/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1103,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:01.980Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "esgnews.com": {
+      "urls": [
+        "https://esgnews.com/category/esg-podcast/feed/",
+        "https://esgnews.com/feed/",
+        "https://esgnews.com/tag/esg-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1201,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:04.206Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "glavred.info": {
+      "urls": [
+        "https://glavred.info/google/gplay_35734_ru.rss",
+        "https://glavred.info/rss.xml",
+        "https://glavred.info/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1288,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:15.037Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rg62.info": {
+      "urls": [
+        "https://rg62.info/feed/",
+        "https://rg62.info/feed/rdf/",
+        "https://rg62.info/novosti/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1292,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:16.981Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "infocity.tech": {
+      "urls": [
+        "https://infocity.tech/category/Blogi/azerb-blog-nov/feed/",
+        "https://infocity.tech/category/Blogi/zarub-blog-nov/feed/",
+        "https://infocity.tech/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1297,
+        "category": "technology",
+        "last_checked": "2026-02-01T05:12:28.607Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "obozrevatel.com": {
+      "urls": [
+        "https://www.obozrevatel.com/out/rss/lastnews.xml",
+        "https://www.obozrevatel.com/rss.xml",
+        "https://www.obozrevatel.com/ukr/out/rss/lastnews.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1772,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:04.267Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "moex.com": {
+      "urls": [
+        "https://www.moex.com/export/news.aspx",
+        "https://www.moex.com/export/news.aspx?cat=122",
+        "https://www.moex.com/export/news.aspx?cat=201"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2792,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:48.161Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.prnewswire.com": {
+      "urls": [
+        "https://www.prnewswire.com/rss/health-latest-news/health-latest-news-list.rss",
+        "https://www.prnewswire.com/rss/news-releases-list.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 224,
+        "category": "health",
+        "last_checked": "2026-02-01T05:14:27.559Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "feeds.simplecast.com": {
+      "urls": [
+        "https://feeds.simplecast.com/5oUpYp6r",
+        "https://feeds.simplecast.com/g1OJ8gJk"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 559,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:08.858Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zapier.com": {
+      "urls": [
+        "https://zapier.com/blog/feeds/latest/",
+        "https://zapier.com/engine/rss/646640/newscomss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 737,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:46.750Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "entermedia.io": {
+      "urls": [
+        "https://entermedia.io/feed/",
+        "https://entermedia.io:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 759,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:01.322Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.zerkalo.io": {
+      "urls": [
+        "https://news.zerkalo.io/rss/all.rss",
+        "https://news.zerkalo.io/rss/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 767,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:52.274Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gran-turismo.com": {
+      "urls": [
+        "https://www.gran-turismo.com/gb/rss/1.0/news.xml",
+        "https://www.gran-turismo.com/jp/rss/1.0/news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 768,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:17.057Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nsn.fm": {
+      "urls": [
+        "https://api.nsn.fm/rss/common",
+        "https://api.nsn.fm/rss/common.com"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 859,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:55.796Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "life.obozrevatel.com": {
+      "urls": [
+        "https://life.obozrevatel.com/api/media/out/rss/lastnews.xml",
+        "https://life.obozrevatel.com/ukr/api/media/out/rss/lastnews.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 867,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:39.775Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.business-class.su": {
+      "urls": [
+        "https://www.business-class.su/news.xml",
+        "https://www.business-class.su/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1014,
+        "category": "business",
+        "last_checked": "2026-02-01T05:14:11.280Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "financefeeds.com": {
+      "urls": [
+        "https://financefeeds.com/feed/",
+        "https://financefeeds.com/tag/feeds/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1234,
+        "category": "business",
+        "last_checked": "2026-02-01T05:12:10.101Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.gran-turismo.com": {
+      "urls": [
+        "https://www.gran-turismo.com/gb/rss/1.0/news.xml",
+        "https://www.gran-turismo.com/jp/rss/1.0/news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1308,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:19.410Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rozetked.me": {
+      "urls": [
+        "https://rozetked.me/rss.xml",
+        "https://rozetked.me/turbo"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1347,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:18.598Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "knife.media": {
+      "urls": [
+        "https://knife.media/category/longreads/feed/",
+        "https://knife.media/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1366,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:38.496Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wylsa.com": {
+      "urls": [
+        "http://wylsa.com/feed/",
+        "https://wylsa.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1729,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:39.877Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "business-class.su": {
+      "urls": [
+        "https://www.business-class.su/news.xml",
+        "https://www.business-class.su/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1790,
+        "category": "business",
+        "last_checked": "2026-02-01T05:11:26.083Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "api.nsn.fm": {
+      "urls": [
+        "https://api.nsn.fm/rss/common",
+        "https://api.nsn.fm/rss/common.com"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1798,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:14.869Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "xn--80aal0a.xn--80asehdb": {
+      "urls": [
+        "https://xn--80aal0a.xn--80asehdb/rss.xml",
+        "https://xn--80aal0a.xn--80asehdb/rssdzen.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1802,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:41.700Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dvizhok.su": {
+      "urls": [
+        "https://dvizhok.su/dvizhok-rss.rss",
+        "https://dvizhok.su:443/dvizhok-rss.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1804,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:51.498Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "incrypted.com": {
+      "urls": [
+        "https://incrypted.com/feed/",
+        "https://incrypted.com/news/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1847,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:27.308Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mel.fm": {
+      "urls": [
+        "https://mel.fm/rss/default-all",
+        "https://mel.fm/rss/default-news"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2086,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:44.234Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "publichealthinsider.com": {
+      "urls": [
+        "https://publichealthinsider.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 54,
+        "category": "health",
+        "last_checked": "2026-02-01T05:13:14.173Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "who.int": {
+      "urls": [
+        "https://www.who.int/rss-feeds/news-english.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 105,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:06.132Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.who.int": {
+      "urls": [
+        "https://www.who.int/rss-feeds/news-english.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 122,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:37.475Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.trend.az": {
+      "urls": [
+        "https://www.trend.az/feeds/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 329,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:33.034Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "golosameriki.com": {
+      "urls": [
+        "https://www.golosameriki.com/api/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 471,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:15.508Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "artuzel.com": {
+      "urls": [
+        "https://artuzel.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 568,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:17.545Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cominf.org": {
+      "urls": [
+        "https://cominf.org/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 643,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:32.643Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "media.rss.com": {
+      "urls": [
+        "https://media.rss.com/osint/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 648,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:41.685Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "izhlife.ru:443": {
+      "urls": [
+        "https://izhlife.ru:443/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 673,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:34.843Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dvizhok.su:443": {
+      "urls": [
+        "https://dvizhok.su:443/dvizhok-rss.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 685,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:52.184Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "na-zapade-mos.ru:443": {
+      "urls": [
+        "https://na-zapade-mos.ru:443/share/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 723,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:48.884Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "www.unep.org": {
+      "urls": [
+        "https://www.unep.org/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 728,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:33.879Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ru.apa.az": {
+      "urls": [
+        "https://ru.apa.az/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 741,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:21.730Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "unep.org": {
+      "urls": [
+        "https://www.unep.org/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 769,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:56.394Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "trend.az": {
+      "urls": [
+        "https://www.trend.az/feeds/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 790,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:46.376Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "entermedia.io:443": {
+      "urls": [
+        "https://entermedia.io:443/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 796,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:02.118Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "samsungmagazine.eu": {
+      "urls": [
+        "https://samsungmagazine.eu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 826,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:24.828Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pol.obozrevatel.com": {
+      "urls": [
+        "https://pol.obozrevatel.com/api/media/out/rss/lastnews.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 877,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:11.687Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.afanasy.biz": {
+      "urls": [
+        "https://www.afanasy.biz/rss/yandex_rss_news.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 907,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:07.845Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "stolica-s.su": {
+      "urls": [
+        "https://stolica-s.su/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 916,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:36.171Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "slowfood.com": {
+      "urls": [
+        "https://www.slowfood.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1033,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:28.171Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.slowfood.com": {
+      "urls": [
+        "https://www.slowfood.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1053,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:28.675Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.unesco.org": {
+      "urls": [
+        "https://en.unesco.org/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1066,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:35.538Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "anhor.uz": {
+      "urls": [
+        "https://anhor.uz/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1118,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:12.340Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tadviser.ru:443": {
+      "urls": [
+        "https://www.tadviser.ru:443/xml/tadviser.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1122,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:38.850Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hightech.fm": {
+      "urls": [
+        "https://hightech.fm/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1127,
+        "category": "technology",
+        "last_checked": "2026-02-01T05:12:24.669Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eng.obozrevatel.com": {
+      "urls": [
+        "https://eng.obozrevatel.com/api/media/out/rss/lastnews.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1129,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:00.519Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dp.ru:443": {
+      "urls": [
+        "https://www.dp.ru:443/exportnews.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1149,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:45.151Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "deita.ru:443": {
+      "urls": [
+        "https://deita.ru:443/export/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1174,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:39.557Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "autonews.autoua.net": {
+      "urls": [
+        "https://autonews.autoua.net/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1288,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:21.533Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sports.kz:443": {
+      "urls": [
+        "https://www.sports.kz:443/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1321,
+        "category": "sports",
+        "last_checked": "2026-02-01T05:13:35.255Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "transsibinfo.com": {
+      "urls": [
+        "https://transsibinfo.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1324,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:45.586Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "asn24.ru:443": {
+      "urls": [
+        "https://asn24.ru:443/news/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1429,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:20.244Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "afanasy.biz": {
+      "urls": [
+        "https://www.afanasy.biz/rss/yandex_rss_news.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1486,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:11.222Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "re-port.ru:443": {
+      "urls": [
+        "https://re-port.ru:443/rss/news/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1514,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:15.687Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gxpnews.net": {
+      "urls": [
+        "https://gxpnews.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1538,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:18.595Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "susanin.news": {
+      "urls": [
+        "https://susanin.news/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1557,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:37.728Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ura.news": {
+      "urls": [
+        "https://ura.news/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1577,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:59.647Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "topnews.ru:443": {
+      "urls": [
+        "https://www.topnews.ru:443/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1610,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:44.262Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "upl.uz": {
+      "urls": [
+        "https://upl.uz/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1676,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:58.070Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "caoinform.moscow": {
+      "urls": [
+        "https://caoinform.moscow/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1823,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:30.404Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yugtimes.com": {
+      "urls": [
+        "https://yugtimes.com/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1851,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:45.815Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "www.golosameriki.com": {
+      "urls": [
+        "https://www.golosameriki.com/api/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2039,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:17.977Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "setantasports.com": {
+      "urls": [
+        "https://setantasports.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2074,
+        "category": "sports",
+        "last_checked": "2026-02-01T05:13:26.902Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "smolgazeta.ru:443": {
+      "urls": [
+        "https://smolgazeta.ru:443/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2089,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:30.260Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "api.prod2.corr.life": {
+      "urls": [
+        "http://api.prod2.corr.life/public/xml/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2107,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:16.976Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "xn--b1ats.xn--80asehdb": {
+      "urls": [
+        "https://xn--b1ats.xn--80asehdb/news/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2264,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:43.964Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "projects.liga.net": {
+      "urls": [
+        "https://projects.liga.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2432,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:14.119Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thecode.media": {
+      "urls": [
+        "https://thecode.media/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2439,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:41.289Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsmuz.com": {
+      "urls": [
+        "https://newsmuz.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2658,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:54.933Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "innovanews.ru:443": {
+      "urls": [
+        "https://innovanews.ru:443/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2974,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:31.582Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dronexl.co": {
+      "urls": [
+        "https://dronexl.co/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3054,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:48.205Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vgtimes.ru:443": {
+      "urls": [
+        "https://www.vgtimes.ru:443/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3215,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:06.027Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dailynewshungary.com": {
+      "urls": [
+        "https://dailynewshungary.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4988,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:38.204Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "en.unesco.org": {
+      "urls": [
+        "https://en.unesco.org/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 5493,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:59.390Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fao.org": {
+      "urls": [
+        "http://www.fao.org/biotech/biotech-news/rss/en/",
+        "http://www.fao.org/biotech/biotech-news/rss/es/",
+        "http://www.fao.org/biotech/biotech-news/rss/fr/",
+        "http://www.fao.org/biotech/biotech-news/rss/zh/",
+        "http://www.fao.org/economic/ess/ess-events/rss/en/",
+        "http://www.fao.org/economic/ess/ess-events/rss/es/",
+        "http://www.fao.org/economic/ess/ess-events/rss/fr/",
+        "http://www.fao.org/economic/est/est-events-new/rss/es/",
+        "http://www.fao.org/emergencies/resources/rss/appeals-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/audio-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/documents-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/map-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/news-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/photo-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/projecthighlights-rss/en/",
+        "http://www.fao.org/in-action/rss/en/",
+        "http://www.fao.org/members-gateway/news/rss/en/",
+        "http://www.fao.org/members-gateway/news/rss/es/",
+        "http://www.fao.org/members-gateway/news/rss/fr/",
+        "http://www.fao.org/neareast/news/rss/fr/",
+        "http://www.fao.org/nems/rss/rss_nems_results2.asp?owner=1&official=1&status=10&lang=en&maintype=2",
+        "http://www.fao.org/news/en/?no_cache=1&feed_id=16872&key=39&type=334",
+        "http://www.fao.org/news/en/?no_cache=1&feed_id=16872&type=334",
+        "http://www.fao.org/news/fr/?no_cache=1&feed_id=16872&type=334",
+        "http://www.fao.org/zhc/rss/en/",
+        "http://www.fao.org/zhc/rss/es/",
+        "http://www.fao.org/zhc/rss/fr",
+        "http://www.fao.org/zhc/rss/zh",
+        "https://www.fao.org/asiapacific/news/rss/en/",
+        "https://www.fao.org/biotech/biotech-news/rss/ar/",
+        "https://www.fao.org/biotech/biotech-news/rss/en/",
+        "https://www.fao.org/biotech/biotech-news/rss/es/",
+        "https://www.fao.org/biotech/biotech-news/rss/fr/",
+        "https://www.fao.org/biotech/biotech-news/rss/ru/",
+        "https://www.fao.org/biotech/biotech-news/rss/zh/",
+        "https://www.fao.org/economic/est/est-events-new/rss/es/",
+        "https://www.fao.org/emergencies/recursos/rss/audio-rss/es/",
+        "https://www.fao.org/emergencies/recursos/rss/map-rss/es/",
+        "https://www.fao.org/emergencies/recursos/rss/video-rss/es/",
+        "https://www.fao.org/emergencies/resources/rss/appeals-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/audio-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/documents-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/map-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/news-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/photo-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/projecthighlights-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/video-rss/en/",
+        "https://www.fao.org/emergencies/ressources/rss/photo-rss/fr/",
+        "https://www.fao.org/fao-stories/rss/en/",
+        "https://www.fao.org/feeds/fao-newsroom-rss",
+        "https://www.fao.org/feeds/fao-newsroom-rss-ru",
+        "https://www.fao.org/feeds/fao-newsroom-rss-zh",
+        "https://www.fao.org/in-action/rss/en/",
+        "https://www.fao.org/members-gateway/news/rss/en/",
+        "https://www.fao.org/members-gateway/news/rss/es/",
+        "https://www.fao.org/members-gateway/news/rss/fr/",
+        "https://www.fao.org/neareast/news/rss/en/",
+        "https://www.fao.org/neareast/news/rss/fr/",
+        "https://www.fao.org/zhc/rss/ar",
+        "https://www.fao.org/zhc/rss/en/",
+        "https://www.fao.org/zhc/rss/es/",
+        "https://www.fao.org/zhc/rss/fr",
+        "https://www.fao.org/zhc/rss/ru",
+        "https://www.fao.org/zhc/rss/zh"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-02-01T05:12:05.465Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.fao.org": {
+      "urls": [
+        "http://www.fao.org/biotech/biotech-news/rss/en/",
+        "http://www.fao.org/biotech/biotech-news/rss/es/",
+        "http://www.fao.org/biotech/biotech-news/rss/fr/",
+        "http://www.fao.org/biotech/biotech-news/rss/zh/",
+        "http://www.fao.org/economic/ess/ess-events/rss/en/",
+        "http://www.fao.org/economic/ess/ess-events/rss/es/",
+        "http://www.fao.org/economic/ess/ess-events/rss/fr/",
+        "http://www.fao.org/economic/est/est-events-new/rss/es/",
+        "http://www.fao.org/emergencies/resources/rss/appeals-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/audio-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/documents-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/map-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/news-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/photo-rss/en/",
+        "http://www.fao.org/emergencies/resources/rss/projecthighlights-rss/en/",
+        "http://www.fao.org/in-action/rss/en/",
+        "http://www.fao.org/members-gateway/news/rss/en/",
+        "http://www.fao.org/members-gateway/news/rss/es/",
+        "http://www.fao.org/members-gateway/news/rss/fr/",
+        "http://www.fao.org/neareast/news/rss/fr/",
+        "http://www.fao.org/nems/rss/rss_nems_results2.asp?owner=1&official=1&status=10&lang=en&maintype=2",
+        "http://www.fao.org/news/en/?no_cache=1&feed_id=16872&key=39&type=334",
+        "http://www.fao.org/news/en/?no_cache=1&feed_id=16872&type=334",
+        "http://www.fao.org/news/fr/?no_cache=1&feed_id=16872&type=334",
+        "http://www.fao.org/zhc/rss/en/",
+        "http://www.fao.org/zhc/rss/es/",
+        "http://www.fao.org/zhc/rss/fr",
+        "http://www.fao.org/zhc/rss/zh",
+        "https://www.fao.org/asiapacific/news/rss/en/",
+        "https://www.fao.org/biotech/biotech-news/rss/ar/",
+        "https://www.fao.org/biotech/biotech-news/rss/en/",
+        "https://www.fao.org/biotech/biotech-news/rss/es/",
+        "https://www.fao.org/biotech/biotech-news/rss/fr/",
+        "https://www.fao.org/biotech/biotech-news/rss/ru/",
+        "https://www.fao.org/biotech/biotech-news/rss/zh/",
+        "https://www.fao.org/economic/est/est-events-new/rss/es/",
+        "https://www.fao.org/emergencies/recursos/rss/audio-rss/es/",
+        "https://www.fao.org/emergencies/recursos/rss/map-rss/es/",
+        "https://www.fao.org/emergencies/recursos/rss/video-rss/es/",
+        "https://www.fao.org/emergencies/resources/rss/appeals-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/audio-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/documents-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/map-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/news-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/photo-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/projecthighlights-rss/en/",
+        "https://www.fao.org/emergencies/resources/rss/video-rss/en/",
+        "https://www.fao.org/emergencies/ressources/rss/photo-rss/fr/",
+        "https://www.fao.org/fao-stories/rss/en/",
+        "https://www.fao.org/feeds/fao-newsroom-rss",
+        "https://www.fao.org/feeds/fao-newsroom-rss-ru",
+        "https://www.fao.org/feeds/fao-newsroom-rss-zh",
+        "https://www.fao.org/in-action/rss/en/",
+        "https://www.fao.org/members-gateway/news/rss/en/",
+        "https://www.fao.org/members-gateway/news/rss/es/",
+        "https://www.fao.org/members-gateway/news/rss/fr/",
+        "https://www.fao.org/neareast/news/rss/en/",
+        "https://www.fao.org/neareast/news/rss/fr/",
+        "https://www.fao.org/zhc/rss/ar",
+        "https://www.fao.org/zhc/rss/en/",
+        "https://www.fao.org/zhc/rss/es/",
+        "https://www.fao.org/zhc/rss/fr",
+        "https://www.fao.org/zhc/rss/ru",
+        "https://www.fao.org/zhc/rss/zh"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-02-01T05:14:15.146Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rss.prod.scw01.meduza.io": {
+      "urls": [
+        "https://rss.prod.scw01.meduza.io/rss/all",
+        "https://rss.prod.scw01.meduza.io/rss/en/all",
+        "https://rss.prod.scw01.meduza.io/rss/news"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:19.954Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nato.int": {
+      "urls": [
+        "https://www.nato.int/cps/rss/en/natohq/rssFeed.xsl/rssFeed.xml",
+        "https://www.nato.int/cps/rss/en/natolive/rssFeed.xsl/rssFeed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:12:50.192Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "otvprim.tv": {
+      "urls": [
+        "https://otvprim.tv/rss.php",
+        "https://otvprim.tv/rss/latest-posts"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:08.733Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "unece.org": {
+      "urls": [
+        "http://www.unece.org/fileadmin/media-statistics-news.xml",
+        "https://unece.org/fileadmin/media-statistics-news.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:55.489Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.nato.int": {
+      "urls": [
+        "https://www.nato.int/cps/rss/en/natohq/rssFeed.xsl/rssFeed.xml",
+        "https://www.nato.int/cps/rss/en/natolive/rssFeed.xsl/rssFeed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:25.614Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "baku.ws": {
+      "urls": [
+        "https://baku.ws/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:23.198Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "business-vector.info": {
+      "urls": [
+        "https://www.business-vector.info/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-02-01T05:11:28.581Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dvinainform.ru:443": {
+      "urls": [
+        "https://www.dvinainform.ru:443/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:11:49.673Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ohchr.org": {
+      "urls": [
+        "https://www.ohchr.org/SiteAssets/feed.aspx?xsl=2&web=/EN/RSS&page=d9318928-45aa-4d37-87ca-4180b3d749ca&wp=627c8575-c285-496e-b3f9-9d6f97cd9c0f"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:04.502Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rsshub.app": {
+      "urls": [
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:13:20.989Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "verstov.info": {
+      "urls": [
+        "https://www.verstov.info/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:02.812Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.business-vector.info": {
+      "urls": [
+        "https://www.business-vector.info/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "business",
+        "last_checked": "2026-02-01T05:14:13.290Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.ohchr.org": {
+      "urls": [
+        "https://www.ohchr.org/SiteAssets/feed.aspx?xsl=2&web=/EN/RSS&page=d9318928-45aa-4d37-87ca-4180b3d749ca&wp=627c8575-c285-496e-b3f9-9d6f97cd9c0f"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:26.600Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "www.verstov.info": {
+      "urls": [
+        "https://www.verstov.info/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:14:37.353Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

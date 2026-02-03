@@ -1,0 +1,516 @@
+{
+  "country_code": "LV",
+  "language_code": "EN",
+  "total_domains": 31,
+  "total_feeds": 74,
+  "feeds": {
+    "panorama-rezekne.lv": {
+      "urls": [
+        "https://www.panorama-rezekne.lv/feed/",
+        "http://www.panorama-rezekne.lv/feed/",
+        "http://www.panorama-rezekne.lv/rss.xml",
+        "https://www.panorama-rezekne.lv/comments/feed/",
+        "http://www.panorama-rezekne.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2644,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:53.986Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "delfi.lv": {
+      "urls": [
+        "https://www.delfi.lv/rss/index.xml",
+        "https://www.delfi.lv/rss.php",
+        "https://www.delfi.lv/bizness/rss/index.xml",
+        "https://www.delfi.lv/rss/?channel=bizness"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 680,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:16.096Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "edruva.lv": {
+      "urls": [
+        "https://edruva.lv/feed/",
+        "http://edruva.lv/feed/",
+        "https://edruva.lv/comments/feed/",
+        "http://edruva.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1335,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:45.719Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ir.lv": {
+      "urls": [
+        "https://ir.lv/rss",
+        "https://ir.lv/feed/",
+        "https://ir.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1397,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:19.332Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dzirkstele.lv": {
+      "urls": [
+        "https://www.dzirkstele.lv/site_feed.xml",
+        "https://dzirkstele.lv/feed/",
+        "https://dzirkstele.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1851,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:13.331Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "aprinkis.lv": {
+      "urls": [
+        "https://www.aprinkis.lv/index.php?format=feed&type=atom",
+        "https://www.aprinkis.lv/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1142,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:19.742Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rv.lv": {
+      "urls": [
+        "http://www.rv.lv/feed/",
+        "http://www.rv.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1489,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:15.326Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rekurzeme.lv": {
+      "urls": [
+        "https://rekurzeme.lv/feed/",
+        "https://rekurzeme.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1695,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:00.892Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "puaro.lv": {
+      "urls": [
+        "https://puaro.lv/feed/",
+        "https://puaro.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1934,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:45.585Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vestnesis.lv": {
+      "urls": [
+        "https://www.vestnesis.lv/feed/JL",
+        "https://www.vestnesis.lv/feed/OP/319/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1992,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:29.356Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mixnews.lv": {
+      "urls": [
+        "https://mixnews.lv/feed/",
+        "https://mixnews.lv/feed/gn/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2443,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:57.001Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "retalsi.lv": {
+      "urls": [
+        "https://retalsi.lv/feed/",
+        "https://retalsi.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2791,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:56.779Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zz.lv": {
+      "urls": [
+        "https://zz.lv/feed/",
+        "https://zz.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3047,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:03.942Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziemellatvija.lv": {
+      "urls": [
+        "https://ziemellatvija.lv/feed/",
+        "https://ziemellatvija.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3889,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:49.761Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "la.lv": {
+      "urls": [
+        "https://www.la.lv/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 763,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:18.598Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gorod.lv": {
+      "urls": [
+        "https://www.gorod.lv/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 788,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:57.790Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jauns.lv": {
+      "urls": [
+        "https://jauns.lv/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 841,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:53.071Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "grani.lv": {
+      "urls": [
+        "https://www.grani.lv/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1133,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:58.923Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "apollo.lv": {
+      "urls": [
+        "https://www.apollo.lv/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1159,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:15.416Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diena.lv": {
+      "urls": [
+        "https://www.diena.lv/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1737,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:17.834Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nra.lv": {
+      "urls": [
+        "https://nra.lv/rss/jaunakas-zinas/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2096,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:24.646Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tvnet.lv": {
+      "urls": [
+        "https://www.tvnet.lv/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2469,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:52.230Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ventspils.lv": {
+      "urls": [
+        "https://www.ventspils.lv/lat/pilseta_parvalde/rss",
+        "https://www.ventspils.lv/rus/gorod_upravlenie/rss",
+        "https://www.ventspils.lv/lat/ekonomika/rss",
+        "https://www.ventspils.lv/lat/sports/rss",
+        "https://www.ventspils.lv/rus/razvlecenia_kul_tura/rss",
+        "https://www.ventspils.lv/lat/izklaide_kultura/rss",
+        "https://www.ventspils.lv/rus/ekonomika/rss",
+        "https://www.ventspils.lv/rus/sport/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:39.386Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ntz.lv": {
+      "urls": [
+        "https://www.ntz.lv/feed/",
+        "https://www.ntz.lv/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:31.745Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "news.lv": {
+      "urls": [
+        "https://news.lv/rss.xml",
+        "http://news.lv/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:43.648Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bb.lv": {
+      "urls": [
+        "https://bb.lv/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:22.550Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "novaja.lv": {
+      "urls": [
+        "http://www.novaja.lv/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:44.161Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "d-fakti.lv": {
+      "urls": [
+        "http://www.d-fakti.lv/lv/export/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:48.101Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "subbota.com": {
+      "urls": [
+        "http://www.subbota.com/feed/",
+        "http://www.subbota.com/category/s18-blogs/feed/",
+        "http://www.subbota.com/category/s18-blogs/c330-linderman/feed/",
+        "http://www.subbota.com/category/s18-blogs/c331-zadornov/feed/",
+        "http://www.subbota.com/category/s18-blogs/c333-hudenko/feed/",
+        "http://www.subbota.com/category/s18-blogs/c342-troshkina/feed/",
+        "http://www.subbota.com/category/s18-blogs/c356-bil-fifilin/feed/",
+        "http://www.subbota.com/category/s18-blogs/mark-dubovskij/feed/",
+        "http://www.subbota.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3238,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:51.340Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "latviansonline.com": {
+      "urls": [
+        "https://latviansonline.com/feed/",
+        "https://latviansonline.com/category/blogs/feed/",
+        "https://latviansonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3637,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:41.779Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "pietiek.com": {
+      "urls": [
+        "https://pietiek.com/rss/",
+        "https://www.pietiek.com/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2558,
+        "category": "general",
+        "last_checked": "2026-02-01T04:20:06.527Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

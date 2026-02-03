@@ -1,0 +1,2105 @@
+{
+  "country_code": "PL",
+  "language_code": "EN",
+  "total_domains": 107,
+  "total_feeds": 599,
+  "feeds": {
+    "interia.pl": {
+      "urls": [
+        "https://sport.interia.pl/feed",
+        "https://wydarzenia.interia.pl/feed",
+        "https://biznes.interia.pl/feed",
+        "https://wydarzenia.interia.pl/zagranica/feed",
+        "https://www.pomponik.pl/feed",
+        "https://fakty.interia.pl/feed",
+        "https://wydarzenia.interia.pl/kraj/feed",
+        "https://gry.interia.pl/feed",
+        "https://motoryzacja.interia.pl/feed",
+        "https://film.interia.pl/wiadomosci/feed",
+        "https://geekweek.interia.pl/feed",
+        "https://wydarzenia.interia.pl/swiat/feed",
+        "https://sport.interia.pl/pilka-nozna/feed",
+        "https://film.interia.pl/feed",
+        "https://muzyka.interia.pl/feed",
+        "https://kobieta.interia.pl/feed",
+        "https://sport.interia.pl/pilka-nozna/ekstraklasa/feed",
+        "https://zielona.interia.pl/feed",
+        "https://muzyka.interia.pl/wiadomosci/feed",
+        "https://wydarzenia.interia.pl/polska/feed",
+        "https://muzyka.interia.pl/pop/feed",
+        "https://sport.interia.pl/pilka-nozna/liga-mistrzow/feed",
+        "https://sport.interia.pl/tenis/feed",
+        "https://zielona.interia.pl/aktualnosci/feed",
+        "https://zielona.interia.pl/przyroda/feed",
+        "https://zielona.interia.pl/wiadomosci/feed",
+        "https://menway.interia.pl/feed",
+        "https://motoryzacja.interia.pl/wiadomosci/feed",
+        "https://nt.interia.pl/feed",
+        "https://zielona.interia.pl/autor/radoslaw-nawrot/feed",
+        "https://zielona.interia.pl/wiadomosci/polska/feed",
+        "https://zielona.interia.pl/wiadomosci/swiat/feed",
+        "https://muzyka.interia.pl/rock/feed",
+        "https://biznes.interia.pl/firma/feed",
+        "https://muzyka.interia.pl/koncerty/feed",
+        "https://muzyka.interia.pl/metal/feed",
+        "https://programtv.interia.pl/feed",
+        "https://wydarzenia.interia.pl/autor/feed",
+        "https://zielona.interia.pl/przyroda/zwierzeta/feed",
+        "https://film.interia.pl/recenzje/feed",
+        "https://sport.interia.pl/koszykowka/feed",
+        "https://wydarzenia.interia.pl/ciekawostki/feed",
+        "https://zielona.interia.pl/dom-ogrod/feed",
+        "https://zielona.interia.pl/tylko-u-nas/feed",
+        "https://biznes.interia.pl/podatki/feed",
+        "https://biznes.interia.pl/podcast-gwiazdowski-mowi-interii/feed",
+        "https://film.interia.pl/telewizja/feed",
+        "https://film.interia.pl/wywiady/feed",
+        "https://muzyka.interia.pl/artykuly/feed",
+        "https://muzyka.interia.pl/disco-polo/feed",
+        "https://muzyka.interia.pl/hip-hop/feed",
+        "https://muzyka.interia.pl/recenzje/feed",
+        "https://muzyka.interia.pl/wywiady/feed",
+        "https://sport.interia.pl/kolarstwo/feed",
+        "https://wydarzenia.interia.pl/historia/feed",
+        "https://wydarzenia.interia.pl/kultura/feed",
+        "https://wydarzenia.interia.pl/nauka/feed",
+        "https://wydarzenia.interia.pl/opinie/feed",
+        "https://wydarzenia.interia.pl/religia/feed",
+        "https://wydarzenia.interia.pl/wywiady/feed",
+        "https://zielona.interia.pl/dzien-czystego-powietrza/feed",
+        "https://zielona.interia.pl/eko-technologie/feed",
+        "https://zielona.interia.pl/klimat/feed",
+        "https://zielona.interia.pl/korbanarower/feed",
+        "https://zielona.interia.pl/nie-jestem-twoim-misiem/feed",
+        "https://zielona.interia.pl/podcast/feed",
+        "https://zielona.interia.pl/smieci-plastik/feed",
+        "https://zielona.interia.pl/smog/feed",
+        "https://zielona.interia.pl/tylko-w-zielonej-interii/feed",
+        "https://zielona.interia.pl/wideo/feed",
+        "https://biznes.interia.pl/gieldy/aktualnosci/feed",
+        "https://biznes.interia.pl/waluty/aktualnosci/feed",
+        "https://kobieta.interia.pl/raport-podcast-zony-warszawy/artykuly/feed",
+        "https://kobieta.interia.pl/raport-podcast-zony-warszawy/odcinki/feed",
+        "https://programtv.interia.pl/hity/dla-dzieci/feed",
+        "https://programtv.interia.pl/hity/dokument/feed",
+        "https://programtv.interia.pl/hity/filmy/feed",
+        "https://programtv.interia.pl/hity/rozrywka/feed",
+        "https://programtv.interia.pl/hity/seriale/feed",
+        "https://programtv.interia.pl/hity/sport/feed",
+        "https://wydarzenia.interia.pl/opinie/graczyk/feed",
+        "https://wydarzenia.interia.pl/opinie/jasinski/feed",
+        "https://wydarzenia.interia.pl/opinie/majcherek/feed",
+        "https://zielona.interia.pl/autor/magdalena-mateja-furmanik/feed",
+        "https://zielona.interia.pl/eko-technologie/czysty-transport/feed",
+        "https://zielona.interia.pl/eko-technologie/energetyka/feed",
+        "https://zielona.interia.pl/przyroda/psy/feed",
+        "https://muzyka.interia.pl/alternatywa/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1031,
+        "category": "sports",
+        "last_checked": "2026-02-01T12:05:30.632Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rmf24.pl": {
+      "urls": [
+        "https://www.rmf24.pl/fakty/feed",
+        "https://www.rmf24.pl/fakty/polska/feed",
+        "https://www.rmf24.pl/fakty/swiat/feed",
+        "https://www.rmf24.pl/feed",
+        "https://www.rmf24.pl/podcast/fakty/feed",
+        "https://www.rmf24.pl/regiony/feed",
+        "https://www.rmf24.pl/fakty/polityka/feed",
+        "https://www.rmf24.pl/ekonomia/feed",
+        "https://www.rmf24.pl/podcast/jeszcze-wiecej-informacji/feed",
+        "https://www.rmf24.pl/sport/feed",
+        "https://www.rmf24.pl/filmy/feed",
+        "https://www.rmf24.pl/kultura/feed",
+        "https://www.rmf24.pl/nauka/feed",
+        "https://www.rmf24.pl/regiony/krakow/feed",
+        "https://www.rmf24.pl/regiony/warszawa/feed",
+        "https://www.rmf24.pl/regiony/trojmiasto/feed",
+        "https://www.rmf24.pl/regiony/slaskie/feed",
+        "https://www.rmf24.pl/regiony/wroclaw/feed",
+        "https://www.rmf24.pl/rozrywka/ciekawostki/feed",
+        "https://www.rmf24.pl/tylko-w-rmf24/feed",
+        "https://www.rmf24.pl/tylko-w-rmf24/wywiady/feed",
+        "https://www.rmf24.pl/regiony/lodz/feed",
+        "https://www.rmf24.pl/regiony/lublin/feed",
+        "https://www.rmf24.pl/regiony/poznan/feed",
+        "https://www.rmf24.pl/regiony/szczecin/feed",
+        "https://www.rmf24.pl/regiony/zakopane/feed",
+        "https://www.rmf24.pl/fakty/podsumowanie-dnia/feed",
+        "https://www.rmf24.pl/goraca-linia/wasze-fakty/feed",
+        "https://www.rmf24.pl/podcast/hity-ameryki/feed",
+        "https://www.rmf24.pl/podcast/magazyn-sportowy/feed",
+        "https://www.rmf24.pl/podcast/naukowo-rzecz-ujmujac/feed",
+        "https://www.rmf24.pl/podcast/podsumowanie-dnia/feed",
+        "https://www.rmf24.pl/podcast/popoludniowa-rozmowa/feed",
+        "https://www.rmf24.pl/podcast/poranna-rozmowa/feed",
+        "https://www.rmf24.pl/podcast/rozmowa-o-7/feed",
+        "https://www.rmf24.pl/podcast/rozmowa/feed",
+        "https://www.rmf24.pl/podcast/twoje-zdrowie/feed",
+        "https://www.rmf24.pl/podcast/wielkie-pieniadze/feed",
+        "https://www.rmf24.pl/podcast/wywiady/feed",
+        "https://www.rmf24.pl/regiony/olsztyn/feed",
+        "https://www.rmf24.pl/regiony/rzeszow/feed",
+        "https://www.rmf24.pl/tylko-w-rmf24/komentarze/feed",
+        "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/feed",
+        "https://www.rmf24.pl/tylko-w-rmf24/poranna-rozmowa/feed",
+        "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/feed",
+        "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-poludnie/feed",
+        "https://www.rmf24.pl/tylko-w-rmf24/rozmowa/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1147,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:41.299Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dziennik.pl": {
+      "urls": [
+        "http://rss.dziennik.pl/Dziennik-PL",
+        "http://rss.dziennik.pl/Dziennik-PL/",
+        "https://www.dziennik.pl/.feed",
+        "http://rss.dziennik.pl/Dziennik-Wiadomosci",
+        "https://wiadomosci.dziennik.pl/.feed",
+        "https://edukacja.dziennik.pl/.feed",
+        "http://rss.dziennik.pl/Dziennik-Edukacja",
+        "http://rss.dziennik.pl/Dziennik-Film",
+        "http://rss.dziennik.pl/Dziennik-Zdrowie%20",
+        "https://film.dziennik.pl/.feed",
+        "https://gospodarka.dziennik.pl/.feed",
+        "https://sport.dziennik.pl/.feed",
+        "https://auto.dziennik.pl/.feed",
+        "https://gotowanie.dziennik.pl/.feed",
+        "https://kobieta.dziennik.pl/.feed",
+        "http://rss.dziennik.pl/Dziennik-Gospodarka",
+        "https://zdrowie.dziennik.pl/.feed",
+        "https://hobby.dziennik.pl/.feed",
+        "https://kultura.dziennik.pl/.feed",
+        "https://muzyka.dziennik.pl/.feed",
+        "https://nieruchomosci.dziennik.pl/.feed",
+        "https://podroze.dziennik.pl/.feed",
+        "https://rozrywka.dziennik.pl/.feed",
+        "https://technologia.dziennik.pl/.feed",
+        "http://rss.dziennik.pl/Dziennik-Sport",
+        "http://rss.dziennik.pl/Dziennik-Auto",
+        "http://rss.dziennik.pl/Dziennik-Kobieta",
+        "http://rss.dziennik.pl/Dziennik-Zdrowie",
+        "http://rss.dziennik.pl/Dziennik-Kultura",
+        "http://rss.dziennik.pl/Dziennik-Muzyka",
+        "http://rss.dziennik.pl/Dziennik-Nieruchomosci",
+        "http://rss.dziennik.pl/Dziennik-Podroze",
+        "http://rss.dziennik.pl/Dziennik-Rozrywka",
+        "http://rss.dziennik.pl/Dziennik-Student",
+        "http://rss.dziennik.pl/Dziennik-Technologia"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1068,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:42.145Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wroclaw.naszemiasto.pl": {
+      "urls": [
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1026.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/103.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1033.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1066.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1086.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1253.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1285.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1363.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/1405.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/254.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/3.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/366.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/39.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/402.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/41.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/43.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/45.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/453.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/49.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/59.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/61.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/63.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/65.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/653.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/677.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/7.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/767.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/779.xml",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/478.html?201012",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/478.html?202003",
+        "https://wroclaw.naszemiasto.pl/rss/artykuly/89.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 915,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:00.020Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wprost.pl": {
+      "urls": [
+        "https://www.wprost.pl/rss",
+        "https://www.wprost.pl/rss/kraj",
+        "https://www.wprost.pl/rss/wiadomosci",
+        "https://www.wprost.pl/rss/forum",
+        "https://rozrywka.wprost.pl/rss",
+        "https://rozrywka.wprost.pl/rss/news",
+        "https://rozrywka.wprost.pl/rss/gwiazdy",
+        "https://sport.wprost.pl/rss",
+        "https://www.wprost.pl/rss/prime-time",
+        "https://rozrywka.wprost.pl/rss/seriale",
+        "https://www.wprost.pl/rss/wybory-2019",
+        "https://www.wprost.pl/rss/opinie-i-komentarze",
+        "https://www.wprost.pl/rss/polityka",
+        "https://historia.wprost.pl/rss",
+        "https://pogoda.wprost.pl/rss",
+        "https://rozrywka.wprost.pl/rss/telewizja",
+        "https://rozrywka.wprost.pl/rss/zwiastuny",
+        "https://www.wprost.pl/rss/premium",
+        "https://www.wprost.pl/rss/swiat",
+        "https://sport.wprost.pl/rss/pilka-nozna",
+        "https://www.wprost.pl/rss/historia",
+        "https://www.wprost.pl/rss/pogoda",
+        "https://www.wprost.pl/rss/sport",
+        "https://www.wprost.pl/rss/zycie",
+        "https://rozrywka.wprost.pl/rss/quizy",
+        "https://sport.wprost.pl/rss/siatkowka",
+        "https://www.wprost.pl/rss/kultura",
+        "https://www.wprost.pl/rss/quizy",
+        "https://www.wprost.pl/rss/tylko-u-nas"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1127,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:37.901Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wirtualnemedia.pl": {
+      "urls": [
+        "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
+        "https://www.wirtualnemedia.pl/rss/aktualnosci",
+        "https://www.wirtualnemedia.pl/rss/wm_telewizja_rss.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_reklama.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_prasa.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_radio.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_telekomunikacja.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_relations.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_kulturarozrywka.xml",
+        "https://www.wirtualnemedia.pl/rss/wm_marketing.xml",
+        "http://tv.wirtualnemedia.pl/rss.xml",
+        "http://blog.wirtualnemedia.pl/feed",
+        "http://blog.wirtualnemedia.pl/marcin-szumichora/feed",
+        "http://blog.wirtualnemedia.pl/regulamin/feed",
+        "http://blog.wirtualnemedia.pl/category/bez-kategorii/feed",
+        "http://blog.wirtualnemedia.pl/category/telewizja/feed",
+        "http://blog.wirtualnemedia.pl/marcin-szumichora/post/marcin-szumichora-wirtualne-media-wirtualnemedia-pl-10/feed",
+        "http://blog.wirtualnemedia.pl/marcin-szumichora/post/marcin-szumichora-wirtualne-media-wirtualnemedia-pl-11/feed",
+        "http://blog.wirtualnemedia.pl/marcin-szumichora/post/marcin-szumichora-wirtualne-media-wirtualnemedia-pl-3/feed",
+        "http://blog.wirtualnemedia.pl/marcin-szumichora/post/marcin-szumichora-wirtualnemedia-wirtualne-media/feed",
+        "http://blog.wirtualnemedia.pl/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1393,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:45.481Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wpolityce.pl": {
+      "urls": [
+        "https://feeds.feedburner.com/wPolitycepl",
+        "http://feeds.feedburner.com/wPolitycepl",
+        "https://feeds.feedburner.com/wPolityce-polityka",
+        "https://feeds.feedburner.com/wPolityce-swiat",
+        "https://feeds.feedburner.com/wPolityce-premium",
+        "https://feeds.feedburner.com/wPolityce-gospodarka",
+        "https://feeds.feedburner.com/wPolityce-kosciol",
+        "https://feeds.feedburner.com/wPolityce-historia",
+        "https://feeds.feedburner.com/wPolityce-media",
+        "https://feeds.feedburner.com/wPolityce-spoleczenstwo",
+        "https://feeds.feedburner.com/wPolityce-sport",
+        "https://feeds.feedburner.com/TygodnikSIECI-wydanie-biezace",
+        "https://feeds.feedburner.com/wPolityce-facts-from-poland",
+        "https://feeds.feedburner.com/wPolityce-kultura",
+        "https://feeds.feedburner.com/wPolityce-smolensk",
+        "https://feeds.feedburner.com/wPolityce-tag-zdrowie"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 816,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:40.142Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dorzeczy.pl": {
+      "urls": [
+        "https://dorzeczy.pl/feed/",
+        "https://dorzeczy.pl/feed",
+        "https://dorzeczy.pl/feed/opinie",
+        "https://dorzeczy.pl/feed/obserwator-mediow",
+        "https://dorzeczy.pl/feed/kraj",
+        "https://dorzeczy.pl/feed/ekonomia",
+        "https://dorzeczy.pl/feed/swiat",
+        "https://dorzeczy.pl/feed/historia",
+        "https://dorzeczy.pl/feed/religia",
+        "https://dorzeczy.pl/feed/felietony",
+        "https://dorzeczy.pl/feed/komentarz-dnia",
+        "https://dorzeczy.pl/feed/kultura",
+        "https://dorzeczy.pl/feed/styl",
+        "https://dorzeczy.pl/feed/subotnik-ziemkiewicza",
+        "https://dorzeczy.pl/feed/tygodnik",
+        "https://dorzeczy.pl/feed/subotnik-ziemkiewicza/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1058,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:10.401Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "polskieradio.pl": {
+      "urls": [
+        "https://www.polskieradio.pl/Podcast/b865587a-a52a-43f1-9b58-42dd9aecdb87",
+        "https://polskieradio.pl/Podcast/101bcbbb-d367-428e-b3e5-29843580150e",
+        "https://www.polskieradio.pl/Podcast/101bcbbb-d367-428e-b3e5-29843580150e",
+        "https://polskieradio.pl/Podcast/53615c53-c936-4aca-9e37-9d9266ffca63",
+        "https://polskieradio.pl/Podcast/6aacfefb-c7b0-4695-9af1-b4b7045c9d45",
+        "https://polskieradio.pl/Podcast/8303e3fc-c5f6-45f2-9f1a-4e7fe5f0297c",
+        "https://www.polskieradio.pl/Podcast/0ace19e8-ed65-4232-9f43-affc040ca14d",
+        "https://www.polskieradio.pl/Podcast/18852674-e24a-4063-9c42-5b2887482c1a",
+        "https://www.polskieradio.pl/Podcast/6e8788c0-1d6e-4cce-b04b-765a80ac52e0",
+        "https://www.polskieradio.pl/Podcast/8beb74cb-31b6-4fb6-a8b2-68fd642e5219",
+        "https://www.polskieradio.pl/Podcast/ab975665-b332-40a9-94fe-08a9a998fd78",
+        "https://www.polskieradio.pl/Podcast/d8966907-5e3d-46e9-bec0-25b826c0ab9d",
+        "https://www.polskieradio.pl/Podcast/ed6dc47e-7c5c-4af0-9ce5-f17272510f0d",
+        "https://www.polskieradio.pl/Podcast/ee94502f-95aa-4ffa-8a20-74a8fba36052"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1765,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:01.515Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "polska-zbrojna.pl": {
+      "urls": [
+        "https://polska-zbrojna.pl/Services/Feed.svc/GetArticleFeed",
+        "https://polska-zbrojna.pl/Services/Feed.svc/GetArticleInMagazineFeed",
+        "https://polska-zbrojna.pl/Services/Feed.svc/GetGalleryFeed",
+        "https://polska-zbrojna.pl/Services/Feed.svc/GetVideoFeed",
+        "https://www.polska-zbrojna.pl/Services/Feed.svc/GetArticleFeed",
+        "https://www.polska-zbrojna.pl/Services/Feed.svc/GetArticleInMagazineFeed",
+        "https://www.polska-zbrojna.pl/Services/Feed.svc/GetGalleryFeed",
+        "https://www.polska-zbrojna.pl/Services/Feed.svc/GetVideoFeed",
+        "http://www.polska-zbrojna.pl/Services/Feed.svc/GetArticleFeed",
+        "http://www.polska-zbrojna.pl/Services/Feed.svc/GetArticleInMagazineFeed",
+        "http://www.polska-zbrojna.pl/Services/Feed.svc/GetGalleryFeed",
+        "http://www.polska-zbrojna.pl/Services/Feed.svc/GetVideoFeed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 260,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:16.919Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "spidersweb.pl": {
+      "urls": [
+        "https://spidersweb.pl/api/plus/feed/feed-gn",
+        "https://spidersweb.pl/api/post/feed/feed-gn",
+        "https://www.spidersweb.pl/rozrywka/feed/",
+        "https://bizblog.spidersweb.pl/api/feed/feed-gn",
+        "https://rozrywka.spidersweb.pl/api/feed/feed-gn",
+        "https://spidersweb.pl/bizblog/feed/",
+        "https://spidersweb.pl/bizblog/tag/atom-technologia-usa/feed/",
+        "https://spidersweb.pl/bizblog/tag/atom-z-usa/feed/",
+        "https://spidersweb.pl/bizblog/tag/polski-atom/feed/",
+        "https://autoblog.spidersweb.pl/api/feed/feed-gn",
+        "https://spidersweb.pl/autoblog/feed/",
+        "https://spidersweb.pl/bizblog/tag/energia-jadrowa/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 813,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:47.619Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rp.pl": {
+      "urls": [
+        "https://www.rp.pl/rss/1-wydarzenia",
+        "https://www.rp.pl/rss_main",
+        "https://www.rp.pl/rss_main?unknown-old-rss",
+        "https://www.rp.pl/rss/1056",
+        "https://www.rp.pl/rss/451-ekonomia",
+        "https://www.rp.pl/rss/671-prawo",
+        "https://energia.rp.pl/rss/4471-atom",
+        "https://www.rp.pl/rss/11-kraj",
+        "https://energia.rp.pl/rss/4351-energetyka",
+        "https://www.rp.pl/rss/1019",
+        "https://www.rp.pl/rss/261-kultura"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 829,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:30.396Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gosc.pl": {
+      "urls": [
+        "https://blog.gosc.pl/MalgorzataGajos/feed/rss",
+        "https://blog.gosc.pl/ksWojciechWegrzyniak/feed/rss",
+        "https://www.gosc.pl/rss/rtr/c7a21.Aktualnosci-z-Gosciem-Niedzielnym",
+        "https://blog.gosc.pl/MalgorzataGajos/feed",
+        "https://blog.gosc.pl/ksWojciechWegrzyniak/feed",
+        "https://blog.gosc.pl/MalgorzataGajos/feed/atom",
+        "https://blog.gosc.pl/ksWojciechWegrzyniak/feed/atom",
+        "https://www.gosc.pl/rss/rtr/c7a2a.Liturgia-z-Gosciem-Niedzielnym",
+        "https://www.gosc.pl/rss/rtr/647501.Komentarze-Goscia",
+        "https://blog.gosc.pl/MalgorzataGajos/comments/feed",
+        "https://blog.gosc.pl/ksWojciechWegrzyniak/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1299,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:06.290Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "antyweb.pl": {
+      "urls": [
+        "https://antyweb.pl/feed",
+        "https://antyweb.pl/feed/",
+        "https://antyweb.pl/iphone-11-ipad-opinie-podcast/feed/",
+        "https://antyweb.pl/najlepsze-smartfony-2020-roku-podcast/feed/",
+        "https://antyweb.pl/wywiad-tokio-profesor-dom-z-papieru-netflix-podcast/feed/",
+        "https://antyweb.pl/wywiad-podcast-marcin-dobas-fotograf-national-geographic/feed/",
+        "https://antyweb.pl/category/podcast-antyweb-po-godzinach/feed",
+        "https://antyweb.pl/gospodarka-pandemia-podcast/feed/",
+        "https://antyweb.pl/category/podcast-antyweb-po-godzinach/feed/",
+        "https://antyweb.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1074,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:50.092Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "niezalezna.pl": {
+      "urls": [
+        "https://niezalezna.pl/feed",
+        "https://niezalezna.pl/feed/polska",
+        "https://niezalezna.pl/feed/polityka",
+        "https://niezalezna.pl/feed/lifestyle",
+        "https://niezalezna.pl/feed/swiat",
+        "https://niezalezna.pl/feed/media",
+        "https://niezalezna.pl/feed/sport",
+        "https://niezalezna.pl/feed/kultura-i-historia",
+        "https://niezalezna.pl/feed/gospodarka"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1061,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:33.508Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "forbes.pl": {
+      "urls": [
+        "https://www.forbes.pl/.feed",
+        "https://www.forbes.pl/podcast-forbes-inwestycje.feed",
+        "https://www.forbes.pl/podcast-forbes.feed",
+        "https://www.forbes.pl/podcast.feed",
+        "https://www.forbes.pl/forbeswomen.feed",
+        "https://www.forbes.pl/gospodarka.feed",
+        "https://www.forbes.pl/inwestowanie.feed",
+        "https://www.forbes.pl/kariera.feed",
+        "https://www.forbes.pl/wiadomosci.feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1214,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:51.723Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sport.pl": {
+      "urls": [
+        "https://www.sport.pl/pub/rss/sport/pilka_nozna.htm",
+        "https://www.sport.pl/pub/rss/sport.xml",
+        "https://www.sport.pl/pub/rss/sport/pilka_nozna.xml",
+        "http://rss.gazeta.pl/pub/rss/sport.xml",
+        "https://www.sport.pl/pub/rss/koszykowka.xml",
+        "https://www.sport.pl/pub/rss/sportf1.xml",
+        "https://www.sport.pl/pub/rss/koszykowka.htm",
+        "https://www.sport.pl/pub/rss/sportf1.htm"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1650,
+        "category": "sports",
+        "last_checked": "2026-02-01T12:04:44.551Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "money.pl": {
+      "urls": [
+        "https://www.money.pl/rss/rss.xml",
+        "https://www.money.pl/rss/",
+        "https://www.money.pl/d/rss/komunikaty.xml",
+        "https://www.money.pl/rss/rss-gielda.xml",
+        "https://www.money.pl/rss/rss-gospodarka.xml",
+        "https://www.money.pl/rss/rss-podatki.xml",
+        "https://www.money.pl/rss/rss-waluty.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1078,
+        "category": "business",
+        "last_checked": "2026-02-01T12:04:50.279Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gazeta.pl": {
+      "urls": [
+        "https://kobieta.gazeta.pl/pub/rss/kobieta.htm",
+        "https://wiadomosci.gazeta.pl/pub/rss/wiadomosci.htm",
+        "https://wiadomosci.gazeta.pl/pub/rss/wiadomosci.xml",
+        "https://kobieta.gazeta.pl/pub/rss/kobieta.xml",
+        "https://next.gazeta.pl/pub/rss/rssnext.xml",
+        "https://wiadomosci.gazeta.pl/pub/rss/wiadomosci_swiat.xml",
+        "https://weekend.gazeta.pl/pub/rss/weekend.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1703,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:28.193Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gazetaprawna.pl": {
+      "urls": [
+        "http://rss.gazetaprawna.pl/GazetaPrawna",
+        "https://www.gazetaprawna.pl/.feed",
+        "http://rss.gazetaprawna.pl/GazetaPrawna-Podatki",
+        "http://rss.gazetaprawna.pl/GazetaPrawna-Biznes",
+        "http://rss.gazetaprawna.pl/GazetaPrawna-Prawo",
+        "http://rss.gazetaprawna.pl/GazetaPrawna-Finanse",
+        "http://rss.gazetaprawna.pl/GazetaPrawna-Praca"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1759,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:26.484Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zw.com.pl": {
+      "urls": [
+        "https://www.zw.com.pl/rss/1.html",
+        "https://www.zw.com.pl/rss/2.html",
+        "https://zw.com.pl/rss/1.html",
+        "https://zw.com.pl/rss/2.html",
+        "https://zyciewarszawy.pl/rss_main",
+        "http://www.zw.com.pl/rss/1.html",
+        "http://www.zw.com.pl/rss/2.html"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1943,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:39.847Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bankier.pl": {
+      "urls": [
+        "https://www.bankier.pl/rss/espi.xml",
+        "https://www.bankier.pl/rss/gielda.xml",
+        "https://www.bankier.pl/rss/firma.xml",
+        "https://www.bankier.pl/rss/waluty.xml",
+        "https://www.bankier.pl/rss/finanse.xml",
+        "https://www.bankier.pl/rss/wiadomosci.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1125,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:49.063Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wykop.pl": {
+      "urls": [
+        "https://www.wykop.pl/rss/upcoming/",
+        "https://wykop.pl/rss/upcoming",
+        "https://www.wykop.pl/rss/",
+        "https://wykop.pl/rss",
+        "https://wykop.pl/rss/comments",
+        "https://www.wykop.pl/rss/comments/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1653,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:39.126Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsweek.pl": {
+      "urls": [
+        "https://www.newsweek.pl/rss.xml",
+        "https://www.newsweek.pl/.feed",
+        "https://www.newsweek.pl/polska.feed",
+        "https://www.newsweek.pl/podcast.feed",
+        "https://www.newsweek.pl/historia-kobiet-podcast-katarzyny-wezyk.feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 402,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:07.606Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "supernowosci24.pl": {
+      "urls": [
+        "https://supernowosci24.pl/feed/atom/",
+        "https://supernowosci24.pl/feed/",
+        "http://supernowosci24.pl/feed/",
+        "https://supernowosci24.pl/comments/feed/",
+        "http://supernowosci24.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1548,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:12.819Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ws-24.pl": {
+      "urls": [
+        "https://ws-24.pl/feed/",
+        "https://ws-24.pl/feed/atom/",
+        "http://ws-24.pl/feed/",
+        "http://ws-24.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 842,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:29.509Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sztafeta.pl": {
+      "urls": [
+        "https://sztafeta.pl/feed/",
+        "http://www.sztafeta.pl/feed/",
+        "https://sztafeta.pl/comments/feed/",
+        "http://www.sztafeta.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1364,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:23.670Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "perspektywy.pl": {
+      "urls": [
+        "https://perspektywy.pl/portal/index.php?format=feed&type=atom",
+        "https://perspektywy.pl/portal/index.php?format=feed&type=rss",
+        "http://perspektywy.pl/portal/index.php?format=feed&type=atom",
+        "http://perspektywy.pl/portal/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3925,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:10.478Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sportowefakty.wp.pl": {
+      "urls": [
+        "https://sportowefakty.wp.pl/rss.xml",
+        "https://sportowefakty.wp.pl/pilka-nozna/rss.xml",
+        "https://sportowefakty.wp.pl/formula-1/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 883,
+        "category": "sports",
+        "last_checked": "2026-02-01T12:04:45.458Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wyborcza.pl": {
+      "urls": [
+        "https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml",
+        "https://wyborcza.pl/pub/rss/gazetawyborcza_kraj.xml",
+        "http://rss.gazeta.pl/pub/rss/najnowsze_wyborcza.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1227,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:41.076Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "studiaporadoznawcze.pl": {
+      "urls": [
+        "https://studiaporadoznawcze.pl/ojs/index.php/sp/gateway/plugin/WebFeedGatewayPlugin/atom",
+        "https://studiaporadoznawcze.pl/ojs/index.php/sp/gateway/plugin/WebFeedGatewayPlugin/rss",
+        "https://studiaporadoznawcze.pl/ojs/index.php/sp/gateway/plugin/WebFeedGatewayPlugin/rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1330,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:26.445Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pcformat.pl": {
+      "urls": [
+        "https://pcformat.pl/rss/aktualnosci",
+        "https://s.pcformat.pl/rss/news.rss",
+        "http://s.pcformat.pl/rss/news.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1333,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:56.533Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "glamour.pl": {
+      "urls": [
+        "https://www.glamour.pl/feed/atom",
+        "https://www.glamour.pl/feed",
+        "https://www.glamour.pl/feed/rdf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1379,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:13.139Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fakt.pl": {
+      "urls": [
+        "https://www.fakt.pl/rss-articles.xml",
+        "https://www.fakt.pl/?rss",
+        "https://www.fakt.pl/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1523,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:22.744Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "urania.edu.pl": {
+      "urls": [
+        "https://www.urania.edu.pl/rss.xml",
+        "https://www.urania.edu.pl/rss2.xml",
+        "http://urania.edu.pl/rss2.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1939,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:20.499Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "trybuna.com.pl": {
+      "urls": [
+        "https://trybuna.com.pl/feed/",
+        "http://trybuna.com.pl/feed/",
+        "https://trybuna.com.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2643,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:36.772Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tygodnikpowszechny.pl": {
+      "urls": [
+        "https://www.tygodnikpowszechny.pl/rss.xml",
+        "https://www.tygodnikpowszechny.pl/podcasts/18945"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 394,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:42.544Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kurierlubelski.pl": {
+      "urls": [
+        "https://kurierlubelski.pl/rss/kurierlubelski.xml",
+        "https://kurierlubelski.pl/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 847,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:05.936Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "midrasz.pl": {
+      "urls": [
+        "https://midrasz.pl/feed/",
+        "https://midrasz.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 922,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:14.668Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mysl.pl": {
+      "urls": [
+        "http://mysl.pl/index.php/itemlist?format=feed&type=atom",
+        "http://mysl.pl/index.php/itemlist?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 938,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:15.620Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "modanazdrowie.pl": {
+      "urls": [
+        "http://modanazdrowie.pl/comments/feed/",
+        "http://modanazdrowie.pl/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1004,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:14.144Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "prawoipolityka.pl": {
+      "urls": [
+        "http://www.prawoipolityka.pl/index.php?format=feed&type=atom",
+        "http://www.prawoipolityka.pl/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1026,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:25.113Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "frondalux.pl": {
+      "urls": [
+        "https://frondalux.pl/feed/",
+        "https://frondalux.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1123,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:22.558Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dziennikwschodni.pl": {
+      "urls": [
+        "https://www.dziennikwschodni.pl/rss",
+        "https://www.dziennikwschodni.pl/rss/articles/pl"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1194,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:21.014Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wiadomosci.wp.pl": {
+      "urls": [
+        "https://wiadomosci.wp.pl/rss.xml",
+        "https://wiadomosci.wp.pl/rss/aktualnosci"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1228,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:31.862Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tygodnikprzeglad.pl": {
+      "urls": [
+        "https://www.tygodnikprzeglad.pl/feed/",
+        "https://www.tygodnikprzeglad.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1733,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:09.341Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pch24.pl": {
+      "urls": [
+        "https://pch24.pl/feed/",
+        "https://pch24.pl/prezydent-podczas-szczytu-cop-w-dubaju-atom-jest-nasza-przyszloscia/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1791,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:21.433Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "fragile.net.pl": {
+      "urls": [
+        "https://fragile.net.pl/feed/",
+        "https://fragile.net.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2506,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:24.086Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "czasciechanowa.pl": {
+      "urls": [
+        "https://czasciechanowa.pl/feed/",
+        "https://czasciechanowa.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2633,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:30.441Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "geoforum.pl": {
+      "urls": [
+        "https://geoforum.pl/rss/",
+        "https://www.geoforum.pl/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3272,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:33.716Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "biznes.gazetaprawna.pl": {
+      "urls": [
+        "https://www.gazetaprawna.pl/.feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 505,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:54.795Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "historia.uwazamrze.pl": {
+      "urls": [
+        "https://historia.rp.pl/rss/3521-historia"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 578,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:10.979Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noizz.pl": {
+      "urls": [
+        "https://noizz.pl/?rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 634,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:34.099Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "logo24.pl": {
+      "urls": [
+        "https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 719,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:17.589Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "expressilustrowany.pl": {
+      "urls": [
+        "https://expressilustrowany.pl/rss/expressilustrowany.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 745,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:01.866Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gazetalubuska.pl": {
+      "urls": [
+        "https://gazetalubuska.pl/rss/gazetalubuska.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 746,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:03.979Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "przegladsportowy.onet.pl": {
+      "urls": [
+        "https://przegladsportowy.onet.pl/.feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 750,
+        "category": "sports",
+        "last_checked": "2026-02-01T12:04:46.208Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tuolawa.pl": {
+      "urls": [
+        "https://www.tuolawa.pl/rss/articles/pl"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 759,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:20.035Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gazetakrakowska.pl": {
+      "urls": [
+        "https://gazetakrakowska.pl/rss/gazetakrakowska.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 774,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:56.491Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "holocaustresearch.pl": {
+      "urls": [
+        "http://holocaustresearch.pl/rss.php?channel=news&lang=pl"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 819,
+        "category": "science",
+        "last_checked": "2026-02-01T12:06:13.743Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nto.pl": {
+      "urls": [
+        "https://nto.pl/rss/nowatrybunaopolska.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 821,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:04.971Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pomorska.pl": {
+      "urls": [
+        "https://pomorska.pl/rss/gazetapomorska.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 855,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:59.102Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "poranny.pl": {
+      "urls": [
+        "https://poranny.pl/rss/kurierporanny.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 859,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:06.873Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dzienniklodzki.pl": {
+      "urls": [
+        "https://dzienniklodzki.pl/rss/dzienniklodzki.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 919,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:00.940Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dziennikzachodni.pl": {
+      "urls": [
+        "https://dziennikzachodni.pl/rss/dziennikzachodni.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 922,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:55.717Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zwierciadlo.pl": {
+      "urls": [
+        "https://zwierciadlo.pl/rss/articles.xml?list=3"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 922,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:11.400Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "salon24.pl": {
+      "urls": [
+        "https://www.salon24.pl/rss/wszyscy"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 994,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:43.517Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nowiny24.pl": {
+      "urls": [
+        "https://nowiny24.pl/rss/nowiny.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1003,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:11.269Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gloswielkopolski.pl": {
+      "urls": [
+        "https://gloswielkopolski.pl/rss/gloswielkopolski.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1016,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:57.507Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "avanti24.pl": {
+      "urls": [
+        "https://avanti24.pl/pub/rss/Avanti24.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:27.468Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dziennikbaltycki.pl": {
+      "urls": [
+        "https://dziennikbaltycki.pl/rss/dziennikbaltycki.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1167,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:03.033Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pap.pl": {
+      "urls": [
+        "https://www.pap.pl/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1190,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:59.233Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "terazmuzyka.pl": {
+      "urls": [
+        "https://www.terazmuzyka.pl/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1233,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:18.152Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pb.pl": {
+      "urls": [
+        "https://www.pb.pl/rss/najnowsze.xml?utm_source=RSS&utm_medium=RSS&utm_campaign=Z%20ostatniej%20chwili"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1332,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:53.055Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zyciewarszawy.pl": {
+      "urls": [
+        "https://zyciewarszawy.pl/rss_main"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1378,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:15.685Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "chip.pl": {
+      "urls": [
+        "https://www.chip.pl/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1556,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:44.922Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "crn.pl": {
+      "urls": [
+        "https://crn.pl/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1592,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:46.515Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "24kurier.pl": {
+      "urls": [
+        "https://24kurier.pl/rss?dzial=wiadomosci"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1745,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:08.619Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "forummleczarskie.pl": {
+      "urls": [
+        "https://www.forummleczarskie.pl/files/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1945,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:12.924Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "replika-online.pl": {
+      "urls": [
+        "http://replika-online.pl/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1999,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:19.588Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "focus.pl": {
+      "urls": [
+        "https://www.focus.pl/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2088,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:04.877Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "magazynauto.interia.pl": {
+      "urls": [
+        "https://motoryzacja.interia.pl/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2560,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:40.268Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "styl.interia.pl": {
+      "urls": [
+        "https://styl.interia.pl/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2726,
+        "category": "general",
+        "last_checked": "2026-02-01T12:07:16.870Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "samochody-specjalne.pl": {
+      "urls": [
+        "https://samochody-specjalne.pl/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3098,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:43.366Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "teatr-pismo.pl": {
+      "urls": [
+        "https://teatr-pismo.pl/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3992,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:37.708Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "korso.pl": {
+      "urls": [
+        "https://korso.pl/rss.xml",
+        "https://www.korso.pl/rss/channel/wiadomosci",
+        "https://www.korso.pl/rss/channel/wiadomosci/154",
+        "https://www.korso.pl/rss/channel/wiadomosci/498",
+        "https://www.korso.pl/rss/channel/ogloszenia",
+        "https://www.korso.pl/rss/channel/firmy",
+        "https://www.korso.pl/rss/channel/wiadomosci/165",
+        "https://www.korso.pl/rss/channel/wiadomosci/488",
+        "https://www.korso.pl/rss/channel/wiadomosci/495",
+        "https://www.korso.pl/rss/channel/wiadomosci/166",
+        "https://www.korso.pl/rss/channel/wiadomosci/174",
+        "https://www.korso.pl/rss/channel/wiadomosci/443",
+        "https://www.korso.pl/rss/channel/wiadomosci/486",
+        "https://www.korso.pl/rss/channel/wiadomosci/492"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:26.849Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tokfm.pl": {
+      "urls": [
+        "https://www.tokfm.pl/pub/rss/tokfmpl_polityka.xml",
+        "https://www.tokfm.pl/pub/rss/tokfmpl_swiat.xml",
+        "https://www.tokfm.pl/pub/rss/tokfmpl_glowne.xml",
+        "https://www.tokfm.pl/pub/rss/tokfmpl_polska.xml",
+        "https://www.tokfm.pl/pub/rss/tokfmpl_biznes.xml",
+        "https://audycje.tokfm.pl/rss-feed/273,Szkoda-czasu-na-zle-seriale",
+        "https://audycje.tokfm.pl/rss-feed/334,Goscinnie-Wyborcza-8-10",
+        "https://audycje.tokfm.pl/rss-feed/457,Techstorie",
+        "https://audycje.tokfm.pl/rss-feed/519,Codzienny-podcast-gospodarczy",
+        "https://audycje.tokfm.pl/rss-feed/679,Goscinnie-Konflikt-interesow",
+        "https://audycje.tokfm.pl/rss-free"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:42.523Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tygodnikzamojski.pl": {
+      "urls": [
+        "https://www.tygodnikzamojski.pl/rss/",
+        "https://www.tygodnikzamojski.pl/rss/news/",
+        "https://www.tygodnikzamojski.pl/rss/news/0",
+        "http://www.tygodnikzamojski.pl/rss/",
+        "https://www.tygodnikzamojski.pl/rss/news/0/",
+        "http://www.tygodnikzamojski.pl/rss/news/0/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:17.680Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "naszdziennik.pl": {
+      "urls": [
+        "https://naszdziennik.pl/rss.xml",
+        "https://naszdziennik.pl/articles/rss.xml",
+        "https://naszdziennik.pl/redakcjapoleca.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:32.383Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "zycie.pl": {
+      "urls": [
+        "https://zycie.pl/rss",
+        "https://www.zycie.pl/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:14.307Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetabilgoraj.pl": {
+      "urls": [
+        "https://gazetabilgoraj.pl/feed/",
+        "https://gazetabilgoraj.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:19.276Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetapowiatowa.pl": {
+      "urls": [
+        "https://gazetapowiatowa.pl/feed/",
+        "https://gazetapowiatowa.pl/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:28.389Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetapolska.pl": {
+      "urls": [
+        "https://www.gazetapolska.pl/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:24.499Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gazetaolsztynska.pl": {
+      "urls": [
+        "https://gazetaolsztynska.pl/najnowsze.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:10.266Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jarocinska.pl": {
+      "urls": [
+        "https://jarocinska.pl/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:28.664Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "wochenblatt.pl": {
+      "urls": [
+        "https://wochenblatt.pl/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:56.854Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ekai.pl": {
+      "urls": [
+        "https://www.ekai.pl/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:02.789Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pcworld.pl": {
+      "urls": [
+        "https://www.pcworld.pl/news?rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "world",
+        "last_checked": "2026-02-01T12:07:06.550Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "krakowpost.com": {
+      "urls": [
+        "https://www.krakowpost.com/feed",
+        "http://www.krakowpost.com/feed",
+        "https://www.krakowpost.com/comments/feed",
+        "https://www.krakowpost.com/krakow-post-2/feed",
+        "http://www.krakowpost.com/comments/feed",
+        "http://www.krakowpost.com/krakow-post-2/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1278,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:29.546Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "notesfrompoland.com": {
+      "urls": [
+        "https://notesfrompoland.com/feed/",
+        "https://notesfrompoland.com/category/podcast/feed/",
+        "https://notesfrompoland.com/category/the-voicee-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 336,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:46.506Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "wyborcza.biz": {
+      "urls": [
+        "https://wyborcza.biz/pub/rss/wyborcza_biz_wiadomosci.xml",
+        "https://wyborcza.biz/pub/rss/wyborcza_biz_finanse.xml",
+        "https://wyborcza.biz/pub/rss/wyborcza_biz_wiadomosci.htm"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1229,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:54.289Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dziennik.com": {
+      "urls": [
+        "https://dziennik.com/feed/",
+        "https://dziennik.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1169,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:58.043Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tvp.info": {
+      "urls": [
+        "https://www.tvp.info/tvp.info/rss+xml.php",
+        "http://www.tvp.info/tvp.info/rss+xml.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1414,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:33.465Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "oko.press": {
+      "urls": [
+        "https://oko.press/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 557,
+        "category": "general",
+        "last_checked": "2026-02-01T12:05:46.038Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nczas.com": {
+      "urls": [
+        "https://nczas.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 797,
+        "category": "general",
+        "last_checked": "2026-02-01T12:06:07.087Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "transfery.info": {
+      "urls": [
+        "https://transfery.info/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1727,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:47.935Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "parkiet.com": {
+      "urls": [
+        "https://www.parkiet.com/rss/1003",
+        "https://www.parkiet.com/rss_main",
+        "https://www.parkiet.com/rss/6681-gospodarka"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:04:33.870Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

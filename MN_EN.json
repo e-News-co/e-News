@@ -1,0 +1,117 @@
+{
+  "country_code": "MN",
+  "language_code": "EN",
+  "total_domains": 7,
+  "total_feeds": 11,
+  "feeds": {
+    "news.mn": {
+      "urls": [
+        "https://news.mn/feed/",
+        "https://news.mn/en/feed/",
+        "https://news.mn/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2467,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:13.985Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mnb.mn": {
+      "urls": [
+        "https://www.mnb.mn/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1647,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:15.632Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dorgio.mn": {
+      "urls": [
+        "https://www.dorgio.mn/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1843,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:19.554Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "caak.mn": {
+      "urls": [
+        "https://www.caak.mn/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2078,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:17.710Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zuuniimedee.mn": {
+      "urls": [
+        "http://zms.mn/?feed=rss2",
+        "http://zms.mn/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:08.878Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dnn.mn": {
+      "urls": [
+        "http://dnn.mn/rss/",
+        "https://dnn.mn/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:10.768Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "mse.mn": {
+      "urls": [
+        "https://mse.mn/mn/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:20.374Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

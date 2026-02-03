@@ -1,0 +1,305 @@
+{
+  "country_code": "MA",
+  "language_code": "EN",
+  "total_domains": 18,
+  "total_feeds": 45,
+  "feeds": {
+    "infomagazine.ma": {
+      "urls": [
+        "https://www.infomagazine.ma/feed/",
+        "https://www.infomagazine.ma/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1611,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:56.449Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "casaoui.ma": {
+      "urls": [
+        "https://casaoui.ma/feed",
+        "https://casaoui.ma/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2133,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:27.750Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "2m.ma": {
+      "urls": [
+        "https://www.2m.ma/ar/une.xml/",
+        "https://2m.ma/ar/une.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:54.384Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "medradio.ma": {
+      "urls": [
+        "https://medradio.ma/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:54.723Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "azilal24.com": {
+      "urls": [
+        "https://azilal24.com/feed/",
+        "https://www.azilal24.com/xmlfile/news.xml",
+        "https://www.azilal24.com/xmlfile/videos.xml",
+        "http://www.azilal24.com/xmlfile/news.xml",
+        "http://www.azilal24.com/xmlfile/videos.xml",
+        "https://azilal24.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1841,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:52.460Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nadorcity.com": {
+      "urls": [
+        "https://www.nadorcity.com/index.php?preaction=rss",
+        "https://www.nadorcity.com/xml/atom.xml",
+        "https://www.nadorcity.com/xml/syndication.rss",
+        "http://nadorcity.com/xml/syndication.rss",
+        "http://nadorcity.com/xml/atom.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3645,
+        "category": "local",
+        "last_checked": "2026-02-01T04:40:22.642Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zagoranews.com": {
+      "urls": [
+        "https://zagoranews.com/?feed=rss2",
+        "https://zagoranews.com/feed/",
+        "https://zagoranews.com/?feed=comments-rss2",
+        "https://zagoranews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1481,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:44.601Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dalil-rif.com": {
+      "urls": [
+        "https://dalil-rif.com/feed/index.rss",
+        "https://dalil-rif.com/feed/index.atom",
+        "http://dalil-rif.com/feed/index.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1252,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:23.898Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "femmesdumaroc.com": {
+      "urls": [
+        "https://femmesdumaroc.com/feed",
+        "https://femmesdumaroc.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 578,
+        "category": "general",
+        "last_checked": "2026-02-01T04:41:07.068Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "almountakhab.com": {
+      "urls": [
+        "https://www.almountakhab.com/sitemap-rss.rss",
+        "https://www.almountakhab.com/promoted.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1000,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:53.472Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "zagorapress.com": {
+      "urls": [
+        "https://www.zagorapress.com/feed",
+        "https://www.zagorapress.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1142,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:42.623Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "oujdacity.net": {
+      "urls": [
+        "https://www.oujdacity.net/feed",
+        "https://www.oujdacity.net/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1567,
+        "category": "local",
+        "last_checked": "2026-02-01T04:40:25.599Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "atlasscoop.com": {
+      "urls": [
+        "https://www.atlasscoop.com/feed/",
+        "https://www.atlasscoop.com/xmlfile/news.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1605,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:41.426Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "en.hespress.com": {
+      "urls": [
+        "https://en.hespress.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 527,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:53.999Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "chtoukapress.com": {
+      "urls": [
+        "https://www.chtoukapress.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1012,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:38.788Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "marrakech7.com": {
+      "urls": [
+        "http://www.marrakech7.com/xml.php",
+        "https://marrakech7.com/feed/",
+        "https://marrakech7.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:37.776Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "north-africa.com": {
+      "urls": [
+        "https://north-africa.com/feed/",
+        "http://north-africa.com/feed/",
+        "https://anchor.fm/s/3d7544cc/podcast/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:41:06.479Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "presstetouan.com": {
+      "urls": [
+        "https://presstetouan.com/feed/",
+        "https://presstetouan.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:40:39.168Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

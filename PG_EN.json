@@ -1,0 +1,316 @@
+{
+  "country_code": "PG",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 140,
+  "feeds": {
+    "postcourier.com.pg": {
+      "urls": [
+        "https://postcourier.com.pg/feed/",
+        "https://www.postcourier.com.pg/feed/",
+        "https://www.postcourier.com.pg/web-stories/feed/",
+        "https://www.postcourier.com.pg/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 528,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:17.011Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "emtv.com.pg": {
+      "urls": [
+        "https://emtv.com.pg/feed/",
+        "https://emtv.com.pg/?feed=rss2",
+        "https://emtv.com.pg/?feed=comments-rss2",
+        "https://emtv.com.pg/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:24.155Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "thenational.com.pg": {
+      "urls": [
+        "https://www.thenational.com.pg/feed/",
+        "https://www.thenational.com.pg/comments/feed/",
+        "https://www.thenational.com.pg/friends-dig-deep-to-help-feed-those-in-need/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:18.456Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 90,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:29.060Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news.pngfacts.com": {
+      "urls": [
+        "https://news.pngfacts.com/feeds/posts/default",
+        "https://pacnews.pngfacts.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/3356794033718079669/posts/default",
+        "https://mine.onepng.com/feeds/posts/default",
+        "https://school.pngfacts.com/feeds/posts/default",
+        "https://tech.pngfacts.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/1672068397208391430/posts/default",
+        "https://www.blogger.com/feeds/1754610332577813832/posts/default",
+        "https://www.blogger.com/feeds/3943531442585604253/posts/default",
+        "https://www.blogger.com/feeds/8654137730941591052/posts/default",
+        "https://edu.pngfacts.com/1/feed",
+        "https://pngtimes.pngfacts.com/1/feed",
+        "https://www.pngfacts.com/44/feed",
+        "https://www.scholarshipsawards.com/2/feed",
+        "https://www.scholarshipsforstudy.com/1/feed",
+        "https://business.pngfacts.com/feeds/posts/default",
+        "https://job.onepng.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/4796476568748816457/posts/default",
+        "https://www.blogger.com/feeds/9096138959006662486/posts/default",
+        "https://www.blogger.com/feeds/9098998578505047115/posts/default",
+        "https://health.pngfacts.com/feeds/posts/default",
+        "http://feeds.feedburner.com/pngfacts/PcXZ",
+        "https://news.pngfacts.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 805,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:28.965Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "en.wikipedia.org": {
+      "urls": [
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=1&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Blog&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=RSS&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Category:Blogs&action=feedrecentchanges&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 770,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:30.963Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "onepng.com": {
+      "urls": [
+        "https://www.onepng.com/feeds/posts/default",
+        "https://mine.onepng.com/feeds/posts/default",
+        "https://job.onepng.com/feeds/posts/default",
+        "https://health.onepng.com/1/feed",
+        "https://www.blogger.com/feeds/1653361318879330294/posts/default",
+        "https://www.blogger.com/feeds/3943531442585604253/posts/default",
+        "https://www.scholarshipsawards.com/2/feed",
+        "https://business.pngfacts.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/4796476568748816457/posts/default",
+        "https://www.blogger.com/feeds/9096138959006662486/posts/default",
+        "https://www.onepng.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 919,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:28.159Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thenewhumanitarian.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss.xml",
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 508,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:29.678Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "businessadvantagepng.com": {
+      "urls": [
+        "https://www.businessadvantagepng.com/feed/",
+        "http://www.businessadvantagepng.com/feed/",
+        "https://www.businessadvantagepng.com/comments/feed/",
+        "https://businessadvantageinternational.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 919,
+        "category": "business",
+        "last_checked": "2026-02-01T10:57:25.274Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "wantokniuspepa.com": {
+      "urls": [
+        "https://wantokniuspepa.com/index.php?format=feed&type=atom",
+        "https://wantokniuspepa.com/index.php?format=feed&type=rss",
+        "http://wantokniuspepa.com/index.php?format=feed&type=atom",
+        "http://wantokniuspepa.com/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2665,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:21.788Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thepngsun.com": {
+      "urls": [
+        "https://www.thepngsun.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 927,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:22.715Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thepngbulletin.com": {
+      "urls": [
+        "https://thepngbulletin.com/feed/",
+        "https://thepngbulletin.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T10:57:27.225Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "country_code": "LC",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 12,
+  "feeds": {
+    "stluciatimes.com": {
+      "urls": [
+        "https://stluciatimes.com/feed/",
+        "http://stluciatimes.com/feed/",
+        "https://stluciatimes.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1290,
+        "category": "general",
+        "last_checked": "2026-02-01T03:41:10.203Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "thevoiceslu.com": {
+      "urls": [
+        "https://thevoiceslu.com/feed/",
+        "https://thevoiceslu.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 993,
+        "category": "general",
+        "last_checked": "2026-02-01T03:41:06.721Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "htsstlucia.org": {
+      "urls": [
+        "https://www.htsstlucia.org/feed/",
+        "https://www.htsstlucia.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1227,
+        "category": "general",
+        "last_checked": "2026-02-01T03:41:16.552Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "stluciachronicle.com": {
+      "urls": [
+        "https://stluciachronicle.com/feed/",
+        "http://www.stluciachronicle.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2046,
+        "category": "general",
+        "last_checked": "2026-02-01T03:41:15.323Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "stlucianewsonline.com": {
+      "urls": [
+        "https://www.stlucianewsonline.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2662,
+        "category": "general",
+        "last_checked": "2026-02-01T03:41:12.865Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "stluciastar.com": {
+      "urls": [
+        "https://stluciastar.com/feed/",
+        "https://stluciastar.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:41:08.552Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "country_code": "MM",
+  "language_code": "MY",
+  "total_domains": 1,
+  "total_feeds": 13,
+  "feeds": {
+    "rfa.org": {
+      "urls": [
+        "https://www.rfa.org/english/podcasts/atom.xml",
+        "https://www.rfa.org/english/atom.xml",
+        "https://www.rfa.org/english/rss2.xml",
+        "https://www.rfa.org/mandarin/yataibaodao/podcast.xml",
+        "https://www.rfa.org/arc/outboundfeeds/burmese/rss/",
+        "https://www.rfa.org/english/feed/RSS",
+        "https://www.rfa.org/arc/outboundfeeds/english/rss/",
+        "https://www.rfa.org/arc/outboundfeeds/mandarin/rss/",
+        "https://www.rfa.org/arc/outboundfeeds/vietnamese/rss/",
+        "https://www.rfa.org/english/news/vietnam_news/RSS",
+        "https://www.rfa.org/english/news/chinese-news/RSS",
+        "https://www.rfa.org/english/news/burma_news/RSS",
+        "https://www.rfa.org/english/news/cambodia_news/RSS"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:05.119Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

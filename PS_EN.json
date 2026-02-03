@@ -1,0 +1,408 @@
+{
+  "country_code": "PS",
+  "language_code": "EN",
+  "total_domains": 17,
+  "total_feeds": 162,
+  "feeds": {
+    "english.pnn.ps": {
+      "urls": [
+        "https://english.pnn.ps/feed",
+        "https://english.pnn.ps/feed/",
+        "http://english.pnn.ps/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1338,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:02.569Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pbc.ps": {
+      "urls": [
+        "https://www.pbc.ps/feed/",
+        "https://www.pbc.ps/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4654,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:15.143Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "arn.ps": {
+      "urls": [
+        "https://arn.ps/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3167,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:05.736Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "al-ayyam.ps": {
+      "urls": [
+        "https://www.al-ayyam.ps/ar/RSS/12",
+        "https://www.al-ayyam.ps/ar/RSS/29",
+        "https://www.al-ayyam.ps/ar/RSS/5",
+        "https://www.al-ayyam.ps/ar/RSS/53",
+        "https://www.al-ayyam.ps/ar/RSS/8",
+        "https://www.al-ayyam.ps/ar/RSS/10",
+        "https://www.al-ayyam.ps/ar/RSS/11",
+        "https://www.al-ayyam.ps/ar/RSS/131",
+        "https://www.al-ayyam.ps/ar/RSS/14",
+        "https://www.al-ayyam.ps/ar/RSS/15",
+        "https://www.al-ayyam.ps/ar/RSS/16",
+        "https://www.al-ayyam.ps/ar/RSS/52",
+        "https://www.al-ayyam.ps/ar/RSS/54",
+        "https://www.al-ayyam.ps/ar/RSS/55",
+        "https://www.al-ayyam.ps/ar/RSS/69",
+        "https://www.al-ayyam.ps/ar/RSS/78",
+        "https://www.al-ayyam.ps/ar/RSS/83",
+        "https://www.al-ayyam.ps/ar/RSS/85",
+        "https://www.al-ayyam.ps/ar/RSS/9"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:46.886Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "albawaba.com": {
+      "urls": [
+        "https://www.albawaba.com/rss/press-release",
+        "https://www.albawaba.com/rss/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9",
+        "https://article.albawaba.net/ar/rss/ar-all",
+        "https://www.albawaba.com/ar/rss/ar-all",
+        "https://www.albawaba.com/rss/ar-all",
+        "https://www.albawaba.com/rss/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+        "https://www.albawaba.com/rss/all",
+        "https://www.albawaba.com/ar/rss/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+        "https://www.albawaba.com/rss/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+        "https://www.albawaba.com/rss/%D8%B5%D8%AD%D8%AA%D9%83%D9%90-%D9%88%D8%AC%D9%85%D8%A7%D9%84%D9%83%D9%90",
+        "https://www.albawaba.com/rss/news",
+        "https://www.albawaba.com/rss/entertainment",
+        "https://www.albawaba.com/rss/%D8%AA%D8%B1%D9%81%D9%8A%D9%87",
+        "https://www.albawaba.com/rss/%D8%A3%D8%B9%D9%85%D8%A7%D9%84",
+        "https://www.albawaba.com/rss/business",
+        "https://www.albawaba.com/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9",
+        "https://www.albawaba.com/rss/%D8%B3%D8%A7%D8%AE%D8%B1%D9%88%D9%86",
+        "https://www.albawaba.com/rss/ar-buzz",
+        "https://www.albawaba.com/rss/ar-slideshows",
+        "https://www.albawaba.com/rss/editor-choice",
+        "https://www.albawaba.com/rss/en-slideshows",
+        "https://www.albawaba.com/rss/sports",
+        "https://www.albawaba.com/ar/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9",
+        "https://article.albawaba.net/ar/rss/%D8%A3%D8%AF%D8%A8-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1446,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:41.861Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "electronicintifada.net": {
+      "urls": [
+        "https://electronicintifada.net/rss.xml",
+        "https://electronicintifada.net/taxonomy/term/10233/feed",
+        "https://electronicintifada.net/taxonomy/term/27/feed",
+        "https://electronicintifada.net/taxonomy/term/33/feed",
+        "https://electronicintifada.net/taxonomy/term/34/feed",
+        "https://electronicintifada.net/taxonomy/term/35/feed",
+        "https://electronicintifada.net/taxonomy/term/36/feed",
+        "https://electronicintifada.net/taxonomy/term/37/feed",
+        "https://electronicintifada.net/taxonomy/term/5010/feed",
+        "https://electronicintifada.net/blog/feed",
+        "https://electronicintifada.net/blog/104821/feed",
+        "https://electronicintifada.net/blog/1057/feed",
+        "https://electronicintifada.net/blog/15/feed",
+        "https://electronicintifada.net/blog/20295/feed",
+        "https://electronicintifada.net/blog/20413/feed",
+        "https://electronicintifada.net/blog/24/feed",
+        "https://electronicintifada.net/blog/32/feed",
+        "https://electronicintifada.net/blog/430/feed",
+        "https://electronicintifada.net/blog/44/feed",
+        "https://electronicintifada.net/blog/49161/feed",
+        "https://electronicintifada.net/blog/503891/feed",
+        "https://electronicintifada.net/blog/544460/feed",
+        "https://electronicintifada.net/blog/all/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 512,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:57.224Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alwatanvoice.com": {
+      "urls": [
+        "https://feeds.alwatanvoice.com/ar/palestine.xml",
+        "https://feeds.alwatanvoice.com/ar/world.xml",
+        "https://feeds.alwatanvoice.com/ar/arab.xml",
+        "https://feeds.alwatanvoice.com/ar/pictures.xml",
+        "https://feeds.alwatanvoice.com/ar/opinions.xml",
+        "https://feeds.alwatanvoice.com/ar/3al_mashi.xml",
+        "https://feeds.alwatanvoice.com/ar/arab48.xml",
+        "https://feeds.alwatanvoice.com/ar/business.xml",
+        "https://feeds.alwatanvoice.com/ar/communities.xml",
+        "https://feeds.alwatanvoice.com/ar/entertainment.xml",
+        "https://feeds.alwatanvoice.com/ar/hekayat.xml",
+        "https://feeds.alwatanvoice.com/ar/interactivity.xml",
+        "https://feeds.alwatanvoice.com/ar/islam.xml",
+        "https://feeds.alwatanvoice.com/ar/kids.xml",
+        "https://feeds.alwatanvoice.com/ar/laha.xml",
+        "https://feeds.alwatanvoice.com/ar/lifestyle.xml",
+        "https://feeds.alwatanvoice.com/ar/local.xml",
+        "https://feeds.alwatanvoice.com/ar/sport.xml",
+        "https://feeds.alwatanvoice.com/ar/variety.xml",
+        "https://feeds.alwatanvoice.com/ar/video.xml",
+        "http://www.alwatanvoice.com/feeds/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 620,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:57.856Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "felesteen.news": {
+      "urls": [
+        "https://felesteen.news/rss/category/all",
+        "https://felesteen.news/rss/category/29",
+        "https://felesteen.news/rss/category/25",
+        "https://felesteen.news/rss/category/19",
+        "https://felesteen.news/rss/category/26",
+        "https://felesteen.news/rss/category/3",
+        "https://felesteen.news/rss/category/18",
+        "https://felesteen.news/rss/category/4",
+        "https://felesteen.news/rss/category/28",
+        "https://felesteen.news/rss/category/5",
+        "https://felesteen.news/rss/category/7",
+        "https://felesteen.news/rss/category/11",
+        "https://felesteen.news/rss/category/13",
+        "https://felesteen.news/rss/category/32",
+        "https://felesteen.news/rss/category/31",
+        "https://felesteen.news/rss/category/17",
+        "https://felesteen.news/rss/category/16"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 906,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:58.822Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "palinfo.com": {
+      "urls": [
+        "https://www.palinfo.com/feed",
+        "https://palinfo.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 513,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:01.221Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sonara.net": {
+      "urls": [
+        "https://sonara.net/feed/",
+        "https://sonara.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1206,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:10.488Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thisweekinpalestine.com": {
+      "urls": [
+        "https://thisweekinpalestine.com/feed/",
+        "https://thisweekinpalestine.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1724,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:07.461Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "arab48.com": {
+      "urls": [
+        "https://www.arab48.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1192,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:08.999Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "alquds.com": {
+      "urls": [
+        "https://alquds.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1426,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:48.312Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "palestinechronicle.com": {
+      "urls": [
+        "http://www.palestinechronicle.com/feed/",
+        "https://www.palestinechronicle.com/feed/",
+        "https://it.palestinechronicle.com/feed/",
+        "https://www.palestinechronicle.com/category/articles/feed/",
+        "https://www.palestinechronicle.com/category/live-blog/feed/",
+        "https://www.palestinechronicle.com/tag/al-aqsa-flood-live-blog/feed/",
+        "https://it.palestinechronicle.com/comments/feed/",
+        "https://www.palestinechronicle.com/comments/feed/",
+        "https://www.palestinechronicle.com/gaza-live-blog-israeli-massacres-continue-algerian-draft-resolution-at-unsc-total-victory-impossible-for-israel-day-236/feed/",
+        "https://www.palestinechronicle.com/gaza-live-blog-jabaliya-inferno-netanyahu-war-until-victory-resistance-fights-against-invading-israeli-troops-day-220/feed/",
+        "https://www.palestinechronicle.com/gaza-live-blog-netanyahu-to-address-us-congress-israeli-massacres-in-gaza-continue-spain-no-one-will-stop-us-day-231/feed/",
+        "https://www.palestinechronicle.com/gaza-live-blog-rafah-under-attack-israels-demolitions-in-naqab-us-suspends-arms-shipment-fierce-clashes-in-rafah-day-215/feed/",
+        "https://www.palestinechronicle.com/live-blog-3-israelis-killed-gaza-infant-dies-rockets-fired-rafah-massacres-day-458/feed/",
+        "https://www.palestinechronicle.com/live-blog-gaza-faces-catastrophic-scenario-as-washington-expresses-ceasefire-optimism-day-641/feed/",
+        "https://www.palestinechronicle.com/live-blog-gaza-us-contractorsexposed-as-global-demands-to-end-starvation-increase-day-636/feed/",
+        "https://www.palestinechronicle.com/live-blog-hamas-responds-ambush-in-shejaiyya-displaced-palestinians-massacred-day-637/feed/",
+        "https://www.palestinechronicle.com/live-blog-iran-strikes-american-military-base-in-qatar-gaza-massacres-continue-day-625/feed/",
+        "https://www.palestinechronicle.com/live-blog-iran-threatens-to-bomb-dimona-israel-fears-long-war-gaza-hunger-crisis-deepens-day-624/feed/",
+        "https://www.palestinechronicle.com/live-blog-irans-retaliation-causes-unprecedented-destruction-in-israel-al-qassam-ambush-day-617/feed/",
+        "https://www.palestinechronicle.com/live-blog-israel-kills-civilians-in-lebanon-deliberately-targets-gaza-aid-seekers-day-630/feed/",
+        "https://www.palestinechronicle.com/live-blog-lone-fighter-blows-up-tank-as-israel-carries-out-massacre-in-shati-day-645/feed/",
+        "https://www.palestinechronicle.com/live-blog-massive-iranistrike-following-trumps-call-on-tehran-to-surrender-day-620/feed/",
+        "https://www.palestinechronicle.com/live-blog-multiple-massacres-in-gaza-iran-major-retaliation-qassam-three-merkavas-day-622/feed/",
+        "https://www.palestinechronicle.com/live-blog-soldier-capture-attempted-uns-albanese-sanctioned-hospital-crisis-day-642/feed/",
+        "https://www.palestinechronicle.com/live-blog-trump-threatens-tehran-israelis-flee-by-sea-more-iranian-attacks-expected-day-519/feed/",
+        "https://www.palestinechronicle.com/live-blog-us-citizen-palestinian-lynched-by-settlers-as-aid-massacre-victims-reach-800-day-644/feed/",
+        "https://www.chroniquepalestine.com/feed/",
+        "https://www.palestinechronicle.com/gaza-live-blog-major-health-disaster-new-massacres-in-central-gaza-failure-to-intercept-drones-day-246/feed/",
+        "https://www.chroniquepalestine.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:56.711Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "manar.com": {
+      "urls": [
+        "https://www.manar.com/rss-13",
+        "https://www.manar.com/rss-14",
+        "https://www.manar.com/rss-18",
+        "https://www.manar.com/rss-19",
+        "https://www.manar.com/rss-7",
+        "http://www.manar.com/rss",
+        "http://www.manar.com/rss-12",
+        "http://www.manar.com/rss-15",
+        "http://www.manar.com/rss-16",
+        "http://www.manar.com/rss-17",
+        "http://www.manar.com/rss-37",
+        "http://www.manar.com/rss-394",
+        "http://www.manar.com/rss-6"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:50.463Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "wattan.net": {
+      "urls": [
+        "https://www.wattan.net/ar/rss/news"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:00.182Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "alquds.co.uk": {
+      "urls": [
+        "https://www.alquds.co.uk/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T12:31:17.089Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

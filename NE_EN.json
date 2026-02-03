@@ -1,0 +1,329 @@
+{
+  "country_code": "NE",
+  "language_code": "EN",
+  "total_domains": 14,
+  "total_feeds": 125,
+  "feeds": {
+    "allafrica.com": {
+      "urls": [
+        "https://allafrica.com/tools/headlines/rdf/nigeria/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/liberia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/kenya/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/uganda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ethiopia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/education/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ghana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/malawi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/namibia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/somalia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/rwanda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zimbabwe/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sudan/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tanzania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gambia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mozambique/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/morocco/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/senegal/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/botswana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/egypt/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tunisia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/angola/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/benin/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burundi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/capeverde/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/centralafricanrepublic/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/chad/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/commodities/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/comoros/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cotedivoire/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/djibouti/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/equatorialguinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eritrea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eswatini/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gabon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guineabissau/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/lesotho/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/libya/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/madagascar/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritius/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sierraleone/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/togo/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westernsahara/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zambia/headlines.rdf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 842,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:03.672Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "actuniger.com": {
+      "urls": [
+        "https://actuniger.com/component/joomrss/derniere-actualites.feed",
+        "https://www.actuniger.com/component/joomrss/derniere-actualites.feed",
+        "https://actuniger.com/component/joomrss/societe.feed",
+        "https://www.actuniger.com/component/joomrss/societe.feed",
+        "https://actuniger.com/component/joomrss/culture.feed",
+        "https://actuniger.com/component/joomrss/economie.feed",
+        "https://actuniger.com/component/joomrss/faits-divers.feed",
+        "https://actuniger.com/component/joomrss/infos-diverses.feed",
+        "https://actuniger.com/component/joomrss/international.feed",
+        "https://actuniger.com/component/joomrss/politique.feed",
+        "https://actuniger.com/component/joomrss/sante-education.feed",
+        "https://actuniger.com/component/joomrss/sport.feed",
+        "https://actuniger.com/component/joomrss/technologie.feed",
+        "https://actuniger.com/component/joomrss/tribune-opinion.feed",
+        "https://www.actuniger.com/component/joomrss/culture.feed",
+        "https://www.actuniger.com/component/joomrss/economie.feed",
+        "https://www.actuniger.com/component/joomrss/faits-divers.feed",
+        "https://www.actuniger.com/component/joomrss/infos-diverses.feed",
+        "https://www.actuniger.com/component/joomrss/international.feed",
+        "https://www.actuniger.com/component/joomrss/politique.feed",
+        "https://www.actuniger.com/component/joomrss/sante-education.feed",
+        "https://www.actuniger.com/component/joomrss/sport.feed",
+        "https://www.actuniger.com/component/joomrss/technologie.feed",
+        "https://www.actuniger.com/component/joomrss/tribune-opinion.feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1340,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:02.339Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2353,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:08.556Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nigerdiaspora.net": {
+      "urls": [
+        "https://www.nigerdiaspora.net/?format=feed&type=atom",
+        "https://www.nigerdiaspora.net/?format=feed&type=rss",
+        "http://nigerdiaspora.net/?format=feed&type=atom",
+        "http://www.nigerdiaspora.net/?format=feed&type=atom",
+        "http://nigerdiaspora.net/?format=feed&type=rss",
+        "http://www.nigerdiaspora.net/?format=feed&type=rss",
+        "http://nigerdiaspora.net/?format=feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1189,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:06.202Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 541,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:05.011Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tamtaminfo.com": {
+      "urls": [
+        "http://www.tamtaminfo.com/feed/",
+        "https://tamtaminfo.com/feed/",
+        "https://www.tamtaminfo.com/feed/",
+        "http://tamtaminfo.com/feed/",
+        "http://www.tamtaminfo.com/comments/feed/",
+        "https://www.tamtaminfo.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2063,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:11.840Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lesahel.org": {
+      "urls": [
+        "http://www.lesahel.org/index.php/feed/",
+        "https://www.lesahel.org/feed/",
+        "http://www.lesahel.org/feed/",
+        "http://www.lesahel.org/index.php/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1364,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:13.407Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "iciniger.com": {
+      "urls": [
+        "https://www.iciniger.com/feed/",
+        "http://www.iciniger.com/feed/",
+        "https://www.iciniger.com/comments/feed/",
+        "http://www.iciniger.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1422,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:16.132Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nigerinter.com": {
+      "urls": [
+        "https://nigerinter.com/feed/",
+        "https://nigerinter.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 869,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:14.292Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "afrik.com": {
+      "urls": [
+        "https://www.afrik.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 484,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:02.823Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news.aniamey.com": {
+      "urls": [
+        "http://news.aniamey.com/xml/all.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 762,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:04.434Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "journalduniger.com": {
+      "urls": [
+        "https://www.journalduniger.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3861,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:22.759Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "nigerexpress.info": {
+      "urls": [
+        "https://nigerexpress.info/feed/",
+        "http://nigerexpress.info/feed/",
+        "http://nigerexpress.info/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:18.898Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "airinfoagadez.com": {
+      "urls": [
+        "https://airinfoagadez.com/feed/",
+        "https://airinfoagadez.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T07:16:17.159Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

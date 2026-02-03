@@ -1,0 +1,55 @@
+{
+  "country_code": "MO",
+  "language_code": "EN",
+  "total_domains": 3,
+  "total_feeds": 5,
+  "feeds": {
+    "jtm.com.mo": {
+      "urls": [
+        "https://jtm.com.mo/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:23.651Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "macaunews.net": {
+      "urls": [
+        "https://feeds.macaunews.net/rss/8d8fbf819e12707b",
+        "http://feeds.macaunews.net/rss/8d8fbf819e12707b"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 405,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:24.981Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hojemacau.com": {
+      "urls": [
+        "http://www.hojemacau.com/feed/",
+        "http://www.hojemacau.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1069,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:21.908Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

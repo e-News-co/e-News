@@ -1,0 +1,626 @@
+{
+  "country_code": "MD",
+  "language_code": "EN",
+  "total_domains": 26,
+  "total_feeds": 254,
+  "feeds": {
+    "trm.md": {
+      "urls": [
+        "https://trm.md/rss/ro/fifa-2022.xml",
+        "https://trm.md/rss/ru/mezdunarodnye.xml",
+        "https://trm.md/rss/ru/social.xml",
+        "http://trm.md/rss/ro/social.xml",
+        "http://www.trm.md/rss/ro/social.xml",
+        "https://trm.md/rss/ro/international.xml",
+        "https://trm.md/rss/ro/politic.xml",
+        "https://trm.md/rss/ru/ekonomika.xml",
+        "https://trm.md/rss/ru/politika.xml",
+        "https://trm.md/rss/en/political.xml",
+        "https://trm.md/rss/en/social.xml",
+        "https://trm.md/rss/ro/economic.xml",
+        "https://trm.md/rss/en/economic.xml",
+        "https://trm.md/rss/en/international.xml",
+        "https://trm.md/rss/ru/fifa-2022.xml",
+        "https://trm.md/rss/ro/cultura.xml",
+        "https://trm.md/rss/ro/regional.xml",
+        "https://trm.md/rss/ru/regiony.xml",
+        "https://trm.md/rss/en/alegeri-locale.xml",
+        "https://trm.md/rss/en/culture.xml",
+        "https://trm.md/rss/en/diaspora.xml",
+        "https://trm.md/rss/en/elections.xml",
+        "https://trm.md/rss/en/eurovision.xml",
+        "https://trm.md/rss/en/fifa-2022.xml",
+        "https://trm.md/rss/en/regional.xml",
+        "https://trm.md/rss/en/sport.xml",
+        "https://trm.md/rss/ro/advertorial.xml",
+        "https://trm.md/rss/ro/alegeri-locale.xml",
+        "https://trm.md/rss/ro/alegeri-parlamentare.xml",
+        "https://trm.md/rss/ro/diaspora.xml",
+        "https://trm.md/rss/ro/eurovision.xml",
+        "https://trm.md/rss/ro/social.xml",
+        "https://trm.md/rss/ro/sport.xml",
+        "https://trm.md/rss/ru/advertorial.xml",
+        "https://trm.md/rss/ru/alegeri-locale.xml",
+        "https://trm.md/rss/ru/diaspora.xml",
+        "https://trm.md/rss/ru/evrovidenie.xml",
+        "https://trm.md/rss/ru/kul-tura.xml",
+        "https://trm.md/rss/ru/sport.xml",
+        "https://trm.md/rss/ru/vybory.xml",
+        "http://trm.md/rss/en/social.xml",
+        "http://www.trm.md/rss/en/social.xml",
+        "http://trm.md/rss/ru/social.xml",
+        "http://www.trm.md/rss/ru/social.xml",
+        "http://trm.md/rss/ro/alegeri-locale.xml",
+        "http://www.trm.md/rss/ro/alegeri-locale.xml",
+        "http://trm.md/rss/ro/international.xml",
+        "http://www.trm.md/rss/ro/international.xml",
+        "http://trm.md/rss/en/international.xml",
+        "http://www.trm.md/rss/en/international.xml",
+        "http://trm.md/rss/ro/economic.xml",
+        "http://trm.md/rss/ro/politic.xml",
+        "http://trm.md/rss/ro/regional.xml",
+        "http://trm.md/rss/ru/alegeri-locale.xml",
+        "http://trm.md/rss/ru/mezdunarodnye.xml",
+        "http://www.trm.md/rss/ro/economic.xml",
+        "http://www.trm.md/rss/ro/politic.xml",
+        "http://www.trm.md/rss/ro/regional.xml",
+        "http://www.trm.md/rss/ru/alegeri-locale.xml",
+        "http://www.trm.md/rss/ru/mezdunarodnye.xml",
+        "http://trm.md/rss/en/economic.xml",
+        "http://trm.md/rss/en/political.xml",
+        "http://trm.md/rss/ro/alegeri-parlamentare.xml",
+        "http://trm.md/rss/ro/diaspora.xml",
+        "http://www.trm.md/rss/en/economic.xml",
+        "http://www.trm.md/rss/en/political.xml",
+        "http://www.trm.md/rss/ro/alegeri-parlamentare.xml",
+        "http://www.trm.md/rss/ro/diaspora.xml",
+        "http://trm.md/rss/en/alegeri-locale.xml",
+        "http://trm.md/rss/en/culture.xml",
+        "http://trm.md/rss/en/diaspora.xml",
+        "http://trm.md/rss/en/elections.xml",
+        "http://trm.md/rss/en/eurovision.xml",
+        "http://trm.md/rss/en/regional.xml",
+        "http://trm.md/rss/en/sport.xml",
+        "http://trm.md/rss/ro/cultura.xml",
+        "http://trm.md/rss/ro/eurovision.xml",
+        "http://trm.md/rss/ro/sport.xml",
+        "http://trm.md/rss/ru/diaspora.xml",
+        "http://trm.md/rss/ru/ekonomika.xml",
+        "http://trm.md/rss/ru/evrovidenie.xml",
+        "http://trm.md/rss/ru/kul-tura.xml",
+        "http://trm.md/rss/ru/politika.xml",
+        "http://trm.md/rss/ru/regiony.xml",
+        "http://trm.md/rss/ru/sport.xml",
+        "http://trm.md/rss/ru/vybory.xml",
+        "http://www.trm.md/rss/en/alegeri-locale.xml",
+        "http://www.trm.md/rss/en/culture.xml",
+        "http://www.trm.md/rss/en/diaspora.xml",
+        "http://www.trm.md/rss/en/elections.xml",
+        "http://www.trm.md/rss/en/eurovision.xml",
+        "http://www.trm.md/rss/en/regional.xml",
+        "http://www.trm.md/rss/en/sport.xml",
+        "http://www.trm.md/rss/ro/cultura.xml",
+        "http://www.trm.md/rss/ro/eurovision.xml",
+        "http://www.trm.md/rss/ro/sport.xml",
+        "http://www.trm.md/rss/ru/diaspora.xml",
+        "http://www.trm.md/rss/ru/ekonomika.xml",
+        "http://www.trm.md/rss/ru/evrovidenie.xml",
+        "http://www.trm.md/rss/ru/kul-tura.xml",
+        "http://www.trm.md/rss/ru/politika.xml",
+        "http://www.trm.md/rss/ru/regiony.xml",
+        "http://www.trm.md/rss/ru/sport.xml",
+        "http://www.trm.md/rss/ru/vybory.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1271,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:52.871Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "unimedia.md": {
+      "urls": [
+        "https://unimedia.info/ro/rss/all/",
+        "https://unimedia.info/ro/rss/category/social/",
+        "https://unimedia.info/ro/rss/category/externe/",
+        "https://unimedia.info/ro/rss/category/politic/",
+        "https://unimedia.info/ro/rss/category/shok-md/",
+        "https://unimedia.info/ro/rss/category/justitie/",
+        "https://unimedia.info/ro/rss/category/auto/",
+        "https://unimedia.info/ro/rss/category/cultura-turism/",
+        "https://unimedia.info/ro/rss/category/economic/",
+        "https://unimedia.info/ro/rss/category/sport/",
+        "https://unimedia.info/ro/rss/category/tech-media/",
+        "https://unimedia.info/ro/rss/category/diaspora/",
+        "https://unimedia.info/ro/rss/category/youtube-fb/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 159,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:07.421Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zdg.md": {
+      "urls": [
+        "https://www.zdg.md/feed/",
+        "https://www.zdg.md/categoria/blog/feed/",
+        "https://www.zdg.md/blog/editoriale/ziarul-de-garda-se-deschide/feed/",
+        "https://www.zdg.md/categoria/blog/arta/feed/",
+        "https://www.zdg.md/categoria/blog/banii-tai/feed/",
+        "https://www.zdg.md/categoria/blog/cititorul/feed/",
+        "https://www.zdg.md/categoria/blog/diaspora/feed/",
+        "https://www.zdg.md/categoria/blog/editoriale/feed/",
+        "https://www.zdg.md/categoria/blog/gastronomie/feed/",
+        "https://www.zdg.md/categoria/blog/podcast-zdg/feed/",
+        "https://www.zdg.md/categoria/blog/sanatate/feed/",
+        "https://www.zdg.md/categoria/blog/viata-redactiei/feed/",
+        "https://www.zdg.md/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1327,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:18.142Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ziarulnational.md": {
+      "urls": [
+        "https://www.ziarulnational.md/events/item/index.rss",
+        "https://www.ziarulnational.md/events/item/index/20.rss",
+        "https://www.ziarulnational.md/events/item/index/5.rss",
+        "https://www.ziarulnational.md/events/item/index/6.rss",
+        "https://www.ziarulnational.md/events/item/index/22.rss",
+        "https://www.ziarulnational.md/events/item/index/4.rss",
+        "https://www.ziarulnational.md/events/item/index/10.rss",
+        "https://www.ziarulnational.md/events/item/index/21.rss",
+        "https://www.ziarulnational.md/events/item/index/315.rss",
+        "https://www.ziarulnational.md/events/item/index/7.rss",
+        "https://www.ziarulnational.md/events/item/index/8.rss",
+        "https://www.ziarulnational.md/events/item/index/9.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1303,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:19.536Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "timpul.md": {
+      "urls": [
+        "https://www.timpul.md/rss",
+        "http://timpul.md/feed",
+        "https://timpul.md/feed",
+        "https://timpul.md/rubrici/actualitate/feed",
+        "https://timpul.md/language/en/feed",
+        "https://timpul.md/language/ru/feed",
+        "https://timpul.md/comments/feed",
+        "https://timpul.md/language/ru/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2139,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:14.882Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.yam.md": {
+      "urls": [
+        "https://news.yam.md/ro/feeds/rss201",
+        "https://news.yam.md/ro/rss",
+        "https://news.yam.md/ro/feeds",
+        "https://news.yam.md/en/feeds/rss201",
+        "https://news.yam.md/en/rss",
+        "https://news.yam.md/en/feeds"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1310,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:32.260Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "actualitati.md": {
+      "urls": [
+        "http://actualitati.md/feed",
+        "https://actualitati.md/feed",
+        "https://actualitati.md/comments/feed",
+        "http://actualitati.md/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1329,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:47.992Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "estcurier.md": {
+      "urls": [
+        "https://estcurier.md/feed/",
+        "http://estcurier.md/feed/",
+        "http://estcurier.md/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 992,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:20.631Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mybusiness.md": {
+      "urls": [
+        "https://feeds.feedburner.com/Mybusinessmd-rss",
+        "http://feeds.feedburner.com/Mybusinessmd-feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 467,
+        "category": "business",
+        "last_checked": "2026-02-01T05:07:48.508Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nm.md": {
+      "urls": [
+        "http://nm.md/articles/rss.xml",
+        "http://www.nm.md/articles/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 839,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:12.001Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "infotag.md": {
+      "urls": [
+        "http://www.infotag.md/rom/",
+        "http://www.infotag.md/rus/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 890,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:08.315Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "esp.md": {
+      "urls": [
+        "https://esp.md/ru/feed/rss",
+        "https://esp.md/ro/feed/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1272,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:46.353Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "press.try.md": {
+      "urls": [
+        "http://feeds.feedburner.com/press-obozrenie"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 565,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:07.144Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "logos.press.md": {
+      "urls": [
+        "https://logos-pres.md/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1158,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:11.051Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kp.md": {
+      "urls": [
+        "https://kp.md/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1578,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:09.893Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "omg.md": {
+      "urls": [
+        "https://omg.md/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3030,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:39.754Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "moldpres.md": {
+      "urls": [
+        "https://www.moldpres.md/config/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3274,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:06.068Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noi.md": {
+      "urls": [
+        "https://noi.md/ru/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4017,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:36.322Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vesti.md": {
+      "urls": [
+        "https://vesti.md/rss/news.xml",
+        "https://www.vesti.md/rss/news.xml",
+        "http://www.vesti.md/rss/news.xml",
+        "https://vesti.md/rss/oflife.xml",
+        "https://www.vesti.md/rss/oflife.xml",
+        "https://vesti.md/rss/foreign.xml",
+        "https://vesti.md/rss/social.xml",
+        "https://www.vesti.md/rss/foreign.xml",
+        "https://www.vesti.md/rss/social.xml",
+        "https://vesti.md/rss/politics.xml",
+        "https://www.vesti.md/rss/politics.xml",
+        "https://vesti.md/rss/incidents.xml",
+        "https://www.vesti.md/rss/incidents.xml",
+        "https://vesti.md/rss/science.xml",
+        "https://www.vesti.md/rss/science.xml",
+        "https://vesti.md/rss/meteo.xml",
+        "https://vesti.md/rss/showbiz.xml",
+        "https://vesti.md/rss/tech.xml",
+        "https://www.vesti.md/rss/showbiz.xml",
+        "https://www.vesti.md/rss/tech.xml",
+        "https://vesti.md/rss/economics.xml",
+        "https://vesti.md/rss/transnistria.xml",
+        "https://www.vesti.md/rss/economics.xml",
+        "https://www.vesti.md/rss/transnistria.xml",
+        "http://www.vesti.md/rss/oflife.xml",
+        "http://www.vesti.md/rss/foreign.xml",
+        "http://www.vesti.md/rss/social.xml",
+        "http://www.vesti.md/rss/politics.xml",
+        "http://www.vesti.md/rss/incidents.xml",
+        "http://www.vesti.md/rss/science.xml",
+        "http://www.vesti.md/rss/meteo.xml",
+        "http://www.vesti.md/rss/showbiz.xml",
+        "http://www.vesti.md/rss/tech.xml",
+        "http://www.vesti.md/rss/economics.xml",
+        "http://www.vesti.md/rss/transnistria.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:44.923Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diez.md": {
+      "urls": [
+        "https://diez.md/feed/",
+        "https://diez.md/category/educatie-2/feed/",
+        "https://diez.md/category/advertoriale/feed/",
+        "https://diez.md/category/lifestyle/feed/",
+        "https://diez.md/category/oportunitati/feed/",
+        "https://diez.md/category/be-better/feed/",
+        "https://diez.md/category/calatorii/feed/",
+        "https://diez.md/category/cultura/feed/",
+        "https://diez.md/category/economie/feed/",
+        "https://diez.md/category/evenimente/feed/",
+        "https://diez.md/category/international-2/feed/",
+        "https://diez.md/category/politica/feed/",
+        "https://diez.md/category/social-media/feed/",
+        "https://diez.md/category/social/feed/",
+        "https://diez.md/category/sport/feed/",
+        "https://diez.md/category/social/unde-s-tinerii/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:36.724Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "24h.md": {
+      "urls": [
+        "http://24h.md/feed/",
+        "http://24h.md/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:51.409Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "jurnal.md": {
+      "urls": [
+        "https://www.jurnal.md/ro/rss/all"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:06.579Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "unimedia.info": {
+      "urls": [
+        "https://unimedia.info/ro/rss/all/",
+        "https://unimedia.info/ro/rss/category/social/",
+        "https://unimedia.info/ro/rss/category/externe/",
+        "https://unimedia.info/ro/rss/category/politic/",
+        "https://unimedia.info/ro/rss/category/shok-md/",
+        "https://unimedia.info/ro/rss/category/justitie/",
+        "https://unimedia.info/ro/rss/category/auto/",
+        "https://unimedia.info/ro/rss/category/cultura-turism/",
+        "https://unimedia.info/ro/rss/category/economic/",
+        "https://unimedia.info/ro/rss/category/sport/",
+        "https://unimedia.info/ro/rss/category/tech-media/",
+        "https://unimedia.info/ro/rss/category/diaspora/",
+        "https://unimedia.info/ro/rss/category/wine-of-moldova/",
+        "https://unimedia.info/ro/rss/category/youtube-fb/",
+        "https://unimedia.info/ro/rss/category/monden-altfel/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 43,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:32.304Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "adevarul.ro": {
+      "urls": [
+        "https://adevarul.ro/rss/index",
+        "https://adevarul.ro/rss/",
+        "http://adevarul.ro/rss/",
+        "https://adevarul.ro/rss/stiri-externe/republica-moldova",
+        "https://adevarul.ro/rss/stiri-locale/sibiu"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1516,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:50.425Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "unghiul.com": {
+      "urls": [
+        "https://unghiul.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1844,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:16.726Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "novostipmr.com": {
+      "urls": [
+        "https://novostipmr.com/ru/rss.xml",
+        "https://novostipmr.com/ru/yandex-news"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:07:30.664Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

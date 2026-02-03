@@ -1,0 +1,24 @@
+{
+  "country_code": "PH",
+  "language_code": "JA",
+  "total_domains": 1,
+  "total_feeds": 2,
+  "feeds": {
+    "manila-shimbun.com": {
+      "urls": [
+        "https://www.manila-shimbun.com/rss.rdf",
+        "https://blog.manila-shimbun.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T11:33:05.179Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

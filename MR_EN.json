@@ -1,0 +1,646 @@
+{
+  "country_code": "MR",
+  "language_code": "EN",
+  "total_domains": 30,
+  "total_feeds": 218,
+  "feeds": {
+    "alkhabar.mr": {
+      "urls": [
+        "http://alkhabar.mr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1049,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:48.234Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "taqadoum.mr": {
+      "urls": [
+        "https://taqadoum.mr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1801,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:31.736Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ami.mr": {
+      "urls": [
+        "https://ami.mr/fr/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4295,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:08.345Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tvm.mr": {
+      "urls": [
+        "https://tvm.mr/ar/?feed=rss2",
+        "https://tvm.mr/fr/?feed=rss2",
+        "http://tvm.mr/fr/?feed=rss2",
+        "https://tvm.mr/ar/feed/",
+        "https://tvm.mr/ar/?feed=comments-rss2",
+        "https://tvm.mr/ar/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:44.958Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "rimnow.com": {
+      "urls": [
+        "https://feeds.feedburner.com/shanqyti/Ohlx",
+        "https://draft.blogger.com/feeds/750423042791565202/posts/default",
+        "https://www.blogger.com/feeds/750423042791565202/posts/default",
+        "https://chegag.blogspot.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/9112377040806741484/posts/default",
+        "http://feeds.feedburner.com/blogspot/dLLyPi",
+        "http://chegag.blogspot.com/feeds/posts/default",
+        "https://alkachiv.blogspot.com/feeds/comments/default",
+        "https://alkachiv.blogspot.com/feeds/1267036861010261475/comments/default",
+        "https://alkachiv.blogspot.com/feeds/1315413881858740783/comments/default",
+        "https://alkachiv.blogspot.com/feeds/1566091558439254878/comments/default",
+        "https://alkachiv.blogspot.com/feeds/1577650818769293309/comments/default",
+        "https://alkachiv.blogspot.com/feeds/159713631885923129/comments/default",
+        "https://alkachiv.blogspot.com/feeds/1768331601885136720/comments/default",
+        "https://alkachiv.blogspot.com/feeds/2595357402865803571/comments/default",
+        "https://alkachiv.blogspot.com/feeds/3242018343987750339/comments/default",
+        "https://alkachiv.blogspot.com/feeds/327946010936602876/comments/default",
+        "https://alkachiv.blogspot.com/feeds/3325159338444871514/comments/default",
+        "https://alkachiv.blogspot.com/feeds/4120314086142117996/comments/default",
+        "https://alkachiv.blogspot.com/feeds/441325121897395244/comments/default",
+        "https://alkachiv.blogspot.com/feeds/4622185779905169853/comments/default",
+        "https://alkachiv.blogspot.com/feeds/5050663722853946755/comments/default",
+        "https://alkachiv.blogspot.com/feeds/5245662609922103853/comments/default",
+        "https://alkachiv.blogspot.com/feeds/5825775421266241333/comments/default",
+        "https://alkachiv.blogspot.com/feeds/6069354954969642108/comments/default",
+        "https://alkachiv.blogspot.com/feeds/6452668616887814970/comments/default",
+        "https://alkachiv.blogspot.com/feeds/692096877255923503/comments/default",
+        "https://alkachiv.blogspot.com/feeds/6934482635718050363/comments/default",
+        "https://alkachiv.blogspot.com/feeds/7475031723955744421/comments/default",
+        "https://alkachiv.blogspot.com/feeds/7494582184233224690/comments/default",
+        "https://alkachiv.blogspot.com/feeds/7540523368841825283/comments/default",
+        "https://alkachiv.blogspot.com/feeds/7596318707902243766/comments/default",
+        "https://alkachiv.blogspot.com/feeds/9222045283675954366/comments/default",
+        "https://chegag.blogspot.com/feeds/1249913559402954828/comments/default",
+        "https://chegag.blogspot.com/feeds/1352213535768802775/comments/default",
+        "https://chegag.blogspot.com/feeds/2230227830715567093/comments/default",
+        "https://chegag.blogspot.com/feeds/3004459532591663693/comments/default",
+        "https://chegag.blogspot.com/feeds/325290275336463755/comments/default",
+        "https://chegag.blogspot.com/feeds/3517629582218051933/comments/default",
+        "https://chegag.blogspot.com/feeds/3701353840439602000/comments/default",
+        "https://chegag.blogspot.com/feeds/3795422998976498186/comments/default",
+        "https://chegag.blogspot.com/feeds/3824681730758430184/comments/default",
+        "https://chegag.blogspot.com/feeds/4183050062754114570/comments/default",
+        "https://chegag.blogspot.com/feeds/4192338010594126863/comments/default",
+        "https://chegag.blogspot.com/feeds/4383786189138204119/comments/default",
+        "https://chegag.blogspot.com/feeds/4537898438823464784/comments/default",
+        "https://chegag.blogspot.com/feeds/5095075722963431765/comments/default",
+        "https://chegag.blogspot.com/feeds/5454765026701171771/comments/default",
+        "https://chegag.blogspot.com/feeds/6466767060141168305/comments/default",
+        "https://chegag.blogspot.com/feeds/651551151493500984/comments/default",
+        "https://chegag.blogspot.com/feeds/7403896680600729514/comments/default",
+        "https://chegag.blogspot.com/feeds/7452710689373949744/comments/default",
+        "https://chegag.blogspot.com/feeds/852335581265409417/comments/default",
+        "https://chegag.blogspot.com/feeds/8608272332084105330/comments/default",
+        "https://chegag.blogspot.com/feeds/87892965790606878/comments/default",
+        "https://chegag.blogspot.com/feeds/9200982141063997167/comments/default",
+        "http://alkachiv.blogspot.com/feeds/comments/default",
+        "http://alkachiv.blogspot.com/feeds/1212373489832569704/comments/default",
+        "http://alkachiv.blogspot.com/feeds/1267036861010261475/comments/default",
+        "http://alkachiv.blogspot.com/feeds/1315413881858740783/comments/default",
+        "http://alkachiv.blogspot.com/feeds/1566091558439254878/comments/default",
+        "http://alkachiv.blogspot.com/feeds/159713631885923129/comments/default",
+        "http://alkachiv.blogspot.com/feeds/1768331601885136720/comments/default",
+        "http://alkachiv.blogspot.com/feeds/2595357402865803571/comments/default",
+        "http://alkachiv.blogspot.com/feeds/2752509788767170288/comments/default",
+        "http://alkachiv.blogspot.com/feeds/3242018343987750339/comments/default",
+        "http://alkachiv.blogspot.com/feeds/327946010936602876/comments/default",
+        "http://alkachiv.blogspot.com/feeds/3325159338444871514/comments/default",
+        "http://alkachiv.blogspot.com/feeds/4120314086142117996/comments/default",
+        "http://alkachiv.blogspot.com/feeds/441325121897395244/comments/default",
+        "http://alkachiv.blogspot.com/feeds/4622185779905169853/comments/default",
+        "http://alkachiv.blogspot.com/feeds/4721693303133868136/comments/default",
+        "http://alkachiv.blogspot.com/feeds/5050663722853946755/comments/default",
+        "http://alkachiv.blogspot.com/feeds/5245662609922103853/comments/default",
+        "http://alkachiv.blogspot.com/feeds/563927396237186695/comments/default",
+        "http://alkachiv.blogspot.com/feeds/5825775421266241333/comments/default",
+        "http://alkachiv.blogspot.com/feeds/5933950906066978085/comments/default",
+        "http://alkachiv.blogspot.com/feeds/6069354954969642108/comments/default",
+        "http://alkachiv.blogspot.com/feeds/6452668616887814970/comments/default",
+        "http://alkachiv.blogspot.com/feeds/692096877255923503/comments/default",
+        "http://alkachiv.blogspot.com/feeds/7475031723955744421/comments/default",
+        "http://alkachiv.blogspot.com/feeds/7596318707902243766/comments/default",
+        "http://alkachiv.blogspot.com/feeds/9222045283675954366/comments/default",
+        "http://chegag.blogspot.com/feeds/1249913559402954828/comments/default",
+        "http://chegag.blogspot.com/feeds/1352213535768802775/comments/default",
+        "http://chegag.blogspot.com/feeds/2230227830715567093/comments/default",
+        "http://chegag.blogspot.com/feeds/3004459532591663693/comments/default",
+        "http://chegag.blogspot.com/feeds/3517629582218051933/comments/default",
+        "http://chegag.blogspot.com/feeds/3701353840439602000/comments/default",
+        "http://chegag.blogspot.com/feeds/3824681730758430184/comments/default",
+        "http://chegag.blogspot.com/feeds/4383786189138204119/comments/default",
+        "http://chegag.blogspot.com/feeds/5095075722963431765/comments/default",
+        "http://chegag.blogspot.com/feeds/5454765026701171771/comments/default",
+        "http://chegag.blogspot.com/feeds/7403896680600729514/comments/default",
+        "http://chegag.blogspot.com/feeds/7452710689373949744/comments/default",
+        "http://chegag.blogspot.com/feeds/9200982141063997167/comments/default"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1124,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:25.885Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "allafrica.com": {
+      "urls": [
+        "https://allafrica.com/tools/headlines/rdf/nigeria/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/liberia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/kenya/headlines.rdf",
+        "https://fr.allafrica.com/tools/headlines/rdf/westafrica/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/uganda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ethiopia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/education/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/ghana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/malawi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/namibia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/somalia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/rwanda/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zimbabwe/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sudan/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tanzania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gambia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mozambique/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/morocco/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/senegal/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/botswana/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cameroon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/egypt/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/tunisia/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/angola/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/benin/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/burundi/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/capeverde/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/centralafricanrepublic/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/chad/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/commodities/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/comoros/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/cotedivoire/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/djibouti/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/equatorialguinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eritrea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/eswatini/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/gabon/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guinea/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/guineabissau/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/lesotho/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/libya/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/madagascar/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritania/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/mauritius/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/sierraleone/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/togo/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/westernsahara/headlines.rdf",
+        "https://allafrica.com/tools/headlines/rdf/zambia/headlines.rdf"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1182,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:09.900Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1841,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:19.807Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "irinnews.org": {
+      "urls": [
+        "https://www.thenewhumanitarian.org/rss/all.xml",
+        "https://www.thenewhumanitarian.org/taxonomy/term/6911/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7346/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7347/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7592/feed",
+        "https://www.thenewhumanitarian.org/taxonomy/term/7943/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 641,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:12.448Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "souhoufi.com": {
+      "urls": [
+        "https://www.voursa.com/feedrss_voursa.xml",
+        "https://souhoufi.com/?feed=rss2",
+        "https://souhoufi.com/feed/",
+        "http://souhoufi.com/feed/",
+        "http://souhoufi.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1929,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:39.416Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "maurimedia.net": {
+      "urls": [
+        "https://www.maurimedia.net/spip.php?page=backend",
+        "https://maurimedia.net/feed/",
+        "http://maurimedia.net/feed/",
+        "http://maurimedia.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1230,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:02.515Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "journaltahalil.com": {
+      "urls": [
+        "https://www.journaltahalil.com/feed/",
+        "https://www.journaltahalil.com/ar/feed/",
+        "http://www.journaltahalil.com/flux.xml",
+        "https://www.journaltahalil.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3186,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:57.800Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elhourriya.net": {
+      "urls": [
+        "https://elhourriya.net/?feed=rss2",
+        "https://elhourriya.net/?feed=comments-rss2",
+        "https://elhourriya.net/?feed=rss2&page_id=2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 546,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:45.508Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elwatan.info": {
+      "urls": [
+        "https://elwatan.info/rss.xml",
+        "http://elwatan.info/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1028,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:40.504Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "atlasinfo.info": {
+      "urls": [
+        "https://atlasinfo.info/taxonomy/term/23118/feed",
+        "https://atlasinfo.info/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1036,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:29.934Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lecalame.info": {
+      "urls": [
+        "https://lecalame.info/?q=rss.xml",
+        "http://lecalame.info/?q=rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1045,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:22.325Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tawary.com": {
+      "urls": [
+        "https://tawary.com/feed/",
+        "http://tawary.com/spip.php?page=backend"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1135,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:34.035Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "cridem.org": {
+      "urls": [
+        "https://cridem.org/rss/actualites.php",
+        "http://www.cridem.org/rss/actualites.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1211,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:11.756Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "saharamedias.net": {
+      "urls": [
+        "https://saharamedias.net/feed/",
+        "https://www.saharamedias.net/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1217,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:21.227Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "anbaa.info": {
+      "urls": [
+        "https://anbaa.info/?feed=rss2",
+        "https://anbaa.info/?feed=comments-rss2"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2089,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:50.326Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mauriweb.info": {
+      "urls": [
+        "https://mauriweb.info/rss.xml",
+        "http://mauriweb.info/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2237,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:42.744Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "essahraa.net": {
+      "urls": [
+        "https://www.essahraa.net/taxonomy/term/1628/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 886,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:26.771Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elmourabiton.tv": {
+      "urls": [
+        "https://elmourabiton.tv/ar/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 933,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:54.376Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "meyadin.net": {
+      "urls": [
+        "https://www.meyadin.net/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 971,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:35.007Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alwiam.info": {
+      "urls": [
+        "https://alwiam.info/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1007,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:27.778Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rimtoday.net": {
+      "urls": [
+        "https://rimtoday.net/?q=rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1052,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:28.830Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alakhbar.info": {
+      "urls": [
+        "https://alakhbar.info/?q=rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1477,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:23.803Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alikhbari.net": {
+      "urls": [
+        "https://alikhbari.net/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1677,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:47.185Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "pointschauds.info": {
+      "urls": [
+        "https://pointschauds.info/fr/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1897,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:14.345Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kassataya.com": {
+      "urls": [
+        "https://kassataya.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3117,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:53.443Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mauriactu.info": {
+      "urls": [
+        "http://mauriactu.info/ar/rss.xml",
+        "http://mauriactu.info/fr/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:58:37.051Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "country_code": "PR",
+  "language_code": "EN",
+  "total_domains": 6,
+  "total_feeds": 119,
+  "feeds": {
+    "elnuevodia.com": {
+      "urls": [
+        "https://conversaciones.elnuevodia.com/feed.xml",
+        "https://entrelineas.elnuevodia.com/feed.xml",
+        "https://tiempoextra.elnuevodia.com/feed.xml",
+        "https://conversaciones.elnuevodia.com/feed",
+        "https://entrelineas.elnuevodia.com/feed",
+        "https://tiempoextra.elnuevodia.com/feed",
+        "https://blogs.elnuevodia.com/a-pura-vista/feed/",
+        "https://blogs.elnuevodia.com/abriendo-puertas-a-la-esperanza/feed/",
+        "https://blogs.elnuevodia.com/agentes-de-cambio/feed/",
+        "https://blogs.elnuevodia.com/ahorros-verdes/feed/",
+        "https://blogs.elnuevodia.com/ambientalmente/feed/",
+        "https://blogs.elnuevodia.com/arte-de-vivir/feed/",
+        "https://blogs.elnuevodia.com/bienestar-animal/feed/",
+        "https://blogs.elnuevodia.com/boricua-en-madrid/feed/",
+        "https://blogs.elnuevodia.com/con-igual-patriotismo/feed/",
+        "https://blogs.elnuevodia.com/de-compras-con-frances/feed/",
+        "https://blogs.elnuevodia.com/deshojando-margaritas/feed/",
+        "https://blogs.elnuevodia.com/ecologia-emocional/feed/",
+        "https://blogs.elnuevodia.com/ecosistema-de-internet/feed/",
+        "https://blogs.elnuevodia.com/el-blog-magico/feed/",
+        "https://blogs.elnuevodia.com/el-internacionalista/feed/",
+        "https://blogs.elnuevodia.com/el-otro-lado/feed/",
+        "https://blogs.elnuevodia.com/entre-bytes/feed/",
+        "https://blogs.elnuevodia.com/ideas-peligrosas/feed/",
+        "https://blogs.elnuevodia.com/la-mancha/feed/",
+        "https://blogs.elnuevodia.com/los-que-cuidan-de-ti/feed/",
+        "https://blogs.elnuevodia.com/maleta-en-mano/feed/",
+        "https://blogs.elnuevodia.com/mas-alla-del-diploma/feed/",
+        "https://blogs.elnuevodia.com/orlandorricans/feed/",
+        "https://blogs.elnuevodia.com/papelones/feed/",
+        "https://blogs.elnuevodia.com/plenamente/feed/",
+        "https://blogs.elnuevodia.com/puerto-rico-sentipensante/feed/",
+        "https://blogs.elnuevodia.com/que-te-cuento-de-cuba/feed/",
+        "https://blogs.elnuevodia.com/siempre-en-carrera/feed/",
+        "https://blogs.elnuevodia.com/teampuertorico/feed/",
+        "https://blogs.elnuevodia.com/trumpstorming/feed/",
+        "https://blogs.elnuevodia.com/vivir-con-cancer/feed/",
+        "https://blogs.elnuevodia.com/a-pura-vista/category/politica/feed/",
+        "https://blogs.elnuevodia.com/agentes-de-cambio/category/entretenimiento/feed/",
+        "https://blogs.elnuevodia.com/ambientalmente/category/medio-ambiente/feed/",
+        "https://blogs.elnuevodia.com/arte-de-vivir/category/general/feed/",
+        "https://blogs.elnuevodia.com/bienestar-animal/category/general/feed/",
+        "https://blogs.elnuevodia.com/con-igual-patriotismo/category/politica/feed/",
+        "https://blogs.elnuevodia.com/ecologia-emocional/category/general/feed/",
+        "https://blogs.elnuevodia.com/ecosistema-de-internet/category/tecnologia/feed/",
+        "https://blogs.elnuevodia.com/ideas-peligrosas/category/ideas/feed/",
+        "https://blogs.elnuevodia.com/mas-alla-del-diploma/category/opinion/feed/",
+        "https://blogs.elnuevodia.com/que-te-cuento-de-cuba/category/cuba/feed/",
+        "https://blogs.elnuevodia.com/siempre-en-carrera/category/uncategorized/feed/",
+        "https://blogs.elnuevodia.com/bailando-y-contando/feed/",
+        "https://blogs.elnuevodia.com/buenas-nuevas/feed/",
+        "https://blogs.elnuevodia.com/descaros/feed/",
+        "https://blogs.elnuevodia.com/desde-washington/feed/",
+        "https://blogs.elnuevodia.com/en-el-camino/feed/",
+        "https://blogs.elnuevodia.com/golpes-bajos/feed/",
+        "https://blogs.elnuevodia.com/la-batatita-de-fufi/feed/",
+        "https://blogs.elnuevodia.com/la-chica-gamer/feed/",
+        "https://blogs.elnuevodia.com/las-cosas-por-su-nombre/feed/",
+        "https://blogs.elnuevodia.com/nada-personal/feed/",
+        "https://blogs.elnuevodia.com/para-tu-consumo/feed/",
+        "https://blogs.elnuevodia.com/pasaporte-boricua/feed/",
+        "https://blogs.elnuevodia.com/puerto-rico-primero/feed/",
+        "https://blogs.elnuevodia.com/que-bueno-es-estar-vivo/feed/",
+        "https://blogs.elnuevodia.com/truquitoscaseros/feed/",
+        "https://blogs.elnuevodia.com/vicios-virtudes-valores/feed/",
+        "https://feed.podbean.com/paginaabiertaelnuevodia/feed.xml",
+        "https://feed.podbean.com/salaempresarial/feed.xml",
+        "https://blogs.elnuevodia.com/pasaporte-boricua/category/noticias/feed/",
+        "https://blogs.elnuevodia.com/a-pura-vista/comments/feed/",
+        "https://blogs.elnuevodia.com/ahorros-verdes/comments/feed/",
+        "https://blogs.elnuevodia.com/arte-de-vivir/comments/feed/",
+        "https://blogs.elnuevodia.com/bienestar-animal/comments/feed/",
+        "https://blogs.elnuevodia.com/con-igual-patriotismo/comments/feed/",
+        "https://blogs.elnuevodia.com/ecologia-emocional/comments/feed/",
+        "https://blogs.elnuevodia.com/el-internacionalista/comments/feed/",
+        "https://blogs.elnuevodia.com/el-otro-lado/comments/feed/",
+        "https://blogs.elnuevodia.com/ideas-peligrosas/comments/feed/",
+        "https://blogs.elnuevodia.com/maleta-en-mano/comments/feed/",
+        "https://blogs.elnuevodia.com/mas-alla-del-diploma/comments/feed/",
+        "https://blogs.elnuevodia.com/puerto-rico-sentipensante/comments/feed/",
+        "https://blogs.elnuevodia.com/arte-de-vivir/2017/09/18/hora-de-reinventar-infraestructura-energetica-con-innovacion/feed/",
+        "https://blogs.elnuevodia.com/con-igual-patriotismo/2020/07/17/nueva-generacion-estadista-en-el-congreso/feed/",
+        "https://blogs.elnuevodia.com/ecologia-emocional/2018/02/16/despintando-el-secuestro-emocional/feed/",
+        "https://blogs.elnuevodia.com/ideas-peligrosas/2016/06/28/menos-politica-para-la-ciencia-mas-ciencia-para-la-politica/feed/",
+        "https://blogs.elnuevodia.com/ideas-peligrosas/2016/08/04/comprobado-mas-empresas-nuevas-mas-riqueza/feed/",
+        "https://blogs.elnuevodia.com/ideas-peligrosas/2017/05/12/uber-no-es-na-7-lecciones-de-la-saga-uber-puerto-rico/feed/",
+        "https://blogs.elnuevodia.com/puerto-rico-sentipensante/2021/04/17/la-upr-y-la-junta-de-control-o-de-cinismo-fiscal/feed/",
+        "https://blogs.elnuevodia.com/puerto-rico-sentipensante/2022/09/12/mirar-mas-alla-del-igs-en-la-upr/feed/",
+        "https://blogs.elnuevodia.com/bailando-y-contando/comments/feed/",
+        "https://blogs.elnuevodia.com/desde-washington/comments/feed/",
+        "https://blogs.elnuevodia.com/golpes-bajos/comments/feed/",
+        "https://blogs.elnuevodia.com/vicios-virtudes-valores/comments/feed/",
+        "https://blogs.elnuevodia.com/vicios-virtudes-valores/2015/05/06/media-hora/feed/",
+        "https://blogs.elnuevodia.com/vicios-virtudes-valores/2015/06/14/sobre-el-dia-de-la-oracion-en-puerto-rico/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1006,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:36.526Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "laesquina.com": {
+      "urls": [
+        "https://laesquina.com/feed/",
+        "https://laesquina.com/blog/author/admin/feed/",
+        "https://laesquina.com/blog/author/hectorivan/feed/",
+        "https://laesquina.com/blog/category/deportes/feed/",
+        "https://laesquina.com/blog/category/gobierno/feed/",
+        "https://laesquina.com/blog/category/locales/feed/",
+        "https://laesquina.com/blog/category/policiacas/feed/",
+        "https://laesquina.com/blog/category/temporada-de-huracanes/feed/",
+        "https://laesquina.com/blog/category/uncategorized/feed/",
+        "https://laesquina.com/comments/feed/",
+        "http://www.laesquina.com/web/feed/",
+        "https://laesquina.com/blog/2025/07/03/gobernador-luis-fortuno-oficializo-nombre-de-angelita-lind-para-parque-de-beisbol-de-patillas-en-el-2012/feed/",
+        "http://www.laesquina.com/web/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2423,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:38.950Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elexpresso.com": {
+      "urls": [
+        "http://www.elexpresso.com/rss/1_portada/index.rss",
+        "https://www.elexpresso.com/feed/",
+        "http://www.elexpresso.com/feed/",
+        "https://www.elexpresso.com/comments/feed/",
+        "https://elexpresso.com/feed/",
+        "https://elexpresso.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1498,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:35.517Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "claridadpuertorico.com": {
+      "urls": [
+        "https://www.claridadpuertorico.com/feed/",
+        "https://claridadpuertorico.com/feed/",
+        "https://claridadpuertorico.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1791,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:28.465Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bandera.org": {
+      "urls": [
+        "https://www.bandera.org/feed/",
+        "https://www.bandera.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3923,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:25.743Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "primerahora.com": {
+      "urls": [
+        "https://www.primerahora.com/arc/outboundfeeds/rss/category/entretenimiento/?outputType=xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1453,
+        "category": "general",
+        "last_checked": "2026-02-01T12:30:40.403Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

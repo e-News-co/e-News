@@ -1,0 +1,329 @@
+{
+  "country_code": "LU",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 167,
+  "feeds": {
+    "rtl.lu": {
+      "urls": [
+        "https://www.rtl.lu/rss/feed/headlines.rss",
+        "https://www.rtl.lu/rss/headlines",
+        "https://www.rtl.lu/podcast/feed/newsflash-rtl-today-en.xml",
+        "https://www.rtl.lu/news/national.rss",
+        "https://www.rtl.lu/rss/national",
+        "https://www.rtl.lu/news/international.rss",
+        "https://www.rtl.lu/rss/international",
+        "https://www.rtl.lu/rss/sport",
+        "https://www.rtl.lu/sport/news.rss",
+        "https://www.rtl.lu/podcast/feed/journal-radio-lb.xml",
+        "https://www.rtl.lu/podcast/feed/rtl-express-lu-hd.xml",
+        "https://www.rtl.lu/podcast/feed/rtl-express-lu-sd.xml",
+        "https://www.rtl.lu/podcast/feed/radio_journal_fb.xml",
+        "https://www.rtl.lu/podcast/feed/newsflash-rtl-5minutes-fr.xml",
+        "https://www.rtl.lu/podcast/feed/tele_journal_sous_titrage.xml",
+        "https://www.rtl.lu/podcast/feed/tele_journal_sous_titrage_large.xml",
+        "https://www.rtl.lu/podcast/feed/1komma5grad-lb.xml",
+        "https://www.rtl.lu/podcast/feed/5-vir-12-lb.xml",
+        "https://www.rtl.lu/podcast/feed/afterwork-lb.xml",
+        "https://www.rtl.lu/podcast/feed/am-gespreich-lb.xml",
+        "https://www.rtl.lu/podcast/feed/am-takt-lb.xml",
+        "https://www.rtl.lu/podcast/feed/apropos-lb.xml",
+        "https://www.rtl.lu/podcast/feed/automag-lb.xml",
+        "https://www.rtl.lu/podcast/feed/automag-radio-lb.xml",
+        "https://www.rtl.lu/podcast/feed/background-lb.xml",
+        "https://www.rtl.lu/podcast/feed/bd-vun-der-woch-lb.xml",
+        "https://www.rtl.lu/podcast/feed/bicherlies-lb.xml",
+        "https://www.rtl.lu/podcast/feed/buch-vun-der-woch-lb.xml",
+        "https://www.rtl.lu/podcast/feed/commentaire-lb.xml",
+        "https://www.rtl.lu/podcast/feed/de-grousse-plateau-den-rtlvelopodcast-lb.xml",
+        "https://www.rtl.lu/podcast/feed/deckkaepp-lb.xml",
+        "https://www.rtl.lu/podcast/feed/den-hoppen-theid-lb.xml",
+        "https://www.rtl.lu/podcast/feed/dna-lb.xml",
+        "https://www.rtl.lu/podcast/feed/dna-luxembourg-crime-podcast-en.xml",
+        "https://www.rtl.lu/podcast/feed/drett-hallschent-lb.xml",
+        "https://www.rtl.lu/podcast/feed/econews-lb.xml",
+        "https://www.rtl.lu/podcast/feed/eko-ass-dach-logesch-lb.xml",
+        "https://www.rtl.lu/podcast/feed/exit-an-elo-lb.xml",
+        "https://www.rtl.lu/podcast/feed/faktencheck-lb.xml",
+        "https://www.rtl.lu/podcast/feed/firwaaat-lb.xml",
+        "https://www.rtl.lu/podcast/feed/flf-magazin-lb.xml",
+        "https://www.rtl.lu/podcast/feed/flse-magazin-lb.xml",
+        "https://www.rtl.lu/podcast/feed/flunkernews-lb.xml",
+        "https://www.rtl.lu/podcast/feed/fro-un-den-affekot-lb.xml",
+        "https://www.rtl.lu/podcast/feed/generation-art-lb.xml",
+        "https://www.rtl.lu/podcast/feed/goal-de-football-zu-letzebuerg-lb.xml",
+        "https://www.rtl.lu/podcast/feed/gudden-appetit-avec-mathieu-lopez-fr.xml",
+        "https://www.rtl.lu/podcast/feed/hitstory-lb.xml",
+        "https://www.rtl.lu/podcast/feed/hollywood-reporter-lb.xml",
+        "https://www.rtl.lu/podcast/feed/how-i-got-here-en.xml",
+        "https://www.rtl.lu/podcast/feed/igel-inclusioun-ganz-einfach-liewen-lb.xml",
+        "https://www.rtl.lu/podcast/feed/in-conversation-with-lisa-burke-en.xml",
+        "https://www.rtl.lu/podcast/feed/invite-vun-der-redaktioun-lb.xml",
+        "https://www.rtl.lu/podcast/feed/journal-fr.xml",
+        "https://www.rtl.lu/podcast/feed/kloertext-podcast-lb.xml",
+        "https://www.rtl.lu/podcast/feed/la-machine-a-explorer-le-temple-de-la-musique-fr.xml",
+        "https://www.rtl.lu/podcast/feed/la-route-des-vins-du-luxembourg-fr.xml",
+        "https://www.rtl.lu/podcast/feed/lecture-vun-heiheem-lb.xml",
+        "https://www.rtl.lu/podcast/feed/luxembourg-history-podcast-en.xml",
+        "https://www.rtl.lu/podcast/feed/my-goddamn-quest-for-happiness-en.xml",
+        "https://www.rtl.lu/podcast/feed/newsflash-lb.xml",
+        "https://www.rtl.lu/podcast/feed/ohjo-den-em-podcast-lb.xml",
+        "https://www.rtl.lu/podcast/feed/pattcast-lb.xml",
+        "https://www.rtl.lu/podcast/feed/pisa-de-wessensmagazin-lb.xml",
+        "https://www.rtl.lu/podcast/feed/post-connect-lb.xml",
+        "https://www.rtl.lu/podcast/feed/presseclub-lb.xml",
+        "https://www.rtl.lu/podcast/feed/radio_5vir12_fb.xml",
+        "https://www.rtl.lu/podcast/feed/radio_amgespreich.xml",
+        "https://www.rtl.lu/podcast/feed/radio_amtakt.xml",
+        "https://www.rtl.lu/podcast/feed/radio_automag_fb.xml",
+        "https://www.rtl.lu/podcast/feed/radio_flamag_fb.xml",
+        "https://www.rtl.lu/podcast/feed/radio_flfmag_fb.xml",
+        "https://www.rtl.lu/podcast/feed/radio_flhmag_fb.xml",
+        "https://www.rtl.lu/podcast/feed/radio_inviteredaktioun.xml",
+        "https://www.rtl.lu/podcast/feed/radio_presseclub.xml",
+        "https://www.rtl.lu/podcast/feed/radio_rebound_fb.xml",
+        "https://www.rtl.lu/podcast/feed/radio_rtlafterwork.xml",
+        "https://www.rtl.lu/podcast/feed/rebound-lb.xml",
+        "https://www.rtl.lu/podcast/feed/rebound-radio-lb.xml",
+        "https://www.rtl.lu/podcast/feed/review-radio-lb.xml",
+        "https://www.rtl.lu/podcast/feed/rtl-express-en-hd.xml",
+        "https://www.rtl.lu/podcast/feed/rtl-express-en-sd.xml",
+        "https://www.rtl.lu/podcast/feed/rtl-express-fr-hd.xml",
+        "https://www.rtl.lu/podcast/feed/rtl-express-fr-sd.xml",
+        "https://www.rtl.lu/podcast/feed/rtl-today-song-two-en.xml",
+        "https://www.rtl.lu/podcast/feed/spin-lb.xml",
+        "https://www.rtl.lu/podcast/feed/sprint-lb.xml",
+        "https://www.rtl.lu/podcast/feed/sproochmates-lb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_20vir_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_automag_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_dna_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_dna_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_generationart_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_goal_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_hoppentheid_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_pisa_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_ptconnect_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_rebound_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_topthema_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_trendmag_fb.xml",
+        "https://www.rtl.lu/podcast/feed/tele_trendmag_large_fb.xml",
+        "https://www.rtl.lu/podcast/feed/the-oatcast-en.xml",
+        "https://www.rtl.lu/podcast/feed/tiebreak-lb.xml",
+        "https://www.rtl.lu/podcast/feed/tous-seuls-tous-ensemble-fr.xml",
+        "https://www.rtl.lu/podcast/feed/undercut-lb.xml",
+        "https://www.rtl.lu/podcast/feed/viva-vakanz-lb.xml",
+        "https://www.rtl.lu/podcast/feed/vous-avez-comme-un-accent-fr.xml",
+        "https://www.rtl.lu/podcast/feed/wellebriecher-lb.xml",
+        "https://www.rtl.lu/podcast/feed/wochereckbleck-lb.xml",
+        "https://www.rtl.lu/podcast/feed/wou-deet-et-wei-podcast-lb.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 696,
+        "category": "general",
+        "last_checked": "2026-02-01T04:04:39.489Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tageblatt.lu": {
+      "urls": [
+        "https://www.tageblatt.lu/category/nachrichten/feed/atom/",
+        "https://www.tageblatt.lu/feed/",
+        "https://www.tageblatt.lu/category/sport/feed/atom/",
+        "https://www.tageblatt.lu/category/meinung/feed/atom/",
+        "https://www.tageblatt.lu/category/politik/feed/atom/",
+        "https://www.tageblatt.lu/category/kultur/feed/atom/",
+        "https://www.tageblatt.lu/category/auto/feed/atom/",
+        "https://www.tageblatt.lu/category/campus/feed/atom/",
+        "https://www.tageblatt.lu/category/magazin/feed/atom/",
+        "https://www.tageblatt.lu/category/wirtschaft/feed/atom/",
+        "https://www.tageblatt.lu/category/wissen/feed/atom/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1750,
+        "category": "general",
+        "last_checked": "2026-02-01T04:04:41.591Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "wort.lu": {
+      "urls": [
+        "https://www.wort.lu/rss",
+        "https://www.wort.lu/rss/de",
+        "https://www.wort.lu/rss/pt",
+        "https://www.wort.lu/rss/fr",
+        "https://www.virgule.lu/rss",
+        "https://www.contacto.lu/rss",
+        "https://www.wort.lu/podcast-series/de-walpodcast/rss",
+        "https://www.wort.lu/podcast-series/der-pendler-club/rss",
+        "https://www.wort.lu/podcast-series/wortwechsel-der-polit-podcast/rss",
+        "https://anchor.fm/s/d9b2c10c/podcast/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 920,
+        "category": "general",
+        "last_checked": "2026-02-01T04:04:49.090Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "5minutes.rtl.lu": {
+      "urls": [
+        "https://infos.rtl.lu/rss/feed/headlines.rss",
+        "https://infos.rtl.lu/rss/headlines",
+        "https://infos.rtl.lu/rss/sport",
+        "https://infos.rtl.lu/sport/international.rss",
+        "https://infos.rtl.lu/news/frontieres.rss",
+        "https://infos.rtl.lu/rss/grande-region",
+        "https://infos.rtl.lu/culture/news.rss",
+        "https://infos.rtl.lu/rss/culture",
+        "https://infos.rtl.lu/rss/monde"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 632,
+        "category": "general",
+        "last_checked": "2026-02-01T04:05:03.025Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "luxtimes.lu": {
+      "urls": [
+        "https://www.luxtimes.lu/rss",
+        "https://www.luxtimes.lu/rss/en",
+        "https://www.luxtimes.lu/podcast-series/eu-elections-series/rss",
+        "https://www.luxtimes.lu/podcast-series/luxembourgs-royals-series/rss",
+        "https://www.luxtimes.lu/podcast-series/sustainable-finance-series/rss",
+        "https://www.luxtimes.lu/podcast-series/the-luxembourg-times-podcast/rss",
+        "https://www.luxtimes.lu/tag/podcast/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1572,
+        "category": "general",
+        "last_checked": "2026-02-01T04:04:57.198Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "revue.lu": {
+      "urls": [
+        "http://www.revue.lu/feed/atom/",
+        "https://revue.lu/feed/atom/",
+        "http://www.revue.lu/feed/",
+        "https://revue.lu/feed/",
+        "http://www.revue.lu/comments/feed/",
+        "https://revue.lu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1386,
+        "category": "general",
+        "last_checked": "2026-02-01T04:04:58.801Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "woxx.lu": {
+      "urls": [
+        "https://www.woxx.lu/feed/",
+        "https://www.woxx.lu/category/podcast/feed/",
+        "https://www.woxx.lu/tag/podcast/feed/",
+        "https://www.woxx.lu/comments/feed/",
+        "http://feeds.feedburner.com/AmBistroMatDerWoxx",
+        "http://feeds.feedburner.com/ambistromatderwoxxpodcast"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1517,
+        "category": "general",
+        "last_checked": "2026-02-01T04:04:50.617Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lequotidien.lu": {
+      "urls": [
+        "http://www.lequotidien.lu/feed/",
+        "https://lequotidien.lu/feed/",
+        "https://lequotidien.lu/comments/feed/",
+        "http://www.lequotidien.lu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1700,
+        "category": "general",
+        "last_checked": "2026-02-01T04:04:38.770Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jeudi.lu": {
+      "urls": [
+        "https://jeudi.lu/feed/",
+        "https://jeudi.lu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2097,
+        "category": "general",
+        "last_checked": "2026-02-01T04:05:01.055Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lesfrontaliers.lu": {
+      "urls": [
+        "https://www.lesfrontaliers.lu/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1216,
+        "category": "general",
+        "last_checked": "2026-02-01T04:05:02.385Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "land.lu": {
+      "urls": [
+        "https://www.land.lu/online/www/rss/DEU/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1500,
+        "category": "general",
+        "last_checked": "2026-02-01T04:04:36.469Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

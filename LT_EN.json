@@ -1,0 +1,705 @@
+{
+  "country_code": "LT",
+  "language_code": "EN",
+  "total_domains": 38,
+  "total_feeds": 165,
+  "feeds": {
+    "klaipeda.diena.lt": {
+      "urls": [
+        "https://kauno.diena.lt/rss/visi-straipsniai.xml",
+        "https://klaipeda.diena.lt/rss/klaipeda-straipsniai.xml",
+        "https://klaipeda.diena.lt/rss.xml",
+        "https://diena.lt/rss.xml",
+        "https://kauno.diena.lt/rss.xml",
+        "https://www.diena.lt/rss.xml",
+        "https://kauno.diena.lt/rss/ivairenybe-straipsniai.xml",
+        "https://kauno.diena.lt/rss/kriminalai-straipsniai.xml",
+        "https://kauno.diena.lt/rss/laisvalaikis-ir-kultura-straipsniai.xml",
+        "https://kauno.diena.lt/rss/lietuva-straipsniai.xml",
+        "https://kauno.diena.lt/rss/pasaulis-straipsniai.xml",
+        "https://kauno.diena.lt/rss/sportas-straipsniai.xml",
+        "https://kauno.diena.lt/rss/sveikata-straipsniai.xml",
+        "https://kauno.diena.lt/rss/verslas-straipsniai.xml",
+        "https://www.diena.lt/rss/vilnius-straipsniai.xml",
+        "https://www.diena.lt/rss/nuomones-straipsniai.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1432,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:50.112Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kauno.diena.lt": {
+      "urls": [
+        "https://kauno.diena.lt/rss/visi-straipsniai.xml",
+        "https://www.diena.lt/rss/vilnius-straipsniai.xml",
+        "https://kauno.diena.lt/rss.xml",
+        "https://kauno.diena.lt/rss/ivairenybe-straipsniai.xml",
+        "https://kauno.diena.lt/rss/kaunas-straipsniai.xml",
+        "https://kauno.diena.lt/rss/kriminalai-straipsniai.xml",
+        "https://kauno.diena.lt/rss/laisvalaikis-ir-kultura-straipsniai.xml",
+        "https://kauno.diena.lt/rss/lietuva-straipsniai.xml",
+        "https://kauno.diena.lt/rss/pasaulis-straipsniai.xml",
+        "https://kauno.diena.lt/rss/sportas-straipsniai.xml",
+        "https://kauno.diena.lt/rss/sveikata-straipsniai.xml",
+        "https://kauno.diena.lt/rss/verslas-straipsniai.xml",
+        "https://www.diena.lt/rss/nuomones-straipsniai.xml",
+        "https://diena.lt/rss.xml",
+        "https://www.diena.lt/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1154,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:14.997Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diena.lt": {
+      "urls": [
+        "https://kauno.diena.lt/rss/visi-straipsniai.xml",
+        "https://diena.lt/rss.xml",
+        "https://kauno.diena.lt/rss.xml",
+        "https://www.diena.lt/rss.xml",
+        "https://kauno.diena.lt/rss/ivairenybe-straipsniai.xml",
+        "https://kauno.diena.lt/rss/kaunas-straipsniai.xml",
+        "https://kauno.diena.lt/rss/kriminalai-straipsniai.xml",
+        "https://kauno.diena.lt/rss/laisvalaikis-ir-kultura-straipsniai.xml",
+        "https://kauno.diena.lt/rss/lietuva-straipsniai.xml",
+        "https://kauno.diena.lt/rss/pasaulis-straipsniai.xml",
+        "https://kauno.diena.lt/rss/sportas-straipsniai.xml",
+        "https://kauno.diena.lt/rss/sveikata-straipsniai.xml",
+        "https://kauno.diena.lt/rss/verslas-straipsniai.xml",
+        "https://www.diena.lt/rss/vilnius-straipsniai.xml",
+        "https://www.diena.lt/rss/nuomones-straipsniai.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1223,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:10.711Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ve.lt": {
+      "urls": [
+        "https://ve.lt/rss",
+        "http://www.ve.lt/rss/",
+        "http://www.ve.lt/rss/sveikata/",
+        "http://www.ve.lt/rss/laisvalaikis/",
+        "http://www.ve.lt/rss/klaipeda1/",
+        "http://www.ve.lt/rss/savaites-ekspresas/",
+        "http://www.ve.lt/rss/ekonomika/",
+        "http://www.ve.lt/rss/kultura/",
+        "http://www.ve.lt/rss/visuomene/",
+        "http://www.ve.lt/rss/kriminalai/",
+        "http://www.ve.lt/rss/sportas/",
+        "http://www.ve.lt/rss/nuomones/",
+        "http://www.ve.lt/rss/ve-rekomenduoja1/",
+        "http://www.ve.lt/rss/as-tikrai-myliu-lietuviu-kalba/",
+        "http://www.ve.lt/rss/projektai/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1683,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:17.657Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "grokiskis.lt": {
+      "urls": [
+        "https://grokiskis.lt/feed",
+        "https://www.grokiskis.lt/feed",
+        "https://grokiskis.lt/aktualijos/feed",
+        "https://www.grokiskis.lt/aktualijos/feed",
+        "https://grokiskis.lt/bendruomeniu-vartai/feed",
+        "https://www.grokiskis.lt/bendruomeniu-vartai/feed",
+        "https://grokiskis.lt/comments/feed",
+        "https://www.grokiskis.lt/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2022,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:24.722Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "15min.lt": {
+      "urls": [
+        "https://www.15min.lt/verslas/rss",
+        "https://www.15min.lt/rss",
+        "https://www.15min.lt/rss/aktualu/pasaulis",
+        "https://www.15min.lt/gyvenimas/rss",
+        "https://www.15min.lt/rss/aktualu/lietuva",
+        "https://www.15min.lt/sportas/rss",
+        "http://www.15min.lt/gyvenimas/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1414,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:12.128Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "santarve.lt": {
+      "urls": [
+        "https://www.santarve.lt/feed/",
+        "http://www.santarve.lt/feed/",
+        "https://www.santarve.lt/comments/feed/",
+        "https://web.archive.org/web/20190914014116/http://www.santarve.lt/feed/",
+        "http://www.santarve.lt/comments/feed/",
+        "https://web.archive.org/web/20190820214117/http://www.santarve.lt/comments/feed/",
+        "https://web.archive.org/web/20191115181209/http://www.santarve.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2302,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:41.314Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "delfi.lt": {
+      "urls": [
+        "https://www.delfi.lt/rss/feeds/lithuania.xml",
+        "https://www.delfi.lt/rss/feeds/world.xml",
+        "https://feed.delfi.lt/v2/articles/8?format=rss",
+        "https://feed.delfi.lt/v2/articles/7?format=rss",
+        "https://www.delfi.lt/rss/feeds/daily.xml",
+        "https://feed.delfi.lt/v2?format=rss",
+        "https://feed.delfi.lt/v2/channel/f506bb47-4a2b-11ed-94c9-0242c0a88103?format=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3544,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:47.039Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "traku-zeme.lt": {
+      "urls": [
+        "http://www.traku-zeme.lt/feed/",
+        "https://traku-zeme.lt/feed/",
+        "https://www.traku-zeme.lt/comments/feed/",
+        "https://www.traku-zeme.lt/feed/",
+        "http://www.traku-zeme.lt/comments/feed/",
+        "https://traku-zeme.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1946,
+        "category": "general",
+        "last_checked": "2026-02-01T03:54:04.864Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kmintys.lt": {
+      "urls": [
+        "http://kmintys.lt/feed/atom/",
+        "https://kmintys.lt/feed/",
+        "http://kmintys.lt/feed/",
+        "https://kmintys.lt/comments/feed/",
+        "http://kmintys.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1240,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:22.187Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "penki.lt": {
+      "urls": [
+        "https://penki.lt/feed/",
+        "https://www.penki.lt/feed/",
+        "https://www.penki.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1339,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:54.738Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bernardinai.lt": {
+      "urls": [
+        "https://www.bernardinai.lt/feed/atom/",
+        "https://www.bernardinai.lt/feed/",
+        "http://www.bernardinai.lt/rss/feeds/all"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1458,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:29.552Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kronika.lt": {
+      "urls": [
+        "https://www.kronika.lt/feed/",
+        "http://www.kronika.lt/feed/",
+        "https://www.kronika.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3057,
+        "category": "general",
+        "last_checked": "2026-02-01T03:54:02.303Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "udiena.lt": {
+      "urls": [
+        "http://udiena.lt/?format=feed&type=atom",
+        "http://udiena.lt/?format=feed&type=rss",
+        "https://udiena.lt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3889,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:56.468Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kalvotoji.lt": {
+      "urls": [
+        "http://www.kalvotoji.lt/feed/",
+        "http://www.kalvotoji.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1092,
+        "category": "general",
+        "last_checked": "2026-02-01T03:54:09.871Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "voruta.lt": {
+      "urls": [
+        "https://www.voruta.lt/feed/",
+        "https://www.voruta.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1444,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:19.114Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vz.lt": {
+      "urls": [
+        "https://www.vz.lt/rss",
+        "https://www.vz.lt/section/?template=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1486,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:57.898Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "alkas.lt": {
+      "urls": [
+        "https://alkas.lt/feed/",
+        "https://alkas.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1643,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:32.416Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nyksciai.lt": {
+      "urls": [
+        "https://nyksciai.lt/feed",
+        "https://nyksciai.lt/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1757,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:35.373Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gargzdai.lt": {
+      "urls": [
+        "https://gargzdai.lt/feed/",
+        "https://gargzdai.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1818,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:20.934Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tzinios.lt": {
+      "urls": [
+        "https://tzinios.lt/feed/",
+        "https://tzinios.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1841,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:58.413Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "anyksta.lt": {
+      "urls": [
+        "https://www.anyksta.lt/feed/",
+        "https://www.anyksta.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1848,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:37.223Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ukzinios.lt": {
+      "urls": [
+        "https://www.ukzinios.lt/feed/",
+        "https://www.ukzinios.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1937,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:43.455Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "suvalkietis.lt": {
+      "urls": [
+        "https://www.suvalkietis.lt/feed/",
+        "https://www.suvalkietis.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2252,
+        "category": "general",
+        "last_checked": "2026-02-01T03:54:07.118Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lzinios.lt": {
+      "urls": [
+        "https://lzinios.lt/feed/",
+        "https://lzinios.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2651,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:53.081Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "l24.lt": {
+      "urls": [
+        "https://l24.lt/ru/ekonomika?format=feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 494,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:33.614Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kurierwilenski.lt": {
+      "urls": [
+        "https://kurierwilenski.lt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1023,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:13.151Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "kaunodiena.lt": {
+      "urls": [
+        "https://kauno.diena.lt/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1127,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:48.166Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "politika.lt": {
+      "urls": [
+        "http://politika.lt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1210,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:55.948Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "zebra.lt": {
+      "urls": [
+        "https://www.15min.lt/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1243,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:59.141Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "budas.lt": {
+      "urls": [
+        "https://budas.lt/?format=feed&type=atom",
+        "https://www.budas.lt/?format=feed&type=atom",
+        "http://budas.lt/?format=feed&type=atom",
+        "http://budas.lt/?format=feed&type=rss",
+        "https://budas.lt/?format=feed&type=rss",
+        "https://www.budas.lt/?format=feed&type=rss",
+        "http://www.budas.lt/?format=feed&type=atom",
+        "http://www.budas.lt/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:38.856Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "svencioniukrastas.lt": {
+      "urls": [
+        "https://svencioniukrastas.lt/index.php?format=feed&type=atom",
+        "https://www.svencioniukrastas.lt/index.php?format=feed&type=atom",
+        "https://svencioniukrastas.lt/index.php?format=feed&type=rss",
+        "https://www.svencioniukrastas.lt/index.php?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:54:08.676Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "lrytas.lt": {
+      "urls": [
+        "https://www.lrytas.lt/rss",
+        "https://www.lrytas.lt/rss/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:52:50.428Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kurier.lt": {
+      "urls": [
+        "https://www.kurier.lt/feed/",
+        "https://www.kurier.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:09.165Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "kurjeris.lt": {
+      "urls": [
+        "https://kurjeris.lt/feed/",
+        "https://kurjeris.lt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:26.670Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "gyvenimas.eu": {
+      "urls": [
+        "https://www.gyvenimas.eu/feed/",
+        "http://www.gyvenimas.eu/feed/",
+        "https://www.gyvenimas.eu/comments/feed/",
+        "http://www.gyvenimas.eu/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1727,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:45.471Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "santaka.info": {
+      "urls": [
+        "https://www.santaka.info/index.php/feed/",
+        "https://www.santaka.info/index.php/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2910,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:52.578Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ekspertai.eu": {
+      "urls": [
+        "https://ekspertai.eu/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1212,
+        "category": "general",
+        "last_checked": "2026-02-01T03:53:30.764Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

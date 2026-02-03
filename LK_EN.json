@@ -1,0 +1,1144 @@
+{
+  "country_code": "LK",
+  "language_code": "EN",
+  "total_domains": 52,
+  "total_feeds": 408,
+  "feeds": {
+    "sundaytimes.lk": {
+      "urls": [
+        "https://www.sundaytimes.lk/220612/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/220612/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/220612/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/230514/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/230514/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/230514/obituary/feed/obituary.xml",
+        "https://www.sundaytimes.lk/231203/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/231203/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/231203/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/231203/obituary/feed/obituary.xml",
+        "https://www.sundaytimes.lk/240225/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/240225/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/240225/obituary/feed/obituary.xml",
+        "https://www.sundaytimes.lk/240303/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/240303/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/240303/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/240623/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/240623/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/240623/obituary/feed/obituary.xml",
+        "https://www.sundaytimes.lk/240623/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/240707/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/240707/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/240707/news/feed/news.xml",
+        "https://www.sundaytimes.lk/240707/obituary/feed/obituary.xml",
+        "https://www.sundaytimes.lk/240714/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/240714/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/240714/obituary/feed/obituary.xml",
+        "https://www.sundaytimes.lk/241027/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/241027/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/250706/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/250706/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/250713/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/250713/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/250713/news/feed/news.xml",
+        "https://www.sundaytimes.lk/250824/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/250824/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/251116/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/251116/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/251207/news/feed/news.xml",
+        "https://www.sundaytimes.lk/260118/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/260118/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/260125/editorial/feed/editorial.xml",
+        "https://www.sundaytimes.lk/260125/funday-times/feed/funday_times.xml",
+        "https://www.sundaytimes.lk/260125/obituary/feed/obituary.xml",
+        "https://www.sundaytimes.lk/220612/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/230514/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/231203/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/240225/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/240303/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/240623/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/240707/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/240714/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/241027/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/250706/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/250713/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/250824/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/251116/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/251207/magazine/feed/magazine.xml",
+        "https://www.sundaytimes.lk/220612/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/220612/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/220612/education/feed/education.xml",
+        "https://www.sundaytimes.lk/220612/news/feed/news.xml",
+        "https://www.sundaytimes.lk/220612/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/220612/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/230514/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/230514/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/230514/education/feed/education.xml",
+        "https://www.sundaytimes.lk/230514/news/feed/news.xml",
+        "https://www.sundaytimes.lk/230514/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/230514/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/230514/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/231203/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/231203/education/feed/education.xml",
+        "https://www.sundaytimes.lk/231203/news/feed/news.xml",
+        "https://www.sundaytimes.lk/231203/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/231203/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/231203/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/240225/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/240225/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/240225/education/feed/education.xml",
+        "https://www.sundaytimes.lk/240225/news/feed/news.xml",
+        "https://www.sundaytimes.lk/240225/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/240225/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/240225/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/240303/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/240303/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/240303/education/feed/education.xml",
+        "https://www.sundaytimes.lk/240303/news/feed/news.xml",
+        "https://www.sundaytimes.lk/240303/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/240303/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/240623/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/240623/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/240623/education/feed/education.xml",
+        "https://www.sundaytimes.lk/240623/news/feed/news.xml",
+        "https://www.sundaytimes.lk/240623/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/240623/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/240707/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/240707/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/240707/education/feed/education.xml",
+        "https://www.sundaytimes.lk/240707/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/240707/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/240707/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/240714/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/240714/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/240714/education/feed/education.xml",
+        "https://www.sundaytimes.lk/240714/news/feed/news.xml",
+        "https://www.sundaytimes.lk/240714/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/240714/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/240714/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/241027/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/241027/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/241027/education/feed/education.xml",
+        "https://www.sundaytimes.lk/241027/news/feed/news.xml",
+        "https://www.sundaytimes.lk/241027/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/241027/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/241027/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/250706/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/250706/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/250706/education/feed/education.xml",
+        "https://www.sundaytimes.lk/250706/news/feed/news.xml",
+        "https://www.sundaytimes.lk/250706/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/250706/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/250706/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/250713/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/250713/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/250713/education/feed/education.xml",
+        "https://www.sundaytimes.lk/250713/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/250713/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/250713/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/250824/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/250824/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/250824/education/feed/education.xml",
+        "https://www.sundaytimes.lk/250824/news/feed/news.xml",
+        "https://www.sundaytimes.lk/250824/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/250824/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/250824/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/251116/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/251116/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/251116/education/feed/education.xml",
+        "https://www.sundaytimes.lk/251116/news/feed/news.xml",
+        "https://www.sundaytimes.lk/251116/plus/feed/plus.xml",
+        "https://www.sundaytimes.lk/251116/sports/feed/sports.xml",
+        "https://www.sundaytimes.lk/251116/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/251207/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/251207/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/251207/sunday-times-2/feed/sunday_times_2.xml",
+        "https://www.sundaytimes.lk/260118/business-times/feed/business_times.xml",
+        "https://www.sundaytimes.lk/260118/news/feed/news.xml",
+        "https://www.sundaytimes.lk/260125/columns/feed/columns.xml",
+        "https://www.sundaytimes.lk/260125/education/feed/education.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 799,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:36.054Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "dailymirror.lk": {
+      "urls": [
+        "https://www.dailymirror.lk/rss/top_story/155",
+        "https://www.dailymirror.lk/rss/Sports/322",
+        "https://www.dailymirror.lk/rss/mirror_sports/323",
+        "https://www.dailymirror.lk/rss/sports_headline/419",
+        "https://www.dailymirror.lk/rss/todays_headlines/419",
+        "https://www.dailymirror.lk/rss/caption_story/110",
+        "https://www.dailymirror.lk/rss/latest_news/155",
+        "https://www.dailymirror.lk/rss/news_features/131",
+        "https://www.dailymirror.lk/rss/dailymirror_video/218",
+        "https://www.dailymirror.lk/rss/business_24_7/395",
+        "https://www.dailymirror.lk/rss/cartoon_of_the_day/167",
+        "https://www.dailymirror.lk/rss/daily_mirror_news_round-up/382",
+        "https://www.dailymirror.lk/rss/dm_audio/376",
+        "https://www.dailymirror.lk/rss/expose/333",
+        "https://www.dailymirror.lk/rss/fact_check/328",
+        "https://www.dailymirror.lk/rss/hard_talk/334",
+        "https://www.dailymirror.lk/rss/insight/374",
+        "https://www.dailymirror.lk/rss/jyotisha_news/312",
+        "https://www.dailymirror.lk/rss/medicine/308",
+        "https://www.dailymirror.lk/rss/mirror-sports-cricket/458",
+        "https://www.dailymirror.lk/rss/opinion/242",
+        "https://www.dailymirror.lk/rss/plus/352",
+        "https://www.dailymirror.lk/rss/political_gossip/261",
+        "https://www.dailymirror.lk/rss/world_news/188"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 239,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:35.064Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lankadeepa.lk": {
+      "urls": [
+        "https://www.lankadeepa.lk/rss/latest_news/1",
+        "https://www.lankadeepa.lk/rss/business/9",
+        "https://www.lankadeepa.lk/rss/cartoon/18",
+        "https://www.lankadeepa.lk/rss/world_news/14",
+        "https://www.lankadeepa.lk/rss/deyyo_sakki/15",
+        "https://www.lankadeepa.lk/rss/encyclopedia/17",
+        "https://www.lankadeepa.lk/rss/news/48",
+        "https://www.lankadeepa.lk/rss/videos/12"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 156,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:17.695Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "ft.lk": {
+      "urls": [
+        "https://www.ft.lk/rss/columns/4",
+        "https://www.ft.lk/rss/opinion/14",
+        "https://www.ft.lk/rss/sectors/20",
+        "https://www.ft.lk/rss/sport/23",
+        "https://www.ft.lk/rss/top-story/26",
+        "https://www.ft.lk/rss/ft-click/15",
+        "https://www.ft.lk/rss/ft-lite/6",
+        "https://www.ft.lk/rss/ft-view/58"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 170,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:35.241Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vidusara.lk": {
+      "urls": [
+        "https://www.vidusara.lk/feed/atom/",
+        "https://www.vidusara.lk/feed/",
+        "http://www.vidusara.lk/feed/atom/",
+        "http://www.vidusara.lk/feed/",
+        "https://www.vidusara.lk/comments/feed/",
+        "http://www.vidusara.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1956,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:17.855Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sarasaviya.lk": {
+      "urls": [
+        "https://sarasaviya.lk/feed/",
+        "https://sarasaviya.lk/feed/atom/",
+        "https://sarasaviya.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 583,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:20.119Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lakehouse.lk": {
+      "urls": [
+        "https://www.lakehouse.lk/rss.xml",
+        "https://lakehouse.lk/feed/",
+        "https://lakehouse.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1621,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:24.933Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "adaderana.lk": {
+      "urls": [
+        "https://www.adaderana.lk/rss.php",
+        "http://www.adaderana.lk/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 140,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:26.789Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mahamegha.lk": {
+      "urls": [
+        "https://mahamegha.lk/feed/",
+        "https://mahamegha.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 197,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:20.318Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "exploresrilanka.lk": {
+      "urls": [
+        "https://exploresrilanka.lk/feed/",
+        "https://exploresrilanka.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1115,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:15.896Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "navaliya.lk": {
+      "urls": [
+        "https://www.navaliya.lk/feed/",
+        "https://www.navaliya.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1333,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:12.732Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lmd.lk": {
+      "urls": [
+        "https://lmd.lk/feed/",
+        "https://lmd.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1827,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:14.779Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "asianmirror.lk": {
+      "urls": [
+        "https://asianmirror.lk/feed/",
+        "https://asianmirror.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2045,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:52.765Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "divaina.lk": {
+      "urls": [
+        "https://www.divaina.lk/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 959,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:18.654Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.lk": {
+      "urls": [
+        "https://www.news.lk/news?format=feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2106,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:38.556Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "island.lk": {
+      "urls": [
+        "https://island.lk/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2973,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:34.628Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "islandcricket.lk": {
+      "urls": [
+        "https://www.islandcricket.lk/feed/",
+        "https://www.islandcricket.lk/blogs/feed/",
+        "https://www.islandcricket.lk/comments/feed/",
+        "https://www.islandcricket.lk/blogs/asia-cup-2023-sri-lanka-squad/feed/",
+        "https://www.islandcricket.lk/blogs/batting-lineup/feed/",
+        "https://www.islandcricket.lk/blogs/how-about-this-change-to-the-batting-lineup/feed/",
+        "https://www.islandcricket.lk/blogs/live-steam-of-sri-lanka-vs-bangladesh/feed/",
+        "https://www.islandcricket.lk/blogs/never-lose-hope-never/feed/",
+        "https://www.islandcricket.lk/blogs/our-cricket-will-not-improve-unless-the-entire-current-set-of-administrators-and-coaches-are-replaced/feed/",
+        "https://www.islandcricket.lk/blogs/please-stop-harassment-against-wanidhu-hasaraga/feed/",
+        "https://www.islandcricket.lk/blogs/poor-selection-policies-will-spoil-sri-lankas-chance-of-winning-the-t20-world-cup-2024-part-3/feed/",
+        "https://www.islandcricket.lk/blogs/thoughts-on-t20-wc-squad/feed/",
+        "https://www.islandcricket.lk/blogs/upul-tharanga-needs-to-quit/feed/",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCbyd-0GlF5NVRdlykbWvRUw"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "sports",
+        "last_checked": "2026-02-01T03:49:42.724Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "sundayobserver.lk": {
+      "urls": [
+        "https://www.sundayobserver.lk/feed/",
+        "https://www.sundayobserver.lk/rss.xml",
+        "http://www.sundayobserver.lk/rss.xml",
+        "https://www.sundayobserver.lk/feed/atom/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:36.450Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "echelon.lk": {
+      "urls": [
+        "https://www.echelon.lk/feed/",
+        "https://www.echelon.lk/category/shamindras-blog/feed/",
+        "https://www.echelon.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:22.325Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "silumina.lk": {
+      "urls": [
+        "https://www.silumina.lk/feed/atom/",
+        "https://www.silumina.lk/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:19.180Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "scientist.lk": {
+      "urls": [
+        "http://scientist.lk/feed/",
+        "http://scientist.lk/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:19.285Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dailynews.lk": {
+      "urls": [
+        "http://www.dailynews.lk/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:09.159Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dinamina.lk": {
+      "urls": [
+        "http://www.dinamina.lk/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:18.879Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "thinakaran.lk": {
+      "urls": [
+        "http://www.thinakaran.lk/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:58.681Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "virakesari.lk": {
+      "urls": [
+        "https://www.virakesari.lk/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:59.991Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "ilankainet.com": {
+      "urls": [
+        "https://www.ilankainet.com/feeds/posts/default",
+        "http://www.ilankainet.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/2670432121171770846/posts/default",
+        "https://www.ilankainet.com/feeds/1054247225002693664/comments/default",
+        "https://www.ilankainet.com/feeds/2352562031124098006/comments/default",
+        "https://www.ilankainet.com/feeds/2452344643229858547/comments/default",
+        "https://www.ilankainet.com/feeds/2758384739554148166/comments/default",
+        "https://www.ilankainet.com/feeds/3219378380163995561/comments/default",
+        "https://www.ilankainet.com/feeds/3343534208494000902/comments/default",
+        "https://www.ilankainet.com/feeds/3392374258567825321/comments/default",
+        "https://www.ilankainet.com/feeds/5521328642427112790/comments/default",
+        "https://www.ilankainet.com/feeds/5737348049296227504/comments/default",
+        "https://www.ilankainet.com/feeds/5810646045321508276/comments/default",
+        "https://www.ilankainet.com/feeds/585239985211371760/comments/default",
+        "https://www.ilankainet.com/feeds/6217866105542807037/comments/default",
+        "https://www.ilankainet.com/feeds/6762920470528422222/comments/default",
+        "https://www.ilankainet.com/feeds/700693178951083558/comments/default",
+        "https://www.ilankainet.com/feeds/7151527570717345104/comments/default",
+        "https://www.ilankainet.com/feeds/7301397714565471906/comments/default",
+        "https://www.ilankainet.com/feeds/8221845475249547244/comments/default",
+        "https://www.ilankainet.com/feeds/9104656492751925254/comments/default",
+        "https://www.ilankainet.com/feeds/910891279286622907/comments/default",
+        "http://rss.cnn.com/rss/edition.rss",
+        "http://www.ilankainet.com/feeds/1054247225002693664/comments/default",
+        "http://www.ilankainet.com/feeds/2352562031124098006/comments/default",
+        "http://www.ilankainet.com/feeds/2452344643229858547/comments/default",
+        "http://www.ilankainet.com/feeds/2758384739554148166/comments/default",
+        "http://www.ilankainet.com/feeds/3219378380163995561/comments/default",
+        "http://www.ilankainet.com/feeds/5521328642427112790/comments/default",
+        "http://www.ilankainet.com/feeds/585239985211371760/comments/default",
+        "http://www.ilankainet.com/feeds/6217866105542807037/comments/default",
+        "http://www.ilankainet.com/feeds/700693178951083558/comments/default",
+        "http://www.ilankainet.com/feeds/7151527570717345104/comments/default",
+        "http://www.ilankainet.com/feeds/7301397714565471906/comments/default",
+        "http://www.ilankainet.com/feeds/8221845475249547244/comments/default",
+        "http://www.ilankainet.com/feeds/9104656492751925254/comments/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1238,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:09.454Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "jaffnamuslim.com": {
+      "urls": [
+        "https://draft.blogger.com/feeds/949029781622113645/posts/default",
+        "https://www.blogger.com/feeds/949029781622113645/posts/default",
+        "https://www.jaffnamuslim.com/feeds/1402573027090854592/comments/default",
+        "https://www.jaffnamuslim.com/feeds/1842327383618508654/comments/default",
+        "https://www.jaffnamuslim.com/feeds/1930820538068882017/comments/default",
+        "https://www.jaffnamuslim.com/feeds/2329378018895758448/comments/default",
+        "https://www.jaffnamuslim.com/feeds/2492009540615694523/comments/default",
+        "https://www.jaffnamuslim.com/feeds/2712296454551566796/comments/default",
+        "https://www.jaffnamuslim.com/feeds/2823600884642861888/comments/default",
+        "https://www.jaffnamuslim.com/feeds/325799232140259384/comments/default",
+        "https://www.jaffnamuslim.com/feeds/3343162578672520168/comments/default",
+        "https://www.jaffnamuslim.com/feeds/3357200877294749084/comments/default",
+        "https://www.jaffnamuslim.com/feeds/3805302445292409792/comments/default",
+        "https://www.jaffnamuslim.com/feeds/492323771730414567/comments/default",
+        "https://www.jaffnamuslim.com/feeds/5191329005904321432/comments/default",
+        "https://www.jaffnamuslim.com/feeds/5667286354115568244/comments/default",
+        "https://www.jaffnamuslim.com/feeds/5704806511658600542/comments/default",
+        "https://www.jaffnamuslim.com/feeds/5946556500214717579/comments/default",
+        "https://www.jaffnamuslim.com/feeds/6299267382730426248/comments/default",
+        "https://www.jaffnamuslim.com/feeds/6314360858012041682/comments/default",
+        "https://www.jaffnamuslim.com/feeds/6692239666989706163/comments/default",
+        "https://www.jaffnamuslim.com/feeds/7469703646651442751/comments/default",
+        "https://www.jaffnamuslim.com/feeds/761759526214423924/comments/default",
+        "https://www.jaffnamuslim.com/feeds/7679026966211099043/comments/default",
+        "https://www.jaffnamuslim.com/feeds/7761760222511955316/comments/default",
+        "https://www.jaffnamuslim.com/feeds/8018124794826736125/comments/default",
+        "https://www.jaffnamuslim.com/feeds/811082608998167673/comments/default",
+        "https://www.jaffnamuslim.com/feeds/8181219932285777411/comments/default",
+        "https://www.jaffnamuslim.com/feeds/8254706118341081042/comments/default",
+        "http://feeds.feedburner.com/blogspot/wAsnE",
+        "https://www.jaffnamuslim.com/feeds/posts/default",
+        "https://www.jaffnamuslim.com/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2702,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:02.697Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lankacnews.com": {
+      "urls": [
+        "https://www.lankacnews.com/feeds/posts/default",
+        "https://www.lankacnews.com//feeds/posts/default",
+        "https://lankacnews.com/feed/",
+        "https://www.blogger.com/feeds/3005203787208851684/posts/default",
+        "https://www.lankacnews.com/feeds/1583940572762175491/comments/default",
+        "https://www.lankacnews.com/feeds/198850106068254834/comments/default",
+        "https://www.lankacnews.com/feeds/2319559641764755729/comments/default",
+        "https://www.lankacnews.com/feeds/2444934225585577363/comments/default",
+        "https://www.lankacnews.com/feeds/2912767982503230110/comments/default",
+        "https://www.lankacnews.com/feeds/3671400224046440328/comments/default",
+        "https://www.lankacnews.com/feeds/4028409099949752449/comments/default",
+        "https://www.lankacnews.com/feeds/4253516094984456997/comments/default",
+        "https://www.lankacnews.com/feeds/5160406664363652839/comments/default",
+        "https://www.lankacnews.com/feeds/5708684551915559716/comments/default",
+        "https://www.lankacnews.com/feeds/6456216925566337449/comments/default",
+        "https://www.lankacnews.com/feeds/6716923979578101537/comments/default",
+        "https://www.lankacnews.com/feeds/6952947972263960966/comments/default",
+        "https://www.lankacnews.com/feeds/7113010192020663343/comments/default",
+        "https://www.lankacnews.com/feeds/7742881498550707975/comments/default",
+        "https://www.lankacnews.com/feeds/8074006404661007856/comments/default",
+        "https://www.lankacnews.com/feeds/8486449308995406308/comments/default",
+        "https://www.lankacnews.com/feeds/8900582654085860011/comments/default",
+        "https://www.lankacnews.com/feeds/9081459703104815566/comments/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 515,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:56.457Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "4tamilmedia.com": {
+      "urls": [
+        "https://4tamilmedia.com/?format=feed&type=atom",
+        "https://www.4tamilmedia.com/?format=feed&type=atom",
+        "https://4tamilmedia.com/?format=feed&type=rss",
+        "https://www.4tamilmedia.com/?format=feed&type=rss",
+        "http://4tamilmedia.com/?format=feed&type=rss",
+        "http://4tamilmedia.com/?format=feed&type=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1212,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:03.999Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "3mana.com": {
+      "urls": [
+        "https://3mana.com/feed/",
+        "http://3mana.com/feed/",
+        "https://3mana.com/comments/feed/",
+        "http://3mana.com/comments/feed/",
+        "https://3mana.com/home-2/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1093,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:31.147Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "athirvu.in": {
+      "urls": [
+        "https://www.athirvu.in/feeds/posts/default",
+        "https://www.blogger.com/feeds/8316038459862439037/posts/default",
+        "https://athirvu.in/feed/",
+        "http://athirvu.in/feed/",
+        "https://www.athirvu.in/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1192,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:11.298Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "groundviews.org": {
+      "urls": [
+        "https://groundviews.org/feed/",
+        "https://groundviews.org/comments/feed/",
+        "https://feeds.feedburner.com/GroundviewsComments",
+        "http://feeds.feedburner.com/GroundviewsComments"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 812,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:46.621Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vikalpa.org": {
+      "urls": [
+        "https://www.vikalpa.org/feed",
+        "https://www.vikalpa.org/comments/feed",
+        "http://feeds.feedburner.com/groundviewssl",
+        "http://feeds.feedburner.com/GroundviewsComments"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 864,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:27.655Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "slguardian.org": {
+      "urls": [
+        "https://slguardian.org/feed/",
+        "http://slguardian.org/feed/",
+        "https://slguardian.org/comments/feed/",
+        "http://slguardian.org/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 942,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:47.745Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "srilankaguardian.org": {
+      "urls": [
+        "https://www.blogger.com/feeds/2468613367801394261/posts/default",
+        "http://feeds.feedburner.com/slguardian",
+        "http://www.srilankaguardian.org/feeds/posts/default",
+        "http://www.srilankaguardian.org/feeds/posts/default?alt=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1323,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:40.729Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gossipclanka.com": {
+      "urls": [
+        "https://www.gossipclanka.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/1784272201245274427/posts/default",
+        "https://www.blogger.com/feeds/7341793030341234811/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 507,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:31.655Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "gossiplankanews.com": {
+      "urls": [
+        "https://www.gossiplankanews.com/feeds/posts/default",
+        "https://draft.blogger.com/feeds/4779058738889857399/posts/default",
+        "https://www.blogger.com/feeds/4779058738889857399/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 624,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:29.686Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tamilnet.com": {
+      "urls": [
+        "https://tamilnet.com/newsfeed/rss20.xml",
+        "https://www.tamilnet.com/newsfeed/rss20.xml",
+        "http://tamilnet.com/newsfeed/rss20.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1053,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:16.780Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "supeedsam.com": {
+      "urls": [
+        "https://www.supeedsam.com/feed/",
+        "https://supeedsam.com/feed/",
+        "https://supeedsam.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1117,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:05.515Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "dbsjeyaraj.com": {
+      "urls": [
+        "https://dbsjeyaraj.com/dbsj/?cat=27&feed=rss2",
+        "https://dbsjeyaraj.com/dbsj/?feed=rss2",
+        "https://dbsjeyaraj.com/dbsj/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1432,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:50.717Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sathhanda.com": {
+      "urls": [
+        "https://www.sathhanda.com/feeds/posts/default",
+        "https://www.blogger.com/feeds/8886217276549335050/posts/default",
+        "https://www.sathhanda.com/feeds/4024633007405963540/comments/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1707,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:26.642Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "colombotelegraph.com": {
+      "urls": [
+        "https://www.colombotelegraph.com/index.php/feed/",
+        "https://www.colombotelegraph.com/index.php/category/podcast/feed/",
+        "https://www.colombotelegraph.com/index.php/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2178,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:44.928Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "colombopage.com": {
+      "urls": [
+        "https://colombopage.com/feed/",
+        "https://ufa.eu.com/feed/",
+        "https://sbobet69th.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2823,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:14.116Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "theacademic.org": {
+      "urls": [
+        "http://theacademic.org/index.xml",
+        "http://www.theacademic.org/index.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 689,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:17.514Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jaffnazone.com": {
+      "urls": [
+        "https://jaffnazone.com/feed/rss2",
+        "https://jaffnazone.com/feed/atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1002,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:06.653Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lankabusinessonline.com": {
+      "urls": [
+        "https://www.lankabusinessonline.com/feed/",
+        "https://www.lankabusinessonline.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1280,
+        "category": "business",
+        "last_checked": "2026-02-01T03:49:49.283Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "onlanka.com": {
+      "urls": [
+        "https://www.onlanka.com/feed",
+        "https://www.onlanka.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2059,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:58.533Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "economynext.com": {
+      "urls": [
+        "https://economynext.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 879,
+        "category": "business",
+        "last_checked": "2026-02-01T03:49:45.807Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lankaone.com": {
+      "urls": [
+        "https://lankaone.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1050,
+        "category": "general",
+        "last_checked": "2026-02-01T03:50:07.703Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lankanewspapers.com": {
+      "urls": [
+        "https://www.lankanewspapers.com/index.php/feed/",
+        "https://www.lankanewspapers.com/index.php/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:15.690Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lankastandard.com": {
+      "urls": [
+        "https://www.lankastandard.com/feed/atom/",
+        "https://www.lankastandard.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:55.940Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "tamilguardian.com": {
+      "urls": [
+        "https://www.tamilguardian.com/taxonomy/term/422/all/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:49:53.998Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

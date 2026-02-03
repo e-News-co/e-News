@@ -1,0 +1,3186 @@
+{
+  "country_code": "MX",
+  "language_code": "EN",
+  "total_domains": 153,
+  "total_feeds": 1036,
+  "feeds": {
+    "elsiglodetorreon.com.mx": {
+      "urls": [
+        "https://www.elsiglodetorreon.com.mx/channel/oscares.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/culturae.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/escolar.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/siacepto.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/ultimo.xml",
+        "https://www.elsiglodetorreon.com.mx/index.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/espectaculos.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/local.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/saltillo.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/internacional.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/meta.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/nacional.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/mascomentado.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/policiaca.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/editoriales.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/gomezylerdo.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/top5.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/masleido.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/finanzas.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/regional.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/lailaguna.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/recetas.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/sociales.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/sucesos.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/columnasmeta.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/cultura.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/siglonuevo.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/siglosdehistori.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/tecnologia.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/coahuila.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/emprendedoras.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/salud.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/verificado.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/-.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/alimentacion.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/arte.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/bellezas.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/bienestar.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/bodas.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/caricatura.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/ciencia.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/cine.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/club.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/columnasfinanzas.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/columnaslaguna.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/columnasnosotro.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/comoseinvento.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/contenidopatroc.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/cuadros.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/curiosidades.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/destacamos.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/doctorencasa.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/durango.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/efemerides.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/eleccionesusa.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/enfermedades.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/especialistas.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/esquelas.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/estilodevida.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/foco.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/foco86.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/fotodia.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/gente.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/horoscopo.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/informatica.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/laguneros.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/lala.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/lectoropina.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/local-lerdo.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/mascotas.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/museos.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/nacional1.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/nfl.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/noticia.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/personaje.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/portada.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/prueba.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/reclamociudadano.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/regional_madero.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/regional_matamoros.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/regional_sanpedro.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/restaurantes.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/rio2016.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/rostros.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/sexualidad.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/siglomania.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/sucesosportada.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/turismo.xml",
+        "https://www.elsiglodetorreon.com.mx/channel/urbana.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 619,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:47.880Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "heraldodemexico.com.mx": {
+      "urls": [
+        "https://feeds.acast.com/public/shows/63286d43a3d94600121f16a1",
+        "https://feeds.acast.com/public/shows/6165aae1e9caae00140bfc1b",
+        "https://feeds.acast.com/public/shows/6165b9247a87fd001246dcbb",
+        "https://feeds.acast.com/public/shows/6165b97770a8bc001276de13",
+        "https://feeds.acast.com/public/shows/6165d3dac8621a001259bfe1",
+        "https://feeds.acast.com/public/shows/6165d7ab70a8bc001276de2e",
+        "https://feeds.acast.com/public/shows/6167025113fcc200130cd79c",
+        "https://feeds.acast.com/public/shows/616703099442010013059bc0",
+        "https://feeds.acast.com/public/shows/61672d6a2b7474001351026e",
+        "https://feeds.acast.com/public/shows/61672f0b7f8a7e00125b2c2f",
+        "https://feeds.acast.com/public/shows/61676ac54b50e300121f47d3",
+        "https://feeds.acast.com/public/shows/6167729c5cfa320014a9777c",
+        "https://feeds.acast.com/public/shows/61677b98cf2e3a00112ee53a",
+        "https://feeds.acast.com/public/shows/616dbc474649f60013080f37",
+        "https://feeds.acast.com/public/shows/624488cdec58e20012ec2c8b",
+        "https://feeds.acast.com/public/shows/62d01ddafe01750012cf7671",
+        "https://feeds.acast.com/public/shows/62de9ca7a42401001297dd1c",
+        "https://feeds.acast.com/public/shows/634ebe7dce0a930011dfc089",
+        "https://feeds.acast.com/public/shows/6362cbe45b368900127bce69",
+        "https://feeds.acast.com/public/shows/6407b58b33893a0011b1ba48",
+        "https://feeds.acast.com/public/shows/642b512cde6a3f0011714d68",
+        "https://feeds.acast.com/public/shows/652dc887d40c97001290aab3",
+        "https://feeds.acast.com/public/shows/6541313988ac540012633034",
+        "https://feeds.acast.com/public/shows/6568e5727e67440011594f68",
+        "https://feeds.acast.com/public/shows/65c2bfe29f16b50017e3a3ef",
+        "https://feeds.acast.com/public/shows/ventana-politica"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 667,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:24.215Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariopresente.mx": {
+      "urls": [
+        "https://diariopresente.mx/feedgooglenews/espectaculos",
+        "https://www.diariopresente.mx/feedgooglenews/espectaculos",
+        "https://diariopresente.mx/feedgooglenews/mexico",
+        "https://www.diariopresente.mx/feedgooglenews/mexico",
+        "https://diariopresente.mx/feedgooglenews/mundo",
+        "https://www.diariopresente.mx/feedgooglenews/mundo",
+        "https://diariopresente.mx/feedgooglenews/tabasco",
+        "https://www.diariopresente.mx/feedgooglenews/tabasco",
+        "https://diariopresente.mx/feedgooglenews/actualidad",
+        "https://diariopresente.mx/feedgooglenews/politica",
+        "https://diariopresente.mx/feedgooglenews/sucesos",
+        "https://www.diariopresente.mx/feedgooglenews/actualidad",
+        "https://www.diariopresente.mx/feedgooglenews/politica",
+        "https://www.diariopresente.mx/feedgooglenews/sucesos",
+        "https://diariopresente.mx/feedgooglenews/cultura",
+        "https://diariopresente.mx/feedgooglenews/sociales",
+        "https://diariopresente.mx/feedgooglenews/villahermosa",
+        "https://www.diariopresente.mx/feedgooglenews/cultura",
+        "https://www.diariopresente.mx/feedgooglenews/sociales",
+        "https://www.diariopresente.mx/feedgooglenews/villahermosa"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1155,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:03.323Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lajornadadeoriente.com.mx": {
+      "urls": [
+        "https://www.lajornadadeoriente.com.mx/feed/",
+        "https://www.lajornadadeoriente.com.mx/categoria/blogs/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/feed/",
+        "https://www.lajornadadeoriente.com.mx/categoria/blogs/b_rojo/feed/",
+        "https://www.lajornadadeoriente.com.mx/categoria/blogs/b_tiempo/feed/",
+        "https://www.lajornadadeoriente.com.mx/categoria/blogs/botica/feed/",
+        "https://www.lajornadadeoriente.com.mx/categoria/blogs/zenzontle-blogs/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/anotaciones/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/b_blog_de_rafael/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/b_op/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/b_pie/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/b_rojo/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/b_tiempo/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/botica/feed/",
+        "https://www.lajornadadeoriente.com.mx/categorias/blogs/zenzontle-blogs/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1708,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:45.902Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornada.com.mx": {
+      "urls": [
+        "https://www.jornada.com.mx/feeds/all.atom.xml",
+        "https://www.jornada.com.mx/feeds/rss",
+        "https://www.jornada.com.mx/rss/capital.xml?v=1",
+        "https://www.jornada.com.mx/rss/cartones.xml?v=1",
+        "https://www.jornada.com.mx/rss/ciencias.xml?v=1",
+        "https://www.jornada.com.mx/rss/cultura.xml?v=1",
+        "https://www.jornada.com.mx/rss/deportes.xml?v=1",
+        "https://www.jornada.com.mx/rss/economia.xml?v=1",
+        "https://www.jornada.com.mx/rss/edicion.xml?v=1",
+        "https://www.jornada.com.mx/rss/espectaculos.xml?v=1",
+        "https://www.jornada.com.mx/rss/estados.xml?v=1",
+        "https://www.jornada.com.mx/rss/mundo.xml?v=1",
+        "https://www.jornada.com.mx/rss/opinion.xml?v=1",
+        "https://www.jornada.com.mx/rss/politica.xml?v=1"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 317,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:20.877Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornada.unam.mx": {
+      "urls": [
+        "https://www.jornada.com.mx/feeds/all.atom.xml",
+        "https://www.jornada.com.mx/feeds/rss",
+        "https://www.jornada.com.mx/rss/capital.xml?v=1",
+        "https://www.jornada.com.mx/rss/cartones.xml?v=1",
+        "https://www.jornada.com.mx/rss/cultura.xml?v=1",
+        "https://www.jornada.com.mx/rss/deportes.xml?v=1",
+        "https://www.jornada.com.mx/rss/economia.xml?v=1",
+        "https://www.jornada.com.mx/rss/edicion.xml?v=1",
+        "https://www.jornada.com.mx/rss/espectaculos.xml?v=1",
+        "https://www.jornada.com.mx/rss/estados.xml?v=1",
+        "https://www.jornada.com.mx/rss/mundo.xml?v=1",
+        "https://www.jornada.com.mx/rss/opinion.xml?v=1",
+        "https://www.jornada.com.mx/rss/politica.xml?v=1"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1050,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:13.781Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariodelyaqui.mx": {
+      "urls": [
+        "https://diariodelyaqui.mx/index.php/feed/",
+        "https://diariodelyaqui.mx/feed/sonora",
+        "https://diariodelyaqui.mx/index.php/comments/feed/",
+        "https://diariodelyaqui.mx/feed/nacional",
+        "https://diariodelyaqui.mx/feed/ciudadobregon",
+        "https://diariodelyaqui.mx/feed/viral",
+        "https://diariodelyaqui.mx/feed/farandula",
+        "https://diariodelyaqui.mx/feed/policiaca",
+        "https://diariodelyaqui.mx/feed/internacional",
+        "https://diariodelyaqui.mx/feed/deportes",
+        "https://diariodelyaqui.mx/feed/finanzas",
+        "https://diariodelyaqui.mx/feed/agricola",
+        "https://diariodelyaqui.mx/feed/lasplumas"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2400,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:16.915Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "expreso.com.mx": {
+      "urls": [
+        "https://www.expreso.com.mx/feed",
+        "https://expreso.com.mx/feed/noticias.xml",
+        "https://www.expreso.com.mx/feed/noticias.xml",
+        "https://expreso.com.mx/feed/estelar.xml",
+        "https://www.expreso.com.mx/feed/estelar.xml",
+        "https://expreso.com.mx/feed/accion.xml",
+        "https://www.expreso.com.mx/feed/accion.xml",
+        "https://expreso.com.mx/feed/conexion.xml",
+        "https://expreso.com.mx/feed/expresion.xml",
+        "https://www.expreso.com.mx/feed/conexion.xml",
+        "https://www.expreso.com.mx/feed/expresion.xml",
+        "https://www.expreso.com.mx/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1358,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:41.898Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elporvenir.mx": {
+      "urls": [
+        "https://elporvenir.mx/feedgooglenews/cultural",
+        "https://elporvenir.mx/feedgooglenews/deportes",
+        "https://elporvenir.mx/feedgooglenews/economico",
+        "https://elporvenir.mx/feedgooglenews/enescena",
+        "https://elporvenir.mx/feedgooglenews/internacional",
+        "https://elporvenir.mx/feedgooglenews/joven",
+        "https://elporvenir.mx/feedgooglenews/justicia",
+        "https://elporvenir.mx/feedgooglenews/local",
+        "https://elporvenir.mx/feedgooglenews/monitor",
+        "https://elporvenir.mx/feedgooglenews/nacional"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1243,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:58.838Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "periodicolavoz.com.mx": {
+      "urls": [
+        "https://periodicolavoz.com.mx/feed/loultimo",
+        "https://periodicolavoz.com.mx/feed/nacion",
+        "https://periodicolavoz.com.mx/feed/seguridad",
+        "https://periodicolavoz.com.mx/feed/mundo",
+        "https://periodicolavoz.com.mx/feed/score",
+        "https://periodicolavoz.com.mx/feed/trending",
+        "https://periodicolavoz.com.mx/feed/mosaico",
+        "https://periodicolavoz.com.mx/feed/noticias",
+        "https://periodicolavoz.com.mx/feed/opinion"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1305,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:18.221Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "publimetro.com.mx": {
+      "urls": [
+        "https://www.publimetro.com.mx/mx/rss/global.xml",
+        "https://www.publimetro.com.mx/mx/rss/noticias.xml",
+        "https://www.publimetro.com.mx/arc/outboundfeeds/rss/",
+        "https://www.publimetro.com.mx:443/arc/outboundfeeds/rss/",
+        "https://www.publimetro.com.mx/arc/outboundfeeds/rss/category/noticias/mundo/?outputType=xml",
+        "https://www.publimetro.com.mx/mx/rss/entretenimiento.xml",
+        "https://www.publimetro.com.mx/mx/rss/publisport.xml",
+        "https://www.publimetro.com.mx/mx/rss/opinion.xml",
+        "https://www.publimetro.com.mx/mx/rss/estilo-vida.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1336,
+        "category": "world",
+        "last_checked": "2026-02-01T06:03:14.627Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sinembargo.mx": {
+      "urls": [
+        "https://www.sinembargo.mx/feed",
+        "https://www.sinembargo.mx/feed/",
+        "https://www.sinembargo.mx/opinion/feed",
+        "https://www.sinembargo.mx/categoria/tiempo-real/feed",
+        "https://www.sinembargo.mx/categoria/tiempo-real/feed/",
+        "https://www.sinembargo.mx/plataforma/historia-de-unos-dias-por-alejandro-paez-varela-podcast/feed/",
+        "https://www.sinembargo.mx/comments/feed",
+        "https://www.sinembargo.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2238,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:53.200Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "proceso.com.mx": {
+      "urls": [
+        "https://www.proceso.com.mx/rss/feed.html?r=6",
+        "https://www.proceso.com.mx/rss/un_foto.html",
+        "https://www.proceso.com.mx/rss/feed.html",
+        "https://www.proceso.com.mx/rss/feed.html?r=1",
+        "https://www.proceso.com.mx/feed",
+        "https://www.proceso.com.mx/category/podcast/feed",
+        "https://www.proceso.com.mx/tag/podcast/feed",
+        "https://www.proceso.com.mx/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2389,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:55.298Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eldiariodechihuahua.mx": {
+      "urls": [
+        "https://eldiariodechihuahua.mx/rss/feed.xml",
+        "https://www.eldiariodechihuahua.mx/rss/feed.xml",
+        "https://diario.mx/jrz/media/sitemaps/rss.xml",
+        "https://diario.mx/rss/feed.xml",
+        "https://diario.mx/chih/media/sitemaps/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 656,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:38.884Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cuartopoder.mx": {
+      "urls": [
+        "https://www.cuartopoder.mx/feedgooglenews/deportes",
+        "https://www.cuartopoder.mx/feedgooglenews/gente",
+        "https://www.cuartopoder.mx/feedgooglenews/nacional",
+        "https://www.cuartopoder.mx/feedgooglenews/chiapas",
+        "https://www.cuartopoder.mx/feedgooglenews/reporte"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1809,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:58.269Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laprensa.mx": {
+      "urls": [
+        "http://laprensa.mx/rss/?s=3",
+        "https://www.laprensa.mx/rss/",
+        "http://www.laprensa.mx/rss/",
+        "https://www.laprensa.mx/rss/?s=3",
+        "http://laprensa.mx/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1865,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:22.171Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "expansion.mx": {
+      "urls": [
+        "https://expansion.mx/rss/portada.rss",
+        "https://expansion.mx/index.atom",
+        "https://expansion.mx/ultimas-noticias.atom",
+        "https://expansion.mx/rss/economia.rss",
+        "https://expansion.mx/rss/empresas"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3070,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:38.572Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yucatan.com.mx": {
+      "urls": [
+        "https://www.yucatan.com.mx/feed",
+        "https://www.yucatan.com.mx/feed?cat=30",
+        "https://www.yucatan.com.mx/feed?cat=36",
+        "https://www.yucatan.com.mx/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2097,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:41.940Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "razon.com.mx": {
+      "urls": [
+        "https://www.razon.com.mx/feed/",
+        "https://www.razon.com.mx/rss/feed.xml",
+        "https://www.razon.com.mx:443/rss/feed.xml",
+        "https://www.razon.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2359,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:57.432Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "am.com.mx": {
+      "urls": [
+        "https://www.am.com.mx/rss/feed.xml",
+        "https://www.am.com.mx/feed",
+        "https://www.am.com.mx/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 425,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:48.996Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sanluishoy.com.mx": {
+      "urls": [
+        "https://sanluishoy.com.mx/feed/",
+        "http://sanluishoy.com.mx/feed/",
+        "https://sanluishoy.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 535,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:47.749Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "rotativo.com.mx": {
+      "urls": [
+        "https://rotativo.com.mx/uploads/feeds/feed_diario-rotativo_es.xml",
+        "https://rotativo.com.mx/feed/",
+        "https://rotativo.com.mx/feeds/feed.rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 771,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:16.998Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "caras.com.mx": {
+      "urls": [
+        "https://www.caras.com.mx/index.atom",
+        "https://www.caras.com.mx/feed/",
+        "https://www.caras.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1105,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:58.320Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "24-horas.mx": {
+      "urls": [
+        "https://www.24-horas.mx/feed/",
+        "https://24-horas.mx/feed/",
+        "https://www.24-horas.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1112,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:57.093Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "periodicocorreo.com.mx": {
+      "urls": [
+        "https://periodicocorreo.com.mx/rss/feed.xml",
+        "https://periodicocorreo.com.mx/feed/",
+        "https://periodicocorreo.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1196,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:32.758Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "impacto.mx": {
+      "urls": [
+        "https://impacto.mx/feed",
+        "https://impacto.mx/feed/",
+        "https://impacto.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1600,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:20.328Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "capitalqueretaro.com.mx": {
+      "urls": [
+        "https://www.capitalqueretaro.com.mx/feed/",
+        "https://www.capitalqueretaro.com.mx/category/nacional/feed/",
+        "https://www.capitalqueretaro.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1832,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:43.231Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "unomasuno.com.mx": {
+      "urls": [
+        "https://www.unomasuno.com.mx/feed/",
+        "https://unomasuno.com.mx/feed/",
+        "http://unomasuno.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2180,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:19.729Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diario.mx": {
+      "urls": [
+        "https://diario.mx/jrz/media/sitemaps/rss.xml",
+        "https://diario.mx/rss/feed.xml",
+        "https://diario.mx/jrz/media/sitemaps/El_Paso_rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2352,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:33.261Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "heraldo.mx": {
+      "urls": [
+        "https://www.heraldo.mx/feed/",
+        "http://www.heraldo.mx/feed/",
+        "https://www.heraldo.mx/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2923,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:09.516Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "8columnas.com.mx": {
+      "urls": [
+        "https://8columnas.com.mx/feed/",
+        "http://8columnas.com.mx/feed/",
+        "https://8columnas.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4096,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:02.042Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noticiasdequeretaro.com.mx": {
+      "urls": [
+        "https://noticiasdequeretaro.com.mx/feed/",
+        "https://noticiasdequeretaro.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 365,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:26.107Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "adnoticias.mx": {
+      "urls": [
+        "https://adnoticias.mx/feed/",
+        "https://adnoticias.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 480,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:34.366Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "enfoqueinformativo.mx": {
+      "urls": [
+        "https://www.enfoqueinformativo.mx/feed/",
+        "https://www.enfoqueinformativo.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 911,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:41.369Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "anton.com.mx": {
+      "urls": [
+        "https://anton.com.mx/feed/",
+        "https://anton.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 911,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:07.683Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elfinanciero.com.mx": {
+      "urls": [
+        "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml",
+        "https://www.elfinanciero.com.mx/rss/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1069,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:08.182Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lja.mx": {
+      "urls": [
+        "https://www.lja.mx/feed/",
+        "https://www.lja.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1316,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:05.029Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "juarezhoy.com.mx": {
+      "urls": [
+        "https://juarezhoy.com.mx/feed/",
+        "https://juarezhoy.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1552,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:48.436Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cronica.com.mx": {
+      "urls": [
+        "https://www.cronica.com.mx/arc/outboundfeeds/rss/",
+        "https://www.cronica.com.mx/rss/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1593,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:12.585Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunadeloscabos.com.mx": {
+      "urls": [
+        "https://tribunadeloscabos.com.mx/feed/",
+        "https://tribunademexico.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1635,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:29.230Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "vanguardia.com.mx": {
+      "urls": [
+        "https://vanguardia.com.mx/rss.xml",
+        "https://vanguardia.com.mx/rss/coahuila.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1653,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:26.553Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "contextodedurango.com.mx": {
+      "urls": [
+        "https://contextodedurango.com.mx/feed/",
+        "https://contextodedurango.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1686,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:13.999Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bcsnoticias.mx": {
+      "urls": [
+        "https://www.bcsnoticias.mx/feed/",
+        "https://www.bcsnoticias.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1825,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:03.674Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tiempodigital.mx": {
+      "urls": [
+        "https://tiempodigital.mx/feed/",
+        "https://tiempodigital.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2023,
+        "category": "technology",
+        "last_checked": "2026-02-01T06:04:46.880Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "entrelineas.com.mx": {
+      "urls": [
+        "https://entrelineas.com.mx/feed/",
+        "http://entrelineas.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2052,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:24.337Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "huellas.mx": {
+      "urls": [
+        "http://huellas.mx/feed/",
+        "http://huellas.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2195,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:36.343Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elheraldodesaltillo.mx": {
+      "urls": [
+        "https://elheraldodesaltillo.mx/feed/",
+        "https://www.elheraldodesaltillo.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2560,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:12.384Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laextra.mx": {
+      "urls": [
+        "https://laextra.mx/feed/",
+        "https://laextra.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2583,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:23.240Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "el-independiente.com.mx": {
+      "urls": [
+        "https://www.el-independiente.com.mx/feed/",
+        "https://www.el-independiente.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2661,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:42.498Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lavozdemichoacan.com.mx": {
+      "urls": [
+        "https://www.lavozdemichoacan.com.mx/feed/",
+        "https://www.lavozdemichoacan.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3256,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:56.420Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "lajornadasanluis.com.mx": {
+      "urls": [
+        "https://lajornadasanluis.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 327,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:20.655Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariovialibre.com.mx": {
+      "urls": [
+        "https://diariovialibre.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 345,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:06.852Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "contactohoy.com.mx": {
+      "urls": [
+        "https://contactohoy.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 389,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:03.712Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariocambio.com.mx": {
+      "urls": [
+        "https://www.diariocambio.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 513,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:57.945Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariodetabasco.mx": {
+      "urls": [
+        "https://www.diariodetabasco.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 615,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:43.514Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "laopcion.com.mx": {
+      "urls": [
+        "https://laopcion.com.mx/rss/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 733,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:04.286Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "quadratin.com.mx": {
+      "urls": [
+        "https://www.quadratin.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 859,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:51.306Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "arqueologiamexicana.mx": {
+      "urls": [
+        "https://arqueologiamexicana.mx/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 921,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:52.228Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "eleconomista.com.mx": {
+      "urls": [
+        "https://www.eleconomista.com.mx/rss/ultimas-noticias"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1135,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:35.501Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sintesis.com.mx": {
+      "urls": [
+        "https://sintesis.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1147,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:48.897Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "noticias.eltiempodenayarit.mx": {
+      "urls": [
+        "https://noticias.eltiempodenayarit.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1251,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:03.553Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cambiodemichoacan.com.mx": {
+      "urls": [
+        "https://cambiodemichoacan.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1288,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:47.190Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "imagenzac.com.mx": {
+      "urls": [
+        "https://imagenzac.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1390,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:43.409Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "record.com.mx": {
+      "urls": [
+        "https://www.record.com.mx/rss-articles.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1640,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:44.079Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "cosmopolitan.com.mx": {
+      "urls": [
+        "https://www.cosmopolitan.com.mx/index.atom"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1713,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:57.011Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariomarca.com.mx": {
+      "urls": [
+        "https://www.diariomarca.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1733,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:50.169Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunadelabahia.com.mx": {
+      "urls": [
+        "https://tribunadelabahia.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1989,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:54.163Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nortedigital.mx": {
+      "urls": [
+        "https://nortedigital.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2246,
+        "category": "technology",
+        "last_checked": "2026-02-01T06:03:08.279Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "novedadesdetabasco.com.mx": {
+      "urls": [
+        "https://novedadesdetabasco.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2388,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:04.696Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "oaxaca.quadratin.com.mx": {
+      "urls": [
+        "https://oaxaca.quadratin.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3074,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:11.846Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elregional.com.mx": {
+      "urls": [
+        "https://elregional.com.mx/rss/category/morelos"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 3690,
+        "category": "local",
+        "last_checked": "2026-02-01T06:05:39.632Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elvalle.com.mx": {
+      "urls": [
+        "https://elvalle.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4027,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:22.458Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "jornadaveracruz.com.mx": {
+      "urls": [
+        "https://jornadaveracruz.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 4039,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:02.308Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "excelsior.com.mx": {
+      "urls": [
+        "https://www.excelsior.com.mx/ultima-hora.xml",
+        "http://www.excelsior.com.mx/ultima-hora.xml",
+        "https://www.excelsior.com.mx/ultima-hora-adrenalina.xml",
+        "https://www.excelsior.com.mx/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:23.525Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "muyinteresante.com.mx": {
+      "urls": [
+        "https://www.muyinteresante.com.mx/rss/home.xml",
+        "https://www.muyinteresante.com.mx/feed/",
+        "https://muyinteresante.okdiario.com/feed/",
+        "https://muyinteresante.okdiario.com/temas/podcasts/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:07:02.771Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "plazajuarez.mx": {
+      "urls": [
+        "http://www.plazajuarez.mx/index.php/component/fpss/module/371?format=feed&type=atom",
+        "http://www.plazajuarez.mx/index.php/component/fpss/module/371?format=feed&type=rss",
+        "https://plazajuarez.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:06.507Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "zonafranca.mx": {
+      "urls": [
+        "https://zonafranca.mx/feed/",
+        "https://zonafranca.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:57.557Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "antenasanluis.mx": {
+      "urls": [
+        "https://antenasanluis.mx/feed/",
+        "https://antenasanluis.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:21.874Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "capitalmexico.com.mx": {
+      "urls": [
+        "https://www.capitalmexico.com.mx/feed/",
+        "https://www.capitalmexico.com.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:38.799Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "estadiodeportes.mx": {
+      "urls": [
+        "https://www.estadiodeportes.mx/feed/",
+        "https://www.estadiodeportes.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:46.967Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eldiariodecoahuila.com.mx": {
+      "urls": [
+        "https://www.eldiariodecoahuila.com.mx/rss/feed.html",
+        "https://www.eldiariodecoahuila.com.mx/rss/un_foto.html"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:52.885Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "eldictamen.mx": {
+      "urls": [
+        "https://www.eldictamen.mx/feed/",
+        "https://www.eldictamen.mx/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:19.971Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "plazadearmas.com.mx": {
+      "urls": [
+        "http://plazadearmas.com.mx/feed/",
+        "https://plazadearmas.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:36.146Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "diarioamanecer.com.mx": {
+      "urls": [
+        "https://www.diarioamanecer.com.mx/feed/",
+        "https://diarioamanecer.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:57.551Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "debate.com.mx": {
+      "urls": [
+        "https://www.debate.com.mx/rss/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:43.188Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elgrafico.mx": {
+      "urls": [
+        "https://www.elgrafico.mx/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:52.967Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "tribuna.com.mx": {
+      "urls": [
+        "https://www.tribuna.com.mx/rss/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:55.073Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "elheraldoslp.com.mx": {
+      "urls": [
+        "https://elheraldoslp.com.mx/new/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:13.512Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "nuevodia.mx": {
+      "urls": [
+        "https://nuevodia.mx/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:25.741Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "pagina24jalisco.com.mx": {
+      "urls": [
+        "https://pagina24jalisco.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:56.493Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "periodicoexpress.com.mx": {
+      "urls": [
+        "http://periodicoexpress.com.mx/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:00.815Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "theguardian.com": {
+      "urls": [
+        "https://www.theguardian.com/world/venezuela/rss",
+        "https://www.theguardian.com/breaking-news/rss",
+        "https://www.theguardian.com/us-news/rss",
+        "https://www.theguardian.com/world/rss",
+        "https://www.theguardian.com/politics/rss",
+        "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+        "https://www.theguardian.com/uk/london/rss",
+        "https://www.theguardian.com/us/money/rss",
+        "https://www.theguardian.com/artanddesign/rss",
+        "https://www.theguardian.com/au/rss",
+        "https://www.theguardian.com/australia-podcasts/rss",
+        "https://www.theguardian.com/education/rss",
+        "https://www.theguardian.com/europe/rss",
+        "https://www.theguardian.com/fashion/rss",
+        "https://www.theguardian.com/football/liverpool/rss",
+        "https://www.theguardian.com/football/rss",
+        "https://www.theguardian.com/football/womensfootball/rss",
+        "https://www.theguardian.com/games/rss",
+        "https://www.theguardian.com/international/rss",
+        "https://www.theguardian.com/music/rss",
+        "https://www.theguardian.com/podcasts/rss",
+        "https://www.theguardian.com/uk/rss",
+        "https://www.theguardian.com/us/rss",
+        "https://www.theguardian.com/world/animals/rss",
+        "https://www.theguardian.com/world/china/rss",
+        "https://www.theguardian.com/world/religion/rss",
+        "https://www.theguardian.com/education/higher-education/rss",
+        "https://www.theguardian.com/media/digital-media/rss",
+        "https://www.theguardian.com/society/transgender/rss",
+        "https://www.theguardian.com/sport/formulaone/rss",
+        "https://www.theguardian.com/us/commentisfree/rss",
+        "https://www.theguardian.com/us/culture/rss",
+        "https://www.theguardian.com/world/lgbt-rights/rss",
+        "https://www.theguardian.com/au/podcasts/rss",
+        "https://www.theguardian.com/australia-news/perth-news/rss",
+        "https://www.theguardian.com/australia-news/western-australia/rss",
+        "https://www.theguardian.com/crosswords/crossword-blog/rss",
+        "https://www.theguardian.com/education/fashion-and-textiles/rss",
+        "https://www.theguardian.com/education/sexeducation/rss",
+        "https://www.theguardian.com/environment/bike-blog/rss",
+        "https://www.theguardian.com/environment/climate-crisis/rss",
+        "https://www.theguardian.com/environment/renewableenergy/rss",
+        "https://www.theguardian.com/fashion/jimmy-choo/rss",
+        "https://www.theguardian.com/food/italian-food-and-drink/rss",
+        "https://www.theguardian.com/food/japanese/rss",
+        "https://www.theguardian.com/football/fulham/rss",
+        "https://www.theguardian.com/football/tottenham-hotspur/rss",
+        "https://www.theguardian.com/football/who-scored-blog/rss",
+        "https://www.theguardian.com/lifeandstyle/kylie-jenner/rss",
+        "https://www.theguardian.com/lifeandstyle/meditation/rss",
+        "https://www.theguardian.com/lifeandstyle/online-dating/rss",
+        "https://www.theguardian.com/news/blog/rss",
+        "https://www.theguardian.com/science/archaeology/rss",
+        "https://www.theguardian.com/society/depression/rss",
+        "https://www.theguardian.com/society/eating-disorders/rss",
+        "https://www.theguardian.com/sport/blog/rss",
+        "https://www.theguardian.com/sport/nhl/rss",
+        "https://www.theguardian.com/sport/wimbledon/rss",
+        "https://www.theguardian.com/stage/westend/rss",
+        "https://www.theguardian.com/technology/crowdfunding/rss",
+        "https://www.theguardian.com/technology/self-driving-cars/rss",
+        "https://www.theguardian.com/theguardian/from-the-archive-blog/rss",
+        "https://www.theguardian.com/tone/blog/rss",
+        "https://www.theguardian.com/travel/greece/rss",
+        "https://www.theguardian.com/travel/newyork/rss",
+        "https://www.theguardian.com/tv-and-radio/podcasts/rss",
+        "https://www.theguardian.com/tv-and-radio/true-crime--podcasts-/rss",
+        "https://www.theguardian.com/uk-news/cambridge/rss",
+        "https://www.theguardian.com/uk-news/gatwick-airport/rss",
+        "https://www.theguardian.com/uk-news/heathrow-airport/rss",
+        "https://www.theguardian.com/uk-news/hull/rss",
+        "https://www.theguardian.com/uk-news/southampton/rss",
+        "https://www.theguardian.com/uk-news/southend-on-sea/rss",
+        "https://www.theguardian.com/uk-news/stoke-on-trent/rss",
+        "https://www.theguardian.com/uk/birmingham/rss",
+        "https://www.theguardian.com/uk/bournemouth/rss",
+        "https://www.theguardian.com/uk/brighton/rss",
+        "https://www.theguardian.com/uk/bristol/rss",
+        "https://www.theguardian.com/uk/british-army/rss",
+        "https://www.theguardian.com/uk/carlisle/rss",
+        "https://www.theguardian.com/uk/glasgow/rss",
+        "https://www.theguardian.com/uk/greater-manchester/rss",
+        "https://www.theguardian.com/uk/hackney/rss",
+        "https://www.theguardian.com/uk/ipswich/rss",
+        "https://www.theguardian.com/uk/jersey/rss",
+        "https://www.theguardian.com/uk/leicester/rss",
+        "https://www.theguardian.com/uk/manchester/rss",
+        "https://www.theguardian.com/uk/northernireland/rss",
+        "https://www.theguardian.com/uk/rotherham/rss",
+        "https://www.theguardian.com/uk/sheffield/rss",
+        "https://www.theguardian.com/uk/sport/rss",
+        "https://www.theguardian.com/uk/technology/rss",
+        "https://www.theguardian.com/uk/wolverhampton/rss",
+        "https://www.theguardian.com/us-news/us-politics/rss",
+        "https://www.theguardian.com/us/business/rss",
+        "https://www.theguardian.com/us/environment/rss",
+        "https://www.theguardian.com/us/technology/rss",
+        "https://www.theguardian.com/us/travel/rss",
+        "https://www.theguardian.com/world/angola/rss",
+        "https://www.theguardian.com/world/argentina/rss",
+        "https://www.theguardian.com/world/buddhism/rss",
+        "https://www.theguardian.com/world/chechnya/rss",
+        "https://www.theguardian.com/world/chile/rss",
+        "https://www.theguardian.com/world/ecuador/rss",
+        "https://www.theguardian.com/world/el-salvador/rss",
+        "https://www.theguardian.com/world/hinduism/rss",
+        "https://www.theguardian.com/world/iraq/rss",
+        "https://www.theguardian.com/world/mexico/rss",
+        "https://www.theguardian.com/world/newzealand/rss",
+        "https://www.theguardian.com/world/north-korea/rss",
+        "https://www.theguardian.com/world/paraguay/rss",
+        "https://www.theguardian.com/world/uruguay/rss",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/rss",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/rss",
+        "https://www.theguardian.com/culture/series/theres-a-podcast-for-that/rss",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/rss",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/rss",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/rss",
+        "https://www.theguardian.com/music/classical-music-and-opera+tone/albumreview/rss",
+        "https://www.theguardian.com/news/series/cotton-capital-podcast/rss",
+        "https://www.theguardian.com/news/series/guardian-australia-podcast-series/rss",
+        "https://www.theguardian.com/news/series/the-long-read/rss",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/rss",
+        "https://www.theguardian.com/sport/series/the-final-word-ashes-podcast/rss",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/rss",
+        "https://www.theguardian.com/technology/series/chips-with-everything/rss",
+        "https://www.theguardian.com/tv-and-radio/series/miranda-sawyer-on-podcasts-and-radio/rss",
+        "https://www.theguardian.com/australia-news/series/full-story/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/who-screwed-millennials/podcast.xml",
+        "https://www.theguardian.com/artanddesign/series/guardian-australia-culture-podcast/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/australian-politics-live/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/behind-the-lines-podcast/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/common-ground/podcast.xml",
+        "https://www.theguardian.com/australia-news/series/the-reckoning-guardian-australia-podcast/podcast.xml",
+        "https://www.theguardian.com/books/series/books/podcast.xml",
+        "https://www.theguardian.com/culture/series/thestart/podcast.xml",
+        "https://www.theguardian.com/environment/series/look-at-me/podcast.xml",
+        "https://www.theguardian.com/football/series/footballweekly/podcast.xml",
+        "https://www.theguardian.com/football/series/theguardianswomensfootballweekly/podcast.xml",
+        "https://www.theguardian.com/global-development/series/global-development-podcast/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/comforteatingwithgracedent/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-advanced/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/guardian-guide-to-running-podcast-beginner/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/the-guardian-guide-to-running-podcast-marathon/podcast.xml",
+        "https://www.theguardian.com/lifeandstyle/series/weekend/podcast.xml",
+        "https://www.theguardian.com/music/series/reverberate/podcast.xml",
+        "https://www.theguardian.com/news/series/cotton-capital-podcast/podcast.xml",
+        "https://www.theguardian.com/news/series/guardian-australia-podcast-series/podcast.xml",
+        "https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml",
+        "https://www.theguardian.com/news/series/todayinfocus/podcast.xml",
+        "https://www.theguardian.com/politics/series/politics-weekly-america/podcast.xml",
+        "https://www.theguardian.com/politics/series/politicsweekly/podcast.xml",
+        "https://www.theguardian.com/science/series/a-neuroscientist-explains-podcast/podcast.xml",
+        "https://www.theguardian.com/science/series/science/podcast.xml",
+        "https://www.theguardian.com/society/series/pop-culture-with-chante-joseph/podcast.xml",
+        "https://www.theguardian.com/sport/series/ashespodcast/podcast.xml",
+        "https://www.theguardian.com/sport/series/the-final-word-ashes-podcast/podcast.xml",
+        "https://www.theguardian.com/sport/series/the-spin-podcast/podcast.xml",
+        "https://www.theguardian.com/technology/series/blackbox/podcast.xml",
+        "https://www.theguardian.com/technology/series/chips-with-everything/podcast.xml",
+        "https://www.theguardian.com/society/mens-health/rss",
+        "https://theguardian.engineering/blog/rss.xml",
+        "https://feeds.acast.com/public/shows/club-sandwich",
+        "https://feeds.acast.com/public/shows/fact-up"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 737,
+        "category": "world",
+        "last_checked": "2026-02-01T06:06:48.425Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "expansion.com": {
+      "urls": [
+        "https://e00-expansion.uecdn.es/rss/empresas.xml",
+        "https://www.expansion.com/rss/googlenews/catalunya.xml",
+        "https://www.expansion.com/rss/economia-digital.xml",
+        "https://e00-expansion.uecdn.es/rss/emprendedores-empleodesarrollo-de-carrera.xml",
+        "https://e00-expansion.uecdn.es/rss/emprendedores-empleoempleatv.xml",
+        "https://e00-expansion.uecdn.es/rss/emprendedores-empleoemprendimiento.xml",
+        "https://e00-expansion.uecdn.es/rss/emprendedores-empleomercado-laboral.xml",
+        "https://www.expansion.com/rss/googlenews/empresas/energia.xml",
+        "https://www.expansion.com/rss/googlenews/nauta360.xml",
+        "https://www.expansion.com/rss/googlenews/podcasts.xml",
+        "https://www.expansion.com/rss/googlenews/portada.xml",
+        "https://www.expansion.com/rss/googlenews/podcasts/en-accion.xml",
+        "https://www.expansion.com/rss/googlenews/podcasts/genios-finanzas.xml",
+        "https://www.expansion.com/rss/googlenews/podcasts/la-primera-de-expansion.xml",
+        "https://www.expansion.com/rss/googlenews/podcasts/trabajo-y-mas.xml",
+        "https://e00-expansion.uecdn.es/rss/economia.xml",
+        "https://e00-expansion.uecdn.es/rss/mercados.xml",
+        "https://e00-expansion.uecdn.es/blogs/barcabo/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/blog-jsq/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/cambioclimatico/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/cambra/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/casadejus/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/de-leyes-que/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/economia-reputacion/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/el-inversor-consciente/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/elbufete/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/escenario-tecnico/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/estadistica-pollo/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/garrigues/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/hablando-en-publico/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/inmo-tendencias/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/la-renta-para-los-que-no-son-einstein/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/mariadelamiel/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/mcgufilms/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/mercados-transparencias/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/mind-the-gap/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/minima-inmoralia/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/pensar-estrategicamente/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/peon-de-dama/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/piel-del-inversor/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/prisma-bursatil/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/quemada/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/re-imaginando/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/redondo/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/saballs/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/sagardoy/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/sociedad-empresa-digital/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/tecnoestrategias/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/tipo-interes/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/transformacion-digital/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/vuelta-de-tuerca/index.xml",
+        "https://e00-expansion.uecdn.es/blogs/work-internationally/index.xml",
+        "https://e00-expansion.uecdn.es/rss/catalunya.xml",
+        "https://e00-expansion.uecdn.es/rss/empresasbanca.xml",
+        "https://e00-expansion.uecdn.es/rss/empresastransporte.xml",
+        "https://e00-expansion.uecdn.es/rss/economiapolitica.xml",
+        "https://e00-expansion.uecdn.es/rss/empresasenergia.xml",
+        "https://e00-expansion.uecdn.es/rss/opinion.xml",
+        "https://e00-expansion.uecdn.es/rss/empresasmotor.xml",
+        "https://e00-expansion.uecdn.es/rss/juridico.xml",
+        "https://e00-expansion.uecdn.es/rss/empresasdistribucion.xml",
+        "https://e00-expansion.uecdn.es/rss/empresasauto-industria.xml",
+        "https://e00-expansion.uecdn.es/rss/empresasdigitech.xml",
+        "https://e00-expansion.uecdn.es/rss/empresasinmobiliario.xml",
+        "https://e00-expansion.uecdn.es/rss/portada.xml",
+        "https://e01-expansion.uecdn.es/rss/portada.xml",
+        "https://e00-expansion.uecdn.es/rss/emprendedores-empleo.xml",
+        "https://e00-expansion.uecdn.es/rss/emprendedores-empleoopinion.xml",
+        "https://e00-expansion.uecdn.es/rss/empresasdeporte.xml",
+        "https://e00-expansion.uecdn.es/rss/empresastmt.xml",
+        "https://e00-expansion.uecdn.es/rss/entorno.xml",
+        "https://e00-expansion.uecdn.es/rss/funcion-publica.xml",
+        "https://e00-expansion.uecdn.es/rss/juridicoopinion.xml",
+        "https://e00-expansion.uecdn.es/rss/juridicosentencias.xml",
+        "https://e00-expansion.uecdn.es/rss/mercadoseuribor.xml",
+        "https://e00-expansion.uecdn.es/rss/mercadosrentafija.xml",
+        "https://e00-expansion.uecdn.es/rss/midinero.xml",
+        "https://e00-expansion.uecdn.es/rss/nauta360.xml",
+        "https://e00-expansion.uecdn.es/rss/podcasts.xml",
+        "https://e01-expansion.uecdn.es/rss/empresas/energia.xml",
+        "https://e01-expansion.uecdn.es/rss/podcasts.xml",
+        "https://e00-expansion.uecdn.es/rss/googlenews/podcasts.xml",
+        "https://e00-expansion.uecdn.es/rss/podcasts/en-accion.xml",
+        "https://e00-expansion.uecdn.es/rss/podcasts/genios-finanzas.xml",
+        "https://e00-expansion.uecdn.es/rss/podcasts/la-primera-de-expansion.xml",
+        "https://e00-expansion.uecdn.es/rss/podcasts/trabajo-y-mas.xml",
+        "https://e01-expansion.uecdn.es/rss/podcasts/en-accion.xml",
+        "https://e01-expansion.uecdn.es/rss/podcasts/trabajo-y-mas.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 607,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:52.908Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reuters.com": {
+      "urls": [
+        "https://blogs.thomsonreuters.com/answerson/topic/academic-research/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/anti-corruption/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/anti-money-laundering/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/artificial-intelligence/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/asia-pacific/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/banks/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/beps/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/big-data/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/blockchain/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/breakingviews/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/brexit/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/commodities/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/company-culture/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/compliance/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/coronavirus/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/corporate-counsel/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/corporate-law-departments/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/corporate-responsibility-inclusion/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/corporate-tax-departments/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/covid-19/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/criminal-law/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/cryptocurrency/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/data-privacy/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/data-visualization/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/diversity-inclusion/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/emerging-markets/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/employee-development/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/energy/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/enterprise-risk-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/financial-fraud/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/fincen/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/forum-magazine/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/fraud/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/gender-parity/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/global-labor-market/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/global-trade-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/government/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/industry-trends/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/information-professionals/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/innovation/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/international-business-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/law-firm-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/legal-tech/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/middle-east/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/news-agency/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/news-graphics/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/newsmaker-interviews/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/oil-gas/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/operational-risk-management/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/partnership/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/podcasts/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/professional-well-being/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/real-estate/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/regtech/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/regulatory-intelligence/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/return-to-work/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/reuters-newsmaker/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/slavery/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/sustainability/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/tax-and-accounting/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/tax/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/the-hearing/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters-institute/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters-tax-accounting/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/thomson-reuters/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/united-kingdom/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/united-states/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/us-government/feed/",
+        "https://blogs.thomsonreuters.com/answerson/topic/working-remotely/feed/",
+        "https://www.thomsonreuters.com/en-us/posts/topic/podcasts/feed/",
+        "https://blogs.thomsonreuters.com/answerson/feed/",
+        "https://www.thomsonreuters.com/en-us/posts/feed/",
+        "https://blogs.thomsonreuters.com/answerson/category/global-trade-supply-chain/feed/",
+        "https://www.thomsonreuters.com/en-us/posts/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1695,
+        "category": "science",
+        "last_checked": "2026-02-01T06:06:46.609Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aristeguinoticias.com": {
+      "urls": [
+        "https://aristeguinoticias.com/category/multimedia/feed/",
+        "http://feeds.feedburner.com/Twitter/Aristeguionline",
+        "https://aristeguinoticias.com/feed/",
+        "http://feeds.feedburner.com/AristeguiNoticiasVideos",
+        "https://editorial.aristeguinoticias.com/feed/",
+        "https://aristeguinoticias.com/category/mexico/feed/",
+        "https://editorial.aristeguinoticias.com/category/mexico/feed/",
+        "https://aristeguinoticias.com/category/mundo/feed/",
+        "https://editorial.aristeguinoticias.com/category/mundo/feed/",
+        "http://feeds.feedburner.com/aristeguinoticias/Mexico",
+        "https://editorial.aristeguinoticias.com/category/deportes/feed/",
+        "https://editorial.aristeguinoticias.com/category/dinero-y-economia/feed/",
+        "https://aristeguinoticias.com/category/kiosko/feed/",
+        "https://editorial.aristeguinoticias.com/category/libros/feed/",
+        "https://aristeguinoticias.com/category/entrevistas/feed/",
+        "http://feeds.feedburner.com/AristeguiNoticias",
+        "https://aristeguinoticias.com/category/multimedia/fotos/feed/",
+        "https://editorial.aristeguinoticias.com/category/investigaciones-especiales/feed/",
+        "https://editorial.aristeguinoticias.com/category/opinion/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/enterate/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/entrevistas-completas/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/deportes-aristegui-en-vivo/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/dinero-y-economia/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/enlaces-en-vivo/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/investigaciones-especiales/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/las-plumas-de-la-serpiente/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/mesa-politica-en-vivo/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/ninonautas/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/programas-completos/feed/",
+        "https://editorial.aristeguinoticias.com/category/aristegui-en-vivo/titulares-del-dia/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/enterate/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/entrevistas-completas/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/deportes-aristegui-en-vivo/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/dinero-y-economia/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/enlaces-en-vivo/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/investigaciones-especiales/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/las-plumas-de-la-serpiente/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/lo-mejor-de-aristegui-en-vivo/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/mesa-politica-en-vivo/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/ninonautas/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/programas-completos/feed/",
+        "http://editorial.aristeguinoticias.com/category/aristegui-en-vivo/titulares-del-dia/feed/",
+        "http://feeds.feedburner.com/AristeguiNoticiasKiosko",
+        "http://feeds.feedburner.com/aristeguinoticias/MUNDO",
+        "http://feeds.feedburner.com/AristeguiNoticiasFotos",
+        "http://feeds.feedburner.com/aristeguinoticias/entrevistas"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 465,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:46.882Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aljazeera.com": {
+      "urls": [
+        "https://www.aljazeera.com:443/xml/rss/all.xml",
+        "https://www.aljazeera.com/xml/rss/all.xml",
+        "https://audioboom.com/channels/4922429.rss",
+        "https://audioboom.com/channels/5024507.rss",
+        "https://audioboom.com/channels/504284.rss",
+        "https://audioboom.com/channels/5090626.rss",
+        "https://audioboom.com/channels/5118708.rss",
+        "https://blog.audioboom.com/feed",
+        "https://rss.art19.com/game-of-our-lives",
+        "https://rss.art19.com/the-take",
+        "http://feeds.aljazeera.net/podcasts/101eastHD",
+        "http://feeds.aljazeera.net/podcasts/StudioBUnscriptedAU",
+        "http://feeds.aljazeera.net/podcasts/aljazeeracorrespondentHD",
+        "http://feeds.aljazeera.net/podcasts/aljazeeraworldHD",
+        "http://feeds.aljazeera.net/podcasts/countingthecostAU",
+        "http://feeds.aljazeera.net/podcasts/featureddocumentariesHD",
+        "http://feeds.aljazeera.net/podcasts/headtoheadAU",
+        "http://feeds.aljazeera.net/podcasts/insidestoryAU",
+        "http://feeds.aljazeera.net/podcasts/listeningpostAU",
+        "http://feeds.aljazeera.net/podcasts/peopleandpowerHD",
+        "http://feeds.aljazeera.net/podcasts/talktoaljazeeraHD",
+        "http://feeds.aljazeera.net/podcasts/techknowHD",
+        "http://feeds.aljazeera.net/podcasts/thebottomlineAU",
+        "http://feeds.aljazeera.net/podcasts/upfrontAU",
+        "http://feeds.aljazeera.net/podcasts/witnessHD",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/63048eda-2427-408a-b47c-ad5001293fca/6677d422-fd43-4aaa-be74-ad5001293fd8/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/09af2160-238f-48b2-b20b-ad4b00ebd8e7/b86dddc1-67a5-41c2-a13c-ad4b00ebd8f5/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/1d8e448d-c2bf-403c-a584-ac4500b4ead7/58a74130-c44b-49fd-ab49-ac4500b6f9c0/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/223113c5-ff31-4f9a-b650-ada90106df0f/7c994764-510f-469f-80a3-ada901076c74/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/26e627ce-a516-4b65-85fb-adc90026cacd/d357d4b9-6e29-45ba-a677-adc90026cadb/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/2c9c7eaf-530f-41f4-8f77-adc9002e26ef/4a27f974-5f62-4a80-ad27-adc9002e26fd/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/527632e5-1e4d-48c6-9669-b01a01272b40/83f38d64-c966-4e18-8dd9-b01a0129d9bb/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/59d1c2ff-d965-4050-b2be-adc900385651/e2d1487d-782d-461a-a6d6-adc90038565f/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/5de23cbc-f548-4121-b5e7-ae6601131403/61ce3a40-0c34-4d6c-868a-ae66011389ef/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/6009f195-c903-4dfa-93f3-ad120078ccb0/640b5c60-fbae-49f9-b16a-ad120078ccc3/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/64247cc6-b987-4d5d-9358-ad5001241eb8/430db8e3-7d8f-457d-a050-ad5001241ec6/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/6c576a47-8ba5-424d-a511-b0cb0112a67f/67ca9b90-7262-4c13-862f-b0cb01156e30/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/87cf47aa-0911-42fa-b48d-b3cd012a59eb/ff9db905-e579-4d56-817b-b3cd012a5e1e/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/a16a45cf-b44c-424f-ae58-ad430112557f/9f00236c-552e-45bb-a9cc-ad430112558d/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/b4b7928b-c415-4c0b-99dc-b1be0101cb98/322d82d8-7027-4118-8259-b1be01042254/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/b70432f4-1dde-4208-b24a-ad43012b6cce/24b5009a-02ac-4bc8-ba60-ad43012b6ce1/podcast.rss",
+        "https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/dcdc1a42-e680-4c00-ae96-b2040100e199/afa09094-490a-4c76-86fa-b2040101d5e2/podcast.rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 50,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:48.475Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elmanana.com": {
+      "urls": [
+        "https://www.elmanana.com/feedgooglenews/noticias",
+        "http://elmanana.com/feedgooglenews/noticias",
+        "http://www.elmanana.com/feedgooglenews/noticias",
+        "https://www.elmanana.com/feedgooglenews/deportes",
+        "http://elmanana.com/feedgooglenews/deportes",
+        "http://www.elmanana.com/feedgooglenews/deportes",
+        "https://www.elmanana.com/feedgooglenews/tamaulipas",
+        "https://www.elmanana.com/feedgooglenews/escena",
+        "https://www.elmanana.com/feedgooglenews/local",
+        "http://elmanana.com/feedgooglenews/tamaulipas",
+        "http://www.elmanana.com/feedgooglenews/tamaulipas",
+        "https://www.elmanana.com/feedgooglenews/texas",
+        "http://elmanana.com/feedgooglenews/escena",
+        "http://www.elmanana.com/feedgooglenews/escena",
+        "https://www.elmanana.com/feedgooglenews/policiaca",
+        "http://elmanana.com/feedgooglenews/local",
+        "http://www.elmanana.com/feedgooglenews/local",
+        "http://elmanana.com/feedgooglenews/texas",
+        "http://www.elmanana.com/feedgooglenews/texas",
+        "http://elmanana.com/feedgooglenews/policiaca",
+        "http://www.elmanana.com/feedgooglenews/policiaca"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 730,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:16.661Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mexiconewsdaily.com": {
+      "urls": [
+        "https://mexiconewsdaily.com/feed/",
+        "https://mexiconewsdaily.com/category/podcasts/feed/",
+        "https://mexiconewsdaily.com/comments/feed/",
+        "https://mexiconewsdaily.com/business/mnd-deep-dive-queretaros-data-center-boom-podcast/feed/",
+        "https://mexiconewsdaily.com/ceo-corner/confidently-wrong-about-gentrification-in-mexico-podcast/feed/",
+        "https://mexiconewsdaily.com/ceo-corner/mnd-perspectives-our-ceos-2024-prediction-scorecard-mexico-forecast-podcast/feed/",
+        "https://mexiconewsdaily.com/mexico-living/mnd-perspectives-rediscovering-inner-child-in-mexico-podcast/feed/",
+        "https://mexiconewsdaily.com/mexico-living/mnd-perspectives-what-i-learned-moving-to-mexico-podcast/feed/",
+        "https://mexiconewsdaily.com/news/mnd-deep-dive-podcast-the-future-of-mexicos-auto-industry/feed/",
+        "https://mexiconewsdaily.com/opinion/confidently-wrong-driving-mexico-mnd-podcast/feed/",
+        "https://mexiconewsdaily.com/opinion/confidently-wrong-sheinbaum-podcast/feed/",
+        "https://mexiconewsdaily.com/podcasts/confidently-wrong-amlo-podcast/feed/",
+        "https://mexiconewsdaily.com/podcasts/confidently-wrong-mexican-peso-podcast-ceo/feed/",
+        "https://mexiconewsdaily.com/podcasts/confidently-wrong-podcast-raising-expat-kids-in-mexico/feed/",
+        "https://mexiconewsdaily.com/podcasts/mnd-deep-dive-mexico-city-gentrification-podcast/feed/",
+        "https://mexiconewsdaily.com/podcasts/mnd-deep-dive-mexicos-transpeninsular-train/feed/",
+        "https://mexiconewsdaily.com/podcasts/mnd-perspectives-podcast-is-the-show-emilia-perez-offensive/feed/",
+        "https://mexiconewsdaily.com/podcasts/mnd-perspectives-what-to-expect-mexico-2025-podcast/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 918,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:50.446Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "lapoliticaonline.com": {
+      "urls": [
+        "https://www.lapoliticaonline.com:443/files/rss/ultimasnoticias.xml",
+        "https://www.lapoliticaonline.com/files/rss/ultimasnoticias-mx.xml",
+        "https://www.lapoliticaonline.com:443/files/rss/politica.xml",
+        "https://www.lapoliticaonline.com/files/rss/latestnews-us.xml",
+        "https://www.lapoliticaonline.com/files/rss/politica-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/nuevoleon-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/politics-us.xml",
+        "https://www.lapoliticaonline.com:443/files/rss/economia.xml",
+        "https://www.lapoliticaonline.com/files/rss/border-us.xml",
+        "https://www.lapoliticaonline.com/files/rss/business-us.xml",
+        "https://www.lapoliticaonline.com/files/rss/ciudad-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/congreso-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/congress-us.xml",
+        "https://www.lapoliticaonline.com/files/rss/economia-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/edomex-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/entrevistas-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/internacionales-mx.xml",
+        "https://www.lapoliticaonline.com/files/rss/thehill-us.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2026,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:17.191Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "americaeconomia.com": {
+      "urls": [
+        "https://www.americaeconomia.com/feeds/feed.rss",
+        "https://www.americaeconomia.com/rss.xml",
+        "https://www.americaeconomia.com/taxonomy/term/6927/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6935/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6941/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6942/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6943/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6951/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6952/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6953/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6954/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6955/feed",
+        "https://www.americaeconomia.com/taxonomy/term/6956/feed",
+        "https://feeds.feedburner.com/america-economia",
+        "http://feeds.feedburner.com/america-economia"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 400,
+        "category": "general",
+        "last_checked": "2026-02-01T06:07:09.164Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "english.elpais.com": {
+      "urls": [
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/usa",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/international",
+        "https://fapi-top.prisasd.com/podcast/elpais/que_de_el_pais_in_english.xml",
+        "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/culture",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/economy-and-business",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/people",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/podcasts",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/science-tech",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/brasil_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/podcast_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/tag/uruguay_a",
+        "https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/podcasts/subsection/que"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 963,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:49.445Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "encuentroradiotv.com": {
+      "urls": [
+        "https://www.encuentroradiotv.com/feed/",
+        "https://www.encuentroradiotv.com/category/podcast/feed/",
+        "https://www.encuentroradiotv.com/blog/category/destacado/feed/",
+        "https://www.encuentroradiotv.com/category/podcast/nacional/feed/",
+        "https://www.encuentroradiotv.com/category/podcast/estatal/feed/",
+        "https://www.encuentroradiotv.com/category/podcast/internacional/feed/",
+        "https://www.encuentroradiotv.com/blog/category/podcast/y-tu-de-que-te-acuerdas/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2181,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:45.482Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "aguasdigital.com": {
+      "urls": [
+        "http://aguasdigital.com/rss/rss-gral.php",
+        "https://aguasdigital.com/feed/",
+        "http://aguasdigital.com/feed/",
+        "https://aguasdigital.com/comments/feed/",
+        "http://aguasdigital.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1445,
+        "category": "technology",
+        "last_checked": "2026-02-01T06:04:40.665Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elnoticieroenlinea.com": {
+      "urls": [
+        "https://www.elnoticieroenlinea.com/feed/",
+        "https://elnoticieroenlinea.com/feed/",
+        "https://elnoticieroenlinea.com/comments/feed/",
+        "https://www.elnoticieroenlinea.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2762,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:18.052Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "periodistasquintanaroo.com": {
+      "urls": [
+        "https://periodistasquintanaroo.com/feed/",
+        "http://www.periodistasquintanaroo.com/feed/",
+        "https://periodistasquintanaroo.com/comments/feed/",
+        "http://www.periodistasquintanaroo.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3387,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:34.000Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elpuntocritico.com": {
+      "urls": [
+        "https://elpuntocritico.com/?format=feed&type=atom",
+        "https://www.elpuntocritico.com/?format=feed&type=atom",
+        "https://elpuntocritico.com/?format=feed&type=rss",
+        "https://www.elpuntocritico.com/?format=feed&type=rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 4715,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:08.772Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "laverdadnoticias.com": {
+      "urls": [
+        "https://laverdadnoticias.com/rss/feed.xml",
+        "https://laverdadnoticias.com/feed",
+        "https://laverdadnoticias.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 72,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:26.035Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diariodechiapas.com": {
+      "urls": [
+        "https://diariodechiapas.com/feed/",
+        "https://diariodechiapas.com/feed",
+        "https://diariodechiapas.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1234,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:06.032Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tuenlinea.com": {
+      "urls": [
+        "https://www.tuenlinea.com/index.atom",
+        "https://www.tuenlinea.com/feed/",
+        "https://www.tuenlinea.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1279,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:59.811Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "afmedios.com": {
+      "urls": [
+        "https://www.afmedios.com/feed/",
+        "http://www.afmedios.com/feed/",
+        "https://www.afmedios.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1785,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:01.918Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "vanidades.com": {
+      "urls": [
+        "https://www.vanidades.com/index.atom",
+        "https://www.vanidades.com/rss/feed.xml",
+        "https://www.vanidades.com/tag/podcast.atom"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1786,
+        "category": "general",
+        "last_checked": "2026-02-01T06:07:04.557Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mimorelia.com": {
+      "urls": [
+        "https://www.mimorelia.com/feed/",
+        "https://prod-qt-images.s3.amazonaws.com/production/mimorelia/feed.xml",
+        "https://www.mimorelia.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2152,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:00.682Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "eltiempomx.com": {
+      "urls": [
+        "https://eltiempomx.com/index.xml",
+        "https://eltiempomx.com/noticias/monclova.xml",
+        "https://eltiempomx.com/noticias/piedras-negras.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2315,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:44.911Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elimparcial.com": {
+      "urls": [
+        "https://www.elimparcial.com/arc/outboundfeeds/msn/",
+        "https://www.elimparcial.com/rss/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 60,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:26.633Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elvigia.net": {
+      "urls": [
+        "https://www.elvigia.net/rss/un_foto.html",
+        "https://www.elvigia.net/rss/feed.html"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 116,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:42.019Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "sdpnoticias.com": {
+      "urls": [
+        "https://www.sdpnoticias.com/rss",
+        "https://www.sdpnoticias.com/arc/outboundfeeds/rss/?outputType=xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 133,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:55.978Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "ngenespanol.com": {
+      "urls": [
+        "https://www.ngenespanol.com/feed/",
+        "https://www.nationalgeographicla.com/api/rss/latest_contents.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 219,
+        "category": "general",
+        "last_checked": "2026-02-01T06:07:00.162Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "expresocampeche.com": {
+      "urls": [
+        "https://expresocampeche.com/feed/",
+        "https://expresocampeche.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 621,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:44.145Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reforma.com": {
+      "urls": [
+        "https://www.reforma.com/rss/portada.xml",
+        "https://www.reforma.com/libre/feeds/NewsAssistant/xml/newsassistant.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 826,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:20.556Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elpueblo.com": {
+      "urls": [
+        "https://elpueblo.com/rss/feed.xml",
+        "https://www.elpueblo.com/rss/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1040,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:06.095Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "frontera.info": {
+      "urls": [
+        "https://www.elimparcial.com/arc/outboundfeeds/msn/",
+        "https://www.elimparcial.com/rss/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1207,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:09.699Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "tribunacampeche.com": {
+      "urls": [
+        "https://tribunacampeche.com/feed/",
+        "https://tribunacampeche.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1604,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:34.425Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "tvynovelas.com": {
+      "urls": [
+        "https://www.tvynovelas.com/index.atom",
+        "https://www.tvynovelas.com/rss/feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1747,
+        "category": "general",
+        "last_checked": "2026-02-01T06:07:08.410Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elsoldechiapas.com": {
+      "urls": [
+        "https://elsoldechiapas.com/feed/",
+        "https://elsoldechiapas.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1822,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:50.769Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "laparadadigital.com": {
+      "urls": [
+        "https://laparadadigital.com/feed/",
+        "https://laparadadigital.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1843,
+        "category": "technology",
+        "last_checked": "2026-02-01T06:06:15.161Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "grupometropoli.net": {
+      "urls": [
+        "https://grupometropoli.net/feed/",
+        "https://grupometropoli.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2231,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:41.031Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "diariobasta.com": {
+      "urls": [
+        "https://diariobasta.com/tag/podcast/feed/",
+        "https://diariobasta.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2553,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:39.734Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "colimanoticias.com": {
+      "urls": [
+        "https://www.colimanoticias.com/feed/",
+        "https://www.colimanoticias.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 3776,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:11.574Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sie7edechiapas.com": {
+      "urls": [
+        "https://www.sie7edechiapas.com/blog-feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 379,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:18.431Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "siemprelibres.com": {
+      "urls": [
+        "https://www.siemprelibres.com/blog-feed.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 437,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:01.252Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elnorte.com": {
+      "urls": [
+        "https://www.elnorte.com/rss/portada.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 552,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:24.767Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "multimediostv.com": {
+      "urls": [
+        "https://www.multimediostv.com/rss/home.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1022,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:45.101Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "enfoquenayarit.com": {
+      "urls": [
+        "https://enfoquenayarit.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1049,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:02.302Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "poresto.com": {
+      "urls": [
+        "https://www.poresto.com/rss/portada.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1103,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:35.528Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "afntijuana.info": {
+      "urls": [
+        "https://afntijuana.info/rss.php"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1127,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:01.809Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "palestraaguascalientes.com": {
+      "urls": [
+        "http://www.palestraaguascalientes.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1269,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:20.380Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "diariodemorelos.com": {
+      "urls": [
+        "https://www.diariodemorelos.com/noticias/ultimas/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1339,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:50.335Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "miled.com": {
+      "urls": [
+        "https://miled.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1407,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:42.439Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "elclarindiario.com": {
+      "urls": [
+        "https://elclarindiario.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1717,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:34.201Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "esquirelat.com": {
+      "urls": [
+        "https://www.esquirelat.com/index.atom"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2106,
+        "category": "general",
+        "last_checked": "2026-02-01T06:07:06.663Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "apnews.com": {
+      "urls": [
+        "https://apnews.com/index.rss",
+        "https://apnews.com/us-news.rss",
+        "https://apnews.com/entertainment.rss",
+        "https://apnews.com/world-news.rss",
+        "https://apnews.com/education.rss",
+        "https://apnews.com/science.rss",
+        "https://apnews.com/technology.rss",
+        "https://apnews.com:443/climate-and-environment.rss",
+        "https://apnews.com:443/technology.rss",
+        "https://apnews.com/hub/photography.rss",
+        "https://apnews.com/hub/ap-top-news.rss",
+        "https://apnews.com/hub/houthis.rss",
+        "https://apnews.com/hub/middle-east.rss",
+        "https://apnews.com/health.rss",
+        "https://apnews.com:443/health.rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:47.643Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "animalpolitico.com": {
+      "urls": [
+        "https://www.animalpolitico.com/el-blog-de-causa-en-comun/feed/",
+        "https://www.animalpolitico.com/el-blog-de-causa-en-comun/como-se-puede-reducir-el-robo-de-hidrocarburos/feed/",
+        "https://www.animalpolitico.com/el-blog-de-causa-en-comun/el-sacrificio-de-ser-policia/feed/",
+        "https://www.animalpolitico.com/el-blog-de-causa-en-comun/tlaxcala-la-peor-policia-del-pais/feed/",
+        "https://www.animalpolitico.com/feed/",
+        "https://www.animalpolitico.com/blog-invitado/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:46.078Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "ntrzacatecas.com": {
+      "urls": [
+        "http://ntrzacatecas.com/feed/",
+        "https://ntrzacatecas.com/?feed=rss2",
+        "https://ntrzacatecas.com/?feed=comments-rss2",
+        "http://ntrzacatecas.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:16.141Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "hidrocalidodigital.com": {
+      "urls": [
+        "https://www.hidrocalidodigital.com/feed/",
+        "http://www.hidrocalidodigital.com/feed/",
+        "https://www.hidrocalidodigital.com/comments/feed/",
+        "http://www.hidrocalidodigital.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "technology",
+        "last_checked": "2026-02-01T06:04:42.899Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "criteriohidalgo.com": {
+      "urls": [
+        "https://criteriohidalgo.com/feed",
+        "https://criteriohidalgo.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:53.042Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "reporteindigo.com": {
+      "urls": [
+        "https://www.reporteindigo.com/feed/front-page",
+        "https://www.reporteindigo.com/feed/recommended"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:03:15.743Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "diariolavozdelsureste.com": {
+      "urls": [
+        "https://diariolavozdelsureste.com/feed/atom/",
+        "https://diariolavozdelsureste.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:04:52.174Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "diarioimagen.net": {
+      "urls": [
+        "https://www.diarioimagen.net/?feed=atom",
+        "https://www.diarioimagen.net/?feed=rss2"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:55.507Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "manzanillo.tv": {
+      "urls": [
+        "https://manzanillo.tv/feed/",
+        "http://manzanillo.tv/noticias/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:19.111Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "milenio.com": {
+      "urls": [
+        "https://www.milenio.com/rss"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:01:15.222Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "poblanerias.com": {
+      "urls": [
+        "https://www.poblanerias.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:02:04.056Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "verticediario.com": {
+      "urls": [
+        "http://verticediario.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:05:32.484Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "lapolaka.com": {
+      "urls": [
+        "https://www.lapolaka.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:06:06.341Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

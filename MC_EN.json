@@ -1,0 +1,217 @@
+{
+  "country_code": "MC",
+  "language_code": "EN",
+  "total_domains": 9,
+  "total_feeds": 83,
+  "feeds": {
+    "monacomatin.mc": {
+      "urls": [
+        "https://www.nicematin.com/rss",
+        "https://www.monacomatin.mc/rss",
+        "https://www.nicematin.com/monaco/rss"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 440,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:14.247Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "gouv.mc": {
+      "urls": [
+        "https://www.gouv.mc/rss/feed/toutelactualite"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1039,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:12.441Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "montecarlonews.it": {
+      "urls": [
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/montecarlonewsit/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/montecarlonewsit/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/monaco/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/nizza/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/monaco/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/eventi-2/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/alpi-marittime-06/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/nizza/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/business/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/cannes/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/mentone/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/ambiente-1/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/antibes/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/fashion/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/oroscopo/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/politica-4/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/alpi-marittime-06/rss.xml",
+        "http://www.montecarlonews.it/links/rss/argomenti/montecarlonewsit/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/business/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/cannes/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/mentone/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/ambiente-1/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/antibes/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/politica-4/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/sport-1/rss.xml",
+        "http://www.montecarlonews.it/links/rss/argomenti/nizza/rss.xml",
+        "https://www.montecarlonews.it/links/rss/argomenti/altre-notizie-1/rss.xml",
+        "http://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/nizza/rss.xml",
+        "https://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/altre-notizie-1/rss.xml",
+        "http://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/monaco/rss.xml",
+        "http://www.montecarlonews.it/links/rss/argomenti/eventi-2/rss.xml",
+        "http://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/cannes/rss.xml",
+        "http://www.montecarlonews.it/links/rss/argomenti/business/rss.xml",
+        "http://www.montecarlonews.it/links/rss/argomenti/oroscopo/rss.xml",
+        "http://www.montecarlonews.it/links/rss/argomenti/sport-1/rss.xml",
+        "http://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/eventi-2/rss.xml",
+        "http://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/fashion/rss.xml",
+        "http://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/oroscopo/rss.xml",
+        "http://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/politica-4/rss.xml",
+        "http://www.montecarlonews.it/mobile/istituzionale/rss/argomenti/sport-1/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2531,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:21.368Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "corriere.it": {
+      "urls": [
+        "https://www.corriere.it/rss/economia.xml",
+        "https://www.corriere.it/dynamic-feed/rss/section/Cronache.xml",
+        "https://www.corriere.it/rss/homepage_milano.xml",
+        "https://www.corriere.it/rss/homepage.xml",
+        "https://oralegale.corriere.it/feed/",
+        "https://seigradi.corriere.it/feed/",
+        "https://www.corriere.it/rss/politica.xml",
+        "https://www.corriere.it/rss/tecnologia.xml",
+        "https://ehibook.corriere.it/feed/",
+        "https://www.corriere.it/rss/cronache.xml",
+        "https://www.corriere.it/rss/scienze.xml",
+        "https://www.corriere.it/rss/sport.xml",
+        "http://feeds.feedburner.com/malditech",
+        "http://feeds.feedburner.com/vitadigitale"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1021,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:11.402Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "en.wikipedia.org": {
+      "urls": [
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=1&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Blog&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=RSS&action=feedrecentchanges&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "https://en.wikipedia.org/w/api.php?hidebots=1&hidecategorization=1&hideWikibase=1&urlversion=1&days=7&limit=50&target=Category:Blogs&action=feedrecentchanges&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom",
+        "http://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
+        "http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 750,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:22.653Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "news.bbc.co.uk": {
+      "urls": [
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/americas/country_profiles/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/asia-pacific/country_profiles/rss.xml",
+        "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/europe/country_profiles/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 281,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:22.954Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "rivieratimes.com": {
+      "urls": [
+        "https://www.rivieratimes.com/feed",
+        "https://riviera-press.fr/insider/rss.xml",
+        "https://www.riviera-press.fr/feed/",
+        "https://www.rivieratimes.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 513,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:13.404Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "monacolife.net": {
+      "urls": [
+        "https://monacolife.net/feed/",
+        "https://monacolife.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1190,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:15.443Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "visitmonaco.com": {
+      "urls": [
+        "https://www.visitmonaco.com/rss",
+        "https://www.visitmonaco.com/rss/feed/visitmonaco"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T04:54:17.753Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

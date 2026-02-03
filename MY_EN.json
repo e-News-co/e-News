@@ -1,0 +1,221 @@
+{
+  "country_code": "MY",
+  "language_code": "EN",
+  "total_domains": 11,
+  "total_feeds": 59,
+  "feeds": {
+    "thesun.my": {
+      "urls": [
+        "https://thesun.my/rss/local",
+        "https://thesun.my/rss/berita",
+        "https://thesun.my/rss/home",
+        "https://thesun.my/rss/world",
+        "https://thesun.my/rss/business",
+        "https://thesun.my/rss/sport",
+        "https://thesun.my/rss/gear-up",
+        "https://thesun.my/rss/opinion",
+        "https://thesun.my/rss/spotlight",
+        "https://thesun.my/rss/style-life",
+        "https://thesun.my/rss/buzz",
+        "https://thesun.my/rss/education",
+        "https://thesun.my/rss/images",
+        "https://thesun.my/rss/media-marketing",
+        "https://thesun.my/rss/supplement",
+        "https://thesun.my/rss/true-crimes",
+        "https://thesun.my/feed/",
+        "https://thesun.my/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 881,
+        "category": "local",
+        "last_checked": "2026-02-01T06:35:55.082Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "hmetro.com.my": {
+      "urls": [
+        "https://www.hmetro.com.my/mutakhir.xml",
+        "https://www.hmetro.com.my/arena.xml",
+        "https://www.hmetro.com.my/global.xml",
+        "https://www.hmetro.com.my/rap.xml",
+        "https://www.hmetro.com.my/utama.xml",
+        "https://www.hmetro.com.my/bisnes.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 534,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:50.496Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bharian.com.my": {
+      "urls": [
+        "https://www.bharian.com.my/feed",
+        "https://www.bharian.com.my/terkini.xml",
+        "https://www.bharian.com.my/semasa.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 265,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:49.213Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "nst.com.my": {
+      "urls": [
+        "https://www.nst.com.my/feed",
+        "https://www.nst.com.my/latest.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 670,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:51.166Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "btimes.com.my": {
+      "urls": [
+        "https://ecentral.my/feed/",
+        "https://ecentral.my/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 741,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:49.956Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "thestar.com.my": {
+      "urls": [
+        "https://www.thestar.com.my/RSS/Editors-Choice/Nation",
+        "https://www.thestar.com.my/RSS/News/Nation"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1234,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:52.513Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "guangming.com.my": {
+      "urls": [
+        "https://guangming.com.my/feed",
+        "https://guangming.com.my/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:53.781Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "malaymail.com": {
+      "urls": [
+        "https://www.malaymail.com/feed/rss",
+        "https://www.malaymail.com/feed/rss/malaysia",
+        "https://www.malaymail.com/feed/rss/world",
+        "https://www.malaymail.com/feed/rss/money",
+        "https://www.malaymail.com/feed/rss/showbiz",
+        "https://www.malaymail.com/feed/rss/life",
+        "https://www.malaymail.com/feed/rss/sports",
+        "https://www.malaymail.com/feed/rss/singapore",
+        "https://www.malaymail.com/feed/rss/what-you-think",
+        "https://www.malaymail.com/feed/rss/eat-drink",
+        "https://www.malaymail.com/feed/rss/drive",
+        "https://www.malaymail.com/feed/rss/opinion",
+        "https://www.malaymail.com/feed/rss/tech-gadgets"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 402,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:54.194Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "freemalaysiatoday.com": {
+      "urls": [
+        "https://cms.freemalaysiatoday.com/feed/",
+        "https://cms.freemalaysiatoday.com/feed",
+        "https://www.freemalaysiatoday.com/feeds/atom/headlines/",
+        "https://www.freemalaysiatoday.com/feeds/rss/headlines/",
+        "https://www.freemalaysiatoday.com/feeds/json/headlines/",
+        "https://www.freemalaysiatoday.com/feeds/atom/headlines",
+        "https://www.freemalaysiatoday.com/feeds/json/headlines",
+        "https://www.freemalaysiatoday.com/feeds/rss/headlines"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 103,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:55.611Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "theborneopost.com": {
+      "urls": [
+        "https://www.theborneopost.com/feed/",
+        "http://www.theborneopost.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 400,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:55.484Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "sun2surf.com": {
+      "urls": [
+        "http://www.sun2surfpokeronline.xyz/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T06:35:53.435Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

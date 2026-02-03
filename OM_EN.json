@@ -1,0 +1,30 @@
+{
+  "country_code": "OM",
+  "language_code": "EN",
+  "total_domains": 1,
+  "total_feeds": 8,
+  "feeds": {
+    "muscatdaily.com": {
+      "urls": [
+        "https://www.muscatdaily.com/feed/",
+        "https://www.muscatdaily.com/category/oman/feed/",
+        "https://www.muscatdaily.com/category/world/feed/",
+        "https://www.muscatdaily.com/category/business/feed/",
+        "https://www.muscatdaily.com/category/sports/feed/",
+        "https://www.muscatdaily.com/category/features/feed/",
+        "https://www.muscatdaily.com/category/lifestyle/feed/",
+        "https://www.muscatdaily.com/category/video/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1218,
+        "category": "general",
+        "last_checked": "2026-02-01T10:27:32.650Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    }
+  }
+}

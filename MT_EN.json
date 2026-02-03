@@ -1,0 +1,203 @@
+{
+  "country_code": "MT",
+  "language_code": "EN",
+  "total_domains": 12,
+  "total_feeds": 27,
+  "feeds": {
+    "maltadaily.mt": {
+      "urls": [
+        "https://maltadaily.mt/feed/",
+        "https://maltadaily.mt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 410,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:30.358Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "maltatoday.com.mt": {
+      "urls": [
+        "https://www.maltatoday.com.mt/rss/",
+        "https://www.maltatoday.com.mt/rss/news/national/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 595,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:14.039Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "netfm.com.mt": {
+      "urls": [
+        "http://netfm.com.mt/feed/",
+        "http://netfm.com.mt/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1473,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:52.486Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "independent.com.mt": {
+      "urls": [
+        "https://www.independent.com.mt/newsfeed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 2125,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:12.628Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "newsbook.com.mt": {
+      "urls": [
+        "https://newsbook.com.mt/feed/",
+        "https://newsbook.com.mt/en/feed/",
+        "https://newsbook.com.mt/blog/feed/",
+        "https://newsbook.com.mt/en/blog/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:25.561Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "one.com.mt": {
+      "urls": [
+        "https://one.com.mt/feed/",
+        "https://www.one.com.mt/news/feed/",
+        "https://one.com.mt/feed/atom/",
+        "https://www.one.com.mt/news/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:40.378Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "netnews.com.mt": {
+      "urls": [
+        "https://netnews.com.mt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:50.392Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "bay.com.mt": {
+      "urls": [
+        "https://bay.com.mt/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:50.757Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "theshiftnews.com": {
+      "urls": [
+        "https://theshiftnews.com/feed/",
+        "http://theshiftnews.com/feed/",
+        "https://theshiftnews.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1379,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:27.001Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "timesofmalta.com": {
+      "urls": [
+        "https://timesofmalta.com/rss",
+        "https://rss.timesofmalta.com/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1119,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:15.538Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "themalteseherald.com": {
+      "urls": [
+        "https://themalteseherald.com/feed/",
+        "https://themalteseherald.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1400,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:28.559Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kullhadd.com": {
+      "urls": [
+        "https://kullhadd.com/feed/atom/",
+        "https://kullhadd.com/feed/",
+        "https://kullhadd.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:59:13.386Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

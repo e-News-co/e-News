@@ -1,0 +1,109 @@
+{
+  "country_code": "LA",
+  "language_code": "EN",
+  "total_domains": 4,
+  "total_feeds": 45,
+  "feeds": {
+    "lao.voanews.com": {
+      "urls": [
+        "http://lao.voanews.com/api/",
+        "http://lao.voanews.com/sitemap.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 726,
+        "category": "general",
+        "last_checked": "2026-02-01T03:19:30.420Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kuanjailao.com": {
+      "urls": [
+        "https://kuanjailao.com/feed",
+        "https://kuanjailao.com/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 773,
+        "category": "general",
+        "last_checked": "2026-02-01T03:19:20.400Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "laotimes.com": {
+      "urls": [
+        "https://laotimes.com/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 947,
+        "category": "general",
+        "last_checked": "2026-02-01T03:19:31.367Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "economist.com": {
+      "urls": [
+        "https://www.economist.com/feeds/print-sections/all/all.xml",
+        "https://www.economist.com/feeds/print-sections/79/finance-and-economics.xml",
+        "https://www.economist.com/economic-and-financial-indicators/rss.xml",
+        "https://www.economist.com/bagehots-notebook/rss.xml",
+        "https://www.economist.com/bartleby/rss.xml",
+        "https://www.economist.com/buttonwoods-notebook/rss.xml",
+        "https://www.economist.com/charlemagnes-notebook/rss.xml",
+        "https://www.economist.com/democracy-in-america/rss.xml",
+        "https://www.economist.com/erasmus/rss.xml",
+        "https://www.economist.com/free-exchange/rss.xml",
+        "https://www.economist.com/game-theory/rss.xml",
+        "https://www.economist.com/gulliver/rss.xml",
+        "https://www.economist.com/kaffeeklatsch/rss.xml",
+        "https://www.economist.com/prospero/rss.xml",
+        "https://access.acast.com/rss/62cff2d9d455860013698a7f",
+        "https://access.acast.com/rss/633ebf6dfc7f5a0012acdc97",
+        "https://access.acast.com/rss/63beed437ae74e001002382f",
+        "https://www.economist.com/finance-and-economics/rss.xml",
+        "https://www.economist.com/asia/rss.xml",
+        "https://www.economist.com/books-and-arts/rss.xml",
+        "https://www.economist.com/briefing/rss.xml",
+        "https://www.economist.com/britain/rss.xml",
+        "https://www.economist.com/business/rss.xml",
+        "https://www.economist.com/china/rss.xml",
+        "https://www.economist.com/europe/rss.xml",
+        "https://www.economist.com/graphic-detail/rss.xml",
+        "https://www.economist.com/international/rss.xml",
+        "https://www.economist.com/leaders/rss.xml",
+        "https://www.economist.com/letters/rss.xml",
+        "https://www.economist.com/middle-east-and-africa/rss.xml",
+        "https://www.economist.com/obituary/rss.xml",
+        "https://www.economist.com/science-and-technology/rss.xml",
+        "https://www.economist.com/special-report/rss.xml",
+        "https://www.economist.com/the-americas/rss.xml",
+        "https://www.economist.com/the-economist-explains/rss.xml",
+        "https://www.economist.com/the-world-ahead/rss.xml",
+        "https://www.economist.com/the-world-this-week/rss.xml",
+        "https://www.economist.com/united-states/rss.xml",
+        "https://feeds.acast.com/public/shows/633ebf6dfc7f5a0012acdc97",
+        "https://feeds.acast.com/public/shows/63beed437ae74e001002382f"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T03:19:31.567Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}

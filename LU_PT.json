@@ -1,0 +1,23 @@
+{
+  "country_code": "LU",
+  "language_code": "PT",
+  "total_domains": 1,
+  "total_feeds": 1,
+  "feeds": {
+    "contacto.lu": {
+      "urls": [
+        "https://www.contacto.lu/rss"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1586,
+        "category": "general",
+        "last_checked": "2026-02-01T04:19:14.254Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    }
+  }
+}

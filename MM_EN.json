@@ -1,0 +1,490 @@
+{
+  "country_code": "MM",
+  "language_code": "EN",
+  "total_domains": 25,
+  "total_feeds": 132,
+  "feeds": {
+    "gnlm.com.mm": {
+      "urls": [
+        "https://www.gnlm.com.mm/feed/",
+        "https://www.gnlm.com.mm/comments/feed/",
+        "https://www.gnlm.com.mm/web-stories/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 509,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:27.325Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "moi.gov.mm": {
+      "urls": [
+        "http://moi.gov.mm/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 307,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:02.145Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "commercejournal.com.mm": {
+      "urls": [
+        "http://commercejournal.com.mm/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1599,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:50.197Z",
+        "is_correct_tld": true,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "bbc.com": {
+      "urls": [
+        "https://www.bbc.com/future/feed.rss",
+        "https://www.bbc.com/travel/feed.rss",
+        "https://www.bbc.com/culture/feed.rss",
+        "https://www.bbc.com/worklife/feed.rss",
+        "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "http://www.bbc.com/culture/feed.rss",
+        "http://www.bbc.com/future/feed.rss",
+        "https://feeds.bbci.co.uk/news/england/rss.xml",
+        "http://www.bbc.com/travel/feed.rss",
+        "https://feeds.bbci.co.uk/news/uk/rss.xml",
+        "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "https://feeds.bbci.co.uk/news/wales/rss.xml",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "https://feeds.bbci.co.uk/news/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "https://feeds.bbci.co.uk/russian/rss.xml",
+        "https://feeds.bbci.co.uk/news/business/rss.xml",
+        "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "https://feeds.bbci.co.uk/news/education/rss.xml",
+        "https://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "https://feeds.bbci.co.uk/news/in_pictures/rss.xml",
+        "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "https://feeds.bbci.co.uk/news/stories/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "https://feeds.bbci.co.uk/sport/cycling/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "https://feeds.bbci.co.uk/news/england/bristol/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/european/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/german-bundesliga/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/womens/rss.xml",
+        "https://feeds.bbci.co.uk/sport/football/teams/barcelona/rss.xml",
+        "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "https://podcasts.files.bbci.co.uk/p02pc9lh.rss",
+        "https://podcasts.files.bbci.co.uk/p036kbdd.rss",
+        "https://podcasts.files.bbci.co.uk/p05525mc.rss",
+        "https://podcasts.files.bbci.co.uk/p0552909.rss",
+        "https://podcasts.files.bbci.co.uk/p076qqzl.rss",
+        "https://podcasts.files.bbci.co.uk/p07r3r3t.rss",
+        "https://podcasts.files.bbci.co.uk/p08s9wv2.rss",
+        "https://podcasts.files.bbci.co.uk/p09cgw89.rss",
+        "https://podcasts.files.bbci.co.uk/p09ds7zx.rss",
+        "https://podcasts.files.bbci.co.uk/p09jsy3h.rss",
+        "https://podcasts.files.bbci.co.uk/p0b3xdrj.rss",
+        "https://podcasts.files.bbci.co.uk/p0c80v81.rss",
+        "https://podcasts.files.bbci.co.uk/p0c9wp0l.rss",
+        "https://podcasts.files.bbci.co.uk/p0cx5pt6.rss",
+        "https://podcasts.files.bbci.co.uk/p0cyhvny.rss",
+        "https://podcasts.files.bbci.co.uk/p0fmrg25.rss",
+        "https://podcasts.files.bbci.co.uk/p0frdsxv.rss",
+        "https://podcasts.files.bbci.co.uk/p0h6d6nm.rss",
+        "https://podcasts.files.bbci.co.uk/p0kjf03y.rss",
+        "https://podcasts.files.bbci.co.uk/p0lcbcc5.rss",
+        "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "http://feeds.bbci.co.uk/russian/rss.xml",
+        "https://rsshub.app/bbc/chinese"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 50,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:34.163Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "reliefweb.int": {
+      "urls": [
+        "https://reliefweb.int/jobs/rss.xml",
+        "https://reliefweb.int:443/jobs/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml",
+        "https://reliefweb.int:443/training/rss.xml",
+        "https://reliefweb.int:443/updates/rss.xml?view=headlines",
+        "https://reliefweb.int/blog/rss.xml",
+        "https://reliefweb.int:443/blog/rss.xml",
+        "https://reliefweb.int:443/disasters/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2238,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:23.433Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "popularmyanmar.com": {
+      "urls": [
+        "https://www.popularmyanmar.com/?feed=rss2",
+        "https://www.popularmyanmar.com/mpaper/?feed=rss2",
+        "https://www.popularmyanmar.com/feed/",
+        "https://www.popularmyanmar.com/?feed=comments-rss2",
+        "https://www.popularmyanmar.com/comments/feed/",
+        "https://www.popularmyanmar.com/homepage/feed/"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1336,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:32.146Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "burmese.voanews.com": {
+      "urls": [
+        "https://burmese.voanews.com/api/",
+        "https://burmese.voanews.com/podcast/",
+        "https://burmese.voanews.com/podcast/video.aspx",
+        "https://burmese.voanews.com/podcast/video.aspx/",
+        "http://burmese.voanews.com/api/",
+        "http://burmese.voanews.com/sitemap.xml"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1737,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:37.292Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "kachinnews.com": {
+      "urls": [
+        "https://kachinnews.com/feed/",
+        "https://kachinnews.com/feed/?doing_wp_cron=1719267301.7455699443817138671875",
+        "https://kachinnews.com/feed/?doing_wp_cron=1756217029.1676559448242187500000",
+        "https://kachinnews.com/feed/?doing_wp_cron=1767581564.8639171123504638671875",
+        "https://kachinnews.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 2569,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:19.335Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "myanmar-now.org": {
+      "urls": [
+        "https://myanmar-now.org/mm/feed/?tztc=1",
+        "https://myanmar-now.org/mm/feed/",
+        "https://myanmar-now.org/en/feed/",
+        "https://myanmar-now.org/en/feed/?tztc=1"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1954,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:29.473Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "yktnews.com": {
+      "urls": [
+        "https://yktnews.com/feed/",
+        "https://yktnews.com/comments/feed/",
+        "https://yktnews.com/homepage/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 409,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:29.985Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "moemaka.com": {
+      "urls": [
+        "https://www.moemaka.com/feeds/posts/default",
+        "https://www.moemaka.com/feeds/posts/default?alt=rss",
+        "https://www.blogger.com/feeds/997021441368939271/posts/default"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 735,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:32.925Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "mmbiztoday.com": {
+      "urls": [
+        "https://mmbiztoday.com/feed/",
+        "https://mmbiztoday.com/comments/feed/",
+        "https://mmbiztoday.com/home/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1344,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:51.803Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "frontiermyanmar.net": {
+      "urls": [
+        "https://www.frontiermyanmar.net/feed/",
+        "https://www.frontiermyanmar.net/en/category/news-feed-mm/feed/",
+        "https://www.frontiermyanmar.net/en/category/news/news-feed/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 1972,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:26.813Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "mysportmyanmar.com": {
+      "urls": [
+        "https://mysportmyanmar.com/feed/",
+        "https://mysportmyanmar.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 2,
+        "avg_speed": 165,
+        "category": "sports",
+        "last_checked": "2026-02-01T05:48:48.598Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "bnionline.net": {
+      "urls": [
+        "https://www.bnionline.net/en/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 290,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:06.024Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "irrawaddy.com": {
+      "urls": [
+        "https://www.irrawaddy.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 314,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:24.838Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "irrawaddy.org": {
+      "urls": [
+        "https://www.irrawaddy.com/feed"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 350,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:23.783Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "active"
+      }
+    },
+    "elevenmyanmar.com": {
+      "urls": [
+        "http://elevenmyanmar.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 366,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:24.149Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "news-eleven.com": {
+      "urls": [
+        "http://news-eleven.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 375,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:24.524Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "myanmaritv.com": {
+      "urls": [
+        "http://myanmaritv.com/rss.xml"
+      ],
+      "metadata": {
+        "active_samples": 1,
+        "avg_speed": 1101,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:48.424Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "active"
+      }
+    },
+    "myanmar.com": {
+      "urls": [
+        "https://myanmar.com/feed/",
+        "https://www.myanmar.com/feed/",
+        "https://www.myanmar.com/comments/feed/",
+        "https://myanmar.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:21.193Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "myanmargazette.net": {
+      "urls": [
+        "https://myanmargazette.net/feed",
+        "https://myanmargazette.net/feed/",
+        "https://myanmargazette.net/comments/feed",
+        "https://myanmargazette.net/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:34.108Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": false,
+        "status": "inactive"
+      }
+    },
+    "dvb.no": {
+      "urls": [
+        "http://burmese.dvb.no/feed",
+        "http://burmese.dvb.no/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:16.050Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "burmese.dvb.no": {
+      "urls": [
+        "http://burmese.dvb.no/feed",
+        "http://burmese.dvb.no/comments/feed"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:48:47.323Z",
+        "is_correct_tld": false,
+        "is_global_tld": false,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    },
+    "myanmarinsider.com": {
+      "urls": [
+        "https://www.myanmarinsider.com/feed/",
+        "https://www.myanmarinsider.com/comments/feed/"
+      ],
+      "metadata": {
+        "active_samples": 0,
+        "avg_speed": 0,
+        "category": "general",
+        "last_checked": "2026-02-01T05:49:01.838Z",
+        "is_correct_tld": false,
+        "is_global_tld": true,
+        "has_other_country_tld": true,
+        "status": "inactive"
+      }
+    }
+  }
+}
